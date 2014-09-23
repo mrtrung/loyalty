@@ -1,0 +1,1471 @@
+12/09 08:49:38:135 CRM started
+12/09 08:49:38:844 Testing connection ...
+12/09 08:49:38:850 Created provisioning instance for CRM
+12/09 08:49:38:856 Testing connection are success
+12/09 08:49:38:858 Starting process session
+12/09 08:49:39:018 Total 0 instances are started
+12/09 08:49:39:018 Total 1 instances are added
+12/09 08:50:02:236 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.70:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+12/09 08:50:02:237 Consumer was closed, reconnect.
+12/09 08:50:02:375 Total 0 instances are started
+12/09 08:50:02:376 Total 1 instances are added
+12/09 08:50:23:413 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.70:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+12/09 08:50:23:414 Consumer was closed, reconnect.
+12/09 08:50:23:556 Total 0 instances are started
+12/09 08:50:23:556 Total 1 instances are added
+12/09 08:50:44:569 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.70:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+12/09 08:50:44:596 Consumer was closed, reconnect.
+12/09 08:50:44:775 Total 0 instances are started
+12/09 08:50:44:776 Total 1 instances are added
+12/09 08:51:05:793 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.70:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+12/09 08:51:05:793 Consumer was closed, reconnect.
+12/09 08:51:05:983 Total 0 instances are started
+12/09 08:51:05:984 Total 1 instances are added
+12/09 08:51:27:001 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.70:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+12/09 08:51:27:002 Consumer was closed, reconnect.
+12/09 08:51:27:193 Total 0 instances are started
+12/09 08:51:27:194 Total 1 instances are added
+12/09 08:51:48:216 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.70:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+12/09 08:51:48:216 Consumer was closed, reconnect.
+12/09 08:51:48:401 Total 0 instances are started
+12/09 08:51:48:401 Total 1 instances are added
+12/09 08:52:09:429 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.70:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+12/09 08:52:09:430 Consumer was closed, reconnect.
+12/09 08:52:09:604 Total 0 instances are started
+12/09 08:52:09:605 Total 1 instances are added
+12/09 08:52:30:622 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.70:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+12/09 08:52:30:622 Consumer was closed, reconnect.
+12/09 08:52:30:726 Total 0 instances are started
+12/09 08:52:30:727 Total 1 instances are added
+12/09 08:52:51:742 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.70:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+12/09 08:52:51:743 Consumer was closed, reconnect.
+12/09 08:52:51:853 Total 0 instances are started
+12/09 08:52:51:854 Total 1 instances are added
+12/09 08:53:12:862 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.70:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+12/09 08:53:12:862 Consumer was closed, reconnect.
+12/09 08:53:12:967 Total 0 instances are started
+12/09 08:53:12:968 Total 1 instances are added
+12/09 08:53:34:001 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.70:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+12/09 08:53:34:002 Consumer was closed, reconnect.
+12/09 08:53:34:172 Total 0 instances are started
+12/09 08:53:34:172 Total 1 instances are added
+12/09 08:53:55:192 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.70:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+12/09 08:53:55:193 Consumer was closed, reconnect.
+12/09 08:53:55:375 Total 0 instances are started
+12/09 08:53:55:375 Total 1 instances are added
+12/09 08:54:16:393 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.70:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+12/09 08:54:16:393 Consumer was closed, reconnect.
+12/09 08:54:16:590 Total 0 instances are started
+12/09 08:54:16:590 Total 1 instances are added
+12/09 08:54:37:606 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.70:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+12/09 08:54:37:606 Consumer was closed, reconnect.
+12/09 08:54:37:798 Total 0 instances are started
+12/09 08:54:37:799 Total 1 instances are added
+12/09 08:54:58:820 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.70:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+12/09 08:54:58:820 Consumer was closed, reconnect.
+12/09 08:54:59:007 Total 0 instances are started
+12/09 08:54:59:009 Total 1 instances are added
+12/09 08:55:20:026 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.70:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+12/09 08:55:20:027 Consumer was closed, reconnect.
+12/09 08:55:20:210 Total 0 instances are started
+12/09 08:55:20:210 Total 1 instances are added
+12/09 08:55:41:244 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.70:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+12/09 08:55:41:244 Consumer was closed, reconnect.
+12/09 08:55:41:412 Total 0 instances are started
+12/09 08:55:41:413 Total 1 instances are added
+12/09 08:56:02:433 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.70:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+12/09 08:56:02:434 Consumer was closed, reconnect.
+12/09 08:56:02:623 Total 0 instances are started
+12/09 08:56:02:624 Total 1 instances are added
+12/09 08:56:23:642 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.70:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+12/09 08:56:23:643 Consumer was closed, reconnect.
+12/09 08:56:23:799 Total 0 instances are started
+12/09 08:56:23:800 Total 1 instances are added
+12/09 08:56:44:810 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.70:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+12/09 08:56:44:811 Consumer was closed, reconnect.
+12/09 08:56:45:001 Total 0 instances are started
+12/09 08:56:45:002 Total 1 instances are added
+12/09 08:57:06:029 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.70:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+12/09 08:57:06:030 Consumer was closed, reconnect.
+12/09 08:57:06:208 Total 0 instances are started
+12/09 08:57:06:209 Total 1 instances are added
+12/09 08:57:27:219 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.70:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+12/09 08:57:27:220 Consumer was closed, reconnect.
+12/09 08:57:27:416 Total 0 instances are started
+12/09 08:57:27:417 Total 1 instances are added
+12/09 08:57:47:024 Close pool
+12/09 08:57:47:125 Close queue connection pool.
+12/09 08:57:47:125 End of process session
+12/09 08:57:47:126 CRM stopped
+12/09 08:57:48:435 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.70:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+12/09 08:57:48:436 Consumer was closed, reconnect.
+12/09 08:57:50:042 CRM started
+12/09 08:57:50:063 Close pool
+12/09 08:57:50:064 Close pool
+12/09 08:57:50:064 Testing connection ...
+12/09 08:57:50:065 Created provisioning instance for CRM
+12/09 08:57:50:065 Testing connection are success
+12/09 08:57:50:066 Starting process session
+12/09 08:57:50:166 Total 0 instances are started
+12/09 08:57:50:167 Total 1 instances are added
+12/09 08:58:18:495 CRM started
+12/09 08:58:21:374 Testing connection ...
+12/09 08:58:21:375 Created provisioning instance for CRM
+12/09 08:58:21:383 Testing connection are success
+12/09 08:58:21:383 Starting process session
+12/09 08:58:21:484 Total 0 instances are started
+12/09 08:58:21:489 Total 1 instances are added
+12/09 08:58:42:507 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.75:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+12/09 08:58:42:508 Consumer was closed, reconnect.
+12/09 08:58:42:620 Total 0 instances are started
+12/09 08:58:42:622 Total 1 instances are added
+12/09 08:59:03:640 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.75:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+12/09 08:59:03:640 Consumer was closed, reconnect.
+12/09 08:59:03:825 Total 0 instances are started
+12/09 08:59:03:826 Total 1 instances are added
+12/09 08:59:24:842 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.75:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+12/09 08:59:24:842 Consumer was closed, reconnect.
+12/09 08:59:25:033 Total 0 instances are started
+12/09 08:59:25:034 Total 1 instances are added
+12/09 08:59:43:480 CRM started
+12/09 08:59:44:969 Testing connection ...
+12/09 08:59:44:971 Created provisioning instance for CRM
+12/09 08:59:44:980 Testing connection are success
+12/09 08:59:44:982 Starting process session
+12/09 08:59:45:088 Total 0 instances are started
+12/09 08:59:45:090 Total 1 instances are added
+12/09 09:01:11:515 orderId = 125409708 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+12/09 09:01:22:059 Close pool
+12/09 09:01:22:160 Close queue connection pool.
+12/09 09:01:22:165 End of process session
+12/09 09:01:22:166 CRM stopped
+12/09 09:02:29:059 CRM started
+12/09 09:02:29:082 Close pool
+12/09 09:02:29:082 Close pool
+12/09 09:02:29:083 Testing connection ...
+12/09 09:02:29:084 open connection is fail
+12/09 09:02:29:091 java.lang.ClassNotFoundException: com.crm.provisioning.cache.ProvisioningConnection1
+12/09 09:02:29:091 Starting process session
+12/09 09:02:29:192 Total 0 instances are started
+12/09 09:02:29:193 Total 1 instances are added
+12/09 09:02:29:325 sendNotify: 84922000512 - Quy khach da doi thanh cong 1000 diem thanh tien su dung dich vu. So tien tuong ung 1000 diem se duoc cong  vao tai khoan TKKM2, su dung goi va nhan tin lien mang, data.
+12/09 09:02:29:326 orderId = 125409708 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 384 | request =  | response =  | status = 0 | cause = success | description = 
+12/09 09:05:54:642 orderId = 125409709 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+12/09 09:06:10:325 Close pool
+12/09 09:06:10:426 Close queue connection pool.
+12/09 09:06:10:431 End of process session
+12/09 09:06:10:432 CRM stopped
+12/09 09:06:59:275 CRM started
+12/09 09:06:59:298 Close pool
+12/09 09:06:59:299 Close pool
+12/09 09:06:59:299 Testing connection ...
+12/09 09:06:59:300 Created provisioning instance for CRM
+12/09 09:06:59:300 Testing connection are success
+12/09 09:06:59:300 Starting process session
+12/09 09:06:59:401 Total 0 instances are started
+12/09 09:06:59:402 Total 1 instances are added
+12/09 09:06:59:603 java.sql.SQLException: ORA-00942: table or view does not exist
+
+12/09 09:06:59:624 sendNotify: 84922000512 - He thong dang ban. Xin Quy khach vui long nhan tin lai sau.
+12/09 09:06:59:625 orderId = 125409709 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 384 | request =  | response =  | status = 4 | cause = error | description = 
+12/09 09:10:22:471 Close pool
+12/09 09:10:22:572 Close queue connection pool.
+12/09 09:10:22:577 End of process session
+12/09 09:10:22:578 CRM stopped
+12/09 09:11:07:432 CRM started
+12/09 09:11:07:455 Close pool
+12/09 09:11:07:456 Close pool
+12/09 09:11:07:456 Testing connection ...
+12/09 09:11:07:457 Created provisioning instance for CRM
+12/09 09:11:07:457 Testing connection are success
+12/09 09:11:07:457 Starting process session
+12/09 09:11:07:558 Total 0 instances are started
+12/09 09:11:07:559 Total 1 instances are added
+12/09 09:11:30:946 orderId = 125409710 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+12/09 09:11:49:480 Close pool
+12/09 09:11:49:580 Close queue connection pool.
+12/09 09:11:49:585 End of process session
+12/09 09:11:49:586 CRM stopped
+12/09 09:12:09:501 CRM started
+12/09 09:12:09:522 Close pool
+12/09 09:12:09:522 Close pool
+12/09 09:12:09:523 Testing connection ...
+12/09 09:12:09:523 Created provisioning instance for CRM
+12/09 09:12:09:524 Testing connection are success
+12/09 09:12:09:524 Starting process session
+12/09 09:12:09:625 Total 0 instances are started
+12/09 09:12:09:626 Total 1 instances are added
+12/09 09:12:09:988 java.sql.SQLException: ORA-00942: table or view does not exist
+
+12/09 09:12:09:989 orderId = 125409710 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 384 | request =  | response =  | status = 4 | cause = resource-busy | description = 
+12/09 09:12:10:123 orderId = 125409710 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = rollback | productId = 274 | commandId = 378 | request =  | response =  | status = 4 | cause = success | description = 
+12/09 09:21:01:162 CRM started
+12/09 09:21:04:044 Testing connection ...
+12/09 09:21:04:046 Created provisioning instance for CRM
+12/09 09:21:04:056 Testing connection are success
+12/09 09:21:04:057 Starting process session
+12/09 09:21:04:158 Total 0 instances are started
+12/09 09:21:04:158 Total 1 instances are added
+12/09 09:21:44:045 orderId = 125409711 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+12/09 09:21:51:720 Close pool
+12/09 09:21:51:821 Close queue connection pool.
+12/09 09:21:51:826 End of process session
+12/09 09:21:51:828 CRM stopped
+12/09 09:22:15:757 CRM started
+12/09 09:22:15:780 Close pool
+12/09 09:22:15:781 Close pool
+12/09 09:22:15:781 Testing connection ...
+12/09 09:22:15:782 Created provisioning instance for CRM
+12/09 09:22:15:782 Testing connection are success
+12/09 09:22:15:783 Starting process session
+12/09 09:22:15:883 Total 0 instances are started
+12/09 09:22:15:884 Total 1 instances are added
+12/09 09:22:16:032 java.sql.SQLException: ORA-00942: table or view does not exist
+
+12/09 09:22:16:032 orderId = 125409711 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 384 | request =  | response =  | status = 4 | cause = resource-busy | description = 
+12/09 09:22:16:144 orderId = 125409711 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = rollback | productId = 274 | commandId = 378 | request =  | response =  | status = 4 | cause = success | description = 
+12/09 09:24:12:827 CRM started
+12/09 09:24:15:563 Testing connection ...
+12/09 09:24:15:565 Created provisioning instance for CRM
+12/09 09:24:15:566 Testing connection are success
+12/09 09:24:15:567 Starting process session
+12/09 09:24:15:671 Total 0 instances are started
+12/09 09:24:15:672 Total 1 instances are added
+12/09 09:24:44:549 Close pool
+12/09 09:24:44:650 Close queue connection pool.
+12/09 09:24:44:655 End of process session
+12/09 09:24:44:656 CRM stopped
+12/09 09:24:46:479 CRM started
+12/09 09:24:46:500 Close pool
+12/09 09:24:46:501 Close pool
+12/09 09:24:46:501 Testing connection ...
+12/09 09:24:46:502 Created provisioning instance for CRM
+12/09 09:24:46:502 Testing connection are success
+12/09 09:24:46:503 Starting process session
+12/09 09:24:46:603 Total 0 instances are started
+12/09 09:24:46:604 Total 1 instances are added
+12/09 09:24:50:504 Close pool
+12/09 09:24:50:605 Close queue connection pool.
+12/09 09:24:50:611 End of process session
+12/09 09:24:50:613 CRM stopped
+12/09 09:24:52:502 CRM started
+12/09 09:24:52:525 Close pool
+12/09 09:24:52:526 Close pool
+12/09 09:24:52:527 Testing connection ...
+12/09 09:24:52:527 Created provisioning instance for CRM
+12/09 09:24:52:527 Testing connection are success
+12/09 09:24:52:528 Starting process session
+12/09 09:24:52:628 Total 0 instances are started
+12/09 09:24:52:629 Total 1 instances are added
+12/09 09:25:45:692 Close pool
+12/09 09:25:45:793 Close queue connection pool.
+12/09 09:25:45:797 End of process session
+12/09 09:25:45:798 CRM stopped
+12/09 09:25:47:655 CRM started
+12/09 09:25:47:680 Close pool
+12/09 09:25:47:681 Close pool
+12/09 09:25:47:682 Testing connection ...
+12/09 09:25:47:682 Created provisioning instance for CRM
+12/09 09:25:47:683 Testing connection are success
+12/09 09:25:47:683 Starting process session
+12/09 09:25:47:784 Total 0 instances are started
+12/09 09:25:47:785 Total 1 instances are added
+12/09 09:27:33:533 CRM started
+12/09 09:27:36:121 Testing connection ...
+12/09 09:27:36:122 Created provisioning instance for CRM
+12/09 09:27:36:123 Testing connection are success
+12/09 09:27:36:124 Starting process session
+12/09 09:27:36:230 Total 0 instances are started
+12/09 09:27:36:230 Total 1 instances are added
+12/09 09:28:06:261 Close pool
+12/09 09:28:06:362 Close queue connection pool.
+12/09 09:28:06:367 End of process session
+12/09 09:28:06:368 CRM stopped
+12/09 09:28:08:197 CRM started
+12/09 09:28:08:221 Close pool
+12/09 09:28:08:222 Close pool
+12/09 09:28:08:222 Testing connection ...
+12/09 09:28:08:223 Created provisioning instance for CRM
+12/09 09:28:08:224 Testing connection are success
+12/09 09:28:08:224 Starting process session
+12/09 09:28:08:325 Total 0 instances are started
+12/09 09:28:08:326 Total 1 instances are added
+12/09 09:29:30:547 orderId = 125409716 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+12/09 09:29:44:328 Close pool
+12/09 09:29:44:428 Close queue connection pool.
+12/09 09:29:44:433 End of process session
+12/09 09:29:44:434 CRM stopped
+12/09 09:30:07:315 CRM started
+12/09 09:30:07:340 Close pool
+12/09 09:30:07:341 Close pool
+12/09 09:30:07:341 Testing connection ...
+12/09 09:30:07:342 Created provisioning instance for CRM
+12/09 09:30:07:342 Testing connection are success
+12/09 09:30:07:343 Starting process session
+12/09 09:30:07:443 Total 0 instances are started
+12/09 09:30:07:444 Total 1 instances are added
+12/09 09:30:07:601 java.sql.SQLException: ORA-00942: table or view does not exist
+
+12/09 09:30:07:602 orderId = 125409716 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 384 | request =  | response =  | status = 4 | cause = resource-busy | description = 
+12/09 09:30:07:716 orderId = 125409716 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = rollback | productId = 274 | commandId = 378 | request =  | response =  | status = 4 | cause = error | description = 
+12/09 11:25:01:077 CRM started
+12/09 11:25:03:445 Testing connection ...
+12/09 11:25:03:465 Created provisioning instance for CRM
+12/09 11:25:03:682 Testing connection are success
+12/09 11:25:03:683 Starting process session
+12/09 11:25:03:784 Total 0 instances are started
+12/09 11:25:03:784 Total 1 instances are added
+12/09 11:31:20:529 CRM started
+12/09 11:31:23:516 Testing connection ...
+12/09 11:31:23:517 Created provisioning instance for CRM
+12/09 11:31:23:522 Testing connection are success
+12/09 11:31:23:522 Starting process session
+12/09 11:31:23:624 Total 0 instances are started
+12/09 11:31:23:625 Total 1 instances are added
+12/09 11:33:46:284 Close pool
+12/09 11:33:46:385 Close queue connection pool.
+12/09 11:33:46:390 End of process session
+12/09 11:33:46:392 CRM stopped
+12/09 11:33:48:295 CRM started
+12/09 11:33:48:317 Close pool
+12/09 11:33:48:317 Close pool
+12/09 11:33:48:318 Testing connection ...
+12/09 11:33:48:318 Created provisioning instance for CRM
+12/09 11:33:48:319 Testing connection are success
+12/09 11:33:48:319 Starting process session
+12/09 11:33:48:419 Total 0 instances are started
+12/09 11:33:48:420 Total 1 instances are added
+12/09 11:35:32:930 orderId = 125409778 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+12/09 11:35:48:605 Close pool
+12/09 11:35:48:706 Close queue connection pool.
+12/09 11:35:48:710 End of process session
+12/09 11:35:48:712 CRM stopped
+12/09 11:36:12:571 CRM started
+12/09 11:36:12:592 Close pool
+12/09 11:36:12:593 Close pool
+12/09 11:36:12:593 Testing connection ...
+12/09 11:36:12:594 Created provisioning instance for CRM
+12/09 11:36:12:594 Testing connection are success
+12/09 11:36:12:595 Starting process session
+12/09 11:36:12:695 Total 0 instances are started
+12/09 11:36:12:696 Total 1 instances are added
+12/09 11:36:12:857 java.sql.SQLException: ORA-00942: table or view does not exist
+
+12/09 11:36:12:859 orderId = 125409778 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 384 | request =  | response =  | status = 4 | cause = resource-busy | description = 
+12/09 11:36:12:995 orderId = 125409778 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = rollback | productId = 274 | commandId = 378 | request =  | response =  | status = 4 | cause = error | description = 
+12/09 11:41:07:810 Close pool
+12/09 11:41:07:911 Close queue connection pool.
+12/09 11:41:07:916 End of process session
+12/09 11:41:07:917 CRM stopped
+12/09 11:41:09:748 CRM started
+12/09 11:41:09:768 Close pool
+12/09 11:41:09:768 Close pool
+12/09 11:41:09:769 Testing connection ...
+12/09 11:41:09:769 Created provisioning instance for CRM
+12/09 11:41:09:770 Testing connection are success
+12/09 11:41:09:770 Starting process session
+12/09 11:41:09:871 Total 0 instances are started
+12/09 11:41:09:872 Total 1 instances are added
+12/09 11:41:11:327 orderId = 125409779 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+12/09 11:41:11:556 sendNotify: 84922000512 - Quy khach da doi thanh cong 1000 diem thanh tien su dung dich vu. So tien tuong ung 1000 diem se duoc cong  vao tai khoan TKKM2, su dung goi va nhan tin lien mang, data.
+12/09 11:41:11:557 orderId = 125409779 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 384 | request =  | response =  | status = 0 | cause = success | description = 
+12/09 11:41:37:191 orderId = 125409780 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+12/09 11:41:50:820 Close pool
+12/09 11:41:50:921 Close queue connection pool.
+12/09 11:41:50:926 End of process session
+12/09 11:41:50:927 CRM stopped
+12/09 11:42:29:836 CRM started
+12/09 11:42:29:857 Close pool
+12/09 11:42:29:857 Close pool
+12/09 11:42:29:858 Testing connection ...
+12/09 11:42:29:858 Created provisioning instance for CRM
+12/09 11:42:29:859 Testing connection are success
+12/09 11:42:29:859 Starting process session
+12/09 11:42:29:960 Total 0 instances are started
+12/09 11:42:29:961 Total 1 instances are added
+12/09 11:42:30:120 java.sql.SQLException: ORA-00942: table or view does not exist
+
+12/09 11:42:30:121 orderId = 125409780 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 384 | request =  | response =  | status = 4 | cause = resource-busy | description = 
+12/09 11:42:30:234 orderId = 125409780 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = rollback | productId = 274 | commandId = 378 | request =  | response =  | status = 4 | cause = error | description = 
+12/09 11:52:48:535 orderId = 125409782 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+12/09 11:53:21:123 Close pool
+12/09 11:53:21:224 Close queue connection pool.
+12/09 11:53:21:228 End of process session
+12/09 11:53:21:230 CRM stopped
+12/09 11:53:46:137 CRM started
+12/09 11:53:46:159 Close pool
+12/09 11:53:46:160 Close pool
+12/09 11:53:46:160 Testing connection ...
+12/09 11:53:46:161 Created provisioning instance for CRM
+12/09 11:53:46:161 Testing connection are success
+12/09 11:53:46:162 Starting process session
+12/09 11:53:46:262 Total 0 instances are started
+12/09 11:53:46:263 Total 1 instances are added
+12/09 11:53:46:412 sendNotify: 84922000512 - Quy khach da doi thanh cong 1000 diem thanh tien su dung dich vu. So tien tuong ung 1000 diem se duoc cong  vao tai khoan TKKM2, su dung goi va nhan tin lien mang, data.
+12/09 11:53:46:416 orderId = 125409782 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 384 | request =  | response =  | status = 0 | cause = success | description = 
+12/09 11:54:10:598 orderId = 125409783 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+12/09 11:54:27:186 Close pool
+12/09 11:54:27:287 Close queue connection pool.
+12/09 11:54:27:291 End of process session
+12/09 11:54:27:293 CRM stopped
+12/09 11:54:54:211 CRM started
+12/09 11:54:54:232 Close pool
+12/09 11:54:54:233 Close pool
+12/09 11:54:54:233 Testing connection ...
+12/09 11:54:54:234 Created provisioning instance for CRM
+12/09 11:54:54:234 Testing connection are success
+12/09 11:54:54:235 Starting process session
+12/09 11:54:54:335 Total 0 instances are started
+12/09 11:54:54:336 Total 1 instances are added
+12/09 11:54:54:490 java.sql.SQLException: ORA-00942: table or view does not exist
+
+12/09 11:54:54:491 orderId = 125409783 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 384 | request =  | response =  | status = 4 | cause = resource-busy | description = 
+12/09 11:54:54:601 orderId = 125409783 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = rollback | productId = 274 | commandId = 378 | request =  | response =  | status = 4 | cause = error | description = 
+12/09 11:56:35:806 orderId = 125409784 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+12/09 11:56:45:282 Close pool
+12/09 11:56:45:383 Close queue connection pool.
+12/09 11:56:45:388 End of process session
+12/09 11:56:45:389 CRM stopped
+12/09 11:57:29:277 CRM started
+12/09 11:57:29:300 Close pool
+12/09 11:57:29:300 Close pool
+12/09 11:57:29:301 Testing connection ...
+12/09 11:57:29:301 Created provisioning instance for CRM
+12/09 11:57:29:301 Testing connection are success
+12/09 11:57:29:302 Starting process session
+12/09 11:57:29:402 Total 0 instances are started
+12/09 11:57:29:403 Total 1 instances are added
+12/09 11:57:29:557 java.sql.SQLException: ORA-00942: table or view does not exist
+
+12/09 11:57:29:558 orderId = 125409784 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 384 | request =  | response =  | status = 4 | cause = resource-busy | description = 
+12/09 11:57:29:677 orderId = 125409784 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = rollback | productId = 274 | commandId = 378 | request =  | response =  | status = 4 | cause = error | description = 
+12/09 11:57:55:856 CRM started
+12/09 11:57:58:365 Testing connection ...
+12/09 11:57:58:366 Created provisioning instance for CRM
+12/09 11:57:58:367 Testing connection are success
+12/09 11:57:58:368 Starting process session
+12/09 11:57:58:575 Total 0 instances are started
+12/09 11:57:58:576 Total 1 instances are added
+12/09 11:58:34:133 orderId = 125409785 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+12/09 11:58:41:694 Close pool
+12/09 11:58:41:795 Close queue connection pool.
+12/09 11:58:41:801 End of process session
+12/09 11:58:41:803 CRM stopped
+12/09 11:59:11:710 CRM started
+12/09 11:59:11:734 Close pool
+12/09 11:59:11:734 Close pool
+12/09 11:59:11:735 Testing connection ...
+12/09 11:59:11:735 Created provisioning instance for CRM
+12/09 11:59:11:736 Testing connection are success
+12/09 11:59:11:736 Starting process session
+12/09 11:59:11:837 Total 0 instances are started
+12/09 11:59:11:838 Total 1 instances are added
+12/09 11:59:12:152 java.sql.SQLException: ORA-00942: table or view does not exist
+
+12/09 11:59:12:153 orderId = 125409785 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 384 | request =  | response =  | status = 4 | cause = resource-busy | description = 
+12/09 12:06:48:428 CRM started
+12/09 12:06:51:687 Testing connection ...
+12/09 12:06:51:690 Created provisioning instance for CRM
+12/09 12:06:51:691 Testing connection are success
+12/09 12:06:51:691 Starting process session
+12/09 12:06:51:793 Total 0 instances are started
+12/09 12:06:51:793 Total 1 instances are added
+12/09 12:08:02:775 orderId = 125409786 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+12/09 12:08:13:253 Close pool
+12/09 12:08:13:354 Close queue connection pool.
+12/09 12:08:13:362 End of process session
+12/09 12:08:13:363 CRM stopped
+12/09 12:08:40:200 CRM started
+12/09 12:08:40:223 Close pool
+12/09 12:08:40:224 Close pool
+12/09 12:08:40:224 Testing connection ...
+12/09 12:08:40:225 Created provisioning instance for CRM
+12/09 12:08:40:225 Testing connection are success
+12/09 12:08:40:225 Starting process session
+12/09 12:08:40:326 Total 0 instances are started
+12/09 12:08:40:327 Total 1 instances are added
+12/09 12:08:40:555 java.sql.SQLException: ORA-00942: table or view does not exist
+
+12/09 12:08:40:558 orderId = 125409786 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 384 | request =  | response =  | status = 4 | cause = resource-busy | description = 
+12/09 12:11:42:134 orderId = 125409786 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = rollback | productId = 274 | commandId = 378 | request =  | response =  | status = 4 | cause = error | description = 
+12/09 12:13:24:897 CRM started
+12/09 12:13:27:981 Testing connection ...
+12/09 12:13:27:982 Created provisioning instance for CRM
+12/09 12:13:27:988 Testing connection are success
+12/09 12:13:27:990 Starting process session
+12/09 12:13:28:093 Total 0 instances are started
+12/09 12:13:28:093 Total 1 instances are added
+12/09 12:14:27:066 orderId = 125409788 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+12/09 12:14:36:740 Close pool
+12/09 12:14:36:841 Close queue connection pool.
+12/09 12:14:36:848 End of process session
+12/09 12:14:36:848 CRM stopped
+12/09 12:14:55:774 CRM started
+12/09 12:14:55:798 Close pool
+12/09 12:14:55:799 Close pool
+12/09 12:14:55:799 Testing connection ...
+12/09 12:14:55:800 Created provisioning instance for CRM
+12/09 12:14:55:801 Testing connection are success
+12/09 12:14:55:801 Starting process session
+12/09 12:14:55:902 Total 0 instances are started
+12/09 12:14:55:903 Total 1 instances are added
+12/09 12:15:16:815 Close pool
+12/09 12:15:16:916 Close queue connection pool.
+12/09 12:15:16:924 End of process session
+12/09 12:15:16:925 CRM stopped
+12/09 12:15:18:800 CRM started
+12/09 12:15:18:822 Close pool
+12/09 12:15:18:822 Close pool
+12/09 12:15:18:823 Testing connection ...
+12/09 12:15:18:823 Created provisioning instance for CRM
+12/09 12:15:18:824 Testing connection are success
+12/09 12:15:18:824 Starting process session
+12/09 12:15:18:925 Total 0 instances are started
+12/09 12:15:18:926 Total 1 instances are added
+12/09 12:15:43:172 CRM started
+12/09 12:15:46:273 Testing connection ...
+12/09 12:15:46:273 Created provisioning instance for CRM
+12/09 12:15:46:275 Testing connection are success
+12/09 12:15:46:276 Starting process session
+12/09 12:15:46:378 Total 0 instances are started
+12/09 12:15:46:378 Total 1 instances are added
+12/09 12:16:25:198 orderId = 125409789 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+12/09 12:16:36:873 Close pool
+12/09 12:16:36:974 Close queue connection pool.
+12/09 12:16:36:980 End of process session
+12/09 12:16:36:982 CRM stopped
+12/09 12:17:02:822 CRM started
+12/09 12:17:02:847 Close pool
+12/09 12:17:02:847 Close pool
+12/09 12:17:02:848 Testing connection ...
+12/09 12:17:02:848 Created provisioning instance for CRM
+12/09 12:17:02:849 Testing connection are success
+12/09 12:17:02:849 Starting process session
+12/09 12:17:02:950 Total 0 instances are started
+12/09 12:17:02:951 Total 1 instances are added
+12/09 12:21:44:928 CRM started
+12/09 12:21:48:009 Testing connection ...
+12/09 12:21:48:012 Created provisioning instance for CRM
+12/09 12:21:48:012 Testing connection are success
+12/09 12:21:48:013 Starting process session
+12/09 12:21:48:115 Total 0 instances are started
+12/09 12:21:48:116 Total 1 instances are added
+12/09 12:22:40:887 CRM started
+12/09 12:22:41:714 Testing connection ...
+12/09 12:22:41:722 Created provisioning instance for CRM
+12/09 12:22:41:732 Testing connection are success
+12/09 12:22:41:733 Starting process session
+12/09 12:22:41:854 Total 0 instances are started
+12/09 12:22:41:854 Total 1 instances are added
+12/09 12:23:09:023 orderId = 125409790 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+12/09 12:23:17:796 Close pool
+12/09 12:23:17:897 Close queue connection pool.
+12/09 12:23:17:904 End of process session
+12/09 12:23:17:905 CRM stopped
+12/09 12:23:39:754 CRM started
+12/09 12:23:39:777 Close pool
+12/09 12:23:39:777 Close pool
+12/09 12:23:39:778 Testing connection ...
+12/09 12:23:39:778 Created provisioning instance for CRM
+12/09 12:23:39:779 Testing connection are success
+12/09 12:23:39:779 Starting process session
+12/09 12:23:39:880 Total 0 instances are started
+12/09 12:23:39:881 Total 1 instances are added
+12/09 12:23:40:048 java.sql.SQLException: ORA-00942: table or view does not exist
+
+12/09 12:23:40:049 orderId = 125409790 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 384 | request =  | response =  | status = 4 | cause = resource-busy | description = 
+12/09 12:23:40:172 orderId = 125409790 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = rollback | productId = 274 | commandId = 378 | request =  | response =  | status = 4 | cause = error | description = 
+12/09 12:26:58:286 orderId = 125409791 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+12/09 12:27:12:879 Close pool
+12/09 12:27:12:979 Close queue connection pool.
+12/09 12:27:12:983 End of process session
+12/09 12:27:12:984 CRM stopped
+12/09 12:27:29:863 CRM started
+12/09 12:27:29:887 Close pool
+12/09 12:27:29:887 Close pool
+12/09 12:27:29:888 Testing connection ...
+12/09 12:27:29:888 Created provisioning instance for CRM
+12/09 12:27:29:889 Testing connection are success
+12/09 12:27:29:889 Starting process session
+12/09 12:27:29:990 Total 0 instances are started
+12/09 12:27:29:991 Total 1 instances are added
+12/09 12:27:30:182 java.sql.SQLException: ORA-00942: table or view does not exist
+
+12/09 12:27:30:183 orderId = 125409791 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 384 | request =  | response =  | status = 4 | cause = resource-busy | description = 
+12/09 12:27:30:297 orderId = 125409791 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = rollback | productId = 274 | commandId = 378 | request =  | response =  | status = 4 | cause = error | description = 
+12/09 14:16:18:553 CRM started
+12/09 14:16:21:508 Testing connection ...
+12/09 14:16:21:509 Created provisioning instance for CRM
+12/09 14:16:21:525 Testing connection are success
+12/09 14:16:21:527 Starting process session
+12/09 14:16:21:628 Total 0 instances are started
+12/09 14:16:21:628 Total 1 instances are added
+12/09 14:17:28:450 orderId = 125409792 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+12/09 14:17:37:192 Close pool
+12/09 14:17:37:293 Close queue connection pool.
+12/09 14:17:37:298 End of process session
+12/09 14:17:37:299 CRM stopped
+12/09 14:20:24:393 CRM started
+12/09 14:20:24:416 Close pool
+12/09 14:20:24:417 Close pool
+12/09 14:20:24:417 Testing connection ...
+12/09 14:20:24:418 Created provisioning instance for CRM
+12/09 14:20:24:418 Testing connection are success
+12/09 14:20:24:419 Starting process session
+12/09 14:20:24:519 Total 0 instances are started
+12/09 14:20:24:520 Total 1 instances are added
+12/09 14:20:24:713 java.sql.SQLException: ORA-00942: table or view does not exist
+
+12/09 14:20:24:724 sendNotify: 84922000512 - He thong dang ban. Xin Quy khach vui long nhan tin lai sau!
+12/09 14:20:24:724 orderId = 125409792 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 384 | request =  | response =  | status = 4 | cause = error | description = 
+12/09 14:22:40:891 orderId = 125409793 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+12/09 14:23:08:471 Close pool
+12/09 14:23:08:572 Close queue connection pool.
+12/09 14:23:08:576 End of process session
+12/09 14:23:08:577 CRM stopped
+12/09 14:23:40:491 CRM started
+12/09 14:23:40:514 Close pool
+12/09 14:23:40:515 Close pool
+12/09 14:23:40:515 Testing connection ...
+12/09 14:23:40:515 Created provisioning instance for CRM
+12/09 14:23:40:516 Testing connection are success
+12/09 14:23:40:516 Starting process session
+12/09 14:23:40:617 Total 0 instances are started
+12/09 14:23:40:618 Total 1 instances are added
+12/09 14:23:40:756 java.sql.SQLException: ORA-00942: table or view does not exist
+
+12/09 14:23:40:768 sendNotify: 84922000512 - He thong dang ban. Xin Quy khach vui long nhan tin lai sau!
+12/09 14:23:40:769 orderId = 125409793 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 384 | request =  | response =  | status = 4 | cause = error | description = 
+12/09 14:31:15:103 orderId = 125409794 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+12/09 14:31:29:760 Close pool
+12/09 14:31:29:861 Close queue connection pool.
+12/09 14:31:29:866 End of process session
+12/09 14:31:29:867 CRM stopped
+12/09 14:31:55:706 CRM started
+12/09 14:31:55:729 Close pool
+12/09 14:31:55:730 Close pool
+12/09 14:31:55:730 Testing connection ...
+12/09 14:31:55:731 Created provisioning instance for CRM
+12/09 14:31:55:731 Testing connection are success
+12/09 14:31:55:731 Starting process session
+12/09 14:31:55:832 Total 0 instances are started
+12/09 14:31:55:833 Total 1 instances are added
+12/09 14:31:55:998 java.sql.SQLException: ORA-00942: table or view does not exist
+
+12/09 14:31:55:999 orderId = 125409794 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 384 | request =  | response =  | status = 4 | cause = resource-busy | description = 
+12/09 14:31:56:115 orderId = 125409794 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = rollback | productId = 274 | commandId = 378 | request =  | response =  | status = 4 | cause = error | description = 
+12/09 14:36:11:263 CRM started
+12/09 14:36:12:565 Testing connection ...
+12/09 14:36:12:569 Created provisioning instance for CRM
+12/09 14:36:12:574 Testing connection are success
+12/09 14:36:12:574 Starting process session
+12/09 14:36:12:694 Total 0 instances are started
+12/09 14:36:12:699 Total 1 instances are added
+12/09 14:37:07:135 orderId = 125409795 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+12/09 14:37:30:908 Close pool
+12/09 14:37:31:009 Close queue connection pool.
+12/09 14:37:31:014 End of process session
+12/09 14:37:31:016 CRM stopped
+12/09 14:37:55:886 CRM started
+12/09 14:37:55:914 Close pool
+12/09 14:37:55:915 Close pool
+12/09 14:37:55:916 Testing connection ...
+12/09 14:37:55:916 Created provisioning instance for CRM
+12/09 14:37:55:917 Testing connection are success
+12/09 14:37:55:918 Starting process session
+12/09 14:37:56:018 Total 0 instances are started
+12/09 14:37:56:019 Total 1 instances are added
+12/09 14:37:56:182 java.sql.SQLException: ORA-00942: table or view does not exist
+
+12/09 14:37:56:184 orderId = 125409795 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 384 | request =  | response =  | status = 4 | cause = resource-busy | description = 
+12/09 14:37:56:299 orderId = 125409795 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = rollback | productId = 274 | commandId = 378 | request =  | response =  | status = 4 | cause = resource-busy | description = 
+12/09 14:41:04:439 orderId = 125409796 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+12/09 14:41:15:126 Close pool
+12/09 14:41:15:226 Close queue connection pool.
+12/09 14:41:15:231 End of process session
+12/09 14:41:15:232 CRM stopped
+12/09 14:41:42:075 CRM started
+12/09 14:41:42:098 Close pool
+12/09 14:41:42:099 Close pool
+12/09 14:41:42:099 Testing connection ...
+12/09 14:41:42:100 Created provisioning instance for CRM
+12/09 14:41:42:100 Testing connection are success
+12/09 14:41:42:100 Starting process session
+12/09 14:41:42:201 Total 0 instances are started
+12/09 14:41:42:205 Total 1 instances are added
+12/09 14:41:42:344 java.sql.SQLException: ORA-00942: table or view does not exist
+
+12/09 14:41:42:345 orderId = 125409796 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 384 | request =  | response =  | status = 4 | cause = resource-busy | description = 
+12/09 14:41:42:457 orderId = 125409796 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = rollback | productId = 274 | commandId = 378 | request =  | response =  | status = 4 | cause = resource-busy | description = 
+12/09 14:44:37:596 orderId = 125409797 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+12/09 14:44:50:177 Close pool
+12/09 14:44:50:278 Close queue connection pool.
+12/09 14:44:50:286 End of process session
+12/09 14:44:50:289 CRM stopped
+12/09 14:45:20:154 CRM started
+12/09 14:45:20:175 Close pool
+12/09 14:45:20:176 Close pool
+12/09 14:45:20:177 Testing connection ...
+12/09 14:45:20:177 Created provisioning instance for CRM
+12/09 14:45:20:177 Testing connection are success
+12/09 14:45:20:178 Starting process session
+12/09 14:45:20:279 Total 0 instances are started
+12/09 14:45:20:279 Total 1 instances are added
+12/09 14:45:20:424 java.sql.SQLException: ORA-00942: table or view does not exist
+
+12/09 14:45:20:438 sendNotify: 84922000512 - He thong dang ban. Xin Quy khach vui long nhan tin lai sau!
+12/09 14:45:20:439 orderId = 125409797 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 384 | request =  | response =  | status = 4 | cause = error | description = 
+12/09 14:46:27:505 CRM started
+12/09 14:46:30:592 Testing connection ...
+12/09 14:46:30:595 Created provisioning instance for CRM
+12/09 14:46:30:599 Testing connection are success
+12/09 14:46:30:601 Starting process session
+12/09 14:46:30:706 Total 0 instances are started
+12/09 14:46:30:707 Total 1 instances are added
+12/09 14:46:54:412 orderId = 125409798 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+12/09 14:47:03:986 Close pool
+12/09 14:47:04:087 Close queue connection pool.
+12/09 14:47:04:094 End of process session
+12/09 14:47:04:095 CRM stopped
+12/09 14:47:35:998 CRM started
+12/09 14:47:36:022 Close pool
+12/09 14:47:36:022 Close pool
+12/09 14:47:36:023 Testing connection ...
+12/09 14:47:36:023 Created provisioning instance for CRM
+12/09 14:47:36:024 Testing connection are success
+12/09 14:47:36:024 Starting process session
+12/09 14:47:36:125 Total 0 instances are started
+12/09 14:47:36:126 Total 1 instances are added
+12/09 14:47:36:288 sendNotify: 84922000512 - Quy khach da doi thanh cong 1000 diem thanh tien su dung dich vu. So tien tuong ung 1000 diem se duoc cong  vao tai khoan TKKM2, su dung goi va nhan tin lien mang, data.
+12/09 14:47:36:289 orderId = 125409798 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 384 | request =  | response =  | status = 0 | cause = success | description = 
+12/09 14:47:50:423 orderId = 125409799 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+12/09 14:47:59:038 Close pool
+12/09 14:47:59:138 Close queue connection pool.
+12/09 14:47:59:144 End of process session
+12/09 14:47:59:145 CRM stopped
+12/09 14:49:28:096 CRM started
+12/09 14:49:28:121 Close pool
+12/09 14:49:28:121 Close pool
+12/09 14:49:28:122 Testing connection ...
+12/09 14:49:28:123 Created provisioning instance for CRM
+12/09 14:49:28:123 Testing connection are success
+12/09 14:49:28:123 Starting process session
+12/09 14:49:28:224 Total 0 instances are started
+12/09 14:49:28:225 Total 1 instances are added
+12/09 14:49:34:126 Close pool
+12/09 14:49:34:227 Close queue connection pool.
+12/09 14:49:34:233 End of process session
+12/09 14:49:34:235 CRM stopped
+12/09 14:49:36:116 CRM started
+12/09 14:49:36:139 Close pool
+12/09 14:49:36:140 Close pool
+12/09 14:49:36:140 Testing connection ...
+12/09 14:49:36:140 Created provisioning instance for CRM
+12/09 14:49:36:141 Testing connection are success
+12/09 14:49:36:141 Starting process session
+12/09 14:49:36:242 Total 0 instances are started
+12/09 14:49:36:243 Total 1 instances are added
+12/09 14:49:46:145 Close pool
+12/09 14:49:46:246 Close queue connection pool.
+12/09 14:49:46:252 End of process session
+12/09 14:49:46:253 CRM stopped
+12/09 14:49:48:136 CRM started
+12/09 14:49:48:158 Close pool
+12/09 14:49:48:159 Close pool
+12/09 14:49:48:159 Testing connection ...
+12/09 14:49:48:160 Created provisioning instance for CRM
+12/09 14:49:48:160 Testing connection are success
+12/09 14:49:48:160 Starting process session
+12/09 14:49:48:261 Total 0 instances are started
+12/09 14:49:48:262 Total 1 instances are added
+12/09 14:50:05:147 java.sql.SQLException: ORA-00942: table or view does not exist
+
+12/09 14:50:05:172 sendNotify: 84922000512 - He thong dang ban. Xin Quy khach vui long nhan tin lai sau!
+12/09 14:50:05:173 orderId = 125409799 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 384 | request =  | response =  | status = 4 | cause = error | description = 
+12/09 14:51:38:712 orderId = 125409800 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+12/09 14:52:19:299 Close pool
+12/09 14:52:19:400 Close queue connection pool.
+12/09 14:52:19:405 End of process session
+12/09 14:52:19:407 CRM stopped
+12/09 14:52:21:232 CRM started
+12/09 14:52:21:255 Close pool
+12/09 14:52:21:256 Close pool
+12/09 14:52:21:257 Testing connection ...
+12/09 14:52:21:257 Created provisioning instance for CRM
+12/09 14:52:21:258 Testing connection are success
+12/09 14:52:21:258 Starting process session
+12/09 14:52:21:358 Total 0 instances are started
+12/09 14:52:21:359 Total 1 instances are added
+12/09 14:52:48:286 Close pool
+12/09 14:52:48:388 Close queue connection pool.
+12/09 14:52:48:399 End of process session
+12/09 14:52:48:401 CRM stopped
+12/09 14:52:50:260 CRM started
+12/09 14:52:50:286 Close pool
+12/09 14:52:50:287 Close pool
+12/09 14:52:50:288 Testing connection ...
+12/09 14:52:50:289 Created provisioning instance for CRM
+12/09 14:52:50:290 Testing connection are success
+12/09 14:52:50:291 Starting process session
+12/09 14:52:50:392 Total 0 instances are started
+12/09 14:52:50:394 Total 1 instances are added
+12/09 14:53:33:088 orderId = 125409801 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+12/09 14:53:44:308 Close pool
+12/09 14:53:44:411 Close queue connection pool.
+12/09 14:53:44:419 End of process session
+12/09 14:53:44:421 CRM stopped
+12/09 14:54:11:358 CRM started
+12/09 14:54:11:384 Close pool
+12/09 14:54:11:385 Close pool
+12/09 14:54:11:386 Testing connection ...
+12/09 14:54:11:386 Created provisioning instance for CRM
+12/09 14:54:11:387 Testing connection are success
+12/09 14:54:11:388 Starting process session
+12/09 14:54:11:489 Total 0 instances are started
+12/09 14:54:11:490 Total 1 instances are added
+12/09 14:54:45:419 java.sql.SQLException: ORA-00942: table or view does not exist
+
+12/09 14:59:46:271 sendNotify: 84922000512 - He thong dang ban. Xin Quy khach vui long nhan tin lai sau!
+12/09 14:59:58:199 orderId = 125409800 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 384 | request =  | response =  | status = 4 | cause = error | description = 
+12/09 15:00:32:460 java.sql.SQLException: ORA-00942: table or view does not exist
+
+12/09 15:00:36:097 sendNotify: 84922000512 - He thong dang ban. Xin Quy khach vui long nhan tin lai sau!
+12/09 15:00:36:098 orderId = 125409801 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 384 | request =  | response =  | status = 4 | cause = error | description = 
+12/09 15:01:19:895 CRM started
+12/09 15:01:20:267 Testing connection ...
+12/09 15:01:20:268 Created provisioning instance for CRM
+12/09 15:01:20:269 Testing connection are success
+12/09 15:01:20:269 Starting process session
+12/09 15:01:20:441 Total 0 instances are started
+12/09 15:01:20:442 Total 1 instances are added
+12/09 15:01:57:714 orderId = 125409802 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+12/09 15:02:05:443 Close pool
+12/09 15:02:05:544 Close queue connection pool.
+12/09 15:02:05:549 End of process session
+12/09 15:02:05:550 CRM stopped
+12/09 15:02:46:474 CRM started
+12/09 15:02:46:499 Close pool
+12/09 15:02:46:500 Close pool
+12/09 15:02:46:500 Testing connection ...
+12/09 15:02:46:501 Created provisioning instance for CRM
+12/09 15:02:46:501 Testing connection are success
+12/09 15:02:46:502 Starting process session
+12/09 15:02:46:602 Total 0 instances are started
+12/09 15:02:46:603 Total 1 instances are added
+12/09 15:02:46:758 java.sql.SQLException: ORA-00942: table or view does not exist
+
+12/09 15:02:46:758 orderId = 125409802 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 384 | request =  | response =  | status = 4 | cause = resource-busy | description = 
+12/09 15:02:46:872 orderId = 125409802 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = rollback | productId = 274 | commandId = 378 | request =  | response =  | status = 4 | cause = error | description = 
+12/09 15:22:58:469 CRM started
+12/09 15:23:01:711 Testing connection ...
+12/09 15:23:01:716 Created provisioning instance for CRM
+12/09 15:23:01:717 Testing connection are success
+12/09 15:23:01:718 Starting process session
+12/09 15:23:01:821 Total 0 instances are started
+12/09 15:23:01:821 Total 1 instances are added
+12/09 15:24:02:578 orderId = 125409804 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+12/09 15:25:13:196 CRM started
+12/09 15:25:16:369 Testing connection ...
+12/09 15:25:16:369 Created provisioning instance for CRM
+12/09 15:25:16:371 Testing connection are success
+12/09 15:25:16:372 Starting process session
+12/09 15:25:16:475 Total 0 instances are started
+12/09 15:25:16:476 Total 1 instances are added
+12/09 15:25:19:573 orderId = 125409805 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+12/09 15:25:19:625 orderId = 125409806 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+12/09 15:25:26:847 sendNotify: 84922000512 - Quy khach da doi thanh cong 1000 diem thanh tien su dung dich vu. So tien tuong ung 1000 diem se duoc cong  vao tai khoan TKKM2, su dung goi va nhan tin lien mang, data.
+12/09 15:25:26:847 orderId = 125409805 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 384 | request =  | response =  | status = 0 | cause = success | description = 
+12/09 15:25:27:000 sendNotify: 84922000512 - Quy khach da doi thanh cong 1000 diem thanh tien su dung dich vu. So tien tuong ung 1000 diem se duoc cong  vao tai khoan TKKM2, su dung goi va nhan tin lien mang, data.
+12/09 15:25:27:000 orderId = 125409806 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 384 | request =  | response =  | status = 0 | cause = success | description = 
+12/09 15:25:37:291 CRM started
+12/09 15:25:40:481 Testing connection ...
+12/09 15:25:40:485 Created provisioning instance for CRM
+12/09 15:25:40:485 Testing connection are success
+12/09 15:25:40:486 Starting process session
+12/09 15:25:40:590 Total 0 instances are started
+12/09 15:25:40:590 Total 1 instances are added
+12/09 15:25:54:134 orderId = 125409807 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+12/09 15:27:02:177 sendNotify: 84922000512 - Quy khach da doi thanh cong 1000 diem thanh tien su dung dich vu. So tien tuong ung 1000 diem se duoc cong  vao tai khoan TKKM2, su dung goi va nhan tin lien mang, data.
+12/09 15:27:12:223 orderId = 125409807 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 384 | request =  | response =  | status = 0 | cause = success | description = 
+12/09 16:10:53:455 CRM started
+12/09 16:10:56:219 Testing connection ...
+12/09 16:10:56:220 Created provisioning instance for CRM
+12/09 16:10:56:234 Testing connection are success
+12/09 16:10:56:234 Starting process session
+12/09 16:10:56:335 Total 0 instances are started
+12/09 16:10:56:335 Total 1 instances are added
+12/09 16:10:57:373 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:10:57:373 Consumer was closed, reconnect.
+12/09 16:10:57:491 Total 0 instances are started
+12/09 16:10:57:492 Total 1 instances are added
+12/09 16:10:58:511 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:10:58:511 Consumer was closed, reconnect.
+12/09 16:10:58:694 Total 0 instances are started
+12/09 16:10:58:694 Total 1 instances are added
+12/09 16:10:59:800 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:10:59:800 Consumer was closed, reconnect.
+12/09 16:11:00:020 Total 0 instances are started
+12/09 16:11:00:020 Total 1 instances are added
+12/09 16:11:01:061 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:11:01:061 Consumer was closed, reconnect.
+12/09 16:11:01:221 Total 0 instances are started
+12/09 16:11:01:222 Total 1 instances are added
+12/09 16:11:02:250 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:11:02:251 Consumer was closed, reconnect.
+12/09 16:11:02:428 Total 0 instances are started
+12/09 16:11:02:428 Total 1 instances are added
+12/09 16:11:03:505 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:11:03:505 Consumer was closed, reconnect.
+12/09 16:11:03:628 Total 0 instances are started
+12/09 16:11:03:628 Total 1 instances are added
+12/09 16:11:04:662 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:11:04:662 Consumer was closed, reconnect.
+12/09 16:11:04:829 Total 0 instances are started
+12/09 16:11:04:829 Total 1 instances are added
+12/09 16:11:05:857 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:11:05:857 Consumer was closed, reconnect.
+12/09 16:11:06:031 Total 0 instances are started
+12/09 16:11:06:031 Total 1 instances are added
+12/09 16:11:07:063 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:11:07:063 Consumer was closed, reconnect.
+12/09 16:11:07:232 Total 0 instances are started
+12/09 16:11:07:232 Total 1 instances are added
+12/09 16:11:08:262 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:11:08:262 Consumer was closed, reconnect.
+12/09 16:11:08:432 Total 0 instances are started
+12/09 16:11:08:432 Total 1 instances are added
+12/09 16:11:09:470 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:11:09:472 Consumer was closed, reconnect.
+12/09 16:11:09:633 Total 0 instances are started
+12/09 16:11:09:633 Total 1 instances are added
+12/09 16:11:10:750 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:11:10:750 Consumer was closed, reconnect.
+12/09 16:11:10:933 Total 0 instances are started
+12/09 16:11:10:946 Total 1 instances are added
+12/09 16:11:11:949 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:11:11:950 Consumer was closed, reconnect.
+12/09 16:11:12:146 Total 0 instances are started
+12/09 16:11:12:146 Total 1 instances are added
+12/09 16:11:13:168 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:11:13:168 Consumer was closed, reconnect.
+12/09 16:11:13:346 Total 0 instances are started
+12/09 16:11:13:346 Total 1 instances are added
+12/09 16:11:14:371 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:11:14:371 Consumer was closed, reconnect.
+12/09 16:11:14:549 Total 0 instances are started
+12/09 16:11:14:549 Total 1 instances are added
+12/09 16:11:15:569 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:11:15:569 Consumer was closed, reconnect.
+12/09 16:11:15:749 Total 0 instances are started
+12/09 16:11:15:749 Total 1 instances are added
+12/09 16:11:16:774 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:11:16:774 Consumer was closed, reconnect.
+12/09 16:11:16:949 Total 0 instances are started
+12/09 16:11:16:949 Total 1 instances are added
+12/09 16:11:17:982 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:11:17:982 Consumer was closed, reconnect.
+12/09 16:11:18:149 Total 0 instances are started
+12/09 16:11:18:149 Total 1 instances are added
+12/09 16:11:19:183 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:11:19:183 Consumer was closed, reconnect.
+12/09 16:11:19:355 Total 0 instances are started
+12/09 16:11:19:355 Total 1 instances are added
+12/09 16:11:20:371 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:11:20:372 Consumer was closed, reconnect.
+12/09 16:11:20:555 Total 0 instances are started
+12/09 16:11:20:555 Total 1 instances are added
+12/09 16:11:21:569 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:11:21:570 Consumer was closed, reconnect.
+12/09 16:11:21:755 Total 0 instances are started
+12/09 16:11:21:755 Total 1 instances are added
+12/09 16:11:22:934 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:11:22:935 Consumer was closed, reconnect.
+12/09 16:11:23:061 Total 0 instances are started
+12/09 16:11:23:061 Total 1 instances are added
+12/09 16:11:24:152 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:11:24:152 Consumer was closed, reconnect.
+12/09 16:11:24:274 Total 0 instances are started
+12/09 16:11:24:274 Total 1 instances are added
+12/09 16:11:25:290 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:11:25:290 Consumer was closed, reconnect.
+12/09 16:11:25:474 Total 0 instances are started
+12/09 16:11:25:474 Total 1 instances are added
+12/09 16:11:26:500 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:11:26:500 Consumer was closed, reconnect.
+12/09 16:11:26:674 Total 0 instances are started
+12/09 16:11:26:674 Total 1 instances are added
+12/09 16:11:27:695 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:11:27:695 Consumer was closed, reconnect.
+12/09 16:11:27:884 Total 0 instances are started
+12/09 16:11:27:885 Total 1 instances are added
+12/09 16:11:28:997 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:11:28:997 Consumer was closed, reconnect.
+12/09 16:11:29:185 Total 0 instances are started
+12/09 16:11:29:185 Total 1 instances are added
+12/09 16:11:30:197 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:11:30:197 Consumer was closed, reconnect.
+12/09 16:11:30:385 Total 0 instances are started
+12/09 16:11:30:385 Total 1 instances are added
+12/09 16:11:31:394 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:11:31:395 Consumer was closed, reconnect.
+12/09 16:11:31:585 Total 0 instances are started
+12/09 16:11:31:585 Total 1 instances are added
+12/09 16:11:32:616 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:11:32:617 Consumer was closed, reconnect.
+12/09 16:11:32:785 Total 0 instances are started
+12/09 16:11:32:785 Total 1 instances are added
+12/09 16:11:33:807 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:11:33:808 Consumer was closed, reconnect.
+12/09 16:11:33:985 Total 0 instances are started
+12/09 16:11:33:985 Total 1 instances are added
+12/09 16:11:35:141 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:11:35:142 Consumer was closed, reconnect.
+12/09 16:11:35:285 Total 0 instances are started
+12/09 16:11:35:286 Total 1 instances are added
+12/09 16:11:36:296 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:11:36:297 Consumer was closed, reconnect.
+12/09 16:11:36:487 Total 0 instances are started
+12/09 16:11:36:488 Total 1 instances are added
+12/09 16:11:37:499 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:11:37:499 Consumer was closed, reconnect.
+12/09 16:11:37:693 Total 0 instances are started
+12/09 16:11:37:693 Total 1 instances are added
+12/09 16:11:38:721 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:11:38:721 Consumer was closed, reconnect.
+12/09 16:11:38:894 Total 0 instances are started
+12/09 16:11:39:125 Total 1 instances are added
+12/09 16:11:39:914 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:11:39:914 Consumer was closed, reconnect.
+12/09 16:11:40:027 Total 0 instances are started
+12/09 16:11:40:028 Total 1 instances are added
+12/09 16:11:41:055 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:11:41:056 Consumer was closed, reconnect.
+12/09 16:11:41:229 Total 0 instances are started
+12/09 16:11:41:231 Total 1 instances are added
+12/09 16:11:42:245 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:11:42:245 Consumer was closed, reconnect.
+12/09 16:11:42:431 Total 0 instances are started
+12/09 16:11:42:431 Total 1 instances are added
+12/09 16:11:43:505 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:11:43:505 Consumer was closed, reconnect.
+12/09 16:11:43:646 Total 0 instances are started
+12/09 16:11:43:647 Total 1 instances are added
+12/09 16:11:44:661 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:11:44:661 Consumer was closed, reconnect.
+12/09 16:11:44:847 Total 0 instances are started
+12/09 16:11:44:848 Total 1 instances are added
+12/09 16:11:45:860 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:11:45:860 Consumer was closed, reconnect.
+12/09 16:11:46:052 Total 0 instances are started
+12/09 16:11:46:052 Total 1 instances are added
+12/09 16:11:47:141 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:11:47:142 Consumer was closed, reconnect.
+12/09 16:11:47:253 Total 0 instances are started
+12/09 16:11:47:255 Total 1 instances are added
+12/09 16:11:48:282 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:11:48:282 Consumer was closed, reconnect.
+12/09 16:11:48:455 Total 0 instances are started
+12/09 16:11:48:455 Total 1 instances are added
+12/09 16:11:49:482 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:11:49:482 Consumer was closed, reconnect.
+12/09 16:11:49:655 Total 0 instances are started
+12/09 16:11:49:655 Total 1 instances are added
+12/09 16:11:50:690 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:11:50:691 Consumer was closed, reconnect.
+12/09 16:11:50:861 Total 0 instances are started
+12/09 16:11:50:898 Total 1 instances are added
+12/09 16:11:51:892 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:11:51:892 Consumer was closed, reconnect.
+12/09 16:11:52:009 Total 0 instances are started
+12/09 16:11:52:009 Total 1 instances are added
+12/09 16:11:53:059 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:11:53:060 Consumer was closed, reconnect.
+12/09 16:11:53:307 Total 0 instances are started
+12/09 16:11:53:308 Total 1 instances are added
+12/09 16:11:54:330 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:11:54:330 Consumer was closed, reconnect.
+12/09 16:11:54:508 Total 0 instances are started
+12/09 16:11:54:508 Total 1 instances are added
+12/09 16:11:55:555 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:11:55:556 Consumer was closed, reconnect.
+12/09 16:11:55:713 Total 0 instances are started
+12/09 16:11:55:714 Total 1 instances are added
+12/09 16:11:56:749 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:11:56:749 Consumer was closed, reconnect.
+12/09 16:11:56:914 Total 0 instances are started
+12/09 16:11:56:914 Total 1 instances are added
+12/09 16:11:57:959 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:11:57:959 Consumer was closed, reconnect.
+12/09 16:11:58:118 Total 0 instances are started
+12/09 16:11:58:118 Total 1 instances are added
+12/09 16:11:59:125 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:11:59:126 Consumer was closed, reconnect.
+12/09 16:11:59:319 Total 0 instances are started
+12/09 16:11:59:319 Total 1 instances are added
+12/09 16:12:00:340 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:12:00:342 Consumer was closed, reconnect.
+12/09 16:12:00:520 Total 0 instances are started
+12/09 16:12:00:521 Total 1 instances are added
+12/09 16:12:01:561 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:12:01:562 Consumer was closed, reconnect.
+12/09 16:12:01:726 Total 0 instances are started
+12/09 16:12:01:727 Total 1 instances are added
+12/09 16:12:02:743 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:12:02:744 Consumer was closed, reconnect.
+12/09 16:12:02:927 Total 0 instances are started
+12/09 16:12:02:970 Total 1 instances are added
+12/09 16:12:03:950 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:12:03:951 Consumer was closed, reconnect.
+12/09 16:12:04:073 Total 0 instances are started
+12/09 16:12:04:074 Total 1 instances are added
+12/09 16:12:05:151 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:12:05:152 Consumer was closed, reconnect.
+12/09 16:12:05:274 Total 0 instances are started
+12/09 16:12:05:274 Total 1 instances are added
+12/09 16:12:06:357 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:12:06:357 Consumer was closed, reconnect.
+12/09 16:12:06:481 Total 0 instances are started
+12/09 16:12:06:482 Total 1 instances are added
+12/09 16:12:07:503 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:12:07:503 Consumer was closed, reconnect.
+12/09 16:12:07:686 Total 0 instances are started
+12/09 16:12:07:686 Total 1 instances are added
+12/09 16:12:08:726 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:12:08:726 Consumer was closed, reconnect.
+12/09 16:12:08:887 Total 0 instances are started
+12/09 16:12:08:942 Total 1 instances are added
+12/09 16:12:09:904 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:12:09:904 Consumer was closed, reconnect.
+12/09 16:12:10:044 Total 0 instances are started
+12/09 16:12:10:045 Total 1 instances are added
+12/09 16:12:11:079 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:12:11:080 Consumer was closed, reconnect.
+12/09 16:12:11:245 Total 0 instances are started
+12/09 16:12:11:246 Total 1 instances are added
+12/09 16:12:12:287 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:12:12:288 Consumer was closed, reconnect.
+12/09 16:12:12:450 Total 0 instances are started
+12/09 16:12:12:450 Total 1 instances are added
+12/09 16:12:13:499 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:12:13:499 Consumer was closed, reconnect.
+12/09 16:12:13:654 Total 0 instances are started
+12/09 16:12:13:654 Total 1 instances are added
+12/09 16:12:14:716 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:12:14:716 Consumer was closed, reconnect.
+12/09 16:12:14:855 Total 0 instances are started
+12/09 16:12:14:856 Total 1 instances are added
+12/09 16:12:15:890 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:12:15:891 Consumer was closed, reconnect.
+12/09 16:12:16:058 Total 0 instances are started
+12/09 16:12:16:059 Total 1 instances are added
+12/09 16:12:17:078 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:12:17:079 Consumer was closed, reconnect.
+12/09 16:12:17:264 Total 0 instances are started
+12/09 16:12:17:264 Total 1 instances are added
+12/09 16:12:18:300 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:12:18:301 Consumer was closed, reconnect.
+12/09 16:12:18:475 Total 0 instances are started
+12/09 16:12:18:475 Total 1 instances are added
+12/09 16:12:19:502 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:12:19:503 Consumer was closed, reconnect.
+12/09 16:12:19:676 Total 0 instances are started
+12/09 16:12:19:677 Total 1 instances are added
+12/09 16:12:20:693 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:12:20:694 Consumer was closed, reconnect.
+12/09 16:12:20:877 Total 0 instances are started
+12/09 16:12:20:969 Total 1 instances are added
+12/09 16:12:21:893 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:12:21:894 Consumer was closed, reconnect.
+12/09 16:12:22:077 Total 0 instances are started
+12/09 16:12:22:077 Total 1 instances are added
+12/09 16:12:23:094 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:12:23:094 Consumer was closed, reconnect.
+12/09 16:12:23:278 Total 0 instances are started
+12/09 16:12:23:278 Total 1 instances are added
+12/09 16:12:24:301 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:12:24:302 Consumer was closed, reconnect.
+12/09 16:12:24:479 Total 0 instances are started
+12/09 16:12:24:479 Total 1 instances are added
+12/09 16:12:25:502 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:12:25:503 Consumer was closed, reconnect.
+12/09 16:12:25:680 Total 0 instances are started
+12/09 16:12:25:680 Total 1 instances are added
+12/09 16:12:27:160 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:12:27:161 Consumer was closed, reconnect.
+12/09 16:12:27:281 Total 0 instances are started
+12/09 16:12:27:281 Total 1 instances are added
+12/09 16:12:28:299 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:12:28:299 Consumer was closed, reconnect.
+12/09 16:12:28:482 Total 0 instances are started
+12/09 16:12:28:483 Total 1 instances are added
+12/09 16:12:29:527 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:12:29:528 Consumer was closed, reconnect.
+12/09 16:12:29:684 Total 0 instances are started
+12/09 16:12:29:684 Total 1 instances are added
+12/09 16:12:30:713 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:12:30:713 Consumer was closed, reconnect.
+12/09 16:12:30:892 Total 0 instances are started
+12/09 16:12:30:991 Total 1 instances are added
+12/09 16:12:31:933 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:12:31:934 Consumer was closed, reconnect.
+12/09 16:12:32:094 Total 0 instances are started
+12/09 16:12:32:095 Total 1 instances are added
+12/09 16:12:33:110 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:12:33:110 Consumer was closed, reconnect.
+12/09 16:12:33:298 Total 0 instances are started
+12/09 16:12:33:298 Total 1 instances are added
+12/09 16:12:34:327 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:12:34:327 Consumer was closed, reconnect.
+12/09 16:12:34:499 Total 0 instances are started
+12/09 16:12:34:499 Total 1 instances are added
+12/09 16:12:35:524 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:12:35:525 Consumer was closed, reconnect.
+12/09 16:12:35:700 Total 0 instances are started
+12/09 16:12:35:700 Total 1 instances are added
+12/09 16:12:36:835 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:12:36:836 Consumer was closed, reconnect.
+12/09 16:12:37:001 Total 0 instances are started
+12/09 16:12:37:001 Total 1 instances are added
+12/09 16:12:38:039 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:12:38:040 Consumer was closed, reconnect.
+12/09 16:12:38:209 Total 0 instances are started
+12/09 16:12:38:209 Total 1 instances are added
+12/09 16:12:39:220 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:12:39:220 Consumer was closed, reconnect.
+12/09 16:12:39:410 Total 0 instances are started
+12/09 16:12:39:411 Total 1 instances are added
+12/09 16:12:40:453 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:12:40:454 Consumer was closed, reconnect.
+12/09 16:12:40:626 Total 0 instances are started
+12/09 16:12:40:627 Total 1 instances are added
+12/09 16:12:41:653 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:12:41:654 Consumer was closed, reconnect.
+12/09 16:12:41:827 Total 0 instances are started
+12/09 16:12:41:827 Total 1 instances are added
+12/09 16:12:42:842 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:12:42:843 Consumer was closed, reconnect.
+12/09 16:12:43:034 Total 0 instances are started
+12/09 16:12:43:034 Total 1 instances are added
+12/09 16:12:44:084 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:12:44:084 Consumer was closed, reconnect.
+12/09 16:12:44:242 Total 0 instances are started
+12/09 16:12:44:242 Total 1 instances are added
+12/09 16:12:45:268 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:12:45:269 Consumer was closed, reconnect.
+12/09 16:12:45:444 Total 0 instances are started
+12/09 16:12:45:444 Total 1 instances are added
+12/09 16:12:46:460 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:12:46:460 Consumer was closed, reconnect.
+12/09 16:12:46:645 Total 0 instances are started
+12/09 16:12:46:646 Total 1 instances are added
+12/09 16:12:47:671 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:12:47:672 Consumer was closed, reconnect.
+12/09 16:12:47:846 Total 0 instances are started
+12/09 16:12:47:846 Total 1 instances are added
+12/09 16:12:48:870 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:12:49:021 Consumer was closed, reconnect.
+12/09 16:12:49:153 Total 0 instances are started
+12/09 16:12:49:153 Total 1 instances are added
+12/09 16:12:50:187 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:12:50:187 Consumer was closed, reconnect.
+12/09 16:12:50:355 Total 0 instances are started
+12/09 16:12:50:355 Total 1 instances are added
+12/09 16:12:51:391 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:12:51:391 Consumer was closed, reconnect.
+12/09 16:12:51:565 Total 0 instances are started
+12/09 16:12:51:566 Total 1 instances are added
+12/09 16:12:52:627 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:12:52:628 Consumer was closed, reconnect.
+12/09 16:12:52:769 Total 0 instances are started
+12/09 16:12:52:770 Total 1 instances are added
+12/09 16:12:53:821 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:12:53:821 Consumer was closed, reconnect.
+12/09 16:12:53:970 Total 0 instances are started
+12/09 16:12:53:970 Total 1 instances are added
+12/09 16:12:55:017 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:12:55:017 Consumer was closed, reconnect.
+12/09 16:12:55:176 Total 0 instances are started
+12/09 16:12:55:177 Total 1 instances are added
+12/09 16:12:56:200 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:12:56:201 Consumer was closed, reconnect.
+12/09 16:12:56:377 Total 0 instances are started
+12/09 16:12:56:377 Total 1 instances are added
+12/09 16:12:57:403 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:12:57:404 Consumer was closed, reconnect.
+12/09 16:12:57:578 Total 0 instances are started
+12/09 16:12:57:579 Total 1 instances are added
+12/09 16:12:58:616 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:12:58:616 Consumer was closed, reconnect.
+12/09 16:12:58:782 Total 0 instances are started
+12/09 16:12:58:783 Total 1 instances are added
+12/09 16:12:59:817 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:12:59:818 Consumer was closed, reconnect.
+12/09 16:12:59:984 Total 0 instances are started
+12/09 16:12:59:984 Total 1 instances are added
+12/09 16:13:01:053 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:13:01:053 Consumer was closed, reconnect.
+12/09 16:13:01:185 Total 0 instances are started
+12/09 16:13:01:186 Total 1 instances are added
+12/09 16:13:02:212 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:13:02:213 Consumer was closed, reconnect.
+12/09 16:13:02:387 Total 0 instances are started
+12/09 16:13:02:387 Total 1 instances are added
+12/09 16:13:03:402 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:13:03:402 Consumer was closed, reconnect.
+12/09 16:13:03:588 Total 0 instances are started
+12/09 16:13:03:588 Total 1 instances are added
+12/09 16:13:04:614 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:13:04:615 Consumer was closed, reconnect.
+12/09 16:13:04:789 Total 0 instances are started
+12/09 16:13:04:789 Total 1 instances are added
+12/09 16:13:05:825 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:13:05:825 Consumer was closed, reconnect.
+12/09 16:13:05:990 Total 0 instances are started
+12/09 16:13:05:990 Total 1 instances are added
+12/09 16:13:07:034 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:13:07:035 Consumer was closed, reconnect.
+12/09 16:13:07:191 Total 0 instances are started
+12/09 16:13:07:192 Total 1 instances are added
+12/09 16:13:08:208 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:13:08:209 Consumer was closed, reconnect.
+12/09 16:13:08:393 Total 0 instances are started
+12/09 16:13:08:393 Total 1 instances are added
+12/09 16:13:09:426 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:13:09:427 Consumer was closed, reconnect.
+12/09 16:13:09:594 Total 0 instances are started
+12/09 16:13:09:594 Total 1 instances are added
+12/09 16:13:10:635 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:13:10:636 Consumer was closed, reconnect.
+12/09 16:13:10:795 Total 0 instances are started
+12/09 16:13:10:795 Total 1 instances are added
+12/09 16:13:11:825 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:13:11:825 Consumer was closed, reconnect.
+12/09 16:13:11:995 Total 0 instances are started
+12/09 16:13:11:995 Total 1 instances are added
+12/09 16:13:13:026 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:13:13:026 Consumer was closed, reconnect.
+12/09 16:13:13:196 Total 0 instances are started
+12/09 16:13:13:196 Total 1 instances are added
+12/09 16:13:14:221 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:13:14:222 Consumer was closed, reconnect.
+12/09 16:13:14:397 Total 0 instances are started
+12/09 16:13:14:397 Total 1 instances are added
+12/09 16:13:15:427 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:13:15:427 Consumer was closed, reconnect.
+12/09 16:13:15:598 Total 0 instances are started
+12/09 16:13:15:598 Total 1 instances are added
+12/09 16:13:16:641 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:13:16:641 Consumer was closed, reconnect.
+12/09 16:13:16:799 Total 0 instances are started
+12/09 16:13:16:799 Total 1 instances are added
+12/09 16:13:17:841 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:13:17:842 Consumer was closed, reconnect.
+12/09 16:13:18:000 Total 0 instances are started
+12/09 16:13:18:000 Total 1 instances are added
+12/09 16:13:19:044 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:13:19:044 Consumer was closed, reconnect.
+12/09 16:13:19:201 Total 0 instances are started
+12/09 16:13:19:201 Total 1 instances are added
+12/09 16:13:20:215 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:13:20:216 Consumer was closed, reconnect.
+12/09 16:13:20:402 Total 0 instances are started
+12/09 16:13:20:402 Total 1 instances are added
+12/09 16:13:21:439 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:13:21:439 Consumer was closed, reconnect.
+12/09 16:13:21:603 Total 0 instances are started
+12/09 16:13:21:603 Total 1 instances are added
+12/09 16:13:22:655 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:13:22:656 Consumer was closed, reconnect.
+12/09 16:13:22:805 Total 0 instances are started
+12/09 16:13:22:805 Total 1 instances are added
+12/09 16:13:23:823 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:13:23:824 Consumer was closed, reconnect.
+12/09 16:13:24:015 Total 0 instances are started
+12/09 16:13:24:016 Total 1 instances are added
+12/09 16:15:20:354 sendNotify: 84922000512 - Dich vu da bi huy bo
+12/09 16:15:20:355 orderId = 125409808 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 49 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 4 | cause = expired | description = 
+12/09 16:18:46:609 sendNotify: 84922000512 - Dich vu da bi huy bo
+12/09 16:18:46:609 orderId = 125409809 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 49 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 4 | cause = expired | description = 
+12/09 16:19:06:740 CRM started
+12/09 16:19:07:273 Testing connection ...
+12/09 16:19:07:275 Created provisioning instance for CRM
+12/09 16:19:07:294 Testing connection are success
+12/09 16:19:07:296 Starting process session
+12/09 16:19:07:412 Total 0 instances are started
+12/09 16:19:07:416 Total 1 instances are added
+12/09 16:19:29:780 sendNotify: 84922000512 - So diem ban da doi nho hon so diem nho nhat duoc phep doi. Lien he 789.
+12/09 16:19:29:781 orderId = 125409810 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 49 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 4 | cause = not-enough-point | description = 
+12/09 16:33:33:787 CRM started
+12/09 16:33:36:685 Testing connection ...
+12/09 16:33:36:686 Created provisioning instance for CRM
+12/09 16:33:36:704 Testing connection are success
+12/09 16:33:36:704 Starting process session
+12/09 16:33:36:805 Total 0 instances are started
+12/09 16:33:36:805 Total 1 instances are added
+12/09 16:36:45:923 CRM started
+12/09 16:36:49:061 Testing connection ...
+12/09 16:36:49:063 Created provisioning instance for CRM
+12/09 16:36:49:063 Testing connection are success
+12/09 16:36:49:067 Starting process session
+12/09 16:36:49:169 Total 0 instances are started
+12/09 16:36:49:169 Total 1 instances are added
+12/09 16:49:17:810 CRM started
+12/09 16:49:18:061 Testing connection ...
+12/09 16:49:18:061 Created provisioning instance for CRM
+12/09 16:49:18:139 Testing connection are success
+12/09 16:49:18:142 Starting process session
+12/09 16:49:18:251 Total 0 instances are started
+12/09 16:49:18:253 Total 1 instances are added
+12/09 16:51:04:689 CRM started
+12/09 16:51:06:938 Testing connection ...
+12/09 16:51:06:944 Created provisioning instance for CRM
+12/09 16:51:07:158 Testing connection are success
+12/09 16:51:07:159 Starting process session
+12/09 16:51:07:260 Total 0 instances are started
+12/09 16:51:07:260 Total 1 instances are added
+12/09 16:55:24:263 CRM started
+12/09 16:55:27:393 Testing connection ...
+12/09 16:55:27:394 Created provisioning instance for CRM
+12/09 16:55:27:395 Testing connection are success
+12/09 16:55:27:395 Starting process session
+12/09 16:55:27:503 Total 0 instances are started
+12/09 16:55:27:503 Total 1 instances are added
+12/09 16:55:58:247 orderId = 125409817 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM AA | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 4 | cause = error | description = null
+12/09 16:55:58:254 For input string: "AA"
+12/09 16:55:58:445 Total 0 instances are started
+12/09 16:55:58:446 Total 1 instances are added
+12/09 17:01:49:904 CRM started
+12/09 17:01:52:859 Testing connection ...
+12/09 17:01:52:859 Created provisioning instance for CRM
+12/09 17:01:52:862 Testing connection are success
+12/09 17:01:52:864 Starting process session
+12/09 17:01:52:967 Total 0 instances are started
+12/09 17:01:52:968 Total 1 instances are added
+12/09 17:02:10:129 orderId = 125409818 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM AA | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 4 | cause = error | description = null
+12/09 17:02:10:137 For input string: "AA"
+12/09 17:02:10:282 Total 0 instances are started
+12/09 17:02:10:283 Total 1 instances are added
+12/09 17:07:50:449 CRM started
+12/09 17:07:53:365 Testing connection ...
+12/09 17:07:53:369 Created provisioning instance for CRM
+12/09 17:07:53:371 Testing connection are success
+12/09 17:07:53:371 Starting process session
+12/09 17:07:53:476 Total 0 instances are started
+12/09 17:07:53:476 Total 1 instances are added
+12/09 17:08:11:225 sendNotify: 84922000512 - Tin nhan cua ban sai cu phap. Vui long kiem tra lai.
+12/09 17:08:11:226 orderId = 125409819 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM AA | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 4 | cause = invalid-syntax | description = 
+12/09 17:10:58:384 sendNotify: 84922000512 - So diem ban da doi nho hon so diem nho nhat duoc phep doi. Lien he 789.
+12/09 17:10:58:385 orderId = 125409820 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 49 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 4 | cause = not-enough-point | description = 
+12/09 17:15:42:818 CRM started
+12/09 17:15:45:783 Testing connection ...
+12/09 17:15:45:784 Created provisioning instance for CRM
+12/09 17:15:45:784 Testing connection are success
+12/09 17:15:45:785 Starting process session
+12/09 17:15:45:886 Total 0 instances are started
+12/09 17:15:45:886 Total 1 instances are added
+12/09 17:16:08:800 SEND: ID=244001: com.crm.provisioning.impl.CommandImpl.unregister{84922000512, 274}
+12/09 17:16:08:817 RECEIVE: ID=244001: success: costTime=17
+12/09 17:16:08:820 sendNotify: 84922000512 - B?n ?ã h?y thành công d?ch v? LOYALTY
+12/09 17:16:08:821 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = HUY CAM | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = unregister | productId = 274 | commandId = 13121 | request = ID=244001: com.crm.provisioning.impl.CommandImpl.unregister{84922000512, 274} | response = ID=244001: success: costTime=17 | status = 0 | cause = success | description = success
+12/09 17:16:42:719 sendNotify: 84922000512 - Dich vu da bi huy bo
+12/09 17:16:42:720 orderId = 125409821 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = TRA DIEM | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | commandId = 342 | request =  | response =  | status = 4 | cause = expired | description = 

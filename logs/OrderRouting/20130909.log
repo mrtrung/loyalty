@@ -1,0 +1,1222 @@
+09/09 08:43:16:841 Order Routing started
+09/09 08:43:25:619 Testing connection ...
+09/09 08:43:44:264 Created provisioning instance for CCWS
+09/09 08:43:44:265 Testing connection are success
+09/09 08:43:44:266 Starting process session
+09/09 08:43:44:990 Total 0 instances are started
+09/09 08:43:44:991 Total 1 instances are added
+09/09 08:44:03:203 Close pool
+09/09 08:44:03:304 Close queue connection pool.
+09/09 08:44:03:313 End of process session
+09/09 08:44:03:315 Order Routing stopped
+09/09 08:44:05:238 Order Routing started
+09/09 08:44:05:260 Close pool
+09/09 08:44:05:261 Close pool
+09/09 08:44:05:262 Testing connection ...
+09/09 08:44:05:265 Created provisioning instance for CCWS
+09/09 08:44:05:266 Testing connection are success
+09/09 08:44:05:266 Starting process session
+09/09 08:44:05:997 Total 0 instances are started
+09/09 08:44:05:998 Total 1 instances are added
+09/09 08:48:43:872 Create order(84922000514) cost time: 166ms
+09/09 08:48:44:951 Update order(84922000514) cost time: 6ms
+09/09 08:48:44:995 84922000514: LOYALTY - LOYALTY.BALANCE_QUERY
+09/09 08:48:44:996 orderId = 125409388 | requestId = 0 | orderDate = 2013/09/09 08:48:43 | userName = system | subProductId = 52789547 | channel = SMS | serviceAddress = 268 | keyword = TRA DIEM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 342 | cause =  | status = 1 | description =  | balance = 
+09/09 08:49:54:120 Order Routing started
+09/09 08:49:58:532 Testing connection ...
+09/09 08:49:59:792 Created provisioning instance for CCWS
+09/09 08:49:59:794 Testing connection are success
+09/09 08:49:59:795 Starting process session
+09/09 08:50:01:369 Total 0 instances are started
+09/09 08:50:01:370 Total 1 instances are added
+09/09 08:50:13:641 Close pool
+09/09 08:50:13:742 Close queue connection pool.
+09/09 08:50:13:750 End of process session
+09/09 08:50:13:752 Order Routing stopped
+09/09 08:50:15:680 Order Routing started
+09/09 08:50:15:701 Close pool
+09/09 08:50:15:701 Close pool
+09/09 08:50:15:702 Testing connection ...
+09/09 08:50:15:709 Created provisioning instance for CCWS
+09/09 08:50:15:709 Testing connection are success
+09/09 08:50:15:710 Starting process session
+09/09 08:50:16:491 Total 0 instances are started
+09/09 08:50:16:492 Total 1 instances are added
+09/09 08:50:21:982 Create order(84922000514) cost time: 25ms
+09/09 08:50:22:151 Update order(84922000514) cost time: 7ms
+09/09 08:50:22:154 84922000514: LOYALTY - LOYALTY.BALANCE_QUERY
+09/09 08:50:22:156 orderId = 125409389 | requestId = 0 | orderDate = 2013/09/09 08:50:21 | userName = system | subProductId = 52789547 | channel = SMS | serviceAddress = 268 | keyword = TRA DIEM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 342 | cause =  | status = 1 | description =  | balance = 
+09/09 08:51:17:925 Create order(84922000514) cost time: 10ms
+09/09 08:51:18:038 Update order(84922000514) cost time: 6ms
+09/09 08:51:18:039 84922000514: LOYALTY - LOYALTY.BALANCE_QUERY
+09/09 08:51:18:040 orderId = 125409390 | requestId = 0 | orderDate = 2013/09/09 08:51:17 | userName = system | subProductId = 52789547 | channel = SMS | serviceAddress = 268 | keyword = TRA DIEM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 342 | cause =  | status = 1 | description =  | balance = 
+09/09 08:52:07:746 Close pool
+09/09 08:52:07:847 Close queue connection pool.
+09/09 08:52:07:850 End of process session
+09/09 08:52:07:851 Order Routing stopped
+09/09 08:52:09:794 Order Routing started
+09/09 08:52:09:817 Close pool
+09/09 08:52:09:817 Close pool
+09/09 08:52:09:818 Testing connection ...
+09/09 08:52:09:825 Created provisioning instance for CCWS
+09/09 08:52:09:826 Testing connection are success
+09/09 08:52:09:826 Starting process session
+09/09 08:52:10:560 Total 0 instances are started
+09/09 08:52:10:561 Total 1 instances are added
+09/09 08:52:33:060 Create order(84922000514) cost time: 8ms
+09/09 08:53:03:743 Update order(84922000514) cost time: 5ms
+09/09 08:53:03:745 84922000514: LOYALTY - LOYALTY.BALANCE_QUERY
+09/09 08:53:03:746 orderId = 125409391 | requestId = 0 | orderDate = 2013/09/09 08:52:33 | userName = system | subProductId = 52789547 | channel = SMS | serviceAddress = 268 | keyword = TRA DIEM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 342 | cause =  | status = 1 | description =  | balance = 
+09/09 08:54:05:801 Order Routing started
+09/09 08:54:10:158 Testing connection ...
+09/09 08:54:11:018 Created provisioning instance for CCWS
+09/09 08:54:11:019 Testing connection are success
+09/09 08:54:11:019 Starting process session
+09/09 08:54:12:927 Total 0 instances are started
+09/09 08:54:12:928 Total 1 instances are added
+09/09 08:54:27:350 Close pool
+09/09 08:54:27:451 Close queue connection pool.
+09/09 08:54:27:458 End of process session
+09/09 08:54:27:462 Order Routing stopped
+09/09 08:54:29:377 Order Routing started
+09/09 08:54:29:399 Close pool
+09/09 08:54:29:399 Close pool
+09/09 08:54:29:400 Testing connection ...
+09/09 08:54:29:411 Created provisioning instance for CCWS
+09/09 08:54:29:412 Testing connection are success
+09/09 08:54:29:412 Starting process session
+09/09 08:54:30:207 Total 0 instances are started
+09/09 08:54:30:208 Total 1 instances are added
+09/09 08:54:32:627 Create order(84922000514) cost time: 27ms
+09/09 08:58:20:463 Close pool
+09/09 08:58:20:564 Close queue connection pool.
+09/09 08:58:20:570 End of process session
+09/09 08:58:20:571 Order Routing stopped
+09/09 08:58:22:492 Order Routing started
+09/09 08:58:22:511 Close pool
+09/09 08:58:22:512 Close pool
+09/09 08:58:22:512 Testing connection ...
+09/09 08:58:22:532 Created provisioning instance for CCWS
+09/09 08:58:22:533 Testing connection are success
+09/09 08:58:22:533 Starting process session
+09/09 08:58:23:266 Total 0 instances are started
+09/09 08:58:23:267 Total 1 instances are added
+09/09 08:58:30:691 Create order(84922000514) cost time: 7ms
+09/09 08:59:46:023 Order Routing started
+09/09 08:59:50:314 Testing connection ...
+09/09 08:59:51:214 Created provisioning instance for CCWS
+09/09 08:59:51:214 Testing connection are success
+09/09 08:59:51:214 Starting process session
+09/09 08:59:53:114 Total 0 instances are started
+09/09 08:59:53:115 Total 1 instances are added
+09/09 09:00:09:707 Close pool
+09/09 09:00:09:808 Close queue connection pool.
+09/09 09:00:09:817 End of process session
+09/09 09:00:09:819 Order Routing stopped
+09/09 09:00:11:739 Order Routing started
+09/09 09:00:11:759 Close pool
+09/09 09:00:11:760 Close pool
+09/09 09:00:11:760 Testing connection ...
+09/09 09:00:11:771 Created provisioning instance for CCWS
+09/09 09:00:11:771 Testing connection are success
+09/09 09:00:11:772 Starting process session
+09/09 09:00:12:550 Total 0 instances are started
+09/09 09:00:12:551 Total 1 instances are added
+09/09 09:00:16:965 Create order(84922000514) cost time: 22ms
+09/09 09:00:29:625 Update order(84922000514) cost time: 21ms
+09/09 09:00:29:629 84922000514: LOYALTY - LOYALTY.BALANCE_QUERY
+09/09 09:00:29:630 orderId = 125409394 | requestId = 0 | orderDate = 2013/09/09 09:00:16 | userName = system | subProductId = 52789547 | channel = SMS | serviceAddress = 268 | keyword = TRA DIEM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 342 | cause =  | status = 1 | description =  | balance = 
+09/09 09:01:15:045 Create order(84922000514) cost time: 9ms
+09/09 09:01:26:435 Update order(84922000514) cost time: 6ms
+09/09 09:01:26:435 84922000514: LOYALTY - LOYALTY.BALANCE_QUERY
+09/09 09:01:26:436 orderId = 125409395 | requestId = 0 | orderDate = 2013/09/09 09:01:15 | userName = system | subProductId = 52789547 | channel = SMS | serviceAddress = 268 | keyword = TRA DIEM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 342 | cause =  | status = 1 | description =  | balance = 
+09/09 09:06:51:996 Close pool
+09/09 09:06:52:097 Close queue connection pool.
+09/09 09:06:52:116 End of process session
+09/09 09:06:52:117 Order Routing stopped
+09/09 09:06:54:022 Order Routing started
+09/09 09:06:54:042 Close pool
+09/09 09:06:54:042 Close pool
+09/09 09:06:54:043 Testing connection ...
+09/09 09:06:54:050 Created provisioning instance for CCWS
+09/09 09:06:54:051 Testing connection are success
+09/09 09:06:54:051 Starting process session
+09/09 09:06:54:826 Total 0 instances are started
+09/09 09:06:54:827 Total 1 instances are added
+09/09 09:06:58:244 Create order(84922000514) cost time: 19ms
+09/09 09:07:15:727 Update order(84922000514) cost time: 5ms
+09/09 09:07:15:729 84922000514: LOYALTY - LOYALTY.BALANCE_QUERY
+09/09 09:07:15:730 orderId = 125409396 | requestId = 0 | orderDate = 2013/09/09 09:06:58 | userName = system | subProductId = 52789547 | channel = SMS | serviceAddress = 268 | keyword = TRA DIEM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 342 | cause =  | status = 1 | description =  | balance = 
+09/09 09:07:44:302 Order Routing started
+09/09 09:07:48:448 Testing connection ...
+09/09 09:07:49:262 Created provisioning instance for CCWS
+09/09 09:07:49:262 Testing connection are success
+09/09 09:07:49:263 Starting process session
+09/09 09:07:51:488 Total 0 instances are started
+09/09 09:07:51:489 Total 1 instances are added
+09/09 09:08:06:203 Create order(84922000514) cost time: 30ms
+09/09 09:08:06:351 Update order(84922000514) cost time: 12ms
+09/09 09:08:06:354 84922000514: LOYALTY - LOYALTY.BALANCE_QUERY
+09/09 09:08:06:355 orderId = 125409397 | requestId = 0 | orderDate = 2013/09/09 09:08:06 | userName = system | subProductId = 52789547 | channel = SMS | serviceAddress = 268 | keyword = TRA DIEM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 342 | cause =  | status = 1 | description =  | balance = 
+09/09 09:14:29:582 Order Routing started
+09/09 09:14:33:626 Testing connection ...
+09/09 09:14:34:336 Created provisioning instance for CCWS
+09/09 09:14:34:336 Testing connection are success
+09/09 09:14:34:341 Starting process session
+09/09 09:14:36:287 Total 0 instances are started
+09/09 09:14:36:287 Total 1 instances are added
+09/09 09:14:47:142 Close pool
+09/09 09:14:47:243 Close queue connection pool.
+09/09 09:14:47:250 End of process session
+09/09 09:14:47:252 Order Routing stopped
+09/09 09:14:49:186 Order Routing started
+09/09 09:14:49:211 Close pool
+09/09 09:14:49:212 Close pool
+09/09 09:14:49:212 Testing connection ...
+09/09 09:14:49:216 Created provisioning instance for CCWS
+09/09 09:14:49:217 Testing connection are success
+09/09 09:14:49:217 Starting process session
+09/09 09:14:50:186 Total 0 instances are started
+09/09 09:14:50:187 Total 1 instances are added
+09/09 09:14:51:419 Create order(84922000514) cost time: 24ms
+09/09 09:14:51:564 Update order(84922000514) cost time: 11ms
+09/09 09:14:51:566 84922000514: LOYALTY - LOYALTY.BALANCE_QUERY
+09/09 09:14:51:567 orderId = 125409398 | requestId = 0 | orderDate = 2013/09/09 09:14:51 | userName = system | subProductId = 52789547 | channel = SMS | serviceAddress = 268 | keyword = TRA DIEM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 342 | cause =  | status = 1 | description =  | balance = 
+09/09 09:22:06:528 Create order(84922000512) cost time: 28ms
+09/09 09:22:06:707 Update order(84922000512) cost time: 21ms
+09/09 09:22:06:708 84922000512: LOYALTY - LOYALTY.BALANCE_QUERY
+09/09 09:22:06:711 orderId = 125409399 | requestId = 0 | orderDate = 2013/09/09 09:22:06 | userName = system | subProductId = 52789546 | channel = SMS | serviceAddress = 268 | keyword = TRA DIEM | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 342 | cause =  | status = 1 | description =  | balance = 
+09/09 15:00:32:751 Order Routing started
+09/09 15:00:34:480 Testing connection ...
+09/09 15:00:41:132 Created provisioning instance for CCWS
+09/09 15:00:41:133 Testing connection are success
+09/09 15:00:41:133 Starting process session
+09/09 15:00:42:237 Total 0 instances are started
+09/09 15:00:42:237 Total 1 instances are added
+09/09 15:00:59:534 Close pool
+09/09 15:00:59:635 Close queue connection pool.
+09/09 15:00:59:643 End of process session
+09/09 15:00:59:645 Order Routing stopped
+09/09 15:01:01:560 Order Routing started
+09/09 15:01:01:584 Close pool
+09/09 15:01:01:584 Close pool
+09/09 15:01:01:585 Testing connection ...
+09/09 15:01:01:589 Created provisioning instance for CCWS
+09/09 15:01:01:589 Testing connection are success
+09/09 15:01:01:590 Starting process session
+09/09 15:01:02:330 Total 0 instances are started
+09/09 15:01:02:331 Total 1 instances are added
+09/09 15:01:25:931 invalid-syntax
+09/09 15:01:25:932 orderId = 0 | requestId = 0 | orderDate = 2013/09/09 15:01:25 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = TRA DIEM1 | isdn = 84922000514 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | amount = 0.0 | provisioningType = SMSC | commandId = 0 | cause = invalid-syntax | status = 4 | description = null | balance = 
+09/09 15:01:25:937 sendNotify: 84922000514 - Cu phap nhan tin khong hop le. Xin quy khach vui long kiem tra & thuc hien lai
+09/09 15:03:22:970 84922000514: LOYALTY - CRM.SUBSCRIPTION_UNREGIST
+09/09 15:03:22:972 orderId = 0 | requestId = 0 | orderDate = 2013/09/09 15:03:22 | userName = system | subProductId = 52789547 | channel = SMS | serviceAddress = 268 | keyword = HUY CAM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = unregister | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 13121 | cause =  | status = 1 | description =  | balance = 
+09/09 15:03:59:904 invalid-syntax
+09/09 15:03:59:905 orderId = 0 | requestId = 0 | orderDate = 2013/09/09 15:03:59 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = DK CAM1 | isdn = 84922000514 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | amount = 0.0 | provisioningType = SMSC | commandId = 0 | cause = invalid-syntax | status = 4 | description = null | balance = 
+09/09 15:03:59:906 sendNotify: 84922000514 - Cu phap nhan tin khong hop le. Xin quy khach vui long kiem tra & thuc hien lai
+09/09 15:05:53:950 invalid-syntax
+09/09 15:05:53:951 orderId = 0 | requestId = 0 | orderDate = 2013/09/09 15:05:53 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = DK CAM1 | isdn = 84922000514 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | amount = 0.0 | provisioningType = SMSC | commandId = 0 | cause = invalid-syntax | status = 4 | description = null | balance = 
+09/09 15:05:53:953 sendNotify: 84922000514 - Cu phap nhan tin khong hop le. Xin quy khach vui long kiem tra & thuc hien lai
+09/09 15:13:00:305 Order Routing started
+09/09 15:13:04:123 Testing connection ...
+09/09 15:13:05:217 Created provisioning instance for CCWS
+09/09 15:13:05:219 Testing connection are success
+09/09 15:13:05:219 Starting process session
+09/09 15:13:06:814 Total 0 instances are started
+09/09 15:13:06:815 Total 1 instances are added
+09/09 15:13:31:060 Close pool
+09/09 15:13:31:161 Close queue connection pool.
+09/09 15:13:31:169 End of process session
+09/09 15:13:31:172 Order Routing stopped
+09/09 15:13:33:098 Order Routing started
+09/09 15:13:33:123 Close pool
+09/09 15:13:33:124 Close pool
+09/09 15:13:33:124 Testing connection ...
+09/09 15:13:33:128 Created provisioning instance for CCWS
+09/09 15:13:33:128 Testing connection are success
+09/09 15:13:33:129 Starting process session
+09/09 15:13:33:898 Total 0 instances are started
+09/09 15:13:33:899 Total 1 instances are added
+09/09 15:13:48:529 Create order(84922000514) cost time: 112ms
+09/09 15:13:48:575 SEND: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000514}. ID=148001
+09/09 15:13:50:199 RECEIVE:cosname=VMAX,status=Active,active_date=05/09/2013 02:17:51,{84922000514}Core{632000.0;31/12/2014 08:59:59},PROMOTION{65000.0;03/09/2023 09:59:59},PROMOTION_60{1000.0;18/11/2013 08:59:59},. ID=148001. costTime=1622
+09/09 15:13:50:212 Update order(84922000514) cost time: 10ms
+09/09 15:13:50:255 84922000514: LOYALTY - LOYALTY.VALIDATE
+09/09 15:13:50:256 orderId = 125409409 | requestId = 0 | orderDate = 2013/09/09 15:13:48 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 2000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 200.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+09/09 15:14:56:316 Create order(84922000512) cost time: 9ms
+09/09 15:14:56:327 Update order(84922000512) cost time: 5ms
+09/09 15:14:56:328 orderId = 125409410 | requestId = 0 | orderDate = 2013/09/09 15:14:56 | userName = system | subProductId = 52789546 | channel = SMS | serviceAddress = 268 | keyword = DK CAM | isdn = 84922000512 | subscriberType = -1 | shipTo =  | actionType = register | productId = 274 | amount = 0.0 | provisioningType = SMSC | commandId = 0 | cause = registered | status = 4 | description =  | balance = 
+09/09 15:14:56:334 sendNotify: 84922000512 - Dich vu da duoc dang ky
+09/09 15:15:28:399 Create order(84922000514) cost time: 13ms
+09/09 15:15:28:405 SEND: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000514}. ID=148002
+09/09 15:15:28:489 RECEIVE:cosname=VMAX,status=Active,active_date=05/09/2013 02:17:51,{84922000514}Core{632000.0;31/12/2014 08:59:59},PROMOTION{65000.0;03/09/2023 09:59:59},PROMOTION_60{1000.0;18/11/2013 08:59:59},. ID=148002. costTime=83
+09/09 15:15:28:498 For input string: ""
+09/09 15:15:28:499 orderId = 125409412 | requestId = 0 | orderDate = 2013/09/09 15:15:28 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = DK CAM | isdn = 84922000514 | subscriberType = -1 | shipTo =  | actionType = register | productId = 274 | amount = 0.0 | provisioningType = SMSC | commandId = 0 | cause = error | status = 4 | description = null | balance = 
+09/09 15:15:28:512 For input string: ""
+09/09 15:15:28:622 Total 0 instances are started
+09/09 15:15:28:623 Total 1 instances are added
+09/09 15:17:43:253 Close pool
+09/09 15:17:43:354 Close queue connection pool.
+09/09 15:17:43:360 End of process session
+09/09 15:17:43:362 Order Routing stopped
+09/09 15:17:45:290 Order Routing started
+09/09 15:17:45:310 Close pool
+09/09 15:17:45:310 Close pool
+09/09 15:17:45:311 Testing connection ...
+09/09 15:17:45:314 Created provisioning instance for CCWS
+09/09 15:17:45:314 Testing connection are success
+09/09 15:17:45:315 Starting process session
+09/09 15:17:46:054 Total 0 instances are started
+09/09 15:17:46:055 Total 1 instances are added
+09/09 15:17:53:481 Create order(84922000514) cost time: 19ms
+09/09 15:17:53:499 SEND: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000514}. ID=148003
+09/09 15:17:53:605 RECEIVE:cosname=VMAX,status=Active,active_date=05/09/2013 02:17:51,{84922000514}Core{632000.0;31/12/2014 08:59:59},PROMOTION{47000.0;03/09/2023 09:59:59},PROMOTION_60{1000.0;18/11/2013 08:59:59},. ID=148003. costTime=105
+09/09 15:17:53:613 For input string: ""
+09/09 15:17:53:613 orderId = 125409414 | requestId = 0 | orderDate = 2013/09/09 15:17:53 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = DK CAM | isdn = 84922000514 | subscriberType = -1 | shipTo =  | actionType = register | productId = 274 | amount = 0.0 | provisioningType = SMSC | commandId = 0 | cause = error | status = 4 | description = null | balance = 
+09/09 15:17:53:630 For input string: ""
+09/09 15:17:53:739 Total 0 instances are started
+09/09 15:17:53:740 Total 1 instances are added
+09/09 15:18:46:322 Close pool
+09/09 15:18:46:423 Close queue connection pool.
+09/09 15:18:46:432 End of process session
+09/09 15:18:46:433 Order Routing stopped
+09/09 15:18:48:355 Order Routing started
+09/09 15:18:48:375 Close pool
+09/09 15:18:48:376 Close pool
+09/09 15:18:48:376 Testing connection ...
+09/09 15:18:48:379 Created provisioning instance for CCWS
+09/09 15:18:48:380 Testing connection are success
+09/09 15:18:48:380 Starting process session
+09/09 15:18:49:060 Total 0 instances are started
+09/09 15:18:49:061 Total 1 instances are added
+09/09 15:18:49:554 Create order(84922000514) cost time: 8ms
+09/09 15:18:49:560 SEND: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000514}. ID=148004
+09/09 15:18:49:653 RECEIVE:cosname=VMAX,status=Active,active_date=05/09/2013 02:17:51,{84922000514}Core{632000.0;31/12/2014 08:59:59},PROMOTION{47000.0;03/09/2023 09:59:59},PROMOTION_60{1000.0;18/11/2013 08:59:59},. ID=148004. costTime=92
+09/09 15:18:49:662 For input string: ""
+09/09 15:18:49:662 orderId = 125409415 | requestId = 0 | orderDate = 2013/09/09 15:18:49 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = DK CAM | isdn = 84922000514 | subscriberType = -1 | shipTo =  | actionType = register | productId = 274 | amount = 0.0 | provisioningType = SMSC | commandId = 0 | cause = error | status = 4 | description = null | balance = 
+09/09 15:18:49:673 For input string: ""
+09/09 15:18:49:777 Total 0 instances are started
+09/09 15:18:49:778 Total 1 instances are added
+09/09 15:25:09:605 Close pool
+09/09 15:25:09:706 Close queue connection pool.
+09/09 15:25:09:719 End of process session
+09/09 15:25:09:720 Order Routing stopped
+09/09 15:25:11:620 Order Routing started
+09/09 15:25:11:642 Close pool
+09/09 15:25:11:643 Close pool
+09/09 15:25:11:643 Testing connection ...
+09/09 15:25:11:646 Created provisioning instance for CCWS
+09/09 15:25:11:647 Testing connection are success
+09/09 15:25:11:647 Starting process session
+09/09 15:25:12:406 Total 0 instances are started
+09/09 15:25:12:408 Total 1 instances are added
+09/09 15:25:17:968 Create order(84922000514) cost time: 19ms
+09/09 15:25:17:991 SEND: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000514}. ID=148005
+09/09 15:25:18:090 RECEIVE:cosname=VMAX,status=Active,active_date=05/09/2013 02:17:51,{84922000514}PROMOTION_60{400.0;18/11/2013 08:59:59},. ID=148005. costTime=98
+09/09 15:25:18:098 For input string: ""
+09/09 15:25:18:098 orderId = 125409419 | requestId = 0 | orderDate = 2013/09/09 15:25:17 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = DK CAM | isdn = 84922000514 | subscriberType = -1 | shipTo =  | actionType = register | productId = 274 | amount = 0.0 | provisioningType = SMSC | commandId = 0 | cause = error | status = 4 | description = null | balance = 
+09/09 15:25:18:119 For input string: ""
+09/09 15:25:18:226 Total 0 instances are started
+09/09 15:25:18:227 Total 1 instances are added
+09/09 15:29:47:226 Order Routing started
+09/09 15:29:51:336 Testing connection ...
+09/09 15:29:52:003 Created provisioning instance for CCWS
+09/09 15:29:52:004 Testing connection are success
+09/09 15:29:52:004 Starting process session
+09/09 15:29:53:460 Total 0 instances are started
+09/09 15:29:53:460 Total 1 instances are added
+09/09 15:30:23:156 Create order(84922000514) cost time: 26ms
+09/09 15:30:23:190 SEND: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000514}. ID=149001
+09/09 15:30:24:028 RECEIVE:cosname=VMAX,status=Active,active_date=05/09/2013 02:17:51,{84922000514}PROMOTION_60{200.0;18/11/2013 08:59:59},. ID=149001. costTime=833
+09/09 15:30:24:040 For input string: ""
+09/09 15:30:24:041 orderId = 125409422 | requestId = 0 | orderDate = 2013/09/09 15:30:23 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = DK CAM | isdn = 84922000514 | subscriberType = -1 | shipTo =  | actionType = register | productId = 274 | amount = 0.0 | provisioningType = SMSC | commandId = 0 | cause = error | status = 4 | description = null | balance = 
+09/09 15:30:24:063 For input string: ""
+09/09 15:30:24:168 Total 0 instances are started
+09/09 15:30:24:169 Total 1 instances are added
+09/09 15:33:10:228 Create order(84922000514) cost time: 10ms
+09/09 15:33:10:234 SEND: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000514}. ID=149002
+09/09 15:33:10:354 RECEIVE:cosname=VMAX,status=Active,active_date=05/09/2013 02:17:51,{84922000514}PROMOTION_60{200.0;18/11/2013 08:59:59},. ID=149002. costTime=119
+09/09 15:33:10:363 Update order(84922000514) cost time: 7ms
+09/09 15:33:10:365 84922000514: LOYALTY - LOYALTY.VALIDATE
+09/09 15:33:10:366 orderId = 125409423 | requestId = 0 | orderDate = 2013/09/09 15:33:10 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 2000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 200.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+09/09 15:34:50:081 Close pool
+09/09 15:34:50:182 Close queue connection pool.
+09/09 15:34:50:188 End of process session
+09/09 15:34:50:190 Order Routing stopped
+09/09 15:34:52:104 Order Routing started
+09/09 15:34:52:125 Close pool
+09/09 15:34:52:126 Close pool
+09/09 15:34:52:126 Testing connection ...
+09/09 15:34:52:130 Created provisioning instance for CCWS
+09/09 15:34:52:130 Testing connection are success
+09/09 15:34:52:131 Starting process session
+09/09 15:34:53:394 Total 0 instances are started
+09/09 15:34:53:396 Total 1 instances are added
+09/09 15:35:02:295 Create order(84922000514) cost time: 9ms
+09/09 15:35:02:301 SEND: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000514}. ID=149003
+09/09 15:35:02:405 RECEIVE:cosname=VMAX,status=Active,active_date=05/09/2013 02:17:51,{84922000514}PROMOTION_60{200.0;18/11/2013 08:59:59},. ID=149003. costTime=103
+09/09 15:35:02:414 For input string: ""
+09/09 15:35:02:414 orderId = 125409424 | requestId = 0 | orderDate = 2013/09/09 15:35:02 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = DK CAM | isdn = 84922000514 | subscriberType = -1 | shipTo =  | actionType = register | productId = 274 | amount = 0.0 | provisioningType = SMSC | commandId = 0 | cause = error | status = 4 | description = null | balance = 
+09/09 15:35:02:426 For input string: ""
+09/09 15:35:02:531 Total 0 instances are started
+09/09 15:35:02:532 Total 1 instances are added
+09/09 15:36:41:147 Close pool
+09/09 15:36:41:248 Close queue connection pool.
+09/09 15:36:41:256 End of process session
+09/09 15:36:41:258 Order Routing stopped
+09/09 15:36:43:172 Order Routing started
+09/09 15:36:43:198 Close pool
+09/09 15:36:43:198 Close pool
+09/09 15:36:43:199 Testing connection ...
+09/09 15:36:43:202 Created provisioning instance for CCWS
+09/09 15:36:43:203 Testing connection are success
+09/09 15:36:43:203 Starting process session
+09/09 15:36:43:966 Total 0 instances are started
+09/09 15:36:43:967 Total 1 instances are added
+09/09 15:36:48:499 Create order(84922000514) cost time: 21ms
+09/09 15:36:48:673 Update order(84922000514) cost time: 11ms
+09/09 15:36:48:674 84922000514: LOYALTY - CRM.SUBSCRIPTION_REGIST
+09/09 15:36:48:675 orderId = 125409425 | requestId = 0 | orderDate = 2013/09/09 15:36:48 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = DK CAM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = register | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 13119 | cause =  | status = 1 | description =  | balance = 
+09/09 15:37:29:395 Create order(84922000514) cost time: 11ms
+09/09 15:37:29:417 SEND: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000514}. ID=149005
+09/09 15:37:29:520 RECEIVE:cosname=VMAX,status=Active,active_date=05/09/2013 02:17:51,{84922000514}PROMOTION_60{200.0;18/11/2013 08:59:59},. ID=149005. costTime=102
+09/09 15:37:29:528 Update order(84922000514) cost time: 7ms
+09/09 15:37:29:529 84922000514: LOYALTY - LOYALTY.VALIDATE
+09/09 15:37:29:529 orderId = 125409426 | requestId = 0 | orderDate = 2013/09/09 15:37:29 | userName = system | subProductId = 52789553 | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 2000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 200.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+09/09 15:40:44:442 Create order(84922000514) cost time: 10ms
+09/09 15:40:44:448 SEND: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000514}. ID=149007
+09/09 15:40:44:555 RECEIVE:cosname=VMAX,status=Active,active_date=05/09/2013 02:17:51,{84922000514}PROMOTION_60{400.0;19/11/2013 08:59:59},. ID=149007. costTime=107
+09/09 15:40:44:564 Update order(84922000514) cost time: 5ms
+09/09 15:40:44:565 84922000514: LOYALTY - LOYALTY.VALIDATE
+09/09 15:40:44:565 orderId = 125409427 | requestId = 0 | orderDate = 2013/09/09 15:40:44 | userName = system | subProductId = 52789553 | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 2000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 200.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+09/09 15:44:54:193 Order Routing started
+09/09 15:44:58:600 Testing connection ...
+09/09 15:44:59:757 Created provisioning instance for CCWS
+09/09 15:44:59:757 Testing connection are success
+09/09 15:44:59:758 Starting process session
+09/09 15:45:01:146 Total 0 instances are started
+09/09 15:45:01:147 Total 1 instances are added
+09/09 15:45:13:839 Close pool
+09/09 15:45:13:940 Close queue connection pool.
+09/09 15:45:13:946 End of process session
+09/09 15:45:13:948 Order Routing stopped
+09/09 15:45:15:873 Order Routing started
+09/09 15:45:15:897 Close pool
+09/09 15:45:15:898 Close pool
+09/09 15:45:15:898 Testing connection ...
+09/09 15:45:15:905 Created provisioning instance for CCWS
+09/09 15:45:15:906 Testing connection are success
+09/09 15:45:15:906 Starting process session
+09/09 15:45:16:681 Total 0 instances are started
+09/09 15:45:16:682 Total 1 instances are added
+09/09 15:45:21:163 Create order(84922000514) cost time: 27ms
+09/09 15:45:21:203 SEND: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000514}. ID=150001
+09/09 15:45:22:140 RECEIVE:cosname=VMAX,status=Active,active_date=05/09/2013 02:17:51,{84922000514}PROMOTION_60{200.0;20/11/2013 08:59:59},. ID=150001. costTime=936
+09/09 15:45:22:158 Update order(84922000514) cost time: 8ms
+09/09 15:45:22:159 84922000514: LOYALTY - LOYALTY.VALIDATE
+09/09 15:45:22:160 orderId = 125409430 | requestId = 0 | orderDate = 2013/09/09 15:45:21 | userName = system | subProductId = 52789553 | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 2000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 200.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+09/09 15:46:29:161 Create order(84922000514) cost time: 18ms
+09/09 15:46:29:182 SEND: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000514}. ID=150003
+09/09 15:46:29:292 RECEIVE:cosname=VMAX,status=Active,active_date=05/09/2013 02:17:51,{84922000514}PROMOTION_60{400.0;21/11/2013 08:59:59},. ID=150003. costTime=109
+09/09 15:46:29:301 Update order(84922000514) cost time: 7ms
+09/09 15:46:29:302 84922000514: LOYALTY - LOYALTY.VALIDATE
+09/09 15:46:29:302 orderId = 125409431 | requestId = 0 | orderDate = 2013/09/09 15:46:29 | userName = system | subProductId = 52789553 | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 2000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 200.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+09/09 15:47:15:248 Create order(84922000514) cost time: 11ms
+09/09 15:47:15:254 SEND: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000514}. ID=150005
+09/09 15:47:15:366 RECEIVE:cosname=VMAX,status=Active,active_date=05/09/2013 02:17:51,{84922000514}PROMOTION_60{600.0;22/11/2013 08:59:59},. ID=150005. costTime=111
+09/09 15:47:15:373 Update order(84922000514) cost time: 5ms
+09/09 15:47:15:374 84922000514: LOYALTY - LOYALTY.VALIDATE
+09/09 15:47:15:374 orderId = 125409432 | requestId = 0 | orderDate = 2013/09/09 15:47:15 | userName = system | subProductId = 52789553 | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 2000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 200.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+09/09 16:27:13:606 Close pool
+09/09 16:27:13:800 Close queue connection pool.
+09/09 16:27:13:827 End of process session
+09/09 16:27:13:828 Order Routing stopped
+09/09 16:27:15:638 Order Routing started
+09/09 16:27:15:663 Close pool
+09/09 16:27:15:664 Close pool
+09/09 16:27:15:664 Testing connection ...
+09/09 16:27:15:752 Created provisioning instance for CCWS
+09/09 16:27:15:753 Testing connection are success
+09/09 16:27:15:755 Starting process session
+09/09 16:27:16:603 Total 0 instances are started
+09/09 16:27:16:605 Total 1 instances are added
+09/09 16:27:36:922 Create order(84922000514) cost time: 21ms
+09/09 16:27:36:948 SEND: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000514}. ID=150007
+09/09 16:27:37:066 RECEIVE:cosname=VMAX,status=Active,active_date=05/09/2013 02:17:51,{84922000514}. ID=150007. costTime=117
+09/09 16:27:37:082 Update order(84922000514) cost time: 14ms
+09/09 16:27:37:083 84922000514: LOYALTY - LOYALTY.VALIDATE
+09/09 16:27:37:084 orderId = 125409448 | requestId = 0 | orderDate = 2013/09/09 16:27:36 | userName = system | subProductId = 52789553 | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 2000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 200.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+09/09 16:28:28:234 Order Routing started
+09/09 16:28:31:847 Testing connection ...
+09/09 16:28:32:797 Created provisioning instance for CCWS
+09/09 16:28:32:798 Testing connection are success
+09/09 16:28:32:798 Starting process session
+09/09 16:28:33:870 Total 0 instances are started
+09/09 16:28:33:870 Total 1 instances are added
+09/09 16:29:26:505 Create order(84922000514) cost time: 156ms
+09/09 16:29:26:683 SEND: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000514}. ID=151001
+09/09 16:29:28:721 RECEIVE:cosname=VMAX,status=Active,active_date=05/09/2013 02:17:51,{84922000514}PROMOTION_60{200.0;24/11/2013 08:59:59},. ID=151001. costTime=2036
+09/09 16:29:28:772 Update order(84922000514) cost time: 16ms
+09/09 16:29:28:819 84922000514: LOYALTY - LOYALTY.VALIDATE
+09/09 16:29:28:821 orderId = 125409449 | requestId = 0 | orderDate = 2013/09/09 16:29:26 | userName = system | subProductId = 52789553 | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 2000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 200.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+09/09 16:33:20:166 Create order(84922000514) cost time: 21ms
+09/09 16:33:20:194 SEND: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000514}. ID=151004
+09/09 16:33:20:283 RECEIVE:cosname=VMAX,status=Active,active_date=05/09/2013 02:17:51,{84922000514}PROMOTION_60{400.0;25/11/2013 08:59:59},. ID=151004. costTime=88
+09/09 16:33:20:297 Update order(84922000514) cost time: 12ms
+09/09 16:33:20:298 84922000514: LOYALTY - LOYALTY.VALIDATE
+09/09 16:33:20:299 orderId = 125409450 | requestId = 0 | orderDate = 2013/09/09 16:33:20 | userName = system | subProductId = 52789553 | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 2000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 200.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+09/09 16:34:39:198 Create order(84922000514) cost time: 12ms
+09/09 16:34:39:205 SEND: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000514}. ID=151007
+09/09 16:34:39:291 RECEIVE:cosname=VMAX,status=Active,active_date=05/09/2013 02:17:51,{84922000514}PROMOTION_60{600.0;26/11/2013 08:59:59},. ID=151007. costTime=85
+09/09 16:34:39:302 Update order(84922000514) cost time: 9ms
+09/09 16:34:39:302 84922000514: LOYALTY - LOYALTY.VALIDATE
+09/09 16:34:39:303 orderId = 125409451 | requestId = 0 | orderDate = 2013/09/09 16:34:39 | userName = system | subProductId = 52789553 | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 2000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 200.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+09/09 16:39:26:961 Order Routing started
+09/09 16:39:31:554 Testing connection ...
+09/09 16:39:32:749 Created provisioning instance for CCWS
+09/09 16:39:32:751 Testing connection are success
+09/09 16:39:32:752 Starting process session
+09/09 16:39:34:346 Total 0 instances are started
+09/09 16:39:34:349 Total 1 instances are added
+09/09 16:39:46:163 Create order(84922000514) cost time: 154ms
+09/09 16:39:46:350 SEND: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000514}. ID=152001
+09/09 16:39:47:901 RECEIVE:cosname=VMAX,status=Active,active_date=05/09/2013 02:17:51,{84922000514}PROMOTION_60{800.0;27/11/2013 08:59:59},. ID=152001. costTime=1550
+09/09 16:39:47:951 Update order(84922000514) cost time: 15ms
+09/09 16:39:47:966 84922000514: LOYALTY - LOYALTY.VALIDATE
+09/09 16:39:47:966 orderId = 125409452 | requestId = 0 | orderDate = 2013/09/09 16:39:46 | userName = system | subProductId = 52789553 | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 2000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 200.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+09/09 16:45:14:999 Create order(84922000514) cost time: 10ms
+09/09 16:45:15:009 SEND: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000514}. ID=152004
+09/09 16:45:15:122 RECEIVE:cosname=VMAX,status=Active,active_date=05/09/2013 02:17:51,{84922000514}PROMOTION_60{1000.0;28/11/2013 08:59:59},. ID=152004. costTime=112
+09/09 16:45:15:128 Update order(84922000514) cost time: 4ms
+09/09 16:45:15:129 84922000514: LOYALTY - LOYALTY.VALIDATE
+09/09 16:45:15:129 orderId = 125409453 | requestId = 0 | orderDate = 2013/09/09 16:45:14 | userName = system | subProductId = 52789553 | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 2000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 200.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+09/09 16:47:06:038 Create order(84922000514) cost time: 14ms
+09/09 16:47:06:063 SEND: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000514}. ID=152007
+09/09 16:47:06:200 RECEIVE:cosname=VMAX,status=Active,active_date=05/09/2013 02:17:51,{84922000514}PROMOTION_60{1200.0;29/11/2013 08:59:59},. ID=152007. costTime=137
+09/09 16:47:06:210 Update order(84922000514) cost time: 8ms
+09/09 16:47:06:211 84922000514: LOYALTY - LOYALTY.VALIDATE
+09/09 16:47:06:211 orderId = 125409454 | requestId = 0 | orderDate = 2013/09/09 16:47:06 | userName = system | subProductId = 52789553 | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 2000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 200.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+09/09 16:47:58:078 Create order(84922000514) cost time: 15ms
+09/09 16:47:58:102 SEND: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000514}. ID=152010
+09/09 16:47:58:228 RECEIVE:cosname=VMAX,status=Active,active_date=05/09/2013 02:17:51,{84922000514}PROMOTION_60{1400.0;30/11/2013 08:59:59},. ID=152010. costTime=125
+09/09 16:47:58:240 Update order(84922000514) cost time: 10ms
+09/09 16:47:58:240 84922000514: LOYALTY - LOYALTY.VALIDATE
+09/09 16:47:58:241 orderId = 125409455 | requestId = 0 | orderDate = 2013/09/09 16:47:58 | userName = system | subProductId = 52789553 | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 2000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 200.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+09/09 16:48:27:139 Create order(84922000514) cost time: 8ms
+09/09 16:48:27:145 SEND: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000514}. ID=152013
+09/09 16:48:27:261 RECEIVE:cosname=VMAX,status=Active,active_date=05/09/2013 02:17:51,{84922000514}PROMOTION_60{1600.0;01/12/2013 08:59:59},. ID=152013. costTime=115
+09/09 16:48:27:267 Update order(84922000514) cost time: 5ms
+09/09 16:48:27:268 84922000514: LOYALTY - LOYALTY.VALIDATE
+09/09 16:48:27:268 orderId = 125409456 | requestId = 0 | orderDate = 2013/09/09 16:48:27 | userName = system | subProductId = 52789553 | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 2000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 200.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+09/09 16:50:00:182 Create order(84922000514) cost time: 12ms
+09/09 16:50:00:188 SEND: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000514}. ID=152016
+09/09 16:50:00:292 RECEIVE:cosname=VMAX,status=Active,active_date=05/09/2013 02:17:51,{84922000514}PROMOTION_60{1800.0;02/12/2013 08:59:59},. ID=152016. costTime=103
+09/09 16:50:00:299 Update order(84922000514) cost time: 5ms
+09/09 16:50:00:299 84922000514: LOYALTY - LOYALTY.VALIDATE
+09/09 16:50:00:299 orderId = 125409457 | requestId = 0 | orderDate = 2013/09/09 16:50:00 | userName = system | subProductId = 52789553 | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 2000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 200.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+09/09 16:51:03:074 Order Routing started
+09/09 16:51:07:409 Testing connection ...
+09/09 16:51:08:301 Created provisioning instance for CCWS
+09/09 16:51:08:301 Testing connection are success
+09/09 16:51:08:302 Starting process session
+09/09 16:51:09:849 Total 0 instances are started
+09/09 16:51:09:850 Total 1 instances are added
+09/09 16:51:32:649 Close pool
+09/09 16:51:32:750 Close queue connection pool.
+09/09 16:51:32:761 End of process session
+09/09 16:51:32:763 Order Routing stopped
+09/09 16:51:34:682 Order Routing started
+09/09 16:51:34:704 Close pool
+09/09 16:51:34:705 Close pool
+09/09 16:51:34:705 Testing connection ...
+09/09 16:51:34:713 Created provisioning instance for CCWS
+09/09 16:51:34:713 Testing connection are success
+09/09 16:51:34:714 Starting process session
+09/09 16:51:35:511 Total 0 instances are started
+09/09 16:51:35:512 Total 1 instances are added
+09/09 16:51:43:963 Create order(84922000514) cost time: 24ms
+09/09 16:51:43:991 SEND: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000514}. ID=153001
+09/09 16:51:45:050 RECEIVE:cosname=VMAX,status=Active,active_date=05/09/2013 02:17:51,{84922000514}PROMOTION_60{2000.0;03/12/2013 08:59:59},. ID=153001. costTime=1058
+09/09 16:51:45:068 Update order(84922000514) cost time: 9ms
+09/09 16:51:45:070 84922000514: LOYALTY - LOYALTY.VALIDATE
+09/09 16:51:45:071 orderId = 125409458 | requestId = 0 | orderDate = 2013/09/09 16:51:43 | userName = system | subProductId = 52789553 | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 2000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 200.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+09/09 16:52:19:257 Order Routing started
+09/09 16:52:23:472 Testing connection ...
+09/09 16:52:24:253 Created provisioning instance for CCWS
+09/09 16:52:24:253 Testing connection are success
+09/09 16:52:24:254 Starting process session
+09/09 16:52:25:869 Total 0 instances are started
+09/09 16:52:25:869 Total 1 instances are added
+09/09 16:52:53:383 Create order(84922000514) cost time: 36ms
+09/09 16:52:53:420 SEND: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000514}. ID=154001
+09/09 16:52:54:394 RECEIVE:cosname=VMAX,status=Active,active_date=05/09/2013 02:17:51,{84922000514}PROMOTION_60{2200.0;04/12/2013 08:59:59},. ID=154001. costTime=973
+09/09 16:52:54:413 Update order(84922000514) cost time: 15ms
+09/09 16:52:54:415 84922000514: LOYALTY - LOYALTY.VALIDATE
+09/09 16:52:54:416 orderId = 125409459 | requestId = 0 | orderDate = 2013/09/09 16:52:53 | userName = system | subProductId = 52789553 | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 2000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 200.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+09/09 16:53:51:295 Create order(84922000514) cost time: 9ms
+09/09 16:53:51:300 SEND: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000514}. ID=154004
+09/09 16:53:51:393 RECEIVE:cosname=VMAX,status=Active,active_date=05/09/2013 02:17:51,{84922000514}PROMOTION_60{2000.0;05/12/2013 08:59:59},. ID=154004. costTime=92
+09/09 16:53:51:401 Update order(84922000514) cost time: 6ms
+09/09 16:53:51:402 84922000514: LOYALTY - LOYALTY.VALIDATE
+09/09 16:53:51:403 orderId = 125409460 | requestId = 0 | orderDate = 2013/09/09 16:53:51 | userName = system | subProductId = 52789553 | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 2000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 200.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+09/09 16:58:25:385 Create order(84922000514) cost time: 13ms
+09/09 16:58:25:414 SEND: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000514}. ID=154007
+09/09 16:58:25:505 RECEIVE:cosname=VMAX,status=Active,active_date=05/09/2013 02:17:51,{84922000514}PROMOTION_60{1800.0;06/12/2013 08:59:59},. ID=154007. costTime=90
+09/09 16:58:25:517 Update order(84922000514) cost time: 10ms
+09/09 16:58:25:518 84922000514: LOYALTY - LOYALTY.VALIDATE
+09/09 16:58:25:518 orderId = 125409461 | requestId = 0 | orderDate = 2013/09/09 16:58:25 | userName = system | subProductId = 52789553 | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 2000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 200.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+09/09 16:58:46:221 Close pool
+09/09 16:58:46:322 Close queue connection pool.
+09/09 16:58:46:329 End of process session
+09/09 16:58:46:331 Order Routing stopped
+09/09 16:58:48:257 Order Routing started
+09/09 16:58:48:275 Close pool
+09/09 16:58:48:276 Close pool
+09/09 16:58:48:276 Testing connection ...
+09/09 16:58:48:280 Created provisioning instance for CCWS
+09/09 16:58:48:280 Testing connection are success
+09/09 16:58:48:281 Starting process session
+09/09 16:58:49:062 Total 0 instances are started
+09/09 16:58:49:066 Total 1 instances are added
+09/09 16:58:53:458 Create order(84922000514) cost time: 20ms
+09/09 16:58:53:481 SEND: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000514}. ID=154010
+09/09 16:58:53:574 RECEIVE:cosname=VMAX,status=Active,active_date=05/09/2013 02:17:51,{84922000514}PROMOTION_60{1600.0;07/12/2013 08:59:59},. ID=154010. costTime=92
+09/09 16:58:53:591 Update order(84922000514) cost time: 14ms
+09/09 16:58:53:592 84922000514: LOYALTY - LOYALTY.VALIDATE
+09/09 16:58:53:593 orderId = 125409462 | requestId = 0 | orderDate = 2013/09/09 16:58:53 | userName = system | subProductId = 52789553 | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 2000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 200.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+09/09 17:01:53:386 Close pool
+09/09 17:01:53:487 Close queue connection pool.
+09/09 17:01:53:493 End of process session
+09/09 17:01:53:495 Order Routing stopped
+09/09 17:01:55:419 Order Routing started
+09/09 17:01:55:445 Close pool
+09/09 17:01:55:446 Close pool
+09/09 17:01:55:446 Testing connection ...
+09/09 17:01:55:450 Created provisioning instance for CCWS
+09/09 17:01:55:450 Testing connection are success
+09/09 17:01:55:451 Starting process session
+09/09 17:01:56:153 Total 0 instances are started
+09/09 17:01:56:154 Total 1 instances are added
+09/09 17:01:59:618 Create order(84922000514) cost time: 8ms
+09/09 17:01:59:624 SEND: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000514}. ID=154011
+09/09 17:01:59:719 RECEIVE:cosname=VMAX,status=Active,active_date=05/09/2013 02:17:51,{84922000514}PROMOTION_60{1600.0;07/12/2013 08:59:59},. ID=154011. costTime=94
+09/09 17:01:59:726 Update order(84922000514) cost time: 5ms
+09/09 17:01:59:727 84922000514: LOYALTY - LOYALTY.VALIDATE
+09/09 17:01:59:727 orderId = 125409463 | requestId = 0 | orderDate = 2013/09/09 17:01:59 | userName = system | subProductId = 52789553 | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 2000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 200.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+09/09 17:04:48:532 Order Routing started
+09/09 17:04:50:783 Testing connection ...
+09/09 17:04:53:309 Created provisioning instance for CCWS
+09/09 17:04:53:309 Testing connection are success
+09/09 17:04:53:309 Starting process session
+09/09 17:04:54:772 Total 0 instances are started
+09/09 17:04:54:773 Total 1 instances are added
+09/09 17:05:11:271 Close pool
+09/09 17:05:11:372 Close queue connection pool.
+09/09 17:05:11:379 End of process session
+09/09 17:05:11:380 Order Routing stopped
+09/09 17:05:13:281 Order Routing started
+09/09 17:05:13:301 Close pool
+09/09 17:05:13:301 Close pool
+09/09 17:05:13:302 Testing connection ...
+09/09 17:05:13:305 Created provisioning instance for CCWS
+09/09 17:05:13:306 Testing connection are success
+09/09 17:05:13:306 Starting process session
+09/09 17:05:14:122 Total 0 instances are started
+09/09 17:05:14:123 Total 1 instances are added
+09/09 17:05:19:512 Create order(84922000514) cost time: 23ms
+09/09 17:05:19:538 SEND: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000514}. ID=155001
+09/09 17:05:20:474 RECEIVE:cosname=VMAX,status=Active,active_date=05/09/2013 02:17:51,{84922000514}PROMOTION_60{1600.0;07/12/2013 08:59:59},. ID=155001. costTime=934
+09/09 17:05:20:488 Update order(84922000514) cost time: 10ms
+09/09 17:05:20:490 84922000514: LOYALTY - LOYALTY.VALIDATE
+09/09 17:05:20:490 orderId = 125409464 | requestId = 0 | orderDate = 2013/09/09 17:05:19 | userName = system | subProductId = 52789553 | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 2000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 200.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+09/09 17:12:24:548 Create order(84922000514) cost time: 24ms
+09/09 17:12:24:577 SEND: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000514}. ID=155002
+09/09 17:12:24:681 RECEIVE:cosname=VMAX,status=Active,active_date=05/09/2013 02:17:51,{84922000514}PROMOTION_60{1600.0;07/12/2013 08:59:59},. ID=155002. costTime=103
+09/09 17:12:24:696 Update order(84922000514) cost time: 13ms
+09/09 17:12:24:697 84922000514: LOYALTY - LOYALTY.VALIDATE
+09/09 17:12:24:697 orderId = 125409465 | requestId = 0 | orderDate = 2013/09/09 17:12:24 | userName = system | subProductId = 52789553 | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 2000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 200.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+09/09 17:15:16:663 Order Routing started
+09/09 17:15:20:675 Testing connection ...
+09/09 17:15:21:353 Created provisioning instance for CCWS
+09/09 17:15:21:353 Testing connection are success
+09/09 17:15:21:354 Starting process session
+09/09 17:15:22:905 Total 0 instances are started
+09/09 17:15:22:905 Total 1 instances are added
+09/09 17:15:38:145 Close pool
+09/09 17:15:38:247 Close queue connection pool.
+09/09 17:15:38:255 End of process session
+09/09 17:15:38:256 Order Routing stopped
+09/09 17:15:40:179 Order Routing started
+09/09 17:15:40:204 Close pool
+09/09 17:15:40:205 Close pool
+09/09 17:15:40:205 Testing connection ...
+09/09 17:15:40:209 Created provisioning instance for CCWS
+09/09 17:15:40:209 Testing connection are success
+09/09 17:15:40:210 Starting process session
+09/09 17:15:41:137 Total 0 instances are started
+09/09 17:15:41:138 Total 1 instances are added
+09/09 17:15:43:397 Create order(84922000514) cost time: 23ms
+09/09 17:15:43:425 SEND: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000514}. ID=156001
+09/09 17:15:44:264 RECEIVE:cosname=VMAX,status=Active,active_date=05/09/2013 02:17:51,{84922000514}PROMOTION_60{1600.0;07/12/2013 08:59:59},. ID=156001. costTime=838
+09/09 17:15:44:282 Update order(84922000514) cost time: 13ms
+09/09 17:15:44:284 84922000514: LOYALTY - LOYALTY.VALIDATE
+09/09 17:15:44:284 orderId = 125409466 | requestId = 0 | orderDate = 2013/09/09 17:15:43 | userName = system | subProductId = 52789553 | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 2000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 200.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+09/09 17:16:55:452 Create order(84922000514) cost time: 13ms
+09/09 17:16:55:469 SEND: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000514}. ID=156003
+09/09 17:16:55:576 RECEIVE:cosname=VMAX,status=Active,active_date=05/09/2013 02:17:51,{84922000514}PROMOTION_60{1800.0;08/12/2013 08:59:59},. ID=156003. costTime=106
+09/09 17:16:55:605 Update order(84922000514) cost time: 27ms
+09/09 17:16:55:606 84922000514: LOYALTY - LOYALTY.VALIDATE
+09/09 17:16:55:607 orderId = 125409467 | requestId = 0 | orderDate = 2013/09/09 17:16:55 | userName = system | subProductId = 52789553 | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 2000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 200.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+09/09 17:19:25:640 Order Routing started
+09/09 17:19:29:794 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.unRedeem(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+09/09 17:19:29:795 End of process session
+09/09 17:19:39:882 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.unRedeem(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+09/09 17:19:39:883 End of process session
+09/09 17:19:49:945 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.unRedeem(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+09/09 17:19:49:946 End of process session
+09/09 17:20:00:010 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.unRedeem(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+09/09 17:20:00:011 End of process session
+09/09 17:20:10:116 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.unRedeem(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+09/09 17:20:10:117 End of process session
+09/09 17:20:20:176 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.unRedeem(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+09/09 17:20:20:177 End of process session
+09/09 17:20:30:237 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.unRedeem(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+09/09 17:20:30:238 End of process session
+09/09 17:20:40:310 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.unRedeem(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+09/09 17:20:40:311 End of process session
+09/09 17:20:50:386 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.unRedeem(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+09/09 17:20:50:387 End of process session
+09/09 17:21:00:447 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.unRedeem(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+09/09 17:21:00:448 End of process session
+09/09 17:21:10:505 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.unRedeem(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+09/09 17:21:10:506 End of process session
+09/09 17:21:20:562 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.unRedeem(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+09/09 17:21:20:562 End of process session
+09/09 17:21:30:633 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.unRedeem(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+09/09 17:21:30:633 End of process session
+09/09 17:21:40:701 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.unRedeem(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+09/09 17:21:40:702 End of process session
+09/09 17:21:50:762 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.unRedeem(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+09/09 17:21:50:763 End of process session
+09/09 17:22:00:839 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.unRedeem(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+09/09 17:22:00:839 End of process session
+09/09 17:22:10:899 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.unRedeem(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+09/09 17:22:10:901 End of process session
+09/09 17:22:20:988 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.unRedeem(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+09/09 17:22:20:989 End of process session
+09/09 17:22:31:050 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.unRedeem(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+09/09 17:22:31:051 End of process session
+09/09 17:22:41:114 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.unRedeem(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+09/09 17:22:41:115 End of process session
+09/09 17:22:51:178 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.unRedeem(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+09/09 17:22:51:180 End of process session
+09/09 17:23:01:243 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.unRedeem(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+09/09 17:23:01:244 End of process session
+09/09 17:23:11:304 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.unRedeem(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+09/09 17:23:11:305 End of process session
+09/09 17:23:21:372 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.unRedeem(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+09/09 17:23:21:373 End of process session
+09/09 17:23:31:431 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.unRedeem(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+09/09 17:23:31:432 End of process session
+09/09 17:23:41:492 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.unRedeem(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+09/09 17:23:41:493 End of process session
+09/09 17:23:51:568 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.unRedeem(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+09/09 17:23:51:569 End of process session
+09/09 17:24:01:632 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.unRedeem(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+09/09 17:24:01:633 End of process session
+09/09 17:24:11:694 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.unRedeem(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+09/09 17:24:11:695 End of process session
+09/09 17:24:21:754 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.unRedeem(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+09/09 17:24:21:755 End of process session
+09/09 17:24:31:818 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.unRedeem(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+09/09 17:24:31:819 End of process session
+09/09 17:24:41:877 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.unRedeem(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+09/09 17:24:41:878 End of process session
+09/09 17:25:12:455 Order Routing started
+09/09 17:25:17:120 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.unRedeem(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+09/09 17:25:17:120 End of process session
+09/09 17:25:27:185 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.unRedeem(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+09/09 17:25:27:186 End of process session
+09/09 17:25:37:241 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.unRedeem(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+09/09 17:25:37:242 End of process session
+09/09 17:25:47:305 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.unRedeem(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+09/09 17:25:47:306 End of process session
+09/09 17:25:57:366 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.unRedeem(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+09/09 17:25:57:367 End of process session
+09/09 17:26:07:431 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.unRedeem(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+09/09 17:26:07:432 End of process session
+09/09 17:26:17:502 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.unRedeem(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+09/09 17:26:17:503 End of process session
+09/09 17:26:27:562 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.unRedeem(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+09/09 17:26:27:563 End of process session
+09/09 17:26:37:669 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.unRedeem(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+09/09 17:26:37:671 End of process session
+09/09 17:26:47:731 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.unRedeem(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+09/09 17:26:47:732 End of process session
+09/09 17:26:57:818 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.unRedeem(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+09/09 17:26:57:819 End of process session
+09/09 17:27:07:820 Order Routing stopped
+09/09 17:27:09:225 Order Routing started
+09/09 17:27:09:247 Testing connection ...
+09/09 17:27:10:838 Created provisioning instance for CCWS
+09/09 17:27:10:839 Testing connection are success
+09/09 17:27:10:839 Starting process session
+09/09 17:27:11:555 Total 0 instances are started
+09/09 17:27:11:556 Total 1 instances are added
+09/09 17:27:11:739 Create order(84922000514) cost time: 109ms
+09/09 17:27:11:872 SEND: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000514}. ID=157001
+09/09 17:27:15:300 RECEIVE:cosname=VMAX,status=Active,active_date=05/09/2013 02:17:51,{84922000514}PROMOTION_60{2000.0;09/12/2013 08:59:59},. ID=157001. costTime=3426
+09/09 17:27:15:316 Update order(84922000514) cost time: 12ms
+09/09 17:27:15:342 84922000514: LOYALTY - LOYALTY.VALIDATE
+09/09 17:27:15:343 orderId = 125409468 | requestId = 0 | orderDate = 2013/09/09 17:27:11 | userName = system | subProductId = 52789553 | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 2000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 200.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+09/09 17:28:41:169 Order Routing started
+09/09 17:28:45:189 Testing connection ...
+09/09 17:28:46:121 Created provisioning instance for CCWS
+09/09 17:28:46:122 Testing connection are success
+09/09 17:28:46:122 Starting process session
+09/09 17:28:48:121 Total 0 instances are started
+09/09 17:28:48:121 Total 1 instances are added
+09/09 17:29:01:691 Close pool
+09/09 17:29:01:792 Close queue connection pool.
+09/09 17:29:01:797 End of process session
+09/09 17:29:01:798 Order Routing stopped
+09/09 17:29:03:716 Order Routing started
+09/09 17:29:03:739 Close pool
+09/09 17:29:03:740 Close pool
+09/09 17:29:03:740 Testing connection ...
+09/09 17:29:03:744 Created provisioning instance for CCWS
+09/09 17:29:03:744 Testing connection are success
+09/09 17:29:03:745 Starting process session
+09/09 17:29:04:526 Total 0 instances are started
+09/09 17:29:04:527 Total 1 instances are added
+09/09 17:29:09:970 Create order(84922000514) cost time: 24ms
+09/09 17:29:09:999 SEND: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000514}. ID=158001
+09/09 17:29:10:792 RECEIVE:cosname=VMAX,status=Active,active_date=05/09/2013 02:17:51,{84922000514}PROMOTION_60{2200.0;10/12/2013 08:59:59},. ID=158001. costTime=791
+09/09 17:29:10:807 Update order(84922000514) cost time: 10ms
+09/09 17:29:10:808 84922000514: LOYALTY - LOYALTY.VALIDATE
+09/09 17:29:10:809 orderId = 125409469 | requestId = 0 | orderDate = 2013/09/09 17:29:09 | userName = system | subProductId = 52789553 | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 2000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 200.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+09/09 17:31:09:940 Order Routing started
+09/09 17:31:11:363 Testing connection ...
+09/09 17:31:14:268 Created provisioning instance for CCWS
+09/09 17:31:14:269 Testing connection are success
+09/09 17:31:14:271 Starting process session
+09/09 17:31:15:838 Total 0 instances are started
+09/09 17:31:15:840 Total 1 instances are added
+09/09 17:31:33:923 Create order(84922000514) cost time: 34ms
+09/09 17:31:33:970 SEND: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000514}. ID=159001
+09/09 17:31:34:964 RECEIVE:cosname=VMAX,status=Active,active_date=05/09/2013 02:17:51,{84922000514}PROMOTION_60{2200.0;10/12/2013 08:59:59},. ID=159001. costTime=992
+09/09 17:31:34:983 Update order(84922000514) cost time: 14ms
+09/09 17:31:34:985 84922000514: LOYALTY - LOYALTY.VALIDATE
+09/09 17:31:34:986 orderId = 125409470 | requestId = 0 | orderDate = 2013/09/09 17:31:33 | userName = system | subProductId = 52789553 | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 2000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 200.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+09/09 17:34:05:919 Create order(84922000514) cost time: 14ms
+09/09 17:34:05:928 SEND: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000514}. ID=159003
+09/09 17:34:06:067 RECEIVE:cosname=VMAX,status=Active,active_date=05/09/2013 02:17:51,{84922000514}PROMOTION_60{2200.0;10/12/2013 08:59:59},. ID=159003. costTime=137
+09/09 17:34:06:076 Update order(84922000514) cost time: 7ms
+09/09 17:34:06:077 84922000514: LOYALTY - LOYALTY.VALIDATE
+09/09 17:34:06:077 orderId = 125409471 | requestId = 0 | orderDate = 2013/09/09 17:34:05 | userName = system | subProductId = 52789553 | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 2000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 200.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+09/09 17:35:26:942 Create order(84922000514) cost time: 13ms
+09/09 17:35:26:965 SEND: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000514}. ID=159005
+09/09 17:35:27:054 RECEIVE:cosname=VMAX,status=Active,active_date=05/09/2013 02:17:51,{84922000514}PROMOTION_60{2200.0;10/12/2013 08:59:59},. ID=159005. costTime=88
+09/09 17:35:27:064 Update order(84922000514) cost time: 8ms
+09/09 17:35:27:065 84922000514: LOYALTY - LOYALTY.VALIDATE
+09/09 17:35:27:065 orderId = 125409472 | requestId = 0 | orderDate = 2013/09/09 17:35:26 | userName = system | subProductId = 52789553 | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 2000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 200.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+09/09 17:43:59:956 Close pool
+09/09 17:44:00:057 Close queue connection pool.
+09/09 17:44:00:062 End of process session
+09/09 17:44:00:063 Order Routing stopped
+09/09 17:44:01:992 Order Routing started
+09/09 17:44:02:022 Close pool
+09/09 17:44:02:022 Close pool
+09/09 17:44:02:023 Testing connection ...
+09/09 17:44:02:027 Created provisioning instance for CCWS
+09/09 17:44:02:028 Testing connection are success
+09/09 17:44:02:029 Starting process session
+09/09 17:44:02:555 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.unRedeem(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+09/09 17:44:02:556 Close pool
+09/09 17:44:02:657 Close queue connection pool.
+09/09 17:44:02:658 End of process session
+09/09 17:44:12:719 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.unRedeem(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+09/09 17:44:12:720 Close pool
+09/09 17:44:12:821 Close queue connection pool.
+09/09 17:44:12:822 End of process session
+09/09 17:44:22:884 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.unRedeem(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+09/09 17:44:22:885 Close pool
+09/09 17:44:22:985 Close queue connection pool.
+09/09 17:44:22:986 End of process session
+09/09 17:44:33:056 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.unRedeem(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+09/09 17:44:33:057 Close pool
+09/09 17:44:33:157 Close queue connection pool.
+09/09 17:44:33:158 End of process session
+09/09 17:44:43:221 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.unRedeem(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+09/09 17:44:43:222 Close pool
+09/09 17:44:43:323 Close queue connection pool.
+09/09 17:44:43:324 End of process session
+09/09 17:44:53:386 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.unRedeem(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+09/09 17:44:53:387 Close pool
+09/09 17:44:53:488 Close queue connection pool.
+09/09 17:44:53:489 End of process session
+09/09 17:45:03:552 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.unRedeem(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+09/09 17:45:03:553 Close pool
+09/09 17:45:03:654 Close queue connection pool.
+09/09 17:45:03:655 End of process session
+09/09 17:45:13:715 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.unRedeem(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+09/09 17:45:13:715 Close pool
+09/09 17:45:13:816 Close queue connection pool.
+09/09 17:45:13:817 End of process session
+09/09 17:45:23:821 Order Routing stopped
+09/09 17:45:25:098 Order Routing started
+09/09 17:45:25:171 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.unRedeem(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+09/09 17:45:25:171 Close pool
+09/09 17:45:25:272 Close queue connection pool.
+09/09 17:45:25:273 End of process session
+09/09 17:45:35:330 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.unRedeem(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+09/09 17:45:35:331 Close pool
+09/09 17:45:35:432 Close queue connection pool.
+09/09 17:45:35:433 End of process session
+09/09 17:45:45:489 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.unRedeem(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+09/09 17:45:45:490 Close pool
+09/09 17:45:45:591 Close queue connection pool.
+09/09 17:45:45:592 End of process session
+09/09 17:45:46:594 Order Routing stopped
+09/09 17:45:48:132 Order Routing started
+09/09 17:45:48:208 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.unRedeem(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+09/09 17:45:48:209 Close pool
+09/09 17:45:48:309 Close queue connection pool.
+09/09 17:45:48:310 End of process session
+09/09 17:45:58:370 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.unRedeem(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+09/09 17:45:58:372 Close pool
+09/09 17:45:58:472 Close queue connection pool.
+09/09 17:45:58:473 End of process session
+09/09 17:46:08:550 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.unRedeem(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+09/09 17:46:08:551 Close pool
+09/09 17:46:08:651 Close queue connection pool.
+09/09 17:46:08:658 End of process session
+09/09 17:46:18:731 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.unRedeem(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+09/09 17:46:18:732 Close pool
+09/09 17:46:18:834 Close queue connection pool.
+09/09 17:46:18:835 End of process session
+09/09 17:46:28:895 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.unRedeem(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+09/09 17:46:28:896 Close pool
+09/09 17:46:28:997 Close queue connection pool.
+09/09 17:46:28:998 End of process session
+09/09 17:46:39:060 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.unRedeem(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+09/09 17:46:39:061 Close pool
+09/09 17:46:39:162 Close queue connection pool.
+09/09 17:46:39:163 End of process session
+09/09 17:46:49:224 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.unRedeem(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+09/09 17:46:49:225 Close pool
+09/09 17:46:49:326 Close queue connection pool.
+09/09 17:46:49:327 End of process session
+09/09 17:46:59:386 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.unRedeem(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+09/09 17:46:59:387 Close pool
+09/09 17:46:59:488 Close queue connection pool.
+09/09 17:46:59:489 End of process session
+09/09 17:47:09:550 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.unRedeem(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+09/09 17:47:09:551 Close pool
+09/09 17:47:09:652 Close queue connection pool.
+09/09 17:47:09:653 End of process session
+09/09 17:47:19:714 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.unRedeem(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+09/09 17:47:19:715 Close pool
+09/09 17:47:19:816 Close queue connection pool.
+09/09 17:47:19:817 End of process session
+09/09 17:47:29:888 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.unRedeem(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+09/09 17:47:29:889 Close pool
+09/09 17:47:29:990 Close queue connection pool.
+09/09 17:47:29:991 End of process session
+09/09 17:47:40:052 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.unRedeem(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+09/09 17:47:40:053 Close pool
+09/09 17:47:40:153 Close queue connection pool.
+09/09 17:47:40:154 End of process session
+09/09 17:47:50:214 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.unRedeem(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+09/09 17:47:50:215 Close pool
+09/09 17:47:50:315 Close queue connection pool.
+09/09 17:47:50:316 End of process session
+09/09 17:48:00:376 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.unRedeem(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+09/09 17:48:00:377 Close pool
+09/09 17:48:00:478 Close queue connection pool.
+09/09 17:48:00:479 End of process session
+09/09 17:48:38:063 Order Routing started
+09/09 17:48:42:051 Testing connection ...
+09/09 17:48:43:047 Created provisioning instance for CCWS
+09/09 17:48:43:048 Testing connection are success
+09/09 17:48:43:048 Starting process session
+09/09 17:48:44:673 Total 0 instances are started
+09/09 17:48:44:673 Total 1 instances are added
+09/09 17:48:44:779 Create order(84922000514) cost time: 32ms
+09/09 17:48:44:819 SEND: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000514}. ID=160001
+09/09 17:48:46:066 RECEIVE:cosname=VMAX,status=Active,active_date=05/09/2013 02:17:51,{84922000514}PROMOTION_60{2200.0;10/12/2013 08:59:59},. ID=160001. costTime=1247
+09/09 17:48:46:100 Update order(84922000514) cost time: 29ms
+09/09 17:48:46:101 84922000514: LOYALTY - LOYALTY.VALIDATE
+09/09 17:48:46:102 orderId = 125409473 | requestId = 0 | orderDate = 2013/09/09 17:48:44 | userName = system | subProductId = 52789553 | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 2000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 200.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+09/09 17:48:59:589 Close pool
+09/09 17:48:59:690 Close queue connection pool.
+09/09 17:48:59:696 End of process session
+09/09 17:48:59:697 Order Routing stopped
+09/09 17:49:01:617 Order Routing started
+09/09 17:49:01:640 Close pool
+09/09 17:49:01:641 Close pool
+09/09 17:49:01:641 Testing connection ...
+09/09 17:49:01:644 Created provisioning instance for CCWS
+09/09 17:49:01:645 Testing connection are success
+09/09 17:49:01:645 Starting process session
+09/09 17:49:02:404 Total 0 instances are started
+09/09 17:49:02:406 Total 1 instances are added
+09/09 17:49:11:822 Create order(84922000514) cost time: 19ms
+09/09 17:49:11:842 SEND: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000514}. ID=160002
+09/09 17:49:11:948 RECEIVE:cosname=VMAX,status=Active,active_date=05/09/2013 02:17:51,{84922000514}PROMOTION_60{2200.0;10/12/2013 08:59:59},. ID=160002. costTime=105
+09/09 17:49:11:959 Update order(84922000514) cost time: 9ms
+09/09 17:49:11:960 84922000514: LOYALTY - LOYALTY.VALIDATE
+09/09 17:49:11:960 orderId = 125409474 | requestId = 0 | orderDate = 2013/09/09 17:49:11 | userName = system | subProductId = 52789553 | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 2000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 200.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+09/09 17:49:48:733 Close pool
+09/09 17:49:48:835 Close queue connection pool.
+09/09 17:49:48:840 End of process session
+09/09 17:49:48:842 Order Routing stopped
+09/09 17:49:50:760 Order Routing started
+09/09 17:49:50:782 Close pool
+09/09 17:49:50:782 Close pool
+09/09 17:49:50:783 Testing connection ...
+09/09 17:49:50:787 Created provisioning instance for CCWS
+09/09 17:49:50:787 Testing connection are success
+09/09 17:49:50:788 Starting process session
+09/09 17:49:51:573 Total 0 instances are started
+09/09 17:49:51:575 Total 1 instances are added
+09/09 17:50:01:995 Create order(84922000514) cost time: 20ms
+09/09 17:50:02:015 SEND: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000514}. ID=160003
+09/09 17:50:02:116 RECEIVE:cosname=VMAX,status=Active,active_date=05/09/2013 02:17:51,{84922000514}PROMOTION_60{2200.0;10/12/2013 08:59:59},. ID=160003. costTime=101
+09/09 17:50:02:130 Update order(84922000514) cost time: 12ms
+09/09 17:50:02:130 84922000514: LOYALTY - LOYALTY.VALIDATE
+09/09 17:50:02:131 orderId = 125409475 | requestId = 0 | orderDate = 2013/09/09 17:50:01 | userName = system | subProductId = 52789553 | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 2000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 200.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+09/09 17:52:50:546 Order Routing started
+09/09 17:52:52:122 Testing connection ...
+09/09 17:52:54:915 Created provisioning instance for CCWS
+09/09 17:52:54:915 Testing connection are success
+09/09 17:52:54:916 Starting process session
+09/09 17:52:56:824 Total 0 instances are started
+09/09 17:52:56:825 Total 1 instances are added
+09/09 17:53:17:488 Create order(84922000514) cost time: 27ms
+09/09 17:53:17:527 SEND: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000514}. ID=161001
+09/09 17:53:18:507 RECEIVE:cosname=VMAX,status=Active,active_date=05/09/2013 02:17:51,{84922000514}PROMOTION_60{2200.0;10/12/2013 08:59:59},. ID=161001. costTime=978
+09/09 17:53:18:531 Update order(84922000514) cost time: 15ms
+09/09 17:53:18:533 84922000514: LOYALTY - LOYALTY.VALIDATE
+09/09 17:53:18:533 orderId = 125409476 | requestId = 0 | orderDate = 2013/09/09 17:53:17 | userName = system | subProductId = 52789553 | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 2000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 200.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+09/09 17:57:33:528 Create order(84922000514) cost time: 30ms
+09/09 17:57:33:552 SEND: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000514}. ID=161002
+09/09 17:57:33:644 RECEIVE:cosname=VMAX,status=Active,active_date=05/09/2013 02:17:51,{84922000514}PROMOTION_60{2200.0;10/12/2013 08:59:59},. ID=161002. costTime=91
+09/09 17:57:33:658 Update order(84922000514) cost time: 12ms
+09/09 17:57:33:659 84922000514: LOYALTY - LOYALTY.VALIDATE
+09/09 17:57:33:659 orderId = 125409477 | requestId = 0 | orderDate = 2013/09/09 17:57:33 | userName = system | subProductId = 52789553 | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 2000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 200.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+09/09 17:59:26:359 Close pool
+09/09 17:59:26:460 Close queue connection pool.
+09/09 17:59:26:467 End of process session
+09/09 17:59:26:468 Order Routing stopped
+09/09 17:59:28:397 Order Routing started
+09/09 17:59:28:418 Close pool
+09/09 17:59:28:419 Close pool
+09/09 17:59:28:420 Testing connection ...
+09/09 17:59:28:423 Created provisioning instance for CCWS
+09/09 17:59:28:423 Testing connection are success
+09/09 17:59:28:424 Starting process session
+09/09 17:59:29:208 Total 0 instances are started
+09/09 17:59:29:209 Total 1 instances are added
+09/09 17:59:36:621 Create order(84922000514) cost time: 22ms
+09/09 17:59:36:650 SEND: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000514}. ID=161003
+09/09 17:59:36:752 RECEIVE:cosname=VMAX,status=Active,active_date=05/09/2013 02:17:51,{84922000514}PROMOTION_60{2200.0;10/12/2013 08:59:59},. ID=161003. costTime=100
+09/09 17:59:36:767 Update order(84922000514) cost time: 12ms
+09/09 17:59:36:768 84922000514: LOYALTY - LOYALTY.VALIDATE
+09/09 17:59:36:768 orderId = 125409478 | requestId = 0 | orderDate = 2013/09/09 17:59:36 | userName = system | subProductId = 52789553 | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 2000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 200.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+09/09 18:00:13:487 Close pool
+09/09 18:00:13:588 Close queue connection pool.
+09/09 18:00:13:593 End of process session
+09/09 18:00:13:595 Order Routing stopped
+09/09 18:00:15:514 Order Routing started
+09/09 18:00:15:539 Close pool
+09/09 18:00:15:539 Close pool
+09/09 18:00:15:540 Testing connection ...
+09/09 18:00:15:544 Created provisioning instance for CCWS
+09/09 18:00:15:545 Testing connection are success
+09/09 18:00:15:545 Starting process session
+09/09 18:00:16:249 Total 0 instances are started
+09/09 18:00:16:250 Total 1 instances are added
+09/09 18:00:47:771 Create order(84922000514) cost time: 16ms
+09/09 18:00:47:789 SEND: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000514}. ID=161004
+09/09 18:00:47:887 RECEIVE:cosname=VMAX,status=Active,active_date=05/09/2013 02:17:51,{84922000514}PROMOTION_60{2200.0;10/12/2013 08:59:59},. ID=161004. costTime=97
+09/09 18:00:47:897 Update order(84922000514) cost time: 8ms
+09/09 18:00:47:898 84922000514: LOYALTY - LOYALTY.VALIDATE
+09/09 18:00:47:898 orderId = 125409479 | requestId = 0 | orderDate = 2013/09/09 18:00:47 | userName = system | subProductId = 52789553 | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 2000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 200.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+09/09 18:01:49:977 Create order(84922000514) cost time: 23ms
+09/09 18:01:50:002 SEND: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000514}. ID=161005
+09/09 18:01:50:101 RECEIVE:cosname=VMAX,status=Active,active_date=05/09/2013 02:17:51,{84922000514}PROMOTION_60{2200.0;10/12/2013 08:59:59},. ID=161005. costTime=97
+09/09 18:01:50:114 Update order(84922000514) cost time: 12ms
+09/09 18:01:50:115 84922000514: LOYALTY - LOYALTY.VALIDATE
+09/09 18:01:50:115 orderId = 125409480 | requestId = 0 | orderDate = 2013/09/09 18:01:49 | userName = system | subProductId = 52789553 | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 2000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 200.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+09/09 18:02:38:005 Create order(84922000514) cost time: 10ms
+09/09 18:02:38:202 Update order(84922000514) cost time: 6ms
+09/09 18:02:38:204 84922000514: LOYALTY - LOYALTY.BALANCE_QUERY
+09/09 18:02:38:205 orderId = 125409481 | requestId = 0 | orderDate = 2013/09/09 18:02:37 | userName = system | subProductId = 52789553 | channel = SMS | serviceAddress = 268 | keyword = TRA DIEM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 342 | cause =  | status = 1 | description =  | balance = 
+09/09 18:03:49:100 Create order(84922000514) cost time: 21ms
+09/09 18:03:49:123 SEND: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000514}. ID=161006
+09/09 18:03:49:210 RECEIVE:cosname=VMAX,status=Active,active_date=05/09/2013 02:17:51,{84922000514}PROMOTION_60{2200.0;10/12/2013 08:59:59},. ID=161006. costTime=86
+09/09 18:03:49:223 Update order(84922000514) cost time: 10ms
+09/09 18:03:49:223 84922000514: LOYALTY - LOYALTY.VALIDATE
+09/09 18:03:49:223 orderId = 125409482 | requestId = 0 | orderDate = 2013/09/09 18:03:49 | userName = system | subProductId = 52789553 | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 3000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 300.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+09/09 18:05:02:945 Close pool
+09/09 18:05:03:046 Close queue connection pool.
+09/09 18:05:03:051 End of process session
+09/09 18:05:03:052 Order Routing stopped
+09/09 18:05:04:975 Order Routing started
+09/09 18:05:04:996 Close pool
+09/09 18:05:04:997 Close pool
+09/09 18:05:04:997 Testing connection ...
+09/09 18:05:05:001 Created provisioning instance for CCWS
+09/09 18:05:05:002 Testing connection are success
+09/09 18:05:05:002 Starting process session
+09/09 18:05:05:735 Total 0 instances are started
+09/09 18:05:05:736 Total 1 instances are added
+09/09 18:05:18:182 Create order(84922000514) cost time: 10ms
+09/09 18:05:18:190 SEND: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000514}. ID=161007
+09/09 18:05:18:296 RECEIVE:cosname=VMAX,status=Active,active_date=05/09/2013 02:17:51,{84922000514}PROMOTION_60{2200.0;10/12/2013 08:59:59},. ID=161007. costTime=104
+09/09 18:05:18:302 Update order(84922000514) cost time: 4ms
+09/09 18:05:18:303 84922000514: LOYALTY - LOYALTY.VALIDATE
+09/09 18:05:18:303 orderId = 125409483 | requestId = 0 | orderDate = 2013/09/09 18:05:18 | userName = system | subProductId = 52789553 | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 3000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 300.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+09/09 18:06:10:115 Order Routing started
+09/09 18:06:12:106 Testing connection ...
+09/09 18:06:14:942 Created provisioning instance for CCWS
+09/09 18:06:14:943 Testing connection are success
+09/09 18:06:14:943 Starting process session
+09/09 18:06:16:572 Total 0 instances are started
+09/09 18:06:16:577 Total 1 instances are added
+09/09 18:06:35:735 Close pool
+09/09 18:06:35:836 Close queue connection pool.
+09/09 18:06:35:845 End of process session
+09/09 18:06:35:848 Order Routing stopped
+09/09 18:06:37:755 Order Routing started
+09/09 18:06:37:776 Close pool
+09/09 18:06:37:777 Close pool
+09/09 18:06:37:777 Testing connection ...
+09/09 18:06:37:780 Created provisioning instance for CCWS
+09/09 18:06:37:781 Testing connection are success
+09/09 18:06:37:781 Starting process session
+09/09 18:06:38:523 Total 0 instances are started
+09/09 18:06:38:524 Total 1 instances are added
+09/09 18:06:42:967 Create order(84922000514) cost time: 23ms
+09/09 18:06:42:993 SEND: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000514}. ID=162001
+09/09 18:06:43:936 RECEIVE:cosname=VMAX,status=Active,active_date=05/09/2013 02:17:51,{84922000514}PROMOTION_60{2200.0;10/12/2013 08:59:59},. ID=162001. costTime=941
+09/09 18:06:43:949 Update order(84922000514) cost time: 11ms
+09/09 18:06:43:951 84922000514: LOYALTY - LOYALTY.VALIDATE
+09/09 18:06:43:951 orderId = 125409484 | requestId = 0 | orderDate = 2013/09/09 18:06:42 | userName = system | subProductId = 52789553 | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 3000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 300.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+09/09 18:07:56:477 Order Routing started
+09/09 18:08:00:894 Testing connection ...
+09/09 18:08:01:896 Created provisioning instance for CCWS
+09/09 18:08:01:898 Testing connection are success
+09/09 18:08:01:898 Starting process session
+09/09 18:08:04:022 Total 0 instances are started
+09/09 18:08:04:023 Total 1 instances are added
+09/09 18:08:22:090 Close pool
+09/09 18:08:22:192 Close queue connection pool.
+09/09 18:08:22:198 End of process session
+09/09 18:08:22:200 Order Routing stopped
+09/09 18:08:24:118 Order Routing started
+09/09 18:08:24:139 Close pool
+09/09 18:08:24:140 Close pool
+09/09 18:08:24:141 Testing connection ...
+09/09 18:08:24:148 Created provisioning instance for CCWS
+09/09 18:08:24:149 Testing connection are success
+09/09 18:08:24:150 Starting process session
+09/09 18:08:24:869 Total 0 instances are started
+09/09 18:08:24:870 Total 1 instances are added
+09/09 18:08:57:393 Create order(84922000514) cost time: 27ms
+09/09 18:08:57:463 SEND: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000514}. ID=163001
+09/09 18:08:58:495 RECEIVE:cosname=VMAX,status=Active,active_date=05/09/2013 02:17:51,{84922000514}PROMOTION_60{2200.0;10/12/2013 08:59:59},. ID=163001. costTime=1030
+09/09 18:08:58:509 Update order(84922000514) cost time: 12ms
+09/09 18:08:58:510 84922000514: LOYALTY - LOYALTY.VALIDATE
+09/09 18:08:58:513 orderId = 125409485 | requestId = 0 | orderDate = 2013/09/09 18:08:57 | userName = system | subProductId = 52789553 | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 3000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 300.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+09/09 18:09:20:660 Order Routing started
+09/09 18:09:24:244 Testing connection ...
+09/09 18:09:25:537 Created provisioning instance for CCWS
+09/09 18:09:25:538 Testing connection are success
+09/09 18:09:25:539 Starting process session
+09/09 18:09:26:841 Total 0 instances are started
+09/09 18:09:26:842 Total 1 instances are added
+09/09 18:10:08:285 Order Routing started
+09/09 18:10:12:574 Testing connection ...
+09/09 18:10:13:525 Created provisioning instance for CCWS
+09/09 18:10:13:525 Testing connection are success
+09/09 18:10:13:526 Starting process session
+09/09 18:10:14:838 Total 0 instances are started
+09/09 18:10:14:839 Total 1 instances are added
+09/09 18:10:39:374 Order Routing started
+09/09 18:10:40:962 Testing connection ...
+09/09 18:10:43:873 Created provisioning instance for CCWS
+09/09 18:10:43:874 Testing connection are success
+09/09 18:10:43:874 Starting process session
+09/09 18:10:54:274 Order Routing started
+09/09 18:10:56:367 Testing connection ...
+09/09 18:10:59:070 Created provisioning instance for CCWS
+09/09 18:10:59:070 Testing connection are success
+09/09 18:10:59:071 Starting process session
+09/09 18:11:00:142 Total 0 instances are started
+09/09 18:11:00:142 Total 1 instances are added
+09/09 18:11:14:830 Close pool
+09/09 18:11:14:931 Close queue connection pool.
+09/09 18:11:14:939 End of process session
+09/09 18:11:14:940 Order Routing stopped
+09/09 18:11:16:865 Order Routing started
+09/09 18:11:16:893 Close pool
+09/09 18:11:16:893 Close pool
+09/09 18:11:16:894 Testing connection ...
+09/09 18:11:16:901 Created provisioning instance for CCWS
+09/09 18:11:16:902 Testing connection are success
+09/09 18:11:16:902 Starting process session
+09/09 18:11:17:656 Total 0 instances are started
+09/09 18:11:17:657 Total 1 instances are added
+09/09 18:11:29:153 Create order(84922000514) cost time: 21ms
+09/09 18:11:29:181 SEND: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000514}. ID=164001
+09/09 18:11:30:132 RECEIVE:cosname=VMAX,status=Active,active_date=05/09/2013 02:17:51,{84922000514}PROMOTION_60{2200.0;10/12/2013 08:59:59},. ID=164001. costTime=949
+09/09 18:11:30:154 Update order(84922000514) cost time: 12ms
+09/09 18:11:30:156 84922000514: LOYALTY - LOYALTY.VALIDATE
+09/09 18:11:30:156 orderId = 125409486 | requestId = 0 | orderDate = 2013/09/09 18:11:29 | userName = system | subProductId = 52789553 | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 3000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 300.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+09/09 18:15:06:213 Create order(84922000514) cost time: 22ms
+09/09 18:15:06:240 SEND: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000514}. ID=164002
+09/09 18:15:06:369 RECEIVE:cosname=VMAX,status=Active,active_date=05/09/2013 02:17:51,{84922000514}PROMOTION_60{2200.0;10/12/2013 08:59:59},. ID=164002. costTime=128
+09/09 18:15:06:388 Update order(84922000514) cost time: 16ms
+09/09 18:15:06:388 84922000514: LOYALTY - LOYALTY.VALIDATE
+09/09 18:15:06:389 orderId = 125409487 | requestId = 0 | orderDate = 2013/09/09 18:15:06 | userName = system | subProductId = 52789553 | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 3000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 300.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+09/09 18:16:33:432 Order Routing started
+09/09 18:16:37:908 Testing connection ...
+09/09 18:16:38:870 Created provisioning instance for CCWS
+09/09 18:16:38:871 Testing connection are success
+09/09 18:16:38:871 Starting process session
+09/09 18:16:41:089 Total 0 instances are started
+09/09 18:16:41:090 Total 1 instances are added
+09/09 18:20:05:030 Order Routing started
+09/09 18:20:09:031 Testing connection ...
+09/09 18:20:09:737 Created provisioning instance for CCWS
+09/09 18:20:09:738 Testing connection are success
+09/09 18:20:09:738 Starting process session
+09/09 18:20:11:491 Total 0 instances are started
+09/09 18:20:11:492 Total 1 instances are added
+09/09 18:20:24:529 Close pool
+09/09 18:20:24:630 Close queue connection pool.
+09/09 18:20:24:638 End of process session
+09/09 18:20:24:640 Order Routing stopped
+09/09 18:20:26:548 Order Routing started
+09/09 18:20:26:574 Close pool
+09/09 18:20:26:575 Close pool
+09/09 18:20:26:575 Testing connection ...
+09/09 18:20:26:579 Created provisioning instance for CCWS
+09/09 18:20:26:579 Testing connection are success
+09/09 18:20:26:580 Starting process session
+09/09 18:20:27:334 Total 0 instances are started
+09/09 18:20:27:335 Total 1 instances are added
+09/09 18:20:34:780 Create order(84922000514) cost time: 22ms
+09/09 18:20:34:811 SEND: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000514}. ID=165001
+09/09 18:20:35:676 RECEIVE:cosname=VMAX,status=Active,active_date=05/09/2013 02:17:51,{84922000514}PROMOTION_60{2200.0;10/12/2013 08:59:59},. ID=165001. costTime=864
+09/09 18:20:35:692 Update order(84922000514) cost time: 12ms
+09/09 18:20:35:694 84922000514: LOYALTY - LOYALTY.VALIDATE
+09/09 18:20:35:694 orderId = 125409488 | requestId = 0 | orderDate = 2013/09/09 18:20:34 | userName = system | subProductId = 52789553 | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 3000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 300.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+09/09 18:21:56:818 Create order(84922000514) cost time: 33ms
+09/09 18:21:56:837 SEND: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000514}. ID=165002
+09/09 18:21:56:929 RECEIVE:cosname=VMAX,status=Active,active_date=05/09/2013 02:17:51,{84922000514}PROMOTION_60{2200.0;10/12/2013 08:59:59},. ID=165002. costTime=91
+09/09 18:21:56:941 Update order(84922000514) cost time: 10ms
+09/09 18:21:56:942 84922000514: LOYALTY - LOYALTY.VALIDATE
+09/09 18:21:56:942 orderId = 125409489 | requestId = 0 | orderDate = 2013/09/09 18:21:56 | userName = system | subProductId = 52789553 | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 3000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 300.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 

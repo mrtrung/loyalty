@@ -1,0 +1,302 @@
+20/09 10:52:35:445 Order Routing started
+20/09 10:52:35:475 Testing connection ...
+20/09 10:52:39:728 Created provisioning instance for CCWS
+20/09 10:52:39:730 Testing connection are success
+20/09 10:52:39:730 Starting process session
+20/09 10:52:41:183 Total 0 instances are started
+20/09 10:52:41:184 Total 1 instances are added
+20/09 10:52:58:038 Create order(84922000514) cost time: 24ms
+20/09 10:52:58:070 Update order(84922000514) cost time: 11ms
+20/09 10:52:58:071 orderId = 125410139 | requestId = 0 | orderDate = 2013/09/20 10:52:58 | userName = system | subProductId = 52789603 | channel = SMS | serviceAddress = 268 | keyword = DK CAM | isdn = 84922000514 | subscriberType = -1 | shipTo =  | actionType = register | productId = 274 | amount = 0.0 | provisioningType = SMSC | commandId = 0 | cause = registered | status = 4 | description =  | balance = 
+20/09 10:52:58:082 sendNotify: 84922000514 - Quy khach da la thanh vien cua Cau lac bo CAM cua Vietnamobile. Hay tiep tuc su dung Vietnamobile de tich luy nhieu diem va nhan duoc nhieu uu dai cua chuong trinh. Chi tiet 789
+20/09 10:57:01:057 84922000514: LOYALTY - CRM.SUBSCRIPTION_UNREGIST
+20/09 10:57:01:058 orderId = 0 | requestId = 0 | orderDate = 2013/09/20 10:57:00 | userName = system | subProductId = 52789603 | channel = SMS | serviceAddress = 268 | keyword = HUY CAM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = unregister | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 13121 | cause =  | status = 1 | description =  | balance = 
+20/09 11:43:48:394 Create order(84922000514) cost time: 25ms
+20/09 11:43:48:414 SEND: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000514}. ID=283002
+20/09 11:43:50:791 RECEIVE:cosname=VMAX,status=Active,active_date=05/09/2013 16:17:51,{84922000514}Core{231002.0;30/04/2015 23:59:59},VOICE_ONNET{3000.0;22/09/2013 23:59:59},CALLME{13800.0;18/10/2013 23:59:59},PROMOTION{100.0;03/09/2023 23:59:59},PROMOTION_60{500.0;21/09/2013 23:59:59},. ID=283002. costTime=2375
+20/09 11:43:50:804 Update order(84922000514) cost time: 10ms
+20/09 11:43:50:805 84922000514: LOYALTY - LOYALTY.VALIDATE
+20/09 11:43:50:806 orderId = 125410140 | requestId = 0 | orderDate = 2013/09/20 11:43:48 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 100 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 2500.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+20/09 11:44:04:036 Close pool
+20/09 11:44:04:137 Close queue connection pool.
+20/09 11:44:04:143 End of process session
+20/09 11:44:04:143 Order Routing stopped
+20/09 14:20:48:000 Order Routing started
+20/09 14:20:49:626 Testing connection ...
+20/09 14:20:54:085 Created provisioning instance for CCWS
+20/09 14:20:54:087 Testing connection are success
+20/09 14:20:54:088 Starting process session
+20/09 14:20:55:285 Total 0 instances are started
+20/09 14:20:55:286 Total 1 instances are added
+20/09 14:22:06:649 84922000514: LOYALTY - CRM.SUBSCRIPTION_UNREGIST
+20/09 14:22:06:650 orderId = 0 | requestId = 0 | orderDate = 2013/09/20 14:22:06 | userName = system | subProductId = 52789604 | channel = SMS | serviceAddress = 268 | keyword = HUY CAM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = unregister | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 13121 | cause =  | status = 1 | description =  | balance = 
+20/09 14:23:03:314 Create order(84922000514) cost time: 20ms
+20/09 14:23:03:320 SEND: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000514}. ID=284002
+20/09 14:23:05:269 RECEIVE:cosname=VMAX,status=Active,active_date=05/09/2013 16:17:51,{84922000514}Core{231002.0;30/04/2015 23:59:59},VOICE_ONNET{3000.0;22/09/2013 23:59:59},CALLME{13800.0;18/10/2013 23:59:59},PROMOTION{100.0;03/09/2023 23:59:59},PROMOTION_60{5500.0;18/11/2013 23:59:59},. ID=284002. costTime=1948
+20/09 14:23:05:282 Update order(84922000514) cost time: 10ms
+20/09 14:23:05:283 84922000514: LOYALTY - CRM.SUBSCRIPTION_REGIST
+20/09 14:23:05:283 orderId = 125410149 | requestId = 0 | orderDate = 2013/09/20 14:23:03 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = DK CAM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = register | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 13119 | cause =  | status = 1 | description =  | balance = 
+20/09 14:31:23:177 Close pool
+20/09 14:31:23:278 Close queue connection pool.
+20/09 14:31:23:285 End of process session
+20/09 14:31:23:285 Order Routing stopped
+20/09 14:31:25:199 Order Routing started
+20/09 14:31:25:221 Close pool
+20/09 14:31:25:222 Close pool
+20/09 14:31:25:222 Testing connection ...
+20/09 14:31:25:227 Created provisioning instance for CCWS
+20/09 14:31:25:228 Testing connection are success
+20/09 14:31:25:229 Starting process session
+20/09 14:31:26:244 Total 0 instances are started
+20/09 14:31:26:245 Total 1 instances are added
+20/09 14:31:36:630 84922000514: LOYALTY - CRM.SUBSCRIPTION_UNREGIST
+20/09 14:31:36:631 orderId = 0 | requestId = 0 | orderDate = 2013/09/20 14:31:36 | userName = system | subProductId = 52789605 | channel = SMS | serviceAddress = 268 | keyword = HUY CAM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = unregister | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 13121 | cause =  | status = 1 | description =  | balance = 
+20/09 14:31:58:408 Create order(84922000514) cost time: 18ms
+20/09 14:31:58:422 SEND: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000514}. ID=284005
+20/09 14:31:58:518 RECEIVE:cosname=VMAX,status=Active,active_date=05/09/2013 16:17:51,{84922000514}Core{231002.0;30/04/2015 23:59:59},VOICE_ONNET{3000.0;22/09/2013 23:59:59},CALLME{13800.0;18/10/2013 23:59:59},PROMOTION{100.0;03/09/2023 23:59:59},PROMOTION_60{5500.0;18/11/2013 23:59:59},. ID=284005. costTime=95
+20/09 14:31:58:530 Update order(84922000514) cost time: 10ms
+20/09 14:31:58:531 84922000514: LOYALTY - CRM.SUBSCRIPTION_REGIST
+20/09 14:31:58:531 orderId = 125410150 | requestId = 0 | orderDate = 2013/09/20 14:31:58 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = DK CAM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = register | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 13119 | cause =  | status = 1 | description =  | balance = 
+20/09 14:32:10:248 Close pool
+20/09 14:32:10:349 Close queue connection pool.
+20/09 14:32:10:354 End of process session
+20/09 14:32:10:355 Order Routing stopped
+20/09 14:32:12:269 Order Routing started
+20/09 14:32:12:291 Close pool
+20/09 14:32:12:292 Close pool
+20/09 14:32:12:292 Testing connection ...
+20/09 14:32:12:296 Created provisioning instance for CCWS
+20/09 14:32:12:297 Testing connection are success
+20/09 14:32:12:297 Starting process session
+20/09 14:32:13:086 Total 0 instances are started
+20/09 14:32:13:089 Total 1 instances are added
+20/09 14:34:59:292 Close pool
+20/09 14:34:59:392 Close queue connection pool.
+20/09 14:34:59:398 End of process session
+20/09 14:34:59:398 Order Routing stopped
+20/09 14:35:01:314 Order Routing started
+20/09 14:35:01:336 Close pool
+20/09 14:35:01:337 Close pool
+20/09 14:35:01:338 Testing connection ...
+20/09 14:35:01:341 Created provisioning instance for CCWS
+20/09 14:35:01:342 Testing connection are success
+20/09 14:35:01:342 Starting process session
+20/09 14:35:02:131 Total 0 instances are started
+20/09 14:35:02:132 Total 1 instances are added
+20/09 14:35:13:600 84922000514: LOYALTY - CRM.SUBSCRIPTION_UNREGIST
+20/09 14:35:13:602 orderId = 0 | requestId = 0 | orderDate = 2013/09/20 14:35:13 | userName = system | subProductId = 52789606 | channel = SMS | serviceAddress = 268 | keyword = HUY CAM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = unregister | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 13121 | cause =  | status = 1 | description =  | balance = 
+20/09 14:35:41:344 Close pool
+20/09 14:35:41:444 Close queue connection pool.
+20/09 14:35:41:449 End of process session
+20/09 14:35:41:450 Order Routing stopped
+20/09 14:35:43:356 Order Routing started
+20/09 14:35:43:379 Close pool
+20/09 14:35:43:380 Close pool
+20/09 14:35:43:380 Testing connection ...
+20/09 14:35:43:383 Created provisioning instance for CCWS
+20/09 14:35:43:384 Testing connection are success
+20/09 14:35:43:385 Starting process session
+20/09 14:35:44:234 Total 0 instances are started
+20/09 14:35:44:235 Total 1 instances are added
+20/09 14:35:44:549 Create order(84922000514) cost time: 16ms
+20/09 14:35:44:563 SEND: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000514}. ID=284008
+20/09 14:35:44:661 RECEIVE:cosname=VMAX,status=Active,active_date=05/09/2013 16:17:51,{84922000514}Core{231002.0;30/04/2015 23:59:59},VOICE_ONNET{3000.0;22/09/2013 23:59:59},CALLME{13800.0;18/10/2013 23:59:59},PROMOTION{100.0;03/09/2023 23:59:59},PROMOTION_60{5500.0;18/11/2013 23:59:59},. ID=284008. costTime=97
+20/09 14:35:44:674 Update order(84922000514) cost time: 11ms
+20/09 14:35:44:675 84922000514: LOYALTY - CRM.LOYALTY.REGISTER
+20/09 14:35:44:678 orderId = 125410151 | requestId = 0 | orderDate = 2013/09/20 14:35:44 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = DK CAM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = register | productId = 274 | amount = 0.0 | provisioningType = 3G | commandId = 521 | cause =  | status = 1 | description =  | balance = 
+20/09 14:38:58:727 Order Routing started
+20/09 14:39:01:480 Testing connection ...
+20/09 14:39:02:097 Created provisioning instance for CCWS
+20/09 14:39:02:098 Testing connection are success
+20/09 14:39:02:099 Starting process session
+20/09 14:39:03:337 Total 0 instances are started
+20/09 14:39:03:338 Total 1 instances are added
+20/09 14:39:09:069 Create order(84922000514) cost time: 28ms
+20/09 14:39:09:193 SEND: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000514}. ID=285001
+20/09 14:39:10:268 RECEIVE:cosname=VMAX,status=Active,active_date=05/09/2013 16:17:51,{84922000514}Core{231002.0;30/04/2015 23:59:59},VOICE_ONNET{3000.0;22/09/2013 23:59:59},CALLME{13800.0;18/10/2013 23:59:59},PROMOTION{100.0;03/09/2023 23:59:59},PROMOTION_60{5500.0;18/11/2013 23:59:59},. ID=285001. costTime=1073
+20/09 14:39:10:287 Update order(84922000514) cost time: 11ms
+20/09 14:39:10:289 84922000514: LOYALTY - CRM.LOYALTY.REGISTER
+20/09 14:39:10:290 orderId = 125410152 | requestId = 0 | orderDate = 2013/09/20 14:39:09 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = DK CAM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = register | productId = 274 | amount = 0.0 | provisioningType = 3G | commandId = 521 | cause =  | status = 1 | description =  | balance = 
+20/09 14:41:10:802 Close pool
+20/09 14:41:10:903 Close queue connection pool.
+20/09 14:41:10:913 End of process session
+20/09 14:41:10:914 Order Routing stopped
+20/09 14:41:12:822 Order Routing started
+20/09 14:41:12:843 Close pool
+20/09 14:41:12:844 Close pool
+20/09 14:41:12:844 Testing connection ...
+20/09 14:41:12:852 Created provisioning instance for CCWS
+20/09 14:41:12:853 Testing connection are success
+20/09 14:41:12:853 Starting process session
+20/09 14:41:13:624 Total 0 instances are started
+20/09 14:41:13:625 Total 1 instances are added
+20/09 14:41:35:191 Create order(84922000514) cost time: 21ms
+20/09 14:41:35:197 SEND: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000514}. ID=285002
+20/09 14:41:35:317 RECEIVE:cosname=VMAX,status=Active,active_date=05/09/2013 16:17:51,{84922000514}Core{231002.0;30/04/2015 23:59:59},VOICE_ONNET{3000.0;22/09/2013 23:59:59},CALLME{13800.0;18/10/2013 23:59:59},PROMOTION{100.0;03/09/2023 23:59:59},PROMOTION_60{5500.0;18/11/2013 23:59:59},. ID=285002. costTime=119
+20/09 14:42:12:390 Update order(84922000514) cost time: 14ms
+20/09 14:42:12:391 84922000514: LOYALTY - CRM.LOYALTY.REGISTER
+20/09 14:42:12:392 orderId = 125410153 | requestId = 0 | orderDate = 2013/09/20 14:41:35 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = DK CAM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = register | productId = 274 | amount = 0.0 | provisioningType = 3G | commandId = 521 | cause =  | status = 1 | description =  | balance = 
+20/09 14:43:03:274 Create order(84922000514) cost time: 8ms
+20/09 14:43:03:288 SEND: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000514}. ID=285003
+20/09 14:43:03:377 RECEIVE:cosname=VMAX,status=Active,active_date=05/09/2013 16:17:51,{84922000514}Core{231002.0;30/04/2015 23:59:59},VOICE_ONNET{3000.0;22/09/2013 23:59:59},CALLME{13800.0;18/10/2013 23:59:59},PROMOTION{100.0;03/09/2023 23:59:59},PROMOTION_60{5500.0;18/11/2013 23:59:59},. ID=285003. costTime=88
+20/09 14:43:31:766 Update order(84922000514) cost time: 9ms
+20/09 14:43:31:768 84922000514: LOYALTY - CRM.LOYALTY.REGISTER
+20/09 14:43:31:768 orderId = 125410154 | requestId = 0 | orderDate = 2013/09/20 14:43:03 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = DK CAM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = register | productId = 274 | amount = 0.0 | provisioningType = 3G | commandId = 521 | cause =  | status = 1 | description =  | balance = 
+20/09 14:48:27:175 Close pool
+20/09 14:48:27:275 Close queue connection pool.
+20/09 14:48:27:281 End of process session
+20/09 14:48:27:281 Order Routing stopped
+20/09 14:48:29:197 Order Routing started
+20/09 14:48:29:219 Close pool
+20/09 14:48:29:220 Close pool
+20/09 14:48:29:220 Testing connection ...
+20/09 14:48:29:229 Created provisioning instance for CCWS
+20/09 14:48:29:229 Testing connection are success
+20/09 14:48:29:230 Starting process session
+20/09 14:48:30:021 Total 0 instances are started
+20/09 14:48:30:022 Total 1 instances are added
+20/09 14:48:34:401 Create order(84922000514) cost time: 21ms
+20/09 14:48:34:420 SEND: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000514}. ID=285004
+20/09 14:48:34:527 RECEIVE:cosname=VMAX,status=Active,active_date=05/09/2013 16:17:51,{84922000514}Core{231002.0;30/04/2015 23:59:59},VOICE_ONNET{3000.0;22/09/2013 23:59:59},CALLME{13800.0;18/10/2013 23:59:59},PROMOTION{100.0;03/09/2023 23:59:59},PROMOTION_60{5500.0;18/11/2013 23:59:59},. ID=285004. costTime=106
+20/09 14:48:53:765 Update order(84922000514) cost time: 18ms
+20/09 14:48:53:766 84922000514: LOYALTY - CRM.LOYALTY.REGISTER
+20/09 14:48:53:767 orderId = 125410155 | requestId = 0 | orderDate = 2013/09/20 14:48:34 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = DK CAM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = register | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 521 | cause =  | status = 1 | description =  | balance = 
+20/09 14:53:07:275 Close pool
+20/09 14:53:07:376 Close queue connection pool.
+20/09 14:53:07:382 End of process session
+20/09 14:53:07:382 Order Routing stopped
+20/09 14:53:09:289 Order Routing started
+20/09 14:53:09:310 Close pool
+20/09 14:53:09:311 Close pool
+20/09 14:53:09:311 Testing connection ...
+20/09 14:53:09:321 Created provisioning instance for CCWS
+20/09 14:53:09:322 Testing connection are success
+20/09 14:53:09:322 Starting process session
+20/09 14:53:10:101 Total 0 instances are started
+20/09 14:53:10:102 Total 1 instances are added
+20/09 14:53:19:580 84922000514: LOYALTY - CRM.SUBSCRIPTION_UNREGIST
+20/09 14:53:19:581 orderId = 0 | requestId = 0 | orderDate = 2013/09/20 14:53:19 | userName = system | subProductId = 52789607 | channel = SMS | serviceAddress = 268 | keyword = HUY CAM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = unregister | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 13121 | cause =  | status = 1 | description =  | balance = 
+20/09 14:53:50:523 Create order(84922000514) cost time: 17ms
+20/09 14:53:50:536 SEND: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000514}. ID=285007
+20/09 14:53:51:747 RECEIVE:cosname=VMAX,status=Active,active_date=05/09/2013 16:17:51,{84922000514}Core{231002.0;30/04/2015 23:59:59},VOICE_ONNET{3000.0;22/09/2013 23:59:59},CALLME{13800.0;18/10/2013 23:59:59},PROMOTION{100.0;03/09/2023 23:59:59},PROMOTION_60{5500.0;18/11/2013 23:59:59},. ID=285007. costTime=1211
+20/09 14:53:51:759 Update order(84922000514) cost time: 10ms
+20/09 14:53:51:760 84922000514: LOYALTY - CRM.LOYALTY.REGISTER
+20/09 14:53:51:761 orderId = 125410156 | requestId = 0 | orderDate = 2013/09/20 14:53:50 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = DK CAM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = register | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 521 | cause =  | status = 1 | description =  | balance = 
+20/09 14:57:18:803 Order Routing started
+20/09 14:57:18:845 Testing connection ...
+20/09 14:57:21:300 Created provisioning instance for CCWS
+20/09 14:57:21:301 Testing connection are success
+20/09 14:57:21:302 Starting process session
+20/09 14:57:22:200 Total 0 instances are started
+20/09 14:57:22:204 Total 1 instances are added
+20/09 14:57:49:232 Create order(84922000514) cost time: 114ms
+20/09 14:57:49:286 SEND: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000514}. ID=286001
+20/09 14:57:50:352 RECEIVE:cosname=VMAX,status=Active,active_date=05/09/2013 16:17:51,{84922000514}Core{231002.0;30/04/2015 23:59:59},VOICE_ONNET{3000.0;22/09/2013 23:59:59},CALLME{13800.0;18/10/2013 23:59:59},PROMOTION{100.0;03/09/2023 23:59:59},PROMOTION_60{5500.0;18/11/2013 23:59:59},. ID=286001. costTime=1065
+20/09 14:57:50:370 Update order(84922000514) cost time: 10ms
+20/09 14:57:50:371 84922000514: LOYALTY - CRM.LOYALTY.REGISTER
+20/09 14:57:50:372 orderId = 125410157 | requestId = 0 | orderDate = 2013/09/20 14:57:49 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = DK CAM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = register | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 521 | cause =  | status = 1 | description =  | balance = 
+20/09 15:07:56:469 Order Routing started
+20/09 15:07:56:491 Testing connection ...
+20/09 15:07:57:090 Created provisioning instance for CCWS
+20/09 15:07:57:091 Testing connection are success
+20/09 15:07:57:092 Starting process session
+20/09 15:07:57:952 Total 0 instances are started
+20/09 15:07:57:953 Total 1 instances are added
+20/09 15:19:17:836 Create order(84922000514) cost time: 117ms
+20/09 15:19:17:876 Update order(84922000514) cost time: 18ms
+20/09 15:19:17:877 orderId = 125410158 | requestId = 0 | orderDate = 2013/09/20 15:19:17 | userName = system | subProductId = 52789608 | channel = SMS | serviceAddress = 268 | keyword = DK CAM | isdn = 84922000514 | subscriberType = -1 | shipTo =  | actionType = register | productId = 274 | amount = 0.0 | provisioningType = SMSC | commandId = 0 | cause = registered | status = 4 | description =  | balance = 
+20/09 15:19:17:886 sendNotify: 84922000514 - Quy khach da la thanh vien cua Cau lac bo CAM cua Vietnamobile. Hay tiep tuc su dung Vietnamobile de tich luy nhieu diem va nhan duoc nhieu uu dai cua chuong trinh. Chi tiet 789
+20/09 15:19:32:531 Close pool
+20/09 15:19:32:633 Close queue connection pool.
+20/09 15:19:32:641 End of process session
+20/09 15:19:32:642 Order Routing stopped
+20/09 15:19:34:551 Order Routing started
+20/09 15:19:34:574 Close pool
+20/09 15:19:34:575 Close pool
+20/09 15:19:34:575 Testing connection ...
+20/09 15:19:34:583 Created provisioning instance for CCWS
+20/09 15:19:34:584 Testing connection are success
+20/09 15:19:34:585 Starting process session
+20/09 15:19:35:384 Total 0 instances are started
+20/09 15:19:35:385 Total 1 instances are added
+20/09 15:19:37:743 Create order(84922000514) cost time: 9ms
+20/09 15:19:37:754 Update order(84922000514) cost time: 5ms
+20/09 15:19:37:755 orderId = 125410159 | requestId = 0 | orderDate = 2013/09/20 15:19:37 | userName = system | subProductId = 52789608 | channel = SMS | serviceAddress = 268 | keyword = DK CAM | isdn = 84922000514 | subscriberType = -1 | shipTo =  | actionType = register | productId = 274 | amount = 0.0 | provisioningType = SMSC | commandId = 0 | cause = registered | status = 4 | description =  | balance = 
+20/09 15:19:37:760 sendNotify: 84922000514 - Quy khach da la thanh vien cua Cau lac bo CAM cua Vietnamobile. Hay tiep tuc su dung Vietnamobile de tich luy nhieu diem va nhan duoc nhieu uu dai cua chuong trinh. Chi tiet 789
+20/09 15:20:26:906 84922000514: LOYALTY - CRM.SUBSCRIPTION_UNREGIST
+20/09 15:20:26:906 orderId = 0 | requestId = 0 | orderDate = 2013/09/20 15:20:26 | userName = system | subProductId = 52789608 | channel = SMS | serviceAddress = 268 | keyword = HUY CAM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = unregister | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 13121 | cause =  | status = 1 | description =  | balance = 
+20/09 15:21:07:827 Create order(84922000514) cost time: 9ms
+20/09 15:21:07:873 Update order(84922000514) cost time: 17ms
+20/09 15:21:07:874 orderId = 125410160 | requestId = 0 | orderDate = 2013/09/20 15:21:07 | userName = system | subProductId = 52789608 | channel = SMS | serviceAddress = 268 | keyword = DK CAM | isdn = 84922000514 | subscriberType = -1 | shipTo =  | actionType = register | productId = 274 | amount = 0.0 | provisioningType = SMSC | commandId = 0 | cause = registered | status = 4 | description =  | balance = 
+20/09 15:21:07:882 sendNotify: 84922000514 - Quy khach da la thanh vien cua Cau lac bo CAM cua Vietnamobile. Hay tiep tuc su dung Vietnamobile de tich luy nhieu diem va nhan duoc nhieu uu dai cua chuong trinh. Chi tiet 789
+20/09 15:25:55:545 Order Routing started
+20/09 15:25:55:687 Testing connection ...
+20/09 15:25:56:937 Created provisioning instance for CCWS
+20/09 15:25:56:938 Testing connection are success
+20/09 15:25:56:939 Starting process session
+20/09 15:25:57:868 Total 0 instances are started
+20/09 15:25:57:869 Total 1 instances are added
+20/09 15:26:53:891 Create order(84922000514) cost time: 123ms
+20/09 15:26:53:916 SEND: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000514}. ID=288001
+20/09 15:26:54:978 RECEIVE:cosname=VMAX,status=Active,active_date=05/09/2013 16:17:51,{84922000514}Core{231002.0;30/04/2015 23:59:59},VOICE_ONNET{3000.0;22/09/2013 23:59:59},CALLME{13800.0;18/10/2013 23:59:59},PROMOTION{100.0;03/09/2023 23:59:59},PROMOTION_60{5500.0;18/11/2013 23:59:59},. ID=288001. costTime=1061
+20/09 15:26:54:997 Update order(84922000514) cost time: 9ms
+20/09 15:26:54:998 84922000514: LOYALTY - CRM.LOYALTY.REGISTER
+20/09 15:26:54:999 orderId = 125410161 | requestId = 0 | orderDate = 2013/09/20 15:26:53 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = DK CAM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = register | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 521 | cause =  | status = 1 | description =  | balance = 
+20/09 15:32:45:302 Order Routing started
+20/09 15:32:45:467 Testing connection ...
+20/09 15:32:46:705 Created provisioning instance for CCWS
+20/09 15:32:46:706 Testing connection are success
+20/09 15:32:46:706 Starting process session
+20/09 15:32:47:740 Total 0 instances are started
+20/09 15:32:47:741 Total 1 instances are added
+20/09 15:33:04:648 Create order(84922000514) cost time: 118ms
+20/09 15:33:04:674 SEND: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000514}. ID=289001
+20/09 15:33:05:772 RECEIVE:cosname=VMAX,status=Active,active_date=05/09/2013 16:17:51,{84922000514}Core{231002.0;30/04/2015 23:59:59},VOICE_ONNET{3000.0;22/09/2013 23:59:59},CALLME{13800.0;18/10/2013 23:59:59},PROMOTION{100.0;03/09/2023 23:59:59},PROMOTION_60{5500.0;18/11/2013 23:59:59},. ID=289001. costTime=1097
+20/09 15:33:05:792 Update order(84922000514) cost time: 12ms
+20/09 15:33:05:793 84922000514: LOYALTY - CRM.LOYALTY.REGISTER
+20/09 15:33:05:794 orderId = 125410162 | requestId = 0 | orderDate = 2013/09/20 15:33:04 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = DK CAM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = register | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 521 | cause =  | status = 1 | description =  | balance = 
+20/09 15:34:16:547 Order Routing started
+20/09 15:34:16:616 Testing connection ...
+20/09 15:34:17:889 Created provisioning instance for CCWS
+20/09 15:34:17:891 Testing connection are success
+20/09 15:34:17:891 Starting process session
+20/09 15:34:18:909 Total 0 instances are started
+20/09 15:34:18:910 Total 1 instances are added
+20/09 15:34:48:940 Create order(84922000514) cost time: 114ms
+20/09 15:34:48:966 SEND: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000514}. ID=290001
+20/09 15:34:50:022 RECEIVE:cosname=VMAX,status=Active,active_date=05/09/2013 16:17:51,{84922000514}Core{231002.0;30/04/2015 23:59:59},VOICE_ONNET{3000.0;22/09/2013 23:59:59},CALLME{13800.0;18/10/2013 23:59:59},PROMOTION{100.0;03/09/2023 23:59:59},PROMOTION_60{5500.0;18/11/2013 23:59:59},. ID=290001. costTime=1055
+20/09 15:34:50:039 Update order(84922000514) cost time: 9ms
+20/09 15:34:50:040 84922000514: LOYALTY - CRM.LOYALTY.REGISTER
+20/09 15:34:50:041 orderId = 125410163 | requestId = 0 | orderDate = 2013/09/20 15:34:48 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = DK CAM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = register | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 521 | cause =  | status = 1 | description =  | balance = 
+20/09 15:36:04:358 Order Routing started
+20/09 15:36:04:397 Testing connection ...
+20/09 15:36:06:820 Created provisioning instance for CCWS
+20/09 15:36:06:821 Testing connection are success
+20/09 15:36:06:821 Starting process session
+20/09 15:36:07:731 Total 0 instances are started
+20/09 15:36:07:732 Total 1 instances are added
+20/09 15:36:12:638 Create order(84922000514) cost time: 22ms
+20/09 15:36:12:769 SEND: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000514}. ID=291001
+20/09 15:36:13:815 RECEIVE:cosname=VMAX,status=Active,active_date=05/09/2013 16:17:51,{84922000514}Core{231002.0;30/04/2015 23:59:59},VOICE_ONNET{3000.0;22/09/2013 23:59:59},CALLME{13800.0;18/10/2013 23:59:59},PROMOTION{100.0;03/09/2023 23:59:59},PROMOTION_60{5500.0;18/11/2013 23:59:59},. ID=291001. costTime=1045
+20/09 15:36:13:834 Update order(84922000514) cost time: 11ms
+20/09 15:36:13:835 84922000514: LOYALTY - CRM.LOYALTY.REGISTER
+20/09 15:36:13:836 orderId = 125410164 | requestId = 0 | orderDate = 2013/09/20 15:36:12 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = DK CAM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = register | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 521 | cause =  | status = 1 | description =  | balance = 
+20/09 15:37:11:643 Create order(84922000514) cost time: 13ms
+20/09 15:37:11:657 SEND: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000514}. ID=291002
+20/09 15:37:11:751 RECEIVE:cosname=VMAX,status=Active,active_date=05/09/2013 16:17:51,{84922000514}Core{231002.0;30/04/2015 23:59:59},VOICE_ONNET{3000.0;22/09/2013 23:59:59},CALLME{13800.0;18/10/2013 23:59:59},PROMOTION{100.0;03/09/2023 23:59:59},PROMOTION_60{5500.0;18/11/2013 23:59:59},. ID=291002. costTime=94
+20/09 15:37:11:761 Update order(84922000514) cost time: 8ms
+20/09 15:37:11:761 84922000514: LOYALTY - CRM.LOYALTY.REGISTER
+20/09 15:37:11:762 orderId = 125410165 | requestId = 0 | orderDate = 2013/09/20 15:37:11 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = DK CAM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = register | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 521 | cause =  | status = 1 | description =  | balance = 
+20/09 15:38:34:161 Order Routing started
+20/09 15:38:34:420 Testing connection ...
+20/09 15:38:35:305 Created provisioning instance for CCWS
+20/09 15:38:35:306 Testing connection are success
+20/09 15:38:35:307 Starting process session
+20/09 15:38:36:174 Total 0 instances are started
+20/09 15:38:36:175 Total 1 instances are added
+20/09 15:38:41:371 Create order(84922000514) cost time: 27ms
+20/09 15:38:41:497 SEND: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000514}. ID=292001
+20/09 15:38:42:580 RECEIVE:cosname=VMAX,status=Active,active_date=05/09/2013 16:17:51,{84922000514}Core{231002.0;30/04/2015 23:59:59},VOICE_ONNET{3000.0;22/09/2013 23:59:59},CALLME{13800.0;18/10/2013 23:59:59},PROMOTION{100.0;03/09/2023 23:59:59},PROMOTION_60{5500.0;18/11/2013 23:59:59},. ID=292001. costTime=1081
+20/09 15:38:42:599 Update order(84922000514) cost time: 11ms
+20/09 15:38:42:601 84922000514: LOYALTY - CRM.LOYALTY.REGISTER
+20/09 15:38:42:601 orderId = 125410166 | requestId = 0 | orderDate = 2013/09/20 15:38:41 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = DK CAM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = register | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 521 | cause =  | status = 1 | description =  | balance = 

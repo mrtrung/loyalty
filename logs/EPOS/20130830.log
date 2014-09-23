@@ -1,0 +1,963 @@
+30/08 08:35:39:768 EPOS started
+30/08 08:35:41:122 Testing connection ...
+30/08 08:35:42:808 open connection is fail
+30/08 08:35:42:833 org.apache.axis.AxisFault: ; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+30/08 08:35:42:834 Starting process session
+30/08 08:35:43:440 Total 0 instances are started
+30/08 08:35:43:440 Total 6 instances are added
+30/08 08:46:42:716 EPOS started
+30/08 08:46:44:619 Testing connection ...
+30/08 08:46:46:658 open connection is fail
+30/08 08:46:46:682 org.apache.axis.AxisFault: ; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+30/08 08:46:46:683 Starting process session
+30/08 08:46:47:286 Total 0 instances are started
+30/08 08:46:47:287 Total 6 instances are added
+30/08 08:49:53:642 EPOS started
+30/08 08:49:55:351 Testing connection ...
+30/08 08:49:57:235 open connection is fail
+30/08 08:49:57:265 org.apache.axis.AxisFault: ; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+30/08 08:49:57:265 Starting process session
+30/08 08:49:57:875 Total 0 instances are started
+30/08 08:49:57:876 Total 6 instances are added
+30/08 08:53:18:745 EPOS started
+30/08 08:53:20:565 Testing connection ...
+30/08 08:53:22:545 open connection is fail
+30/08 08:53:22:565 org.apache.axis.AxisFault: ; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+30/08 08:53:22:566 Starting process session
+30/08 08:53:23:170 Total 0 instances are started
+30/08 08:53:23:171 Total 6 instances are added
+30/08 08:55:45:229 EPOS started
+30/08 08:55:46:991 Testing connection ...
+30/08 08:55:48:987 open connection is fail
+30/08 08:55:49:009 org.apache.axis.AxisFault: ; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+30/08 08:55:49:010 Starting process session
+30/08 08:55:49:613 Total 0 instances are started
+30/08 08:55:49:614 Total 6 instances are added
+30/08 08:56:54:073 EPOS started
+30/08 08:56:55:084 Testing connection ...
+30/08 08:56:57:375 open connection is fail
+30/08 08:56:57:404 org.apache.axis.AxisFault: ; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+30/08 08:56:57:404 Starting process session
+30/08 08:56:58:005 Total 0 instances are started
+30/08 08:56:58:006 Total 6 instances are added
+30/08 08:58:56:168 EPOS started
+30/08 08:58:58:082 Testing connection ...
+30/08 08:59:00:065 open connection is fail
+30/08 08:59:00:093 org.apache.axis.AxisFault: ; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+30/08 08:59:00:094 Starting process session
+30/08 08:59:00:698 Total 0 instances are started
+30/08 08:59:00:699 Total 6 instances are added
+30/08 09:02:51:918 EPOS started
+30/08 09:02:53:656 Testing connection ...
+30/08 09:02:55:692 open connection is fail
+30/08 09:02:55:723 org.apache.axis.AxisFault: ; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+30/08 09:02:55:724 Starting process session
+30/08 09:02:56:324 Total 0 instances are started
+30/08 09:02:56:325 Total 6 instances are added
+30/08 09:03:38:053 EPOS started
+30/08 09:03:39:278 Testing connection ...
+30/08 09:03:41:361 open connection is fail
+30/08 09:03:41:379 org.apache.axis.AxisFault: ; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+30/08 09:03:41:379 Starting process session
+30/08 09:03:41:980 Total 0 instances are started
+30/08 09:03:41:981 Total 6 instances are added
+30/08 09:08:17:561 EPOS started
+30/08 09:08:19:359 Testing connection ...
+30/08 09:08:21:302 open connection is fail
+30/08 09:08:21:327 org.apache.axis.AxisFault: ; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+30/08 09:08:21:327 Starting process session
+30/08 09:08:21:928 Total 0 instances are started
+30/08 09:08:21:929 Total 6 instances are added
+30/08 09:09:45:994 EPOS started
+30/08 09:09:47:439 Testing connection ...
+30/08 09:09:49:389 open connection is fail
+30/08 09:09:49:414 org.apache.axis.AxisFault: ; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+30/08 09:09:49:415 Starting process session
+30/08 09:09:50:015 Total 0 instances are started
+30/08 09:09:50:016 Total 6 instances are added
+30/08 09:13:24:351 EPOS started
+30/08 09:13:24:472 Testing connection ...
+30/08 09:13:27:824 open connection is fail
+30/08 09:13:27:847 org.apache.axis.AxisFault: ; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+30/08 09:13:27:847 Starting process session
+30/08 09:13:28:448 Total 0 instances are started
+30/08 09:13:28:449 Total 6 instances are added
+30/08 09:14:49:958 EPOS started
+30/08 09:14:51:665 Testing connection ...
+30/08 09:14:53:612 open connection is fail
+30/08 09:14:53:642 org.apache.axis.AxisFault: ; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+30/08 09:14:53:642 Starting process session
+30/08 09:14:54:244 Total 0 instances are started
+30/08 09:14:54:245 Total 6 instances are added
+30/08 09:17:48:985 EPOS started
+30/08 09:17:50:777 Testing connection ...
+30/08 09:17:52:808 open connection is fail
+30/08 09:17:52:829 org.apache.axis.AxisFault: ; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+30/08 09:17:52:829 Starting process session
+30/08 09:17:53:444 Total 0 instances are started
+30/08 09:17:53:445 Total 6 instances are added
+30/08 09:21:59:678 EPOS started
+30/08 09:22:01:494 Testing connection ...
+30/08 09:22:03:587 open connection is fail
+30/08 09:22:03:615 org.apache.axis.AxisFault: ; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+30/08 09:22:03:616 Starting process session
+30/08 09:22:04:217 Total 0 instances are started
+30/08 09:22:04:218 Total 6 instances are added
+30/08 09:22:43:068 EPOS started
+30/08 09:22:44:697 Testing connection ...
+30/08 09:22:46:675 open connection is fail
+30/08 09:22:46:694 org.apache.axis.AxisFault: ; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+30/08 09:22:46:695 Starting process session
+30/08 09:22:47:302 Total 0 instances are started
+30/08 09:22:47:303 Total 6 instances are added
+30/08 09:27:51:207 EPOS started
+30/08 09:27:53:002 Testing connection ...
+30/08 09:27:54:995 open connection is fail
+30/08 09:27:55:016 org.apache.axis.AxisFault: ; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+30/08 09:27:55:017 Starting process session
+30/08 09:27:55:622 Total 0 instances are started
+30/08 09:27:55:625 Total 6 instances are added
+30/08 09:30:43:248 EPOS started
+30/08 09:30:45:075 Testing connection ...
+30/08 09:30:47:035 open connection is fail
+30/08 09:30:47:064 org.apache.axis.AxisFault: ; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+30/08 09:30:47:065 Starting process session
+30/08 09:30:47:675 Total 0 instances are started
+30/08 09:30:47:676 Total 6 instances are added
+30/08 09:34:23:542 EPOS started
+30/08 09:34:25:416 Testing connection ...
+30/08 09:34:27:318 open connection is fail
+30/08 09:34:27:348 org.apache.axis.AxisFault: ; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+30/08 09:34:27:348 Starting process session
+30/08 09:34:27:953 Total 0 instances are started
+30/08 09:34:27:954 Total 6 instances are added
+30/08 09:35:06:598 EPOS started
+30/08 09:35:10:580 Testing connection ...
+30/08 09:35:12:698 open connection is fail
+30/08 09:35:12:731 org.apache.axis.AxisFault: ; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+30/08 09:35:12:732 Starting process session
+30/08 09:35:13:333 Total 0 instances are started
+30/08 09:35:13:335 Total 6 instances are added
+30/08 09:44:19:313 EPOS started
+30/08 09:44:22:150 Testing connection ...
+30/08 09:44:24:210 open connection is fail
+30/08 09:44:24:233 org.apache.axis.AxisFault: ; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+30/08 09:44:24:234 Starting process session
+30/08 09:44:24:841 Total 0 instances are started
+30/08 09:44:24:842 Total 6 instances are added
+30/08 09:46:46:459 EPOS started
+30/08 09:46:48:805 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.validateE(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+30/08 09:46:48:806 End of process session
+30/08 09:48:06:190 EPOS started
+30/08 09:48:08:751 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.validateE(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+30/08 09:48:08:752 End of process session
+30/08 09:49:48:831 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.validateE(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+30/08 09:49:48:831 End of process session
+30/08 09:50:36:312 EPOS started
+30/08 09:50:38:587 Testing connection ...
+30/08 09:50:40:639 open connection is fail
+30/08 09:50:40:663 org.apache.axis.AxisFault: ; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+30/08 09:50:40:663 Starting process session
+30/08 09:50:41:264 Total 0 instances are started
+30/08 09:50:41:265 Total 6 instances are added
+30/08 09:58:48:324 EPOS started
+30/08 09:58:50:268 Testing connection ...
+30/08 09:58:52:303 open connection is fail
+30/08 09:58:52:327 org.apache.axis.AxisFault: ; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+30/08 09:58:52:327 Starting process session
+30/08 09:58:52:929 Total 0 instances are started
+30/08 09:58:52:931 Total 6 instances are added
+30/08 10:02:10:177 EPOS started
+30/08 10:02:11:767 Testing connection ...
+30/08 10:02:13:639 open connection is fail
+30/08 10:02:13:662 org.apache.axis.AxisFault: ; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+30/08 10:02:13:663 Starting process session
+30/08 10:02:14:263 Total 0 instances are started
+30/08 10:02:14:264 Total 6 instances are added
+30/08 10:08:51:261 EPOS started
+30/08 10:09:17:501 java.sql.SQLException: Connections could not be acquired from the underlying database!
+30/08 10:09:17:502 End of process session
+30/08 10:10:39:824 EPOS started
+30/08 10:10:41:332 Testing connection ...
+30/08 10:10:43:347 open connection is fail
+30/08 10:10:43:374 org.apache.axis.AxisFault: ; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+30/08 10:10:43:374 Starting process session
+30/08 10:10:43:974 Total 0 instances are started
+30/08 10:10:43:974 Total 6 instances are added
+30/08 10:15:58:398 EPOS started
+30/08 10:15:58:575 Testing connection ...
+30/08 10:16:01:376 open connection is fail
+30/08 10:16:01:421 org.apache.axis.AxisFault: ; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+30/08 10:16:01:423 Starting process session
+30/08 10:16:02:023 Total 0 instances are started
+30/08 10:16:02:025 Total 6 instances are added
+30/08 10:17:17:024 EPOS started
+30/08 10:17:18:776 Testing connection ...
+30/08 10:17:20:773 open connection is fail
+30/08 10:17:20:795 org.apache.axis.AxisFault: ; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+30/08 10:17:20:795 Starting process session
+30/08 10:17:21:396 Total 0 instances are started
+30/08 10:17:21:397 Total 6 instances are added
+30/08 10:28:15:301 EPOS started
+30/08 10:28:16:716 Testing connection ...
+30/08 10:28:18:511 open connection is fail
+30/08 10:28:18:532 org.apache.axis.AxisFault: ; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+30/08 10:28:18:532 Starting process session
+30/08 10:28:19:133 Total 0 instances are started
+30/08 10:28:19:136 Total 6 instances are added
+30/08 10:29:40:342 EPOS started
+30/08 10:29:41:893 Testing connection ...
+30/08 10:29:43:880 open connection is fail
+30/08 10:29:43:901 org.apache.axis.AxisFault: ; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+30/08 10:29:43:901 Starting process session
+30/08 10:29:44:502 Total 0 instances are started
+30/08 10:29:44:503 Total 6 instances are added
+30/08 10:38:12:679 EPOS started
+30/08 10:38:14:302 Testing connection ...
+30/08 10:38:16:243 open connection is fail
+30/08 10:38:16:267 org.apache.axis.AxisFault: ; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+30/08 10:38:16:267 Starting process session
+30/08 10:38:16:868 Total 0 instances are started
+30/08 10:38:16:869 Total 6 instances are added
+30/08 10:41:11:960 EPOS started
+30/08 10:41:13:227 Testing connection ...
+30/08 10:41:14:912 open connection is fail
+30/08 10:41:14:944 org.apache.axis.AxisFault: ; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+30/08 10:41:14:944 Starting process session
+30/08 10:41:15:545 Total 0 instances are started
+30/08 10:41:15:546 Total 6 instances are added
+30/08 10:43:18:901 javax.jms.JMSException: [C4056]: Received goodbye message from broker.
+30/08 10:43:18:926 javax.jms.JMSException: [C4056]: Received goodbye message from broker.
+30/08 10:43:18:979 javax.jms.JMSException: [C4056]: Received goodbye message from broker.
+30/08 10:43:19:007 javax.jms.IllegalStateException: [C4062]: Cannot perform operation, connection is closed.
+30/08 10:43:19:012 javax.jms.IllegalStateException: [C4062]: Cannot perform operation, connection is closed.
+30/08 10:43:19:025 javax.jms.IllegalStateException: [C4062]: Cannot perform operation, connection is closed.
+30/08 10:43:19:140 Total 5 instances are started
+30/08 10:43:19:142 Total 1 instances are added
+30/08 10:43:19:981 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.36:50415]. - cause: java.net.ConnectException: Connection refused: connect
+30/08 10:43:19:999 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.36:50415]. - cause: java.net.ConnectException: Connection refused: connect
+30/08 10:43:20:057 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.36:50415]. - cause: java.net.ConnectException: Connection refused: connect
+30/08 10:43:20:076 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.36:50415]. - cause: java.net.ConnectException: Connection refused: connect
+30/08 10:43:20:130 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.36:50415]. - cause: java.net.ConnectException: Connection refused: connect
+30/08 10:43:20:212 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.36:50415]. - cause: java.net.ConnectException: Connection refused: connect
+30/08 10:43:20:259 Total 4 instances are started
+30/08 10:43:20:261 Total 2 instances are added
+30/08 10:43:20:764 Total 2 instances are started
+30/08 10:43:20:765 Total 4 instances are added
+30/08 10:43:21:187 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.36:50415]. - cause: java.net.ConnectException: Connection refused: connect
+30/08 10:43:21:276 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.36:50415]. - cause: java.net.ConnectException: Connection refused: connect
+30/08 10:43:21:466 Total 4 instances are started
+30/08 10:43:21:770 Total 2 instances are added
+30/08 10:43:21:796 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.36:50415]. - cause: java.net.ConnectException: Connection refused: connect
+30/08 10:43:21:831 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.36:50415]. - cause: java.net.ConnectException: Connection refused: connect
+30/08 10:43:21:903 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.36:50415]. - cause: java.net.ConnectException: Connection refused: connect
+30/08 10:43:21:958 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.36:50415]. - cause: java.net.ConnectException: Connection refused: connect
+30/08 10:43:22:271 Total 2 instances are started
+30/08 10:43:22:273 Total 4 instances are added
+30/08 10:43:22:298 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.36:7676]. - cause: java.net.SocketException: Connection reset
+30/08 10:43:22:310 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.36:7676]. - cause: java.net.SocketException: Connection reset
+30/08 10:43:22:359 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.36:7676]. - cause: java.net.SocketException: Connection reset
+30/08 10:43:22:415 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.36:50415]. - cause: java.net.ConnectException: Connection refused: connect
+30/08 10:43:22:486 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.36:50415]. - cause: java.net.ConnectException: Connection refused: connect
+30/08 10:43:22:876 Total 1 instances are started
+30/08 10:43:22:877 Total 5 instances are added
+30/08 10:43:23:283 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.36:7676]. - cause: java.net.ConnectException: Connection refused: connect
+30/08 10:43:23:478 Total 5 instances are started
+30/08 10:43:23:478 Total 1 instances are added
+30/08 10:43:23:488 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.36:7676]. - cause: java.net.ConnectException: Connection refused: connect
+30/08 10:43:23:606 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.36:7676]. - cause: java.net.ConnectException: Connection refused: connect
+30/08 10:43:23:682 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.36:7676]. - cause: java.net.ConnectException: Connection refused: connect
+30/08 10:43:23:800 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.36:7676]. - cause: java.net.ConnectException: Connection refused: connect
+30/08 10:43:23:922 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.36:7676]. - cause: java.net.ConnectException: Connection refused: connect
+30/08 10:43:24:079 Total 1 instances are started
+30/08 10:43:24:079 Total 5 instances are added
+30/08 10:43:24:497 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.36:7676]. - cause: java.net.ConnectException: Connection refused: connect
+30/08 10:43:24:680 Total 5 instances are started
+30/08 10:43:24:680 Total 1 instances are added
+30/08 10:43:24:719 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.36:7676]. - cause: java.net.ConnectException: Connection refused: connect
+30/08 10:43:24:816 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.36:7676]. - cause: java.net.ConnectException: Connection refused: connect
+30/08 10:43:24:910 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.36:7676]. - cause: java.net.ConnectException: Connection refused: connect
+30/08 10:43:25:008 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.36:7676]. - cause: java.net.ConnectException: Connection refused: connect
+30/08 10:43:25:126 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.36:7676]. - cause: java.net.ConnectException: Connection refused: connect
+30/08 10:43:25:286 Total 1 instances are started
+30/08 10:43:25:287 Total 5 instances are added
+30/08 10:43:25:827 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.36:7676]. - cause: java.net.ConnectException: Connection refused: connect
+30/08 10:43:25:899 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.36:7676]. - cause: java.net.ConnectException: Connection refused: connect
+30/08 10:43:25:989 Total 5 instances are started
+30/08 10:43:25:990 Total 1 instances are added
+30/08 10:43:26:021 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.36:7676]. - cause: java.net.ConnectException: Connection refused: connect
+30/08 10:43:26:129 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.36:7676]. - cause: java.net.ConnectException: Connection refused: connect
+30/08 10:43:26:209 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.36:7676]. - cause: java.net.ConnectException: Connection refused: connect
+30/08 10:43:26:306 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.36:7676]. - cause: java.net.ConnectException: Connection refused: connect
+30/08 10:43:26:591 Total 1 instances are started
+30/08 10:43:26:592 Total 5 instances are added
+30/08 10:43:27:034 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.36:7676]. - cause: java.net.ConnectException: Connection refused: connect
+30/08 10:43:27:192 Total 5 instances are started
+30/08 10:43:27:193 Total 1 instances are added
+30/08 10:43:27:234 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.36:7676]. - cause: java.net.ConnectException: Connection refused: connect
+30/08 10:43:27:332 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.36:7676]. - cause: java.net.ConnectException: Connection refused: connect
+30/08 10:43:27:423 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.36:7676]. - cause: java.net.ConnectException: Connection refused: connect
+30/08 10:43:27:593 Total 3 instances are started
+30/08 10:43:27:703 Total 3 instances are added
+30/08 10:43:27:777 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.36:7676]. - cause: java.net.ConnectException: Connection refused: connect
+30/08 10:43:27:808 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.36:7676]. - cause: java.net.ConnectException: Connection refused: connect
+30/08 10:43:27:903 Total 5 instances are started
+30/08 10:43:27:904 Total 1 instances are added
+30/08 10:43:28:104 Total 5 instances are started
+30/08 10:43:28:104 Total 1 instances are added
+30/08 10:43:28:209 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.36:7676]. - cause: java.net.ConnectException: Connection refused: connect
+30/08 10:43:28:405 Total 5 instances are started
+30/08 10:43:28:409 Total 1 instances are added
+30/08 10:43:28:416 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.36:7676]. - cause: java.net.ConnectException: Connection refused: connect
+30/08 10:43:28:539 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.36:7676]. - cause: java.net.ConnectException: Connection refused: connect
+30/08 10:43:28:606 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.36:7676]. - cause: java.net.ConnectException: Connection refused: connect
+30/08 10:43:28:810 Total 3 instances are started
+30/08 10:43:28:811 Total 3 instances are added
+30/08 10:43:28:939 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.36:7676]. - cause: java.net.ConnectException: Connection refused: connect
+30/08 10:43:29:112 Total 5 instances are started
+30/08 10:43:29:113 Total 1 instances are added
+30/08 10:43:29:138 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.36:7676]. - cause: java.net.ConnectException: Connection refused: connect
+30/08 10:43:29:314 Total 5 instances are started
+30/08 10:43:29:315 Total 1 instances are added
+30/08 10:43:29:562 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.36:7676]. - cause: java.net.ConnectException: Connection refused: connect
+30/08 10:43:29:636 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.36:7676]. - cause: java.net.ConnectException: Connection refused: connect
+30/08 10:43:29:717 Total 5 instances are started
+30/08 10:43:29:717 Total 1 instances are added
+30/08 10:43:29:737 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.36:7676]. - cause: java.net.ConnectException: Connection refused: connect
+30/08 10:43:29:840 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.36:7676]. - cause: java.net.ConnectException: Connection refused: connect
+30/08 10:43:30:118 Total 3 instances are started
+30/08 10:43:30:119 Total 3 instances are added
+30/08 10:43:30:139 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.36:7676]. - cause: java.net.ConnectException: Connection refused: connect
+30/08 10:43:30:320 Total 5 instances are started
+30/08 10:43:30:321 Total 1 instances are added
+30/08 10:43:30:378 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.36:7676]. - cause: java.net.ConnectException: Connection refused: connect
+30/08 10:43:30:522 Total 5 instances are started
+30/08 10:43:30:523 Total 1 instances are added
+30/08 10:43:30:737 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.36:7676]. - cause: java.net.ConnectException: Connection refused: connect
+30/08 10:43:30:925 Total 5 instances are started
+30/08 10:43:30:927 Total 1 instances are added
+30/08 10:43:30:982 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.36:7676]. - cause: java.net.ConnectException: Connection refused: connect
+30/08 10:43:31:054 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.36:7676]. - cause: java.net.ConnectException: Connection refused: connect
+30/08 10:43:31:164 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.36:7676]. - cause: java.net.ConnectException: Connection refused: connect
+30/08 10:43:31:328 Total 3 instances are started
+30/08 10:43:31:329 Total 3 instances are added
+30/08 10:43:31:362 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.36:7676]. - cause: java.net.ConnectException: Connection refused: connect
+30/08 10:43:31:530 Total 5 instances are started
+30/08 10:43:31:563 Total 1 instances are added
+30/08 10:43:31:638 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.36:7676]. - cause: java.net.ConnectException: Connection refused: connect
+30/08 10:43:31:763 Total 5 instances are started
+30/08 10:43:31:764 Total 1 instances are added
+30/08 10:43:31:973 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.36:7676]. - cause: java.net.ConnectException: Connection refused: connect
+30/08 10:43:32:164 Total 5 instances are started
+30/08 10:43:32:164 Total 1 instances are added
+30/08 10:43:32:172 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.36:7676]. - cause: java.net.ConnectException: Connection refused: connect
+30/08 10:43:32:260 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.36:7676]. - cause: java.net.ConnectException: Connection refused: connect
+30/08 10:43:32:375 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.36:7676]. - cause: java.net.ConnectException: Connection refused: connect
+30/08 10:43:32:565 Total 3 instances are started
+30/08 10:43:32:566 Total 3 instances are added
+30/08 10:43:32:573 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.36:7676]. - cause: java.net.ConnectException: Connection refused: connect
+30/08 10:43:32:766 Total 5 instances are started
+30/08 10:43:32:766 Total 1 instances are added
+30/08 10:43:32:805 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.36:7676]. - cause: java.net.ConnectException: Connection refused: connect
+30/08 10:43:32:967 Total 5 instances are started
+30/08 10:43:32:968 Total 1 instances are added
+30/08 10:43:33:199 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.36:7676]. - cause: java.net.ConnectException: Connection refused: connect
+30/08 10:43:33:368 Total 5 instances are started
+30/08 10:43:33:368 Total 1 instances are added
+30/08 10:43:33:395 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.36:7676]. - cause: java.net.ConnectException: Connection refused: connect
+30/08 10:43:33:496 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.36:7676]. - cause: java.net.ConnectException: Connection refused: connect
+30/08 10:43:33:600 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.36:7676]. - cause: java.net.ConnectException: Connection refused: connect
+30/08 10:43:33:769 Total 3 instances are started
+30/08 10:43:33:770 Total 3 instances are added
+30/08 10:43:33:835 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.36:7676]. - cause: java.net.ConnectException: Connection refused: connect
+30/08 10:43:33:970 Total 5 instances are started
+30/08 10:43:33:971 Total 1 instances are added
+30/08 10:43:34:036 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.36:7676]. - cause: java.net.ConnectException: Connection refused: connect
+30/08 10:43:34:172 Total 5 instances are started
+30/08 10:43:34:173 Total 1 instances are added
+30/08 10:43:34:389 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.36:7676]. - cause: java.net.ConnectException: Connection refused: connect
+30/08 10:43:34:574 Total 5 instances are started
+30/08 10:43:34:575 Total 1 instances are added
+30/08 10:43:34:594 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.36:7676]. - cause: java.net.ConnectException: Connection refused: connect
+30/08 10:43:34:705 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.36:7676]. - cause: java.net.ConnectException: Connection refused: connect
+30/08 10:43:34:821 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.36:7676]. - cause: java.net.ConnectException: Connection refused: connect
+30/08 10:43:34:977 Total 3 instances are started
+30/08 10:43:34:979 Total 3 instances are added
+30/08 10:43:35:012 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.36:7676]. - cause: java.net.ConnectException: Connection refused: connect
+30/08 10:43:35:180 Total 5 instances are started
+30/08 10:43:35:181 Total 1 instances are added
+30/08 10:43:35:189 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.36:7676]. - cause: java.net.ConnectException: Connection refused: connect
+30/08 10:43:35:381 Total 5 instances are started
+30/08 10:43:35:382 Total 1 instances are added
+30/08 10:43:35:667 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.36:7676]. - cause: java.net.ConnectException: Connection refused: connect
+30/08 10:43:35:782 Total 5 instances are started
+30/08 10:43:35:783 Total 1 instances are added
+30/08 10:43:35:799 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.36:7676]. - cause: java.net.ConnectException: Connection refused: connect
+30/08 10:43:35:908 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.36:7676]. - cause: java.net.ConnectException: Connection refused: connect
+30/08 10:43:36:083 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.36:7676]. - cause: java.net.ConnectException: Connection refused: connect
+30/08 10:43:36:084 Total 4 instances are started
+30/08 10:43:36:086 Total 2 instances are added
+30/08 10:43:36:224 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.36:7676]. - cause: java.net.ConnectException: Connection refused: connect
+30/08 10:43:36:388 Total 4 instances are started
+30/08 10:43:36:389 Total 2 instances are added
+30/08 10:43:36:429 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.36:7676]. - cause: java.net.ConnectException: Connection refused: connect
+30/08 10:43:36:590 Total 5 instances are started
+30/08 10:43:36:591 Total 1 instances are added
+30/08 10:43:36:818 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.36:7676]. - cause: java.net.ConnectException: Connection refused: connect
+30/08 10:43:36:993 Total 5 instances are started
+30/08 10:43:36:993 Total 1 instances are added
+30/08 10:43:37:007 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.36:7676]. - cause: java.net.ConnectException: Connection refused: connect
+30/08 10:43:37:114 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.36:7676]. - cause: java.net.ConnectException: Connection refused: connect
+30/08 10:43:37:294 Total 4 instances are started
+30/08 10:43:37:295 Total 2 instances are added
+30/08 10:43:37:331 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.36:7676]. - cause: java.net.ConnectException: Connection refused: connect
+30/08 10:43:37:496 Total 5 instances are started
+30/08 10:43:37:594 Total 1 instances are added
+30/08 10:43:37:611 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.36:7676]. - cause: java.net.ConnectException: Connection refused: connect
+30/08 10:43:37:662 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.36:7676]. - cause: java.net.ConnectException: Connection refused: connect
+30/08 10:43:37:895 Total 4 instances are started
+30/08 10:43:37:895 Total 2 instances are added
+30/08 10:43:38:042 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.36:7676]. - cause: java.net.ConnectException: Connection refused: connect
+30/08 10:43:38:196 Total 5 instances are started
+30/08 10:43:38:197 Total 1 instances are added
+30/08 10:43:38:226 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.36:7676]. - cause: java.net.ConnectException: Connection refused: connect
+30/08 10:43:38:349 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.36:7676]. - cause: java.net.ConnectException: Connection refused: connect
+30/08 10:43:38:497 Total 4 instances are started
+30/08 10:43:38:498 Total 2 instances are added
+30/08 10:43:38:532 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.36:7676]. - cause: java.net.ConnectException: Connection refused: connect
+30/08 10:43:38:699 Total 5 instances are started
+30/08 10:43:38:700 Total 1 instances are added
+30/08 10:43:38:825 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.36:7676]. - cause: java.net.ConnectException: Connection refused: connect
+30/08 10:43:38:916 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.36:7676]. - cause: java.net.ConnectException: Connection refused: connect
+30/08 10:43:39:101 Total 4 instances are started
+30/08 10:43:39:102 Total 2 instances are added
+30/08 10:43:39:263 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.36:7676]. - cause: java.net.ConnectException: Connection refused: connect
+30/08 10:43:39:402 Total 5 instances are started
+30/08 10:43:39:403 Total 1 instances are added
+30/08 10:43:39:422 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.36:7676]. - cause: java.net.ConnectException: Connection refused: connect
+30/08 10:43:39:591 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.36:7676]. - cause: java.net.ConnectException: Connection refused: connect
+30/08 10:43:39:703 Total 4 instances are started
+30/08 10:43:39:703 Total 2 instances are added
+30/08 10:43:39:728 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.36:7676]. - cause: java.net.ConnectException: Connection refused: connect
+30/08 10:43:39:904 Total 5 instances are started
+30/08 10:43:39:904 Total 1 instances are added
+30/08 10:43:40:032 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.36:7676]. - cause: java.net.ConnectException: Connection refused: connect
+30/08 10:43:40:126 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.36:7676]. - cause: java.net.ConnectException: Connection refused: connect
+30/08 10:43:40:323 Total 4 instances are started
+30/08 10:43:40:324 Total 2 instances are added
+30/08 10:43:40:417 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.36:7676]. - cause: java.net.ConnectException: Connection refused: connect
+30/08 10:43:40:524 Total 5 instances are started
+30/08 10:43:40:524 Total 1 instances are added
+30/08 10:43:40:628 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.36:7676]. - cause: java.net.ConnectException: Connection refused: connect
+30/08 10:43:40:717 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.36:7676]. - cause: java.net.ConnectException: Connection refused: connect
+30/08 10:43:40:829 Total 4 instances are started
+30/08 10:43:40:829 Total 2 instances are added
+30/08 10:43:40:913 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.36:7676]. - cause: java.net.ConnectException: Connection refused: connect
+30/08 10:43:41:030 Total 5 instances are started
+30/08 10:43:41:030 Total 1 instances are added
+30/08 10:43:41:294 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.36:7676]. - cause: java.net.ConnectException: Connection refused: connect
+30/08 10:43:41:356 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.36:7676]. - cause: java.net.ConnectException: Connection refused: connect
+30/08 10:43:41:535 Total 4 instances are started
+30/08 10:43:41:536 Total 2 instances are added
+30/08 10:43:41:567 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.36:7676]. - cause: java.net.ConnectException: Connection refused: connect
+30/08 10:43:41:737 Total 5 instances are started
+30/08 10:43:42:767 Total 1 instances are added
+30/08 10:43:42:829 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.36:7676]. - cause: java.net.ConnectException: Connection refused: connect
+30/08 10:43:42:845 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.36:7676]. - cause: java.net.ConnectException: Connection refused: connect
+30/08 10:43:42:887 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.36:7676]. - cause: java.net.ConnectException: Connection refused: connect
+30/08 10:43:42:927 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.36:7676]. - cause: java.net.ConnectException: Connection refused: connect
+30/08 10:43:42:970 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.36:7676]. - cause: java.net.ConnectException: Connection refused: connect
+30/08 10:43:43:067 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.36:7676]. - cause: java.net.ConnectException: Connection refused: connect
+30/08 10:43:43:268 Total 2 instances are started
+30/08 10:43:43:269 Total 4 instances are added
+30/08 10:43:43:569 Total 4 instances are started
+30/08 10:43:43:570 Total 2 instances are added
+30/08 10:43:43:998 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.36:7676]. - cause: java.net.ConnectException: Connection refused: connect
+30/08 10:43:44:102 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.36:7676]. - cause: java.net.ConnectException: Connection refused: connect
+30/08 10:43:44:191 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.36:7676]. - cause: java.net.ConnectException: Connection refused: connect
+30/08 10:43:44:297 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.36:7676]. - cause: java.net.ConnectException: Connection refused: connect
+30/08 10:43:44:473 Total 2 instances are started
+30/08 10:43:44:478 Total 4 instances are added
+30/08 10:43:44:484 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.36:7676]. - cause: java.net.ConnectException: Connection refused: connect
+30/08 10:43:44:590 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.36:7676]. - cause: java.net.ConnectException: Connection refused: connect
+30/08 10:43:44:778 Total 4 instances are started
+30/08 10:43:44:778 Total 2 instances are added
+30/08 10:43:45:216 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.36:7676]. - cause: java.net.ConnectException: Connection refused: connect
+30/08 10:43:45:315 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.36:7676]. - cause: java.net.ConnectException: Connection refused: connect
+30/08 10:43:45:390 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.36:7676]. - cause: java.net.ConnectException: Connection refused: connect
+30/08 10:43:45:581 Total 3 instances are started
+30/08 10:43:45:581 Total 3 instances are added
+30/08 10:43:45:614 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.36:7676]. - cause: java.net.ConnectException: Connection refused: connect
+30/08 10:43:45:704 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.36:7676]. - cause: java.net.ConnectException: Connection refused: connect
+30/08 10:43:45:782 Total 5 instances are started
+30/08 10:43:45:783 Total 1 instances are added
+30/08 10:43:45:817 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.36:7676]. - cause: java.net.ConnectException: Connection refused: connect
+30/08 10:43:46:084 Total 4 instances are started
+30/08 10:43:46:085 Total 2 instances are added
+30/08 10:43:46:409 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.36:7676]. - cause: java.net.ConnectException: Connection refused: connect
+30/08 10:43:46:502 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.36:7676]. - cause: java.net.ConnectException: Connection refused: connect
+30/08 10:43:46:599 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.36:7676]. - cause: java.net.ConnectException: Connection refused: connect
+30/08 10:43:46:785 Total 3 instances are started
+30/08 10:43:46:785 Total 3 instances are added
+30/08 10:43:46:810 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.36:7676]. - cause: java.net.ConnectException: Connection refused: connect
+30/08 10:43:47:003 Total 5 instances are started
+30/08 10:43:47:004 Total 1 instances are added
+30/08 10:43:47:016 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.36:7676]. - cause: java.net.ConnectException: Connection refused: connect
+30/08 10:43:47:092 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.36:7676]. - cause: java.net.ConnectException: Connection refused: connect
+30/08 10:43:47:315 Total 4 instances are started
+30/08 10:43:47:316 Total 2 instances are added
+30/08 10:43:47:724 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.36:7676]. - cause: java.net.ConnectException: Connection refused: connect
+30/08 10:43:47:788 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.36:7676]. - cause: java.net.ConnectException: Connection refused: connect
+30/08 10:43:47:831 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.36:7676]. - cause: java.net.ConnectException: Connection refused: connect
+30/08 10:43:48:119 Total 3 instances are started
+30/08 10:43:48:120 Total 3 instances are added
+30/08 10:45:03:986 EPOS started
+30/08 10:45:05:508 Testing connection ...
+30/08 10:45:07:391 open connection is fail
+30/08 10:45:07:424 org.apache.axis.AxisFault: ; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+30/08 10:45:07:425 Starting process session
+30/08 10:45:08:026 Total 0 instances are started
+30/08 10:45:08:027 Total 6 instances are added
+30/08 10:53:54:646 EPOS started
+30/08 10:53:55:952 Testing connection ...
+30/08 10:53:57:626 open connection is fail
+30/08 10:53:57:649 org.apache.axis.AxisFault: ; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+30/08 10:53:57:649 Starting process session
+30/08 10:53:58:250 Total 0 instances are started
+30/08 10:53:58:251 Total 6 instances are added
+30/08 10:55:49:492 EPOS started
+30/08 10:55:51:196 Testing connection ...
+30/08 10:55:53:101 open connection is fail
+30/08 10:55:53:122 org.apache.axis.AxisFault: ; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+30/08 10:55:53:123 Starting process session
+30/08 10:55:53:738 Total 0 instances are started
+30/08 10:55:53:739 Total 6 instances are added
+30/08 11:11:13:029 EPOS started
+30/08 11:11:14:505 Testing connection ...
+30/08 11:11:16:568 open connection is fail
+30/08 11:11:16:595 org.apache.axis.AxisFault: ; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+30/08 11:11:16:595 Starting process session
+30/08 11:11:17:198 Total 0 instances are started
+30/08 11:11:17:198 Total 6 instances are added
+30/08 11:12:39:343 EPOS started
+30/08 11:12:40:948 Testing connection ...
+30/08 11:12:42:879 open connection is fail
+30/08 11:12:42:900 org.apache.axis.AxisFault: ; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+30/08 11:12:42:901 Starting process session
+30/08 11:12:43:506 Total 0 instances are started
+30/08 11:12:43:507 Total 6 instances are added
+30/08 11:13:39:396 EPOS started
+30/08 11:13:40:813 Testing connection ...
+30/08 11:13:42:523 open connection is fail
+30/08 11:13:42:547 org.apache.axis.AxisFault: ; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+30/08 11:13:42:547 Starting process session
+30/08 11:13:43:148 Total 0 instances are started
+30/08 11:13:43:153 Total 6 instances are added
+30/08 11:17:27:664 EPOS started
+30/08 11:17:29:247 Testing connection ...
+30/08 11:17:31:270 open connection is fail
+30/08 11:17:31:294 org.apache.axis.AxisFault: ; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+30/08 11:17:31:295 Starting process session
+30/08 11:17:31:896 Total 0 instances are started
+30/08 11:17:31:897 Total 6 instances are added
+30/08 11:21:23:701 EPOS started
+30/08 11:21:25:389 Testing connection ...
+30/08 11:21:27:403 open connection is fail
+30/08 11:21:27:433 org.apache.axis.AxisFault: ; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+30/08 11:21:27:434 Starting process session
+30/08 11:21:28:038 Total 0 instances are started
+30/08 11:21:28:039 Total 6 instances are added
+30/08 11:23:01:888 EPOS started
+30/08 11:23:03:121 Testing connection ...
+30/08 11:23:04:826 open connection is fail
+30/08 11:23:04:846 org.apache.axis.AxisFault: ; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+30/08 11:23:04:846 Starting process session
+30/08 11:23:05:448 Total 0 instances are started
+30/08 11:23:05:449 Total 6 instances are added
+30/08 11:30:06:451 EPOS started
+30/08 11:30:08:063 Testing connection ...
+30/08 11:30:09:752 open connection is fail
+30/08 11:30:09:777 org.apache.axis.AxisFault: ; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+30/08 11:30:09:777 Starting process session
+30/08 11:30:10:379 Total 0 instances are started
+30/08 11:30:10:380 Total 6 instances are added
+30/08 11:31:29:112 EPOS started
+30/08 11:31:30:473 Testing connection ...
+30/08 11:31:32:320 open connection is fail
+30/08 11:31:32:349 org.apache.axis.AxisFault: ; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+30/08 11:31:32:349 Starting process session
+30/08 11:31:32:955 Total 0 instances are started
+30/08 11:31:32:956 Total 6 instances are added
+30/08 11:37:35:895 EPOS started
+30/08 11:37:37:474 Testing connection ...
+30/08 11:37:39:227 open connection is fail
+30/08 11:37:39:255 org.apache.axis.AxisFault: ; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+30/08 11:37:39:255 Starting process session
+30/08 11:37:39:971 Total 0 instances are started
+30/08 11:37:39:972 Total 6 instances are added
+30/08 11:39:57:996 EPOS started
+30/08 11:39:59:514 Testing connection ...
+30/08 11:40:01:307 open connection is fail
+30/08 11:40:01:327 org.apache.axis.AxisFault: ; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+30/08 11:40:01:327 Starting process session
+30/08 11:40:01:977 Total 0 instances are started
+30/08 11:40:01:979 Total 6 instances are added
+30/08 11:41:01:096 EPOS started
+30/08 11:41:02:831 Testing connection ...
+30/08 11:41:04:571 open connection is fail
+30/08 11:41:04:598 org.apache.axis.AxisFault: ; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+30/08 11:41:04:599 Starting process session
+30/08 11:41:05:200 Total 0 instances are started
+30/08 11:41:05:201 Total 6 instances are added
+30/08 11:41:51:260 EPOS started
+30/08 11:41:51:359 Testing connection ...
+30/08 11:41:54:584 open connection is fail
+30/08 11:41:54:616 org.apache.axis.AxisFault: ; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+30/08 11:41:54:617 Starting process session
+30/08 11:41:55:217 Total 0 instances are started
+30/08 11:41:55:217 Total 6 instances are added
+30/08 11:44:49:367 EPOS started
+30/08 11:44:50:955 Testing connection ...
+30/08 11:44:52:984 open connection is fail
+30/08 11:44:53:012 org.apache.axis.AxisFault: ; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+30/08 11:44:53:013 Starting process session
+30/08 11:44:53:616 Total 0 instances are started
+30/08 11:44:53:616 Total 6 instances are added
+30/08 11:47:05:480 EPOS started
+30/08 11:47:05:643 Testing connection ...
+30/08 11:47:08:215 open connection is fail
+30/08 11:47:08:236 org.apache.axis.AxisFault: ; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+30/08 11:47:08:236 Starting process session
+30/08 11:47:08:837 Total 0 instances are started
+30/08 11:47:08:838 Total 6 instances are added
+30/08 11:50:22:287 EPOS started
+30/08 11:50:23:717 Testing connection ...
+30/08 11:50:25:434 open connection is fail
+30/08 11:50:25:460 org.apache.axis.AxisFault: ; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+30/08 11:50:25:460 Starting process session
+30/08 11:50:26:067 Total 0 instances are started
+30/08 11:50:26:069 Total 6 instances are added
+30/08 12:33:40:097 EPOS started
+30/08 12:33:41:472 Testing connection ...
+30/08 12:33:43:130 open connection is fail
+30/08 12:33:43:157 org.apache.axis.AxisFault: ; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+30/08 12:33:43:157 Starting process session
+30/08 12:33:43:757 Total 0 instances are started
+30/08 12:33:43:757 Total 6 instances are added
+30/08 12:40:18:892 EPOS started
+30/08 12:40:21:354 Testing connection ...
+30/08 12:40:23:539 open connection is fail
+30/08 12:40:23:564 org.apache.axis.AxisFault: ; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+30/08 12:40:23:564 Starting process session
+30/08 12:40:24:165 Total 0 instances are started
+30/08 12:40:24:167 Total 6 instances are added
+30/08 12:46:13:355 EPOS started
+30/08 12:46:14:217 Testing connection ...
+30/08 12:46:16:613 open connection is fail
+30/08 12:46:16:673 org.apache.axis.AxisFault: ; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+30/08 12:46:16:674 Starting process session
+30/08 12:46:17:275 Total 0 instances are started
+30/08 12:46:17:276 Total 6 instances are added
+30/08 13:22:32:840 EPOS started
+30/08 13:22:34:361 Testing connection ...
+30/08 13:22:36:736 open connection is fail
+30/08 13:22:36:756 org.apache.axis.AxisFault: ; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+30/08 13:22:36:756 Starting process session
+30/08 13:22:37:461 Total 0 instances are started
+30/08 13:22:37:461 Total 6 instances are added
+30/08 13:26:22:649 EPOS started
+30/08 13:26:24:407 Testing connection ...
+30/08 13:26:26:660 open connection is fail
+30/08 13:26:26:681 org.apache.axis.AxisFault: ; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+30/08 13:26:26:682 Starting process session
+30/08 13:26:27:283 Total 0 instances are started
+30/08 13:26:27:284 Total 6 instances are added
+30/08 13:29:31:136 EPOS started
+30/08 13:29:31:251 Testing connection ...
+30/08 13:29:34:605 open connection is fail
+30/08 13:29:34:626 org.apache.axis.AxisFault: ; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+30/08 13:29:34:626 Starting process session
+30/08 13:29:35:233 Total 0 instances are started
+30/08 13:29:35:234 Total 6 instances are added
+30/08 14:07:33:056 EPOS started
+30/08 14:07:34:640 Testing connection ...
+30/08 14:07:36:547 open connection is fail
+30/08 14:07:36:613 org.apache.axis.AxisFault: ; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+30/08 14:07:36:614 Starting process session
+30/08 14:07:37:216 Total 0 instances are started
+30/08 14:07:37:217 Total 6 instances are added
+30/08 14:12:42:682 EPOS started
+30/08 14:12:44:336 Testing connection ...
+30/08 14:12:46:344 open connection is fail
+30/08 14:12:46:372 org.apache.axis.AxisFault: ; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+30/08 14:12:46:373 Starting process session
+30/08 14:12:46:980 Total 0 instances are started
+30/08 14:12:46:982 Total 6 instances are added
+30/08 14:15:47:455 EPOS started
+30/08 14:15:49:211 Testing connection ...
+30/08 14:15:51:142 open connection is fail
+30/08 14:15:51:190 org.apache.axis.AxisFault: ; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+30/08 14:15:51:191 Starting process session
+30/08 14:15:51:792 Total 0 instances are started
+30/08 14:15:51:793 Total 6 instances are added
+30/08 14:22:45:651 EPOS started
+30/08 14:22:47:224 Testing connection ...
+30/08 14:22:49:119 open connection is fail
+30/08 14:22:49:151 org.apache.axis.AxisFault: ; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+30/08 14:22:49:152 Starting process session
+30/08 14:22:49:752 Total 0 instances are started
+30/08 14:22:49:753 Total 6 instances are added
+30/08 14:25:19:186 EPOS started
+30/08 14:25:20:859 Testing connection ...
+30/08 14:25:22:837 open connection is fail
+30/08 14:25:22:862 org.apache.axis.AxisFault: ; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+30/08 14:25:22:863 Starting process session
+30/08 14:25:23:464 Total 0 instances are started
+30/08 14:25:23:465 Total 6 instances are added
+30/08 14:28:07:205 EPOS started
+30/08 14:28:08:579 Testing connection ...
+30/08 14:28:10:544 open connection is fail
+30/08 14:28:10:569 org.apache.axis.AxisFault: ; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+30/08 14:28:10:569 Starting process session
+30/08 14:28:11:173 Total 0 instances are started
+30/08 14:28:11:174 Total 6 instances are added
+30/08 14:30:42:659 EPOS started
+30/08 14:31:09:842 java.sql.SQLException: Connections could not be acquired from the underlying database!
+30/08 14:31:09:846 End of process session
+30/08 14:31:44:154 EPOS started
+30/08 14:31:45:880 Testing connection ...
+30/08 14:31:47:879 open connection is fail
+30/08 14:31:47:902 org.apache.axis.AxisFault: ; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+30/08 14:31:47:903 Starting process session
+30/08 14:31:48:522 Total 0 instances are started
+30/08 14:31:48:523 Total 6 instances are added
+30/08 14:32:51:269 EPOS started
+30/08 14:32:53:231 Testing connection ...
+30/08 14:32:55:420 open connection is fail
+30/08 14:32:55:450 org.apache.axis.AxisFault: ; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+30/08 14:32:55:451 Starting process session
+30/08 14:32:56:057 Total 0 instances are started
+30/08 14:32:56:059 Total 6 instances are added
+30/08 14:34:35:391 EPOS started
+30/08 14:34:37:238 Testing connection ...
+30/08 14:34:39:176 open connection is fail
+30/08 14:34:39:220 org.apache.axis.AxisFault: ; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+30/08 14:34:39:221 Starting process session
+30/08 14:34:39:827 Total 0 instances are started
+30/08 14:34:39:828 Total 6 instances are added
+30/08 14:50:30:386 EPOS started
+30/08 14:50:31:768 Testing connection ...
+30/08 14:50:33:435 open connection is fail
+30/08 14:50:33:463 org.apache.axis.AxisFault: ; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+30/08 14:50:33:464 Starting process session
+30/08 14:50:34:067 Total 0 instances are started
+30/08 14:50:34:067 Total 6 instances are added
+30/08 16:02:30:462 EPOS started
+30/08 16:02:32:146 java.lang.ClassNotFoundException: com.crm.provisioning.impl.vim.VIMCommandImpl
+30/08 16:02:32:146 End of process session
+30/08 16:04:12:195 java.lang.ClassNotFoundException: com.crm.provisioning.impl.vim.VIMCommandImpl
+30/08 16:04:12:196 End of process session
+30/08 16:05:20:202 EPOS started
+30/08 16:05:21:583 java.lang.ClassNotFoundException: com.crm.provisioning.impl.vim.VIMCommandImpl
+30/08 16:05:21:584 End of process session
+30/08 16:11:37:833 EPOS started
+30/08 16:11:39:280 Testing connection ...
+30/08 16:11:41:013 open connection is fail
+30/08 16:11:41:041 org.apache.axis.AxisFault: ; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+30/08 16:11:41:042 Starting process session
+30/08 16:11:41:644 Total 0 instances are started
+30/08 16:11:41:645 Total 6 instances are added
+30/08 16:15:05:431 EPOS started
+30/08 16:15:06:753 Testing connection ...
+30/08 16:15:08:645 open connection is fail
+30/08 16:15:08:675 org.apache.axis.AxisFault: ; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+30/08 16:15:08:675 Starting process session
+30/08 16:15:09:276 Total 0 instances are started
+30/08 16:15:09:277 Total 6 instances are added
+30/08 16:18:18:211 EPOS started
+30/08 16:18:20:507 Testing connection ...
+30/08 16:18:22:563 open connection is fail
+30/08 16:18:22:597 org.apache.axis.AxisFault: ; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+30/08 16:18:22:598 Starting process session
+30/08 16:18:23:203 Total 0 instances are started
+30/08 16:18:23:204 Total 6 instances are added
+30/08 16:21:30:997 EPOS started
+30/08 16:21:32:271 Testing connection ...
+30/08 16:21:34:277 open connection is fail
+30/08 16:21:34:301 org.apache.axis.AxisFault: ; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+30/08 16:21:34:302 Starting process session
+30/08 16:21:34:906 Total 0 instances are started
+30/08 16:21:34:907 Total 6 instances are added
+30/08 16:39:39:635 EPOS started
+30/08 16:39:39:669 Testing connection ...
+30/08 16:39:43:177 open connection is fail
+30/08 16:39:43:201 org.apache.axis.AxisFault: ; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+30/08 16:39:43:202 Starting process session
+30/08 16:39:43:807 Total 0 instances are started
+30/08 16:39:43:807 Total 6 instances are added
+30/08 16:42:35:994 EPOS started
+30/08 16:42:37:584 Testing connection ...
+30/08 16:42:39:644 open connection is fail
+30/08 16:42:39:666 org.apache.axis.AxisFault: ; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+30/08 16:42:39:666 Starting process session
+30/08 16:42:40:267 Total 0 instances are started
+30/08 16:42:40:268 Total 6 instances are added
+30/08 16:43:34:703 EPOS started
+30/08 16:43:36:625 Testing connection ...
+30/08 16:43:38:713 open connection is fail
+30/08 16:43:38:752 org.apache.axis.AxisFault: ; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+30/08 16:43:38:752 Starting process session
+30/08 16:43:39:359 Total 0 instances are started
+30/08 16:43:39:360 Total 6 instances are added
+30/08 16:46:08:996 EPOS started
+30/08 16:46:09:864 Testing connection ...
+30/08 16:46:11:844 open connection is fail
+30/08 16:46:11:865 org.apache.axis.AxisFault: ; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+30/08 16:46:11:865 Starting process session
+30/08 16:46:12:466 Total 0 instances are started
+30/08 16:46:12:467 Total 6 instances are added
+30/08 16:51:39:214 EPOS started
+30/08 16:51:40:273 Testing connection ...
+30/08 16:51:42:068 open connection is fail
+30/08 16:51:42:096 org.apache.axis.AxisFault: ; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+30/08 16:51:42:097 Starting process session
+30/08 16:51:42:698 Total 0 instances are started
+30/08 16:51:42:712 Total 6 instances are added
+30/08 16:54:52:462 EPOS started
+30/08 16:54:53:976 Testing connection ...
+30/08 16:54:55:959 open connection is fail
+30/08 16:54:55:982 org.apache.axis.AxisFault: ; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+30/08 16:54:55:983 Starting process session
+30/08 16:54:56:697 Total 0 instances are started
+30/08 16:54:56:698 Total 6 instances are added
+30/08 16:56:12:172 EPOS started
+30/08 16:56:13:368 Testing connection ...
+30/08 16:56:15:146 open connection is fail
+30/08 16:56:15:174 org.apache.axis.AxisFault: ; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+30/08 16:56:15:178 Starting process session
+30/08 16:56:15:780 Total 0 instances are started
+30/08 16:56:15:780 Total 6 instances are added
+30/08 18:12:55:630 EPOS started
+30/08 18:12:57:134 Testing connection ...
+30/08 18:12:59:081 open connection is fail
+30/08 18:12:59:108 org.apache.axis.AxisFault: ; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+30/08 18:12:59:109 Starting process session
+30/08 18:12:59:710 Total 0 instances are started
+30/08 18:12:59:711 Total 6 instances are added
+30/08 18:13:24:026 EPOS started
+30/08 18:13:25:612 Testing connection ...
+30/08 18:13:27:664 open connection is fail
+30/08 18:13:27:689 org.apache.axis.AxisFault: ; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+30/08 18:13:27:689 Starting process session
+30/08 18:13:28:299 Total 0 instances are started
+30/08 18:13:28:300 Total 6 instances are added
+30/08 18:16:28:565 EPOS started
+30/08 18:16:29:604 Testing connection ...
+30/08 18:16:31:771 open connection is fail
+30/08 18:16:31:796 org.apache.axis.AxisFault: ; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+30/08 18:16:31:797 Starting process session
+30/08 18:16:32:397 Total 0 instances are started
+30/08 18:16:32:398 Total 6 instances are added
+30/08 18:20:37:839 EPOS started
+30/08 18:20:39:492 Testing connection ...
+30/08 18:20:41:597 open connection is fail
+30/08 18:20:41:618 org.apache.axis.AxisFault: ; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+30/08 18:20:41:619 Starting process session
+30/08 18:20:42:225 Total 0 instances are started
+30/08 18:20:42:226 Total 6 instances are added
+30/08 18:27:03:531 EPOS started
+30/08 18:27:04:990 Testing connection ...
+30/08 18:27:06:913 open connection is fail
+30/08 18:27:06:939 org.apache.axis.AxisFault: ; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+30/08 18:27:06:939 Starting process session
+30/08 18:27:07:548 Total 0 instances are started
+30/08 18:27:07:549 Total 6 instances are added
+30/08 18:29:20:526 EPOS started
+30/08 18:29:22:281 Testing connection ...
+30/08 18:29:24:196 open connection is fail
+30/08 18:29:24:220 org.apache.axis.AxisFault: ; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+30/08 18:29:24:220 Starting process session
+30/08 18:29:24:824 Total 0 instances are started
+30/08 18:29:24:825 Total 6 instances are added

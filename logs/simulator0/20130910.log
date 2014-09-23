@@ -1,0 +1,750 @@
+10/09 08:37:03:603 Simulator0 started
+10/09 08:37:03:637 Starting process session
+10/09 08:37:24:671 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.63:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+10/09 08:37:24:672 End of process session
+10/09 08:37:24:673 Simulator0 stopped
+10/09 08:37:26:667 Simulator0 started
+10/09 08:37:26:703 Starting process session
+10/09 08:37:47:728 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.63:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+10/09 08:37:47:728 End of process session
+10/09 08:37:47:729 Simulator0 stopped
+10/09 08:37:49:737 Simulator0 started
+10/09 08:37:49:760 Starting process session
+10/09 08:38:10:798 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.63:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+10/09 08:38:10:799 End of process session
+10/09 08:38:10:799 Simulator0 stopped
+10/09 08:38:19:944 Simulator0 started
+10/09 08:38:19:962 Starting process session
+10/09 08:38:40:998 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.63:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+10/09 08:38:40:999 End of process session
+10/09 08:38:41:000 Simulator0 stopped
+10/09 08:38:42:987 Simulator0 started
+10/09 08:38:43:007 Starting process session
+10/09 08:39:41:394 Simulator0 started
+10/09 08:39:41:448 Starting process session
+10/09 08:39:41:595 Total 0 instances are started
+10/09 08:39:41:596 Total 1 instances are added
+10/09 08:39:41:595 Begin to send message.
+10/09 08:39:41:743 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 3000 | isdn = 84922000514 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+10/09 08:39:41:744 message count: 1
+10/09 08:39:46:701 End of process session
+10/09 08:39:46:723 Simulator0 stopped
+10/09 08:41:47:873 Simulator0 started
+10/09 08:41:47:891 Starting process session
+10/09 08:41:48:001 Total 0 instances are started
+10/09 08:41:48:001 Begin to send message.
+10/09 08:41:48:002 Total 1 instances are added
+10/09 08:41:48:027 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 3000 | isdn = 84922000514 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+10/09 08:41:48:028 message count: 1
+10/09 08:41:53:107 End of process session
+10/09 08:41:53:108 Simulator0 stopped
+10/09 08:47:23:575 Simulator0 started
+10/09 08:47:23:596 Starting process session
+10/09 08:47:23:707 Total 0 instances are started
+10/09 08:47:23:707 Begin to send message.
+10/09 08:47:23:709 Total 1 instances are added
+10/09 08:47:23:757 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 3000 | isdn = 84922000514 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+10/09 08:47:23:759 message count: 1
+10/09 08:47:28:814 End of process session
+10/09 08:47:28:817 Simulator0 stopped
+10/09 08:48:33:617 Simulator0 started
+10/09 08:48:33:641 Starting process session
+10/09 08:48:33:752 Total 0 instances are started
+10/09 08:48:33:752 Begin to send message.
+10/09 08:48:33:753 Total 1 instances are added
+10/09 08:48:33:761 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 3000 | isdn = 84922000514 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+10/09 08:48:33:762 message count: 1
+10/09 08:48:38:861 End of process session
+10/09 08:48:38:863 Simulator0 stopped
+10/09 08:55:59:178 Simulator0 started
+10/09 08:55:59:202 Starting process session
+10/09 08:55:59:314 Total 0 instances are started
+10/09 08:55:59:314 Begin to send message.
+10/09 08:55:59:315 Total 1 instances are added
+10/09 08:55:59:343 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 3000 | isdn = 84922000514 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+10/09 08:55:59:344 message count: 1
+10/09 08:56:04:446 Begin to send message.
+10/09 08:56:09:421 End of process session
+10/09 08:56:09:422 Simulator0 stopped
+10/09 09:04:00:055 Simulator0 started
+10/09 09:04:00:074 Starting process session
+10/09 09:04:00:185 Total 0 instances are started
+10/09 09:04:00:186 Total 1 instances are added
+10/09 09:04:00:209 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 3000 | isdn = 84922000514 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+10/09 09:04:00:210 message count: 1
+10/09 09:04:05:291 End of process session
+10/09 09:04:05:292 Simulator0 stopped
+10/09 09:05:19:203 Simulator0 started
+10/09 09:05:19:224 Starting process session
+10/09 09:05:19:334 Total 0 instances are started
+10/09 09:05:19:335 Total 1 instances are added
+10/09 09:05:19:334 Begin to send message.
+10/09 09:05:19:344 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 3000 | isdn = 84922000514 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+10/09 09:05:19:345 message count: 1
+10/09 09:05:24:440 End of process session
+10/09 09:05:24:440 Simulator0 stopped
+10/09 09:06:53:240 Simulator0 started
+10/09 09:06:53:260 Starting process session
+10/09 09:06:53:370 Total 0 instances are started
+10/09 09:06:53:370 Begin to send message.
+10/09 09:06:53:371 Total 1 instances are added
+10/09 09:06:53:376 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 3000 | isdn = 84922000514 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+10/09 09:06:53:377 message count: 1
+10/09 09:06:58:476 End of process session
+10/09 09:06:58:477 Simulator0 stopped
+10/09 09:11:48:787 Simulator0 started
+10/09 09:11:48:805 Starting process session
+10/09 09:11:48:917 Total 0 instances are started
+10/09 09:11:48:918 Total 1 instances are added
+10/09 09:11:49:023 End of process session
+10/09 09:11:54:024 Simulator0 stopped
+10/09 09:11:55:827 Simulator0 started
+10/09 09:11:55:847 Starting process session
+10/09 09:11:55:965 Total 0 instances are started
+10/09 09:11:55:966 Total 1 instances are added
+10/09 09:11:55:967 Begin to send message.
+10/09 09:11:55:997 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 3000 | isdn = 84922000514 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+10/09 09:11:55:998 message count: 1
+10/09 09:12:01:075 End of process session
+10/09 09:12:01:076 Simulator0 stopped
+10/09 09:12:34:879 Simulator0 started
+10/09 09:12:34:900 Starting process session
+10/09 09:12:35:013 Total 0 instances are started
+10/09 09:12:35:014 Total 1 instances are added
+10/09 09:12:35:120 End of process session
+10/09 09:12:41:122 Simulator0 stopped
+10/09 09:12:42:910 Simulator0 started
+10/09 09:12:42:935 Starting process session
+10/09 09:12:43:048 Total 0 instances are started
+10/09 09:12:43:049 Total 1 instances are added
+10/09 09:12:43:049 Begin to send message.
+10/09 09:12:43:059 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 3000 | isdn = 84922000514 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+10/09 09:12:43:060 message count: 1
+10/09 09:12:48:179 End of process session
+10/09 09:12:48:181 Simulator0 stopped
+10/09 09:15:03:554 Simulator0 started
+10/09 09:15:03:577 Starting process session
+10/09 09:15:03:693 Total 0 instances are started
+10/09 09:15:03:694 Begin to send message.
+ded
+10/09 09:15:03:731 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 3000 | isdn = 84922000514 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+10/09 09:15:03:732 message count: 1
+10/09 09:15:08:803 End of process session
+10/09 09:15:08:805 Simulator0 stopped
+10/09 09:16:45:718 Simulator0 started
+10/09 09:16:45:737 Starting process session
+10/09 09:16:45:848 Total 0 instances are started
+10/09 09:16:45:848 Begin to send message.
+10/09 09:16:45:849 Total 1 instances are added
+10/09 09:16:45:859 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 3000 | isdn = 84922000514 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+10/09 09:16:45:861 message count: 1
+10/09 09:16:50:955 End of process session
+10/09 09:16:50:958 Simulator0 stopped
+10/09 09:18:26:758 Simulator0 started
+10/09 09:18:26:776 Starting process session
+10/09 09:18:26:886 Total 0 instances are started
+10/09 09:18:26:886 Begin to send message.
+10/09 09:18:26:887 Total 1 instances are added
+10/09 09:18:26:894 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 3000 | isdn = 84922000514 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+10/09 09:18:26:895 message count: 1
+10/09 09:18:31:996 End of process session
+10/09 09:18:31:997 Simulator0 stopped
+10/09 09:28:17:398 Simulator0 started
+10/09 09:28:17:420 Starting process session
+10/09 09:28:17:535 Total 0 instances are started
+10/09 09:28:17:536 Total 1 instances are added
+10/09 09:28:17:650 End of process session
+10/09 09:28:22:652 Simulator0 stopped
+10/09 09:28:24:447 Simulator0 started
+10/09 09:28:24:467 Starting process session
+10/09 09:28:24:577 Total 0 instances are started
+10/09 09:28:24:578 Total 1 instances are added
+10/09 09:28:24:684 End of process session
+10/09 09:28:30:686 Simulator0 stopped
+10/09 09:28:32:484 Simulator0 started
+10/09 09:28:32:619 Starting process session
+10/09 09:28:32:730 Total 0 instances are started
+10/09 09:28:32:731 Total 1 instances are added
+10/09 09:28:32:838 End of process session
+10/09 09:28:37:845 Simulator0 stopped
+10/09 09:28:44:519 Simulator0 started
+10/09 09:28:44:541 Starting process session
+10/09 09:28:44:652 Total 0 instances are started
+10/09 09:28:44:653 Total 1 instances are added
+10/09 09:28:44:758 End of process session
+10/09 09:29:06:761 Simulator0 stopped
+10/09 09:29:08:593 Simulator0 started
+10/09 09:29:08:626 Starting process session
+10/09 09:29:08:743 Total 0 instances are started
+10/09 09:29:08:744 Begin to send message.
+10/09 09:29:08:744 Total 1 instances are added
+10/09 09:29:08:781 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 3000 | isdn = 84922000514 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+10/09 09:29:08:782 message count: 1
+10/09 09:29:13:854 End of process session
+10/09 09:29:13:855 Simulator0 stopped
+10/09 09:31:21:517 Simulator0 started
+10/09 09:31:21:540 Starting process session
+10/09 09:31:21:654 Total 0 instances are started
+10/09 09:31:21:655 Begin to send message.
+10/09 09:31:21:655 Total 1 instances are added
+10/09 09:31:21:684 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 3000 | isdn = 84922000514 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+10/09 09:31:21:685 message count: 1
+10/09 09:31:26:765 End of process session
+10/09 09:31:26:767 Simulator0 stopped
+10/09 09:38:28:969 Simulator0 started
+10/09 09:38:28:990 Starting process session
+10/09 09:38:29:100 Total 0 instances are started
+10/09 09:38:29:101 Total 1 instances are added
+10/09 09:38:29:100 Begin to send message.
+10/09 09:38:29:137 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 3000 | isdn = 84922000514 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+10/09 09:38:29:139 message count: 1
+10/09 09:38:34:207 End of process session
+10/09 09:38:34:208 Simulator0 stopped
+10/09 09:53:42:916 Simulator0 started
+10/09 09:53:42:945 Starting process session
+10/09 09:53:43:054 Total 0 instances are started
+10/09 09:53:43:054 Begin to send message.
+10/09 09:53:43:057 Total 1 instances are added
+10/09 09:53:43:084 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 3000 | isdn = 84922000514 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+10/09 09:53:43:086 message count: 1
+10/09 09:53:48:164 End of process session
+10/09 09:53:48:165 Simulator0 stopped
+10/09 09:57:08:225 Simulator0 started
+10/09 09:57:08:256 Starting process session
+10/09 09:57:08:368 Total 0 instances are started
+10/09 09:57:08:369 Begin to send message.
+10/09 09:57:08:369 Total 1 instances are added
+10/09 09:57:08:379 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 3000 | isdn = 84922000514 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+10/09 09:57:08:381 message count: 1
+10/09 09:57:13:478 End of process session
+10/09 09:57:13:479 Simulator0 stopped
+10/09 10:03:08:348 Simulator0 started
+10/09 10:03:08:374 Starting process session
+10/09 10:03:08:485 Total 0 instances are started
+10/09 10:03:08:485 Begin to send message.
+10/09 10:03:08:486 Total 1 instances are added
+10/09 10:03:08:518 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 3000 | isdn = 84922000514 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+10/09 10:03:08:518 message count: 1
+10/09 10:03:13:591 End of process session
+10/09 10:03:13:592 Simulator0 stopped
+10/09 10:06:06:763 Simulator0 started
+10/09 10:06:06:786 Starting process session
+10/09 10:06:06:900 Total 0 instances are started
+10/09 10:06:06:901 Total 1 instances are added
+10/09 10:06:07:009 End of process session
+10/09 10:06:13:010 Simulator0 stopped
+10/09 10:06:14:805 Simulator0 started
+10/09 10:06:14:833 Starting process session
+10/09 10:06:14:948 Total 0 instances are started
+10/09 10:06:14:948 Begin to send message.
+10/09 10:06:14:949 Total 1 instances are added
+10/09 10:06:15:012 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 3000 | isdn = 84922000514 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+10/09 10:06:15:013 message count: 1
+10/09 10:06:20:123 Begin to send message.
+10/09 10:06:25:060 End of process session
+10/09 10:06:25:061 Simulator0 stopped
+10/09 10:07:53:927 Simulator0 started
+10/09 10:07:53:950 Starting process session
+10/09 10:07:54:073 Total 0 instances are started
+10/09 10:07:54:075 Begin to send message.
+10/09 10:07:54:075 Total 1 instances are added
+10/09 10:07:54:093 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 3000 | isdn = 84922000514 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+10/09 10:07:54:095 message count: 1
+10/09 10:07:59:198 Begin to send message.
+10/09 10:08:04:186 End of process session
+10/09 10:08:04:187 Simulator0 stopped
+10/09 10:17:46:244 Simulator0 started
+10/09 10:17:46:270 Starting process session
+10/09 10:17:46:384 Total 0 instances are started
+10/09 10:17:46:385 Begin to send message.
+10/09 10:17:46:386 Total 1 instances are added
+10/09 10:17:46:428 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 3000 | isdn = 84922000514 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+10/09 10:17:46:430 message count: 1
+10/09 10:17:51:496 End of process session
+10/09 10:17:51:497 Simulator0 stopped
+10/09 10:20:04:420 Simulator0 started
+10/09 10:20:04:442 Starting process session
+10/09 10:20:04:568 Total 0 instances are started
+10/09 10:20:04:570 Total 1 instances are added
+10/09 10:20:04:678 End of process session
+10/09 10:20:09:680 Simulator0 stopped
+10/09 10:20:15:449 Simulator0 started
+10/09 10:20:15:471 Starting process session
+10/09 10:20:15:589 Total 0 instances are started
+10/09 10:20:15:592 Total 1 instances are added
+10/09 10:20:15:594 Begin to send message.
+10/09 10:20:15:615 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+10/09 10:20:15:624 message count: 1
+10/09 10:20:20:700 End of process session
+10/09 10:20:20:702 Simulator0 stopped
+10/09 10:23:40:590 Simulator0 started
+10/09 10:23:40:623 Starting process session
+10/09 10:23:40:733 Total 0 instances are started
+10/09 10:23:40:736 Total 1 instances are added
+10/09 10:23:40:734 Begin to send message.
+10/09 10:23:40:753 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+10/09 10:23:40:755 message count: 1
+10/09 10:23:45:845 End of process session
+10/09 10:23:45:848 Simulator0 stopped
+10/09 10:24:40:654 Simulator0 started
+10/09 10:24:40:680 Starting process session
+10/09 10:24:40:789 Total 0 instances are started
+10/09 10:24:40:790 Begin to send message.
+10/09 10:24:40:791 Total 1 instances are added
+10/09 10:24:40:811 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+10/09 10:24:40:813 message count: 1
+10/09 10:24:45:914 Begin to send message.
+10/09 10:24:50:906 End of process session
+10/09 10:24:50:907 Simulator0 stopped
+10/09 10:32:52:980 Simulator0 started
+10/09 10:32:53:007 Starting process session
+10/09 10:32:53:119 Total 0 instances are started
+10/09 10:32:53:120 Total 1 instances are added
+10/09 10:32:53:232 End of process session
+10/09 10:32:59:239 Simulator0 stopped
+10/09 10:33:01:013 Simulator0 started
+10/09 10:33:01:032 Starting process session
+10/09 10:33:01:143 Total 0 instances are started
+10/09 10:33:01:169 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+10/09 10:33:01:169 message count: 1
+10/09 10:33:01:172 Total 1 instances are added
+10/09 10:33:06:296 End of process session
+10/09 10:33:06:297 Simulator0 stopped
+10/09 10:34:13:116 Simulator0 started
+10/09 10:34:13:153 Starting process session
+10/09 10:34:13:267 Total 0 instances are started
+10/09 10:34:13:269 Total 1 instances are added
+10/09 10:34:13:269 Begin to send message.
+10/09 10:34:13:297 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+10/09 10:34:13:298 message count: 1
+10/09 10:34:18:393 End of process session
+10/09 10:34:18:394 Simulator0 stopped
+10/09 10:37:33:177 Simulator0 started
+10/09 10:37:33:211 Starting process session
+10/09 10:37:33:324 Total 0 instances are started
+10/09 10:37:33:325 Total 1 instances are added
+10/09 10:37:33:327 Begin to send message.
+10/09 10:37:33:349 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+10/09 10:37:33:355 message count: 1
+10/09 10:37:38:433 End of process session
+10/09 10:37:38:433 Simulator0 stopped
+10/09 10:37:48:199 Simulator0 started
+10/09 10:37:48:221 Starting process session
+10/09 10:37:48:331 Total 0 instances are started
+10/09 10:37:48:333 Total 1 instances are added
+10/09 10:37:48:449 End of process session
+10/09 10:39:27:464 Simulator0 stopped
+10/09 10:39:29:414 Simulator0 started
+10/09 10:39:29:438 Starting process session
+10/09 10:39:29:547 Total 0 instances are started
+10/09 10:39:29:548 Total 1 instances are added
+10/09 10:39:29:549 Begin to send message.
+10/09 10:39:29:575 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+10/09 10:39:29:575 message count: 1
+10/09 10:39:34:663 End of process session
+10/09 10:39:34:664 Simulator0 stopped
+10/09 11:47:01:397 Simulator0 started
+10/09 11:47:01:452 Starting process session
+10/09 11:47:01:591 Total 0 instances are started
+10/09 11:47:01:591 Begin to send message.
+10/09 11:47:01:592 Total 1 instances are added
+10/09 11:47:01:724 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+10/09 11:47:01:725 message count: 1
+10/09 11:47:06:696 End of process session
+10/09 11:47:06:697 Simulator0 stopped
+10/09 12:10:16:927 Simulator0 started
+10/09 12:10:16:952 Starting process session
+10/09 12:10:17:063 Total 0 instances are started
+10/09 12:10:17:063 Begin to send message.
+10/09 12:10:17:064 Total 1 instances are added
+10/09 12:10:17:097 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+10/09 12:10:17:097 message count: 1
+10/09 12:10:22:171 End of process session
+10/09 12:10:22:172 Simulator0 stopped
+10/09 12:10:52:969 Simulator0 started
+10/09 12:10:52:993 Starting process session
+10/09 12:10:53:101 Total 0 instances are started
+10/09 12:10:53:101 Begin to send message.
+10/09 12:10:53:103 Total 1 instances are added
+10/09 12:10:53:110 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+10/09 12:10:53:112 message count: 1
+10/09 12:10:58:208 End of process session
+10/09 12:10:58:211 Simulator0 stopped
+10/09 12:13:14:040 Simulator0 started
+10/09 12:13:14:064 Starting process session
+10/09 12:13:14:174 Total 0 instances are started
+10/09 12:13:14:174 Begin to send message.
+10/09 12:13:14:175 Total 1 instances are added
+10/09 12:13:14:179 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+10/09 12:13:14:179 message count: 1
+10/09 12:13:19:282 End of process session
+10/09 12:13:19:284 Simulator0 stopped
+10/09 12:16:17:183 Simulator0 started
+10/09 12:16:17:200 Starting process session
+10/09 12:16:17:310 Total 0 instances are started
+10/09 12:16:17:310 Begin to send message.
+10/09 12:16:17:311 Total 1 instances are added
+10/09 12:16:17:317 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+10/09 12:16:17:319 message count: 1
+10/09 12:16:22:417 End of process session
+10/09 12:16:22:418 Simulator0 stopped
+10/09 12:21:36:578 Simulator0 started
+10/09 12:21:36:599 Starting process session
+10/09 12:21:36:711 Total 0 instances are started
+10/09 12:21:36:711 Begin to send message.
+10/09 12:21:36:712 Total 1 instances are added
+10/09 12:21:36:725 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+10/09 12:21:36:726 message count: 1
+10/09 12:21:41:816 End of process session
+10/09 12:21:41:818 Simulator0 stopped
+10/09 12:22:44:637 Simulator0 started
+10/09 12:22:44:655 Starting process session
+10/09 12:22:44:765 Total 0 instances are started
+10/09 12:22:44:766 Total 1 instances are added
+10/09 12:22:44:765 Begin to send message.
+10/09 12:22:44:775 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+10/09 12:22:44:777 message count: 1
+10/09 12:22:49:872 End of process session
+10/09 12:22:49:874 Simulator0 stopped
+10/09 12:25:16:733 Simulator0 started
+10/09 12:25:16:755 Starting process session
+10/09 12:25:16:872 Total 0 instances are started
+10/09 12:25:16:872 Begin to send message.
+10/09 12:25:16:875 Total 1 instances are added
+10/09 12:25:16:884 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+10/09 12:25:16:885 message count: 1
+10/09 12:25:21:984 End of process session
+10/09 12:25:21:985 Simulator0 stopped
+10/09 12:27:26:812 Simulator0 started
+10/09 12:27:26:831 Starting process session
+10/09 12:27:26:947 Begin to send message.
+arted
+10/09 12:27:26:948 Total 1 instances are added
+10/09 12:27:26:950 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+10/09 12:27:26:951 message count: 1
+10/09 12:27:32:052 End of process session
+10/09 12:27:32:053 Simulator0 stopped
+10/09 12:28:52:976 Simulator0 started
+10/09 12:28:52:994 Starting process session
+10/09 12:28:53:103 Total 0 instances are started
+10/09 12:28:53:103 Begin to send message.
+10/09 12:28:53:103 Total 1 instances are added
+10/09 12:28:53:107 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+10/09 12:28:53:108 message count: 1
+10/09 12:28:58:207 End of process session
+10/09 12:28:58:210 Simulator0 stopped
+10/09 12:30:39:109 Simulator0 started
+10/09 12:30:39:132 Starting process session
+10/09 12:30:39:241 Total 0 instances are started
+10/09 12:30:39:241 Begin to send message.
+10/09 12:30:39:242 Total 1 instances are added
+10/09 12:30:39:249 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+10/09 12:30:39:251 message count: 1
+10/09 12:30:44:348 End of process session
+10/09 12:30:44:349 Simulator0 stopped
+10/09 12:38:52:415 Simulator0 started
+10/09 12:38:52:437 Starting process session
+10/09 12:38:52:548 Total 0 instances are started
+10/09 12:38:52:549 Begin to send message.
+10/09 12:38:52:549 Total 1 instances are added
+10/09 12:38:52:556 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+10/09 12:38:52:557 message count: 1
+10/09 12:38:57:657 End of process session
+10/09 12:38:57:658 Simulator0 stopped
+10/09 14:35:38:480 Simulator0 started
+10/09 14:35:38:501 Starting process session
+10/09 14:35:38:612 Total 0 instances are started
+10/09 14:35:38:612 Begin to send message.
+10/09 14:35:38:613 Total 1 instances are added
+10/09 14:35:38:644 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+10/09 14:35:38:645 message count: 1
+10/09 14:35:43:717 End of process session
+10/09 14:35:43:718 Simulator0 stopped
+10/09 14:40:02:604 Simulator0 started
+10/09 14:40:02:624 Starting process session
+10/09 14:40:02:734 Total 0 instances are started
+10/09 14:40:02:735 Total 1 instances are added
+10/09 14:40:02:734 Begin to send message.
+10/09 14:40:02:743 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+10/09 14:40:02:744 message count: 1
+10/09 14:40:07:839 End of process session
+10/09 14:40:07:840 Simulator0 stopped
+10/09 14:43:30:829 Simulator0 started
+10/09 14:43:30:852 Starting process session
+10/09 14:43:30:961 Total 0 instances are started
+10/09 14:43:30:961 Begin to send message.
+10/09 14:43:30:962 Total 1 instances are added
+10/09 14:43:30:970 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+10/09 14:43:30:972 message count: 1
+10/09 14:43:36:070 End of process session
+10/09 14:43:36:071 Simulator0 stopped
+10/09 14:45:02:053 Simulator0 started
+10/09 14:45:02:078 Starting process session
+10/09 14:45:02:190 Total 0 instances are started
+10/09 14:45:02:191 Total 1 instances are added
+10/09 14:45:02:190 Begin to send message.
+10/09 14:45:02:200 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+10/09 14:45:02:201 message count: 1
+10/09 14:45:07:299 End of process session
+10/09 14:45:07:300 Simulator0 stopped
+10/09 14:50:45:385 Simulator0 started
+10/09 14:50:45:405 Starting process session
+10/09 14:50:45:515 Total 0 instances are started
+10/09 14:50:45:516 Total 1 instances are added
+10/09 14:50:45:515 Begin to send message.
+10/09 14:50:45:524 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+10/09 14:50:45:525 message count: 1
+10/09 14:50:50:621 End of process session
+10/09 14:50:50:622 Simulator0 stopped
+10/09 14:51:15:451 Simulator0 started
+10/09 14:51:15:477 Starting process session
+10/09 14:51:15:586 Total 0 instances are started
+10/09 14:51:15:586 Begin to send message.
+10/09 14:51:15:587 Total 1 instances are added
+10/09 14:51:15:593 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+10/09 14:51:15:594 message count: 1
+10/09 14:51:20:693 End of process session
+10/09 14:51:20:694 Simulator0 stopped
+10/09 14:53:38:650 Simulator0 started
+10/09 14:53:38:676 Starting process session
+10/09 14:53:38:786 Total 0 instances are started
+10/09 14:53:38:787 Begin to send message.
+10/09 14:53:38:787 Total 1 instances are added
+10/09 14:53:38:792 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+10/09 14:53:38:793 message count: 1
+10/09 14:53:43:891 End of process session
+10/09 14:53:43:893 Simulator0 stopped
+10/09 14:58:55:786 Simulator0 started
+10/09 14:58:55:811 Starting process session
+10/09 14:58:55:921 Total 0 instances are started
+10/09 14:58:55:921 Begin to send message.
+10/09 14:58:55:922 Total 1 instances are added
+10/09 14:58:55:928 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+10/09 14:58:55:929 message count: 1
+10/09 14:59:01:027 End of process session
+10/09 14:59:01:029 Simulator0 stopped
+10/09 14:59:57:853 Simulator0 started
+10/09 14:59:57:875 Starting process session
+10/09 14:59:57:987 Total 0 instances are started
+10/09 14:59:57:988 Total 1 instances are added
+10/09 14:59:57:989 Begin to send message.
+10/09 14:59:57:996 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+10/09 14:59:57:996 message count: 1
+10/09 15:00:03:095 End of process session
+10/09 15:00:03:096 Simulator0 stopped
+10/09 15:01:18:006 Simulator0 started
+10/09 15:01:18:033 Starting process session
+10/09 15:01:18:142 Total 0 instances are started
+10/09 15:01:18:142 Begin to send message.
+10/09 15:01:18:143 Total 1 instances are added
+10/09 15:01:18:149 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+10/09 15:01:18:151 message count: 1
+10/09 15:01:23:252 Begin to send message.
+10/09 15:01:28:250 End of process session
+10/09 15:01:28:252 Simulator0 stopped
+10/09 15:11:47:100 Simulator0 started
+10/09 15:11:47:120 Starting process session
+10/09 15:11:47:229 Total 0 instances are started
+10/09 15:11:47:229 Begin to send message.
+10/09 15:11:47:230 Total 1 instances are added
+10/09 15:11:47:238 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+10/09 15:11:47:239 message count: 1
+10/09 15:11:52:342 End of process session
+10/09 15:11:52:343 Simulator0 stopped
+10/09 15:13:25:179 Simulator0 started
+10/09 15:13:25:199 Starting process session
+10/09 15:13:25:308 Total 0 instances are started
+10/09 15:13:25:309 Total 1 instances are added
+10/09 15:13:25:308 Begin to send message.
+10/09 15:13:25:316 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+10/09 15:13:25:317 message count: 1
+10/09 15:13:30:415 End of process session
+10/09 15:13:30:416 Simulator0 stopped
+10/09 15:16:38:271 Simulator0 started
+10/09 15:16:38:305 Starting process session
+10/09 15:16:38:414 Total 0 instances are started
+10/09 15:16:38:415 Total 1 instances are added
+10/09 15:16:38:415 Begin to send message.
+10/09 15:16:38:423 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+10/09 15:16:38:424 message count: 1
+10/09 15:16:43:520 End of process session
+10/09 15:16:43:521 Simulator0 stopped
+10/09 15:20:39:557 Simulator0 started
+10/09 15:20:39:578 Starting process session
+10/09 15:20:39:688 Total 0 instances are started
+10/09 15:20:39:689 Total 1 instances are added
+10/09 15:20:39:688 Begin to send message.
+10/09 15:20:39:720 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+10/09 15:20:39:721 message count: 1
+10/09 15:20:44:793 End of process session
+10/09 15:20:44:794 Simulator0 stopped
+10/09 15:25:52:205 Simulator0 started
+10/09 15:25:52:226 Starting process session
+10/09 15:25:52:338 Total 0 instances are started
+10/09 15:25:52:338 Begin to send message.
+10/09 15:25:52:339 Total 1 instances are added
+10/09 15:25:52:434 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+10/09 15:25:52:435 message count: 1
+10/09 15:25:57:449 End of process session
+10/09 15:25:57:449 Simulator0 stopped
+10/09 15:26:52:308 Simulator0 started
+10/09 15:26:52:329 Starting process session
+10/09 15:26:52:441 Total 0 instances are started
+10/09 15:26:52:442 Total 1 instances are added
+10/09 15:26:52:443 Begin to send message.
+10/09 15:26:52:450 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+10/09 15:26:52:451 message count: 1
+10/09 15:26:57:551 End of process session
+10/09 15:26:57:554 Simulator0 stopped
+10/09 15:29:24:424 Simulator0 started
+10/09 15:29:24:442 Starting process session
+10/09 15:29:24:551 Total 0 instances are started
+10/09 15:29:24:553 Total 1 instances are added
+10/09 15:29:24:552 Begin to send message.
+10/09 15:29:24:576 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+10/09 15:29:24:577 message count: 1
+10/09 15:29:29:661 End of process session
+10/09 15:29:29:662 Simulator0 stopped
+10/09 15:32:32:526 Simulator0 started
+10/09 15:32:32:545 Starting process session
+10/09 15:32:32:655 Total 0 instances are started
+10/09 15:32:32:656 Total 1 instances are added
+10/09 15:32:32:655 Begin to send message.
+10/09 15:32:32:665 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+10/09 15:32:32:666 message count: 1
+10/09 15:32:37:765 End of process session
+10/09 15:32:37:766 Simulator0 stopped
+10/09 15:38:59:999 Simulator0 started
+10/09 15:39:00:019 Starting process session
+10/09 15:39:00:135 Total 0 instances are started
+10/09 15:39:00:135 Begin to send message.
+10/09 15:39:00:136 Total 1 instances are added
+10/09 15:39:00:159 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+10/09 15:39:00:160 message count: 1
+10/09 15:39:05:262 Begin to send message.
+10/09 15:39:10:241 End of process session
+10/09 15:39:10:243 Simulator0 stopped
+10/09 15:42:42:271 Simulator0 started
+10/09 15:42:42:297 Starting process session
+10/09 15:42:42:407 Total 0 instances are started
+10/09 15:42:42:407 Begin to send message.
+10/09 15:42:42:408 Total 1 instances are added
+10/09 15:42:42:436 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+10/09 15:42:42:437 message count: 1
+10/09 15:42:47:515 End of process session
+10/09 15:42:47:516 Simulator0 stopped
+10/09 15:44:03:499 Simulator0 started
+10/09 15:44:03:520 Starting process session
+10/09 15:44:03:629 Total 0 instances are started
+10/09 15:44:03:629 Begin to send message.
+10/09 15:44:03:630 Total 1 instances are added
+10/09 15:44:03:639 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+10/09 15:44:03:640 message count: 1
+10/09 15:44:08:743 End of process session
+10/09 15:44:08:744 Simulator0 stopped
+10/09 17:00:40:737 Simulator0 started
+10/09 17:00:40:758 Starting process session
+10/09 17:00:40:892 Total 0 instances are started
+10/09 17:00:40:893 Total 1 instances are added
+10/09 17:00:41:001 End of process session
+10/09 17:00:47:002 Simulator0 stopped
+10/09 17:00:48:767 Simulator0 started
+10/09 17:00:48:790 Starting process session
+10/09 17:00:48:899 Total 0 instances are started
+10/09 17:00:48:899 Begin to send message.
+10/09 17:00:48:903 Total 1 instances are added
+10/09 17:00:49:023 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = TRA DIEM | isdn = 84922000514 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+10/09 17:00:49:024 message count: 1
+10/09 17:00:54:009 End of process session
+10/09 17:00:54:011 Simulator0 stopped
+10/09 17:01:23:864 Simulator0 started
+10/09 17:01:23:886 Starting process session
+10/09 17:01:23:997 Total 0 instances are started
+10/09 17:01:23:998 Total 1 instances are added
+10/09 17:01:23:997 Begin to send message.
+10/09 17:01:24:006 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = TRA DIEM | isdn = 84922000514 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+10/09 17:01:24:007 message count: 1
+10/09 17:01:29:102 End of process session
+10/09 17:01:29:103 Simulator0 stopped
+10/09 17:02:00:935 Simulator0 started
+10/09 17:02:00:956 Starting process session
+10/09 17:02:01:065 Total 0 instances are started
+10/09 17:02:01:065 Begin to send message.
+10/09 17:02:01:066 Total 1 instances are added
+10/09 17:02:01:073 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = TRA DIEM | isdn = 84922000514 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+10/09 17:02:01:074 message count: 1
+10/09 17:02:06:172 End of process session
+10/09 17:02:06:173 Simulator0 stopped
+10/09 17:03:55:054 Simulator0 started
+10/09 17:03:55:074 Starting process session
+10/09 17:03:55:185 Total 0 instances are started
+10/09 17:03:55:185 Begin to send message.
+10/09 17:03:55:187 Total 1 instances are added
+10/09 17:03:55:211 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = TRA DIEM | isdn = 84922000514 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+10/09 17:03:55:212 message count: 1
+10/09 17:04:00:295 End of process session
+10/09 17:04:00:296 Simulator0 stopped
+10/09 17:04:08:123 Simulator0 started
+10/09 17:04:08:144 Starting process session
+10/09 17:04:08:253 Total 0 instances are started
+10/09 17:04:08:253 Begin to send message.
+10/09 17:04:08:255 Total 1 instances are added
+10/09 17:04:08:268 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = TRA DIEM | isdn = 84922000514 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+10/09 17:04:08:271 message count: 1
+10/09 17:04:13:373 Begin to send message.
+10/09 17:04:18:361 End of process session
+10/09 17:04:18:362 Simulator0 stopped
+10/09 17:04:47:246 Simulator0 started
+10/09 17:04:47:267 Starting process session
+10/09 17:04:47:386 Total 0 instances are started
+10/09 17:04:47:386 Begin to send message.
+10/09 17:04:47:387 Total 1 instances are added
+10/09 17:04:47:403 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = TRA DIEM | isdn = 84922000514 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+10/09 17:04:47:405 message count: 1
+10/09 17:04:52:497 End of process session
+10/09 17:04:52:499 Simulator0 stopped
+10/09 17:05:24:312 Simulator0 started
+10/09 17:05:24:348 Starting process session
+10/09 17:05:24:457 Total 0 instances are started
+10/09 17:05:24:457 Begin to send message.
+10/09 17:05:24:458 Total 1 instances are added
+10/09 17:05:24:464 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = TRA DIEM | isdn = 84922000514 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+10/09 17:05:24:465 message count: 1
+10/09 17:05:29:562 End of process session
+10/09 17:05:29:563 Simulator0 stopped
+10/09 17:06:41:387 Simulator0 started
+10/09 17:06:41:410 Starting process session
+10/09 17:06:41:522 Total 0 instances are started
+10/09 17:06:41:524 Total 1 instances are added
+10/09 17:06:41:524 Begin to send message.
+10/09 17:06:41:548 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = TRA DIEM | isdn = 84922000514 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+10/09 17:06:41:549 message count: 1
+10/09 17:06:46:630 End of process session
+10/09 17:06:46:631 Simulator0 stopped
+10/09 17:07:05:456 Simulator0 started
+10/09 17:07:05:476 Starting process session
+10/09 17:07:05:585 Total 0 instances are started
+10/09 17:07:05:585 Begin to send message.
+10/09 17:07:05:586 Total 1 instances are added
+10/09 17:07:05:591 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = TRA DIEM | isdn = 84922000514 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+10/09 17:07:05:592 message count: 1
+10/09 17:07:10:693 End of process session
+10/09 17:07:10:694 Simulator0 stopped
+10/09 17:09:23:487 Simulator0 started
+10/09 17:09:23:508 Starting process session
+10/09 17:09:23:618 Total 0 instances are started
+10/09 17:09:23:620 Total 1 instances are added
+10/09 17:09:23:619 Begin to send message.
+10/09 17:09:23:645 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = TRA DIEM | isdn = 84922000514 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+10/09 17:09:23:646 message count: 1
+10/09 17:09:28:724 End of process session
+10/09 17:09:28:725 Simulator0 stopped
+10/09 17:09:49:515 Simulator0 started
+10/09 17:09:49:537 Starting process session
+10/09 17:09:49:647 Total 0 instances are started
+10/09 17:09:49:647 Begin to send message.
+10/09 17:09:49:648 Total 1 instances are added
+10/09 17:09:49:653 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = TRA DIEM | isdn = 84922000514 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+10/09 17:09:49:654 message count: 1
+10/09 17:09:54:753 End of process session
+10/09 17:09:54:754 Simulator0 stopped

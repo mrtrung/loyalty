@@ -1,0 +1,39 @@
+02/10 14:55:49:234 Send Mail Report VB started
+02/10 14:55:55:434 Starting process session
+02/10 14:56:20:697 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+02/10 14:56:20:697 Close queue connection pool.
+02/10 14:56:20:749 End of process session
+02/10 15:00:42:666 Send Mail Report VB started
+02/10 15:00:43:650 Starting process session
+02/10 15:01:17:284 javax.mail.MessagingException: Could not connect to SMTP host: han-dns-01.htmobile.net.vn, port: 25
+02/10 15:01:17:284 Close queue connection pool.
+02/10 15:01:17:298 End of process session
+02/10 15:01:17:299 Send Mail Report VB stopped
+02/10 15:01:18:750 Send Mail Report VB started
+02/10 15:01:18:773 Starting process session
+02/10 15:01:39:793 javax.mail.MessagingException: Could not connect to SMTP host: han-dns-01.htmobile.net.vn, port: 25
+02/10 15:01:39:803 Close queue connection pool.
+02/10 15:01:39:813 End of process session
+02/10 16:43:00:465 Send Mail Report VB stopped
+02/10 16:43:02:483 Send Mail Report VB started
+02/10 16:43:02:507 Starting process session
+02/10 16:43:24:036 javax.mail.MessagingException: Could not connect to SMTP host: han-dns-01.htmobile.net.vn, port: 25
+02/10 16:43:24:036 Close queue connection pool.
+02/10 16:43:24:042 End of process session
+02/10 16:43:24:043 Send Mail Report VB stopped
+02/10 16:43:25:519 Send Mail Report VB started
+02/10 16:43:25:546 Starting process session
+02/10 16:43:46:362 Thread destroyed
+02/10 16:43:46:608 Close queue connection pool.
+02/10 16:43:46:615 End of process session
+02/10 16:43:50:549 Send Mail Report VB started
+02/10 16:43:50:575 Starting process session
+02/10 16:44:11:621 javax.mail.MessagingException: Could not connect to SMTP host: han-dns-01.htmobile.net.vn, port: 25
+02/10 16:44:11:622 Close queue connection pool.
+02/10 16:44:11:629 End of process session
+02/10 16:44:11:630 Send Mail Report VB stopped
+02/10 16:44:13:568 Send Mail Report VB started
+02/10 16:44:13:590 Starting process session
+02/10 16:44:34:751 javax.mail.MessagingException: Could not connect to SMTP host: han-dns-01.htmobile.net.vn, port: 25
+02/10 16:44:34:752 Close queue connection pool.
+02/10 16:44:34:760 End of process session

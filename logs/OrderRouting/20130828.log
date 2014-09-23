@@ -1,0 +1,1751 @@
+28/08 05:47:54:429 Order Routing started
+28/08 05:48:30:228 java.lang.ClassNotFoundException: com.crm.provisioning.impl.vim.VIMCommandImpl
+28/08 05:48:30:228 End of process session
+28/08 05:48:40:285 java.lang.ClassNotFoundException: com.crm.provisioning.impl.vim.VIMCommandImpl
+28/08 05:48:40:285 End of process session
+28/08 05:48:50:340 java.lang.ClassNotFoundException: com.crm.provisioning.impl.vim.VIMCommandImpl
+28/08 05:48:50:341 End of process session
+28/08 05:49:00:391 java.lang.ClassNotFoundException: com.crm.provisioning.impl.vim.VIMCommandImpl
+28/08 05:49:00:392 End of process session
+28/08 05:49:10:438 java.lang.ClassNotFoundException: com.crm.provisioning.impl.vim.VIMCommandImpl
+28/08 05:49:10:439 End of process session
+28/08 05:49:14:445 Order Routing stopped
+28/08 05:49:15:919 Order Routing started
+28/08 05:49:15:974 java.lang.ClassNotFoundException: com.crm.provisioning.impl.vim.VIMCommandImpl
+28/08 05:49:15:974 End of process session
+28/08 05:49:21:976 Order Routing stopped
+28/08 05:51:14:973 Order Routing started
+28/08 05:51:15:060 java.lang.ClassNotFoundException: com.crm.provisioning.impl.txt.TXTCommandImpl
+28/08 05:51:15:061 End of process session
+28/08 05:51:25:119 java.lang.ClassNotFoundException: com.crm.provisioning.impl.txt.TXTCommandImpl
+28/08 05:51:25:120 End of process session
+28/08 05:51:34:135 Order Routing stopped
+28/08 05:51:36:001 Order Routing started
+28/08 05:51:36:224 Testing connection ...
+28/08 05:51:37:664 Created provisioning instance for CCWS
+28/08 05:51:37:688 Testing connection are success
+28/08 05:51:37:688 Starting process session
+28/08 05:51:38:289 java.lang.ClassNotFoundException: com.crm.product.impl.UnlimitDataOrderRoutingImpl
+28/08 05:51:38:290 Close pool
+28/08 05:51:38:291 End of process session
+28/08 05:51:48:298 Close pool
+28/08 05:51:48:299 Close pool
+28/08 05:51:48:301 Testing connection ...
+28/08 05:51:48:305 Created provisioning instance for CCWS
+28/08 05:51:48:306 Testing connection are success
+28/08 05:51:48:307 Starting process session
+28/08 05:51:48:657 java.lang.ClassNotFoundException: com.crm.product.impl.UnlimitDataOrderRoutingImpl
+28/08 05:51:48:658 Close pool
+28/08 05:51:48:659 End of process session
+28/08 05:51:58:661 Close pool
+28/08 05:51:58:662 Close pool
+28/08 05:51:58:663 Testing connection ...
+28/08 05:51:58:667 Created provisioning instance for CCWS
+28/08 05:51:58:668 Testing connection are success
+28/08 05:51:58:669 Starting process session
+28/08 05:51:59:086 java.lang.ClassNotFoundException: com.crm.product.impl.UnlimitDataOrderRoutingImpl
+28/08 05:51:59:087 Close pool
+28/08 05:51:59:087 End of process session
+28/08 05:52:09:088 Close pool
+28/08 05:52:09:089 Close pool
+28/08 05:52:09:090 Testing connection ...
+28/08 05:52:09:096 Created provisioning instance for CCWS
+28/08 05:52:09:097 Testing connection are success
+28/08 05:52:09:098 Starting process session
+28/08 05:52:09:473 java.lang.ClassNotFoundException: com.crm.product.impl.UnlimitDataOrderRoutingImpl
+28/08 05:52:09:474 Close pool
+28/08 05:52:09:474 End of process session
+28/08 05:52:19:476 Close pool
+28/08 05:52:19:477 Close pool
+28/08 05:52:19:478 Testing connection ...
+28/08 05:52:19:482 Created provisioning instance for CCWS
+28/08 05:52:19:483 Testing connection are success
+28/08 05:52:19:484 Starting process session
+28/08 05:52:19:829 java.lang.ClassNotFoundException: com.crm.product.impl.UnlimitDataOrderRoutingImpl
+28/08 05:52:19:830 Close pool
+28/08 05:52:19:830 End of process session
+28/08 05:52:29:831 Close pool
+28/08 05:52:29:833 Close pool
+28/08 05:52:29:834 Testing connection ...
+28/08 05:52:29:838 Created provisioning instance for CCWS
+28/08 05:52:29:839 Testing connection are success
+28/08 05:52:29:839 Starting process session
+28/08 05:52:30:155 java.lang.ClassNotFoundException: com.crm.product.impl.UnlimitDataOrderRoutingImpl
+28/08 05:52:30:155 Close pool
+28/08 05:52:30:156 End of process session
+28/08 05:52:40:156 Close pool
+28/08 05:52:40:157 Close pool
+28/08 05:52:40:157 Testing connection ...
+28/08 05:52:40:160 Created provisioning instance for CCWS
+28/08 05:52:40:162 Testing connection are success
+28/08 05:52:40:163 Starting process session
+28/08 05:52:40:463 java.lang.ClassNotFoundException: com.crm.product.impl.UnlimitDataOrderRoutingImpl
+28/08 05:52:40:464 Close pool
+28/08 05:52:40:464 End of process session
+28/08 05:52:50:466 Close pool
+28/08 05:52:50:467 Close pool
+28/08 05:52:50:468 Testing connection ...
+28/08 05:52:50:472 Created provisioning instance for CCWS
+28/08 05:52:50:473 Testing connection are success
+28/08 05:52:50:474 Starting process session
+28/08 05:52:50:809 java.lang.ClassNotFoundException: com.crm.product.impl.UnlimitDataOrderRoutingImpl
+28/08 05:52:50:810 Close pool
+28/08 05:52:50:811 End of process session
+28/08 05:53:00:811 Close pool
+28/08 05:53:00:812 Close pool
+28/08 05:53:00:814 Testing connection ...
+28/08 05:53:00:826 Created provisioning instance for CCWS
+28/08 05:53:00:827 Testing connection are success
+28/08 05:53:00:827 Starting process session
+28/08 05:53:01:280 java.lang.ClassNotFoundException: com.crm.product.impl.UnlimitDataOrderRoutingImpl
+28/08 05:53:01:280 Close pool
+28/08 05:53:01:281 End of process session
+28/08 05:53:11:290 Close pool
+28/08 05:53:11:291 Close pool
+28/08 05:53:11:292 Testing connection ...
+28/08 05:53:11:296 Created provisioning instance for CCWS
+28/08 05:53:11:297 Testing connection are success
+28/08 05:53:11:298 Starting process session
+28/08 05:53:11:628 java.lang.ClassNotFoundException: com.crm.product.impl.UnlimitDataOrderRoutingImpl
+28/08 05:53:11:628 Close pool
+28/08 05:53:11:629 End of process session
+28/08 05:53:21:629 Close pool
+28/08 05:53:21:630 Close pool
+28/08 05:53:21:631 Testing connection ...
+28/08 05:53:21:635 Created provisioning instance for CCWS
+28/08 05:53:21:636 Testing connection are success
+28/08 05:53:21:637 Starting process session
+28/08 05:53:21:968 java.lang.ClassNotFoundException: com.crm.product.impl.UnlimitDataOrderRoutingImpl
+28/08 05:53:21:968 Close pool
+28/08 05:53:21:969 End of process session
+28/08 05:53:31:970 Close pool
+28/08 05:53:31:971 Close pool
+28/08 05:53:31:972 Testing connection ...
+28/08 05:53:31:980 Created provisioning instance for CCWS
+28/08 05:53:31:981 Testing connection are success
+28/08 05:53:31:982 Starting process session
+28/08 05:53:32:302 java.lang.ClassNotFoundException: com.crm.product.impl.UnlimitDataOrderRoutingImpl
+28/08 05:53:32:302 Close pool
+28/08 05:53:32:303 End of process session
+28/08 05:53:42:305 Close pool
+28/08 05:53:42:306 Close pool
+28/08 05:53:42:307 Testing connection ...
+28/08 05:53:42:311 Created provisioning instance for CCWS
+28/08 05:53:42:312 Testing connection are success
+28/08 05:53:42:313 Starting process session
+28/08 05:53:42:645 java.lang.ClassNotFoundException: com.crm.product.impl.UnlimitDataOrderRoutingImpl
+28/08 05:53:42:646 Close pool
+28/08 05:53:42:646 End of process session
+28/08 05:53:52:647 Close pool
+28/08 05:53:52:648 Close pool
+28/08 05:53:52:649 Testing connection ...
+28/08 05:53:52:653 Created provisioning instance for CCWS
+28/08 05:53:52:653 Testing connection are success
+28/08 05:53:52:655 Starting process session
+28/08 05:53:52:992 java.lang.ClassNotFoundException: com.crm.product.impl.UnlimitDataOrderRoutingImpl
+28/08 05:53:52:993 Close pool
+28/08 05:53:52:993 End of process session
+28/08 05:54:02:995 Close pool
+28/08 05:54:02:996 Close pool
+28/08 05:54:02:997 Testing connection ...
+28/08 05:54:03:001 Created provisioning instance for CCWS
+28/08 05:54:03:002 Testing connection are success
+28/08 05:54:03:003 Starting process session
+28/08 05:54:03:334 java.lang.ClassNotFoundException: com.crm.product.impl.UnlimitDataOrderRoutingImpl
+28/08 05:54:03:335 Close pool
+28/08 05:54:03:336 End of process session
+28/08 05:54:13:337 Close pool
+28/08 05:54:13:338 Close pool
+28/08 05:54:13:339 Testing connection ...
+28/08 05:54:13:343 Created provisioning instance for CCWS
+28/08 05:54:13:344 Testing connection are success
+28/08 05:54:13:345 Starting process session
+28/08 05:54:13:858 java.lang.ClassNotFoundException: com.crm.product.impl.UnlimitDataOrderRoutingImpl
+28/08 05:54:13:859 Close pool
+28/08 05:54:13:860 End of process session
+28/08 05:54:23:862 Close pool
+28/08 05:54:23:863 Close pool
+28/08 05:54:23:864 Testing connection ...
+28/08 05:54:23:867 Created provisioning instance for CCWS
+28/08 05:54:23:868 Testing connection are success
+28/08 05:54:23:868 Starting process session
+28/08 05:54:24:258 java.lang.ClassNotFoundException: com.crm.product.impl.UnlimitDataOrderRoutingImpl
+28/08 05:54:24:258 Close pool
+28/08 05:54:24:259 End of process session
+28/08 05:54:34:264 Close pool
+28/08 05:54:34:267 Close pool
+28/08 05:54:34:268 Testing connection ...
+28/08 05:54:34:277 Created provisioning instance for CCWS
+28/08 05:54:34:279 Testing connection are success
+28/08 05:54:34:280 Starting process session
+28/08 05:54:34:637 java.lang.ClassNotFoundException: com.crm.product.impl.UnlimitDataOrderRoutingImpl
+28/08 05:54:34:638 Close pool
+28/08 05:54:34:638 End of process session
+28/08 05:54:44:639 Close pool
+28/08 05:54:44:640 Close pool
+28/08 05:54:44:641 Testing connection ...
+28/08 05:54:44:645 Created provisioning instance for CCWS
+28/08 05:54:44:646 Testing connection are success
+28/08 05:54:44:647 Starting process session
+28/08 05:54:47:414 java.lang.ClassNotFoundException: com.crm.product.impl.UnlimitDataOrderRoutingImpl
+28/08 05:54:47:415 Close pool
+28/08 05:54:47:415 End of process session
+28/08 05:54:57:417 Close pool
+28/08 05:54:57:418 Close pool
+28/08 05:54:57:419 Testing connection ...
+28/08 05:54:57:423 Created provisioning instance for CCWS
+28/08 05:54:57:424 Testing connection are success
+28/08 05:54:57:425 Starting process session
+28/08 05:54:57:802 java.lang.ClassNotFoundException: com.crm.product.impl.UnlimitDataOrderRoutingImpl
+28/08 05:54:57:803 Close pool
+28/08 05:54:57:803 End of process session
+28/08 05:55:07:805 Close pool
+28/08 05:55:07:806 Close pool
+28/08 05:55:07:806 Testing connection ...
+28/08 05:55:07:810 Created provisioning instance for CCWS
+28/08 05:55:07:811 Testing connection are success
+28/08 05:55:07:812 Starting process session
+28/08 05:55:08:182 java.lang.ClassNotFoundException: com.crm.product.impl.UnlimitDataOrderRoutingImpl
+28/08 05:55:08:183 Close pool
+28/08 05:55:08:184 End of process session
+28/08 05:55:18:184 Close pool
+28/08 05:55:18:185 Close pool
+28/08 05:55:18:186 Testing connection ...
+28/08 05:55:18:190 Created provisioning instance for CCWS
+28/08 05:55:18:191 Testing connection are success
+28/08 05:55:18:191 Starting process session
+28/08 05:55:18:536 java.lang.ClassNotFoundException: com.crm.product.impl.UnlimitDataOrderRoutingImpl
+28/08 05:55:18:537 Close pool
+28/08 05:55:18:537 End of process session
+28/08 05:55:28:539 Close pool
+28/08 05:55:28:540 Close pool
+28/08 05:55:28:541 Testing connection ...
+28/08 05:55:28:545 Created provisioning instance for CCWS
+28/08 05:55:28:546 Testing connection are success
+28/08 05:55:28:547 Starting process session
+28/08 05:55:28:899 java.lang.ClassNotFoundException: com.crm.product.impl.UnlimitDataOrderRoutingImpl
+28/08 05:55:28:899 Close pool
+28/08 05:55:28:900 End of process session
+28/08 05:55:38:909 Close pool
+28/08 05:55:38:910 Close pool
+28/08 05:55:38:911 Testing connection ...
+28/08 05:55:38:915 Created provisioning instance for CCWS
+28/08 05:55:38:916 Testing connection are success
+28/08 05:55:38:916 Starting process session
+28/08 05:55:39:394 java.lang.ClassNotFoundException: com.crm.product.impl.UnlimitDataOrderRoutingImpl
+28/08 05:55:39:395 Close pool
+28/08 05:55:39:395 End of process session
+28/08 05:55:49:397 Close pool
+28/08 05:55:49:399 Close pool
+28/08 05:55:49:399 Testing connection ...
+28/08 05:55:49:402 Created provisioning instance for CCWS
+28/08 05:55:49:403 Testing connection are success
+28/08 05:55:49:404 Starting process session
+28/08 05:55:49:739 java.lang.ClassNotFoundException: com.crm.product.impl.UnlimitDataOrderRoutingImpl
+28/08 05:55:49:740 Close pool
+28/08 05:55:49:741 End of process session
+28/08 05:55:59:742 Close pool
+28/08 05:55:59:743 Close pool
+28/08 05:55:59:744 Testing connection ...
+28/08 05:55:59:759 Created provisioning instance for CCWS
+28/08 05:55:59:760 Testing connection are success
+28/08 05:55:59:761 Starting process session
+28/08 05:56:02:035 java.lang.ClassNotFoundException: com.crm.product.impl.UnlimitDataOrderRoutingImpl
+28/08 05:56:02:036 Close pool
+28/08 05:56:02:037 End of process session
+28/08 05:56:12:037 Close pool
+28/08 05:56:12:038 Close pool
+28/08 05:56:12:039 Testing connection ...
+28/08 05:56:12:043 Created provisioning instance for CCWS
+28/08 05:56:12:044 Testing connection are success
+28/08 05:56:12:045 Starting process session
+28/08 05:56:13:425 java.lang.ClassNotFoundException: com.crm.product.impl.UnlimitDataOrderRoutingImpl
+28/08 05:56:13:427 Close pool
+28/08 05:56:13:428 End of process session
+28/08 05:56:23:431 Close pool
+28/08 05:56:23:432 Close pool
+28/08 05:56:23:433 Testing connection ...
+28/08 05:56:23:437 Created provisioning instance for CCWS
+28/08 05:56:23:438 Testing connection are success
+28/08 05:56:23:439 Starting process session
+28/08 05:56:25:509 java.lang.ClassNotFoundException: com.crm.product.impl.UnlimitDataOrderRoutingImpl
+28/08 05:56:25:509 Close pool
+28/08 05:56:25:510 End of process session
+28/08 05:56:35:511 Close pool
+28/08 05:56:35:512 Close pool
+28/08 05:56:35:513 Testing connection ...
+28/08 05:56:35:516 Created provisioning instance for CCWS
+28/08 05:56:35:516 Testing connection are success
+28/08 05:56:35:517 Starting process session
+28/08 05:56:35:844 java.lang.ClassNotFoundException: com.crm.product.impl.UnlimitDataOrderRoutingImpl
+28/08 05:56:35:875 Close pool
+28/08 05:56:35:876 End of process session
+28/08 05:56:45:877 Close pool
+28/08 05:56:45:878 Close pool
+28/08 05:56:45:878 Testing connection ...
+28/08 05:56:45:881 Created provisioning instance for CCWS
+28/08 05:56:45:881 Testing connection are success
+28/08 05:56:45:882 Starting process session
+28/08 05:56:46:199 java.lang.ClassNotFoundException: com.crm.product.impl.UnlimitDataOrderRoutingImpl
+28/08 05:56:46:200 Close pool
+28/08 05:56:46:200 End of process session
+28/08 05:56:56:203 Close pool
+28/08 05:56:56:204 Close pool
+28/08 05:56:56:205 Testing connection ...
+28/08 05:56:56:208 Created provisioning instance for CCWS
+28/08 05:56:56:209 Testing connection are success
+28/08 05:56:56:223 Starting process session
+28/08 05:56:56:545 java.lang.ClassNotFoundException: com.crm.product.impl.UnlimitDataOrderRoutingImpl
+28/08 05:56:56:546 Close pool
+28/08 05:56:56:546 End of process session
+28/08 05:57:06:550 Close pool
+28/08 05:57:06:551 Close pool
+28/08 05:57:06:552 Testing connection ...
+28/08 05:57:06:557 Created provisioning instance for CCWS
+28/08 05:57:06:558 Testing connection are success
+28/08 05:57:06:559 Starting process session
+28/08 05:57:06:876 java.lang.ClassNotFoundException: com.crm.product.impl.UnlimitDataOrderRoutingImpl
+28/08 05:57:06:876 Close pool
+28/08 05:57:06:877 End of process session
+28/08 05:57:16:883 Close pool
+28/08 05:57:16:884 Close pool
+28/08 05:57:16:885 Testing connection ...
+28/08 05:57:16:889 Created provisioning instance for CCWS
+28/08 05:57:16:890 Testing connection are success
+28/08 05:57:16:891 Starting process session
+28/08 05:57:17:229 java.lang.ClassNotFoundException: com.crm.product.impl.UnlimitDataOrderRoutingImpl
+28/08 05:57:17:230 Close pool
+28/08 05:57:17:231 End of process session
+28/08 05:57:27:232 Close pool
+28/08 05:57:27:233 Close pool
+28/08 05:57:27:234 Testing connection ...
+28/08 05:57:27:237 Created provisioning instance for CCWS
+28/08 05:57:27:238 Testing connection are success
+28/08 05:57:27:239 Starting process session
+28/08 05:57:27:572 java.lang.ClassNotFoundException: com.crm.product.impl.UnlimitDataOrderRoutingImpl
+28/08 05:57:27:573 Close pool
+28/08 05:57:27:574 End of process session
+28/08 05:57:37:607 Close pool
+28/08 05:57:37:608 Close pool
+28/08 05:57:37:609 Testing connection ...
+28/08 05:57:37:612 Created provisioning instance for CCWS
+28/08 05:57:37:613 Testing connection are success
+28/08 05:57:37:614 Starting process session
+28/08 05:57:37:946 java.lang.ClassNotFoundException: com.crm.product.impl.UnlimitDataOrderRoutingImpl
+28/08 05:57:37:947 Close pool
+28/08 05:57:37:947 End of process session
+28/08 05:57:47:950 Close pool
+28/08 05:57:47:951 Close pool
+28/08 05:57:47:952 Testing connection ...
+28/08 05:57:47:955 Created provisioning instance for CCWS
+28/08 05:57:47:955 Testing connection are success
+28/08 05:57:47:956 Starting process session
+28/08 05:57:48:288 java.lang.ClassNotFoundException: com.crm.product.impl.UnlimitDataOrderRoutingImpl
+28/08 05:57:48:288 Close pool
+28/08 05:57:48:289 End of process session
+28/08 05:57:58:290 Close pool
+28/08 05:57:58:291 Close pool
+28/08 05:57:58:292 Testing connection ...
+28/08 05:57:58:295 Created provisioning instance for CCWS
+28/08 05:57:58:296 Testing connection are success
+28/08 05:57:58:297 Starting process session
+28/08 05:57:58:636 java.lang.ClassNotFoundException: com.crm.product.impl.UnlimitDataOrderRoutingImpl
+28/08 05:57:58:637 Close pool
+28/08 05:57:58:638 End of process session
+28/08 05:58:08:639 Close pool
+28/08 05:58:08:640 Close pool
+28/08 05:58:08:641 Testing connection ...
+28/08 05:58:08:645 Created provisioning instance for CCWS
+28/08 05:58:08:646 Testing connection are success
+28/08 05:58:08:647 Starting process session
+28/08 05:58:09:134 java.lang.ClassNotFoundException: com.crm.product.impl.UnlimitDataOrderRoutingImpl
+28/08 05:58:09:135 Close pool
+28/08 05:58:09:135 End of process session
+28/08 05:58:19:137 Close pool
+28/08 05:58:19:138 Close pool
+28/08 05:58:19:139 Testing connection ...
+28/08 05:58:19:142 Created provisioning instance for CCWS
+28/08 05:58:19:143 Testing connection are success
+28/08 05:58:19:144 Starting process session
+28/08 05:58:19:489 java.lang.ClassNotFoundException: com.crm.product.impl.UnlimitDataOrderRoutingImpl
+28/08 05:58:19:489 Close pool
+28/08 05:58:19:490 End of process session
+28/08 05:58:29:492 Close pool
+28/08 05:58:29:493 Close pool
+28/08 05:58:29:494 Testing connection ...
+28/08 05:58:29:497 Created provisioning instance for CCWS
+28/08 05:58:29:497 Testing connection are success
+28/08 05:58:29:498 Starting process session
+28/08 05:58:29:879 java.lang.ClassNotFoundException: com.crm.product.impl.UnlimitDataOrderRoutingImpl
+28/08 05:58:29:880 Close pool
+28/08 05:58:29:880 End of process session
+28/08 05:58:39:882 Close pool
+28/08 05:58:39:883 Close pool
+28/08 05:58:39:884 Testing connection ...
+28/08 05:58:39:887 Created provisioning instance for CCWS
+28/08 05:58:39:888 Testing connection are success
+28/08 05:58:39:889 Starting process session
+28/08 05:58:40:286 java.lang.ClassNotFoundException: com.crm.product.impl.UnlimitDataOrderRoutingImpl
+28/08 05:58:40:287 Close pool
+28/08 05:58:40:287 End of process session
+28/08 05:58:50:288 Close pool
+28/08 05:58:50:289 Close pool
+28/08 05:58:50:290 Testing connection ...
+28/08 05:58:50:294 Created provisioning instance for CCWS
+28/08 05:58:50:295 Testing connection are success
+28/08 05:58:50:295 Starting process session
+28/08 05:58:50:694 java.lang.ClassNotFoundException: com.crm.product.impl.UnlimitDataOrderRoutingImpl
+28/08 05:58:50:694 Close pool
+28/08 05:58:50:695 End of process session
+28/08 05:59:00:697 Close pool
+28/08 05:59:00:698 Close pool
+28/08 05:59:00:699 Testing connection ...
+28/08 05:59:00:703 Created provisioning instance for CCWS
+28/08 05:59:00:704 Testing connection are success
+28/08 05:59:00:704 Starting process session
+28/08 05:59:01:024 java.lang.ClassNotFoundException: com.crm.product.impl.UnlimitDataOrderRoutingImpl
+28/08 05:59:01:025 Close pool
+28/08 05:59:01:025 End of process session
+28/08 05:59:11:026 Close pool
+28/08 05:59:11:027 Close pool
+28/08 05:59:11:028 Testing connection ...
+28/08 05:59:11:032 Created provisioning instance for CCWS
+28/08 05:59:11:033 Testing connection are success
+28/08 05:59:11:033 Starting process session
+28/08 05:59:11:356 java.lang.ClassNotFoundException: com.crm.product.impl.UnlimitDataOrderRoutingImpl
+28/08 05:59:11:357 Close pool
+28/08 05:59:11:358 End of process session
+28/08 05:59:21:359 Close pool
+28/08 05:59:21:360 Close pool
+28/08 05:59:21:360 Testing connection ...
+28/08 05:59:21:362 Created provisioning instance for CCWS
+28/08 05:59:21:363 Testing connection are success
+28/08 05:59:21:364 Starting process session
+28/08 05:59:21:685 java.lang.ClassNotFoundException: com.crm.product.impl.UnlimitDataOrderRoutingImpl
+28/08 05:59:21:686 Close pool
+28/08 05:59:21:687 End of process session
+28/08 05:59:31:688 Close pool
+28/08 05:59:31:689 Close pool
+28/08 05:59:31:690 Testing connection ...
+28/08 05:59:31:694 Created provisioning instance for CCWS
+28/08 05:59:31:695 Testing connection are success
+28/08 05:59:31:696 Starting process session
+28/08 05:59:32:021 java.lang.ClassNotFoundException: com.crm.product.impl.UnlimitDataOrderRoutingImpl
+28/08 05:59:32:022 Close pool
+28/08 05:59:32:023 End of process session
+28/08 05:59:42:023 Close pool
+28/08 05:59:42:026 Close pool
+28/08 05:59:42:026 Testing connection ...
+28/08 05:59:42:030 Created provisioning instance for CCWS
+28/08 05:59:42:031 Testing connection are success
+28/08 05:59:42:032 Starting process session
+28/08 05:59:42:404 java.lang.ClassNotFoundException: com.crm.product.impl.UnlimitDataOrderRoutingImpl
+28/08 05:59:42:405 Close pool
+28/08 05:59:42:406 End of process session
+28/08 05:59:52:408 Close pool
+28/08 05:59:52:409 Close pool
+28/08 05:59:52:410 Testing connection ...
+28/08 05:59:52:413 Created provisioning instance for CCWS
+28/08 05:59:52:414 Testing connection are success
+28/08 05:59:52:415 Starting process session
+28/08 05:59:52:764 java.lang.ClassNotFoundException: com.crm.product.impl.UnlimitDataOrderRoutingImpl
+28/08 05:59:52:764 Close pool
+28/08 05:59:52:765 End of process session
+28/08 06:00:02:765 Close pool
+28/08 06:00:02:766 Close pool
+28/08 06:00:02:767 Testing connection ...
+28/08 06:00:02:771 Created provisioning instance for CCWS
+28/08 06:00:02:772 Testing connection are success
+28/08 06:00:02:773 Starting process session
+28/08 06:00:03:132 java.lang.ClassNotFoundException: com.crm.product.impl.UnlimitDataOrderRoutingImpl
+28/08 06:00:03:133 Close pool
+28/08 06:00:03:134 End of process session
+28/08 06:00:13:164 Close pool
+28/08 06:00:13:165 Close pool
+28/08 06:00:13:166 Testing connection ...
+28/08 06:00:13:169 Created provisioning instance for CCWS
+28/08 06:00:13:170 Testing connection are success
+28/08 06:00:13:171 Starting process session
+28/08 08:42:02:142 Order Routing started
+28/08 08:42:16:336 Testing connection ...
+28/08 08:42:20:198 Created provisioning instance for CCWS
+28/08 08:42:20:199 Testing connection are success
+28/08 08:42:20:200 Starting process session
+28/08 08:42:21:034 java.lang.ClassNotFoundException: com.crm.product.impl.UnlimitDataOrderRoutingImpl
+28/08 08:42:21:034 Close pool
+28/08 08:42:21:034 End of process session
+28/08 08:56:33:191 Order Routing started
+28/08 08:56:37:364 Testing connection ...
+28/08 08:56:37:997 Created provisioning instance for CCWS
+28/08 08:56:37:998 Testing connection are success
+28/08 08:56:37:998 Starting process session
+28/08 08:56:38:545 java.lang.ClassNotFoundException: com.crm.product.impl.UnlimitDataOrderRoutingImpl
+28/08 08:56:38:546 Close pool
+28/08 08:56:38:546 End of process session
+28/08 08:56:48:547 Close pool
+28/08 08:56:48:549 Close pool
+28/08 08:56:48:550 Testing connection ...
+28/08 08:56:48:557 Created provisioning instance for CCWS
+28/08 08:56:48:558 Testing connection are success
+28/08 08:56:48:566 Starting process session
+28/08 08:56:49:031 java.lang.ClassNotFoundException: com.crm.product.impl.UnlimitDataOrderRoutingImpl
+28/08 08:56:49:032 Close pool
+28/08 08:56:49:033 End of process session
+28/08 08:56:59:033 Order Routing stopped
+28/08 08:57:00:768 Order Routing started
+28/08 08:57:00:788 Close pool
+28/08 08:57:00:788 Close pool
+28/08 08:57:00:789 Testing connection ...
+28/08 08:57:00:792 Created provisioning instance for CCWS
+28/08 08:57:00:793 Testing connection are success
+28/08 08:57:00:793 Starting process session
+28/08 08:57:01:133 java.lang.ClassNotFoundException: com.crm.product.impl.UnlimitDataOrderRoutingImpl
+28/08 08:57:01:133 Close pool
+28/08 08:57:01:134 End of process session
+28/08 08:57:11:135 Close pool
+28/08 08:57:11:136 Close pool
+28/08 08:57:11:136 Testing connection ...
+28/08 08:57:11:138 Created provisioning instance for CCWS
+28/08 08:57:11:139 Testing connection are success
+28/08 08:57:11:139 Starting process session
+28/08 08:57:11:517 java.lang.ClassNotFoundException: com.crm.product.impl.UnlimitDataOrderRoutingImpl
+28/08 08:57:11:517 Close pool
+28/08 08:57:11:518 End of process session
+28/08 08:57:21:522 Close pool
+28/08 08:57:21:523 Close pool
+28/08 08:57:21:524 Testing connection ...
+28/08 08:57:21:529 Created provisioning instance for CCWS
+28/08 08:57:21:530 Testing connection are success
+28/08 08:57:21:531 Starting process session
+28/08 08:57:21:857 java.lang.ClassNotFoundException: com.crm.product.impl.UnlimitDataOrderRoutingImpl
+28/08 08:57:21:857 Close pool
+28/08 08:57:21:858 End of process session
+28/08 08:57:31:858 Close pool
+28/08 08:57:31:859 Close pool
+28/08 08:57:31:860 Testing connection ...
+28/08 08:57:31:862 Created provisioning instance for CCWS
+28/08 08:57:31:863 Testing connection are success
+28/08 08:57:31:864 Starting process session
+28/08 08:57:32:214 java.lang.ClassNotFoundException: com.crm.product.impl.UnlimitDataOrderRoutingImpl
+28/08 08:57:32:214 Close pool
+28/08 08:57:32:215 End of process session
+28/08 08:57:42:216 Close pool
+28/08 08:57:42:217 Close pool
+28/08 08:57:42:218 Testing connection ...
+28/08 08:57:42:220 Created provisioning instance for CCWS
+28/08 08:57:42:221 Testing connection are success
+28/08 08:57:42:222 Starting process session
+28/08 08:57:42:584 java.lang.ClassNotFoundException: com.crm.product.impl.UnlimitDataOrderRoutingImpl
+28/08 08:57:42:585 Close pool
+28/08 08:57:42:585 End of process session
+28/08 08:57:52:587 Close pool
+28/08 08:57:52:588 Close pool
+28/08 08:57:52:588 Testing connection ...
+28/08 08:57:52:592 Created provisioning instance for CCWS
+28/08 08:57:52:593 Testing connection are success
+28/08 08:57:52:593 Starting process session
+28/08 08:57:52:911 java.lang.ClassNotFoundException: com.crm.product.impl.UnlimitDataOrderRoutingImpl
+28/08 08:57:52:912 Close pool
+28/08 08:57:52:912 End of process session
+28/08 08:58:02:914 Close pool
+28/08 08:58:02:915 Close pool
+28/08 08:58:02:915 Testing connection ...
+28/08 08:58:02:919 Created provisioning instance for CCWS
+28/08 08:58:02:920 Testing connection are success
+28/08 08:58:02:920 Starting process session
+28/08 08:58:03:242 java.lang.ClassNotFoundException: com.crm.product.impl.UnlimitDataOrderRoutingImpl
+28/08 08:58:03:242 Close pool
+28/08 08:58:03:243 End of process session
+28/08 08:58:13:244 Close pool
+28/08 08:58:13:246 Close pool
+28/08 08:58:13:247 Testing connection ...
+28/08 08:58:13:253 Created provisioning instance for CCWS
+28/08 08:58:13:254 Testing connection are success
+28/08 08:58:13:255 Starting process session
+28/08 08:58:13:573 java.lang.ClassCastException: com.crm.product.impl.UnlimitDataOrderRoutingImpl cannot be cast to com.crm.kernel.index.ExecuteImpl
+28/08 08:58:13:573 Close pool
+28/08 08:58:13:574 End of process session
+28/08 08:58:23:581 Close pool
+28/08 08:58:23:582 Close pool
+28/08 08:58:23:582 Testing connection ...
+28/08 08:58:23:584 Created provisioning instance for CCWS
+28/08 08:58:23:585 Testing connection are success
+28/08 08:58:23:585 Starting process session
+28/08 08:58:23:908 java.lang.ClassCastException: com.crm.product.impl.UnlimitDataOrderRoutingImpl cannot be cast to com.crm.kernel.index.ExecuteImpl
+28/08 08:58:23:908 Close pool
+28/08 08:58:23:909 End of process session
+28/08 08:58:32:910 Order Routing stopped
+28/08 08:58:34:915 Order Routing started
+28/08 08:58:34:937 Close pool
+28/08 08:58:34:937 Close pool
+28/08 08:58:34:938 Testing connection ...
+28/08 08:58:34:941 Created provisioning instance for CCWS
+28/08 08:58:34:942 Testing connection are success
+28/08 08:58:34:943 Starting process session
+28/08 08:58:35:393 java.lang.ClassCastException: com.crm.product.impl.UnlimitDataOrderRoutingImpl cannot be cast to com.crm.kernel.index.ExecuteImpl
+28/08 08:58:35:394 Close pool
+28/08 08:58:35:394 End of process session
+28/08 08:58:45:399 Close pool
+28/08 08:58:45:401 Close pool
+28/08 08:58:45:402 Testing connection ...
+28/08 08:58:45:406 Created provisioning instance for CCWS
+28/08 08:58:45:409 Testing connection are success
+28/08 08:58:45:410 Starting process session
+28/08 08:58:45:746 java.lang.ClassCastException: com.crm.product.impl.UnlimitDataOrderRoutingImpl cannot be cast to com.crm.kernel.index.ExecuteImpl
+28/08 08:58:45:746 Close pool
+28/08 08:58:45:747 End of process session
+28/08 08:58:55:765 Close pool
+28/08 08:58:55:766 Close pool
+28/08 08:58:55:771 Testing connection ...
+28/08 08:58:55:774 Created provisioning instance for CCWS
+28/08 08:58:55:775 Testing connection are success
+28/08 08:58:55:775 Starting process session
+28/08 08:58:56:450 java.lang.ClassCastException: com.crm.product.impl.UnlimitDataOrderRoutingImpl cannot be cast to com.crm.kernel.index.ExecuteImpl
+28/08 08:58:56:451 Close pool
+28/08 08:58:56:451 End of process session
+28/08 08:59:06:452 Close pool
+28/08 08:59:06:453 Close pool
+28/08 08:59:06:453 Testing connection ...
+28/08 08:59:06:457 Created provisioning instance for CCWS
+28/08 08:59:06:458 Testing connection are success
+28/08 08:59:06:459 Starting process session
+28/08 08:59:06:780 java.lang.ClassCastException: com.crm.product.impl.UnlimitDataOrderRoutingImpl cannot be cast to com.crm.kernel.index.ExecuteImpl
+28/08 08:59:06:781 Close pool
+28/08 08:59:06:781 End of process session
+28/08 08:59:16:781 Close pool
+28/08 08:59:16:782 Close pool
+28/08 08:59:16:783 Testing connection ...
+28/08 08:59:16:785 Created provisioning instance for CCWS
+28/08 08:59:16:786 Testing connection are success
+28/08 08:59:16:786 Starting process session
+28/08 08:59:17:153 java.lang.ClassCastException: com.crm.product.impl.UnlimitDataOrderRoutingImpl cannot be cast to com.crm.kernel.index.ExecuteImpl
+28/08 08:59:17:154 Close pool
+28/08 08:59:17:154 End of process session
+28/08 08:59:27:156 Close pool
+28/08 08:59:27:158 Close pool
+28/08 08:59:27:158 Testing connection ...
+28/08 08:59:27:162 Created provisioning instance for CCWS
+28/08 08:59:27:162 Testing connection are success
+28/08 08:59:27:163 Starting process session
+28/08 08:59:27:578 java.lang.ClassCastException: com.crm.product.impl.UnlimitDataOrderRoutingImpl cannot be cast to com.crm.kernel.index.ExecuteImpl
+28/08 08:59:27:578 Close pool
+28/08 08:59:27:579 End of process session
+28/08 08:59:37:580 Close pool
+28/08 08:59:37:581 Close pool
+28/08 08:59:37:581 Testing connection ...
+28/08 08:59:37:584 Created provisioning instance for CCWS
+28/08 08:59:37:585 Testing connection are success
+28/08 08:59:37:586 Starting process session
+28/08 08:59:38:000 java.lang.ClassCastException: com.crm.product.impl.UnlimitDataOrderRoutingImpl cannot be cast to com.crm.kernel.index.ExecuteImpl
+28/08 08:59:38:001 Close pool
+28/08 08:59:38:002 End of process session
+28/08 08:59:48:004 Close pool
+28/08 08:59:48:005 Close pool
+28/08 08:59:48:005 Testing connection ...
+28/08 08:59:48:009 Created provisioning instance for CCWS
+28/08 08:59:48:009 Testing connection are success
+28/08 08:59:48:010 Starting process session
+28/08 08:59:48:503 java.lang.ClassCastException: com.crm.product.impl.UnlimitDataOrderRoutingImpl cannot be cast to com.crm.kernel.index.ExecuteImpl
+28/08 08:59:48:507 Close pool
+28/08 08:59:48:508 End of process session
+28/08 08:59:58:510 Close pool
+28/08 08:59:58:512 Close pool
+28/08 08:59:58:513 Testing connection ...
+28/08 08:59:58:518 Created provisioning instance for CCWS
+28/08 08:59:58:519 Testing connection are success
+28/08 08:59:58:520 Starting process session
+28/08 08:59:58:853 java.lang.ClassCastException: com.crm.product.impl.UnlimitDataOrderRoutingImpl cannot be cast to com.crm.kernel.index.ExecuteImpl
+28/08 08:59:58:854 Close pool
+28/08 08:59:58:854 End of process session
+28/08 09:00:08:854 Close pool
+28/08 09:00:08:855 Close pool
+28/08 09:00:08:855 Testing connection ...
+28/08 09:00:08:857 Created provisioning instance for CCWS
+28/08 09:00:08:858 Testing connection are success
+28/08 09:00:08:858 Starting process session
+28/08 09:00:09:186 java.lang.ClassCastException: com.crm.product.impl.UnlimitDataOrderRoutingImpl cannot be cast to com.crm.kernel.index.ExecuteImpl
+28/08 09:00:09:186 Close pool
+28/08 09:00:09:187 End of process session
+28/08 09:00:19:188 Close pool
+28/08 09:00:19:189 Close pool
+28/08 09:00:19:189 Testing connection ...
+28/08 09:00:19:191 Created provisioning instance for CCWS
+28/08 09:00:19:192 Testing connection are success
+28/08 09:00:19:192 Starting process session
+28/08 09:00:19:514 java.lang.ClassCastException: com.crm.product.impl.UnlimitDataOrderRoutingImpl cannot be cast to com.crm.kernel.index.ExecuteImpl
+28/08 09:00:19:514 Close pool
+28/08 09:00:19:515 End of process session
+28/08 09:00:29:515 Close pool
+28/08 09:00:29:515 Close pool
+28/08 09:00:29:516 Testing connection ...
+28/08 09:00:29:518 Created provisioning instance for CCWS
+28/08 09:00:29:518 Testing connection are success
+28/08 09:00:29:519 Starting process session
+28/08 09:00:29:872 java.lang.ClassCastException: com.crm.product.impl.UnlimitDataOrderRoutingImpl cannot be cast to com.crm.kernel.index.ExecuteImpl
+28/08 09:00:29:873 Close pool
+28/08 09:00:29:873 End of process session
+28/08 09:00:39:882 Close pool
+28/08 09:00:39:883 Close pool
+28/08 09:00:39:884 Testing connection ...
+28/08 09:00:39:886 Created provisioning instance for CCWS
+28/08 09:00:39:886 Testing connection are success
+28/08 09:00:39:887 Starting process session
+28/08 09:00:40:197 java.lang.ClassCastException: com.crm.product.impl.UnlimitDataOrderRoutingImpl cannot be cast to com.crm.kernel.index.ExecuteImpl
+28/08 09:00:40:198 Close pool
+28/08 09:00:40:198 End of process session
+28/08 09:00:55:146 Order Routing started
+28/08 09:00:59:614 Testing connection ...
+28/08 09:01:00:800 Created provisioning instance for CCWS
+28/08 09:01:00:802 Testing connection are success
+28/08 09:01:00:806 Starting process session
+28/08 09:01:02:652 Total 0 instances are started
+28/08 09:01:02:652 Total 1 instances are added
+28/08 09:01:03:677 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.99:7676]. - cause: java.net.ConnectException: Connection refused: connect
+28/08 09:01:03:677 Consumer was closed, reconnect.
+28/08 09:01:03:779 Total 0 instances are started
+28/08 09:01:03:780 Total 1 instances are added
+28/08 09:01:04:825 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.99:7676]. - cause: java.net.ConnectException: Connection refused: connect
+28/08 09:01:04:825 Consumer was closed, reconnect.
+28/08 09:01:04:927 Total 0 instances are started
+28/08 09:01:04:932 Total 1 instances are added
+28/08 09:01:05:947 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.99:7676]. - cause: java.net.ConnectException: Connection refused: connect
+28/08 09:01:05:947 Consumer was closed, reconnect.
+28/08 09:01:06:053 Total 0 instances are started
+28/08 09:01:06:054 Total 1 instances are added
+28/08 09:01:07:092 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.99:7676]. - cause: java.net.ConnectException: Connection refused: connect
+28/08 09:01:07:093 Consumer was closed, reconnect.
+28/08 09:01:07:197 Total 0 instances are started
+28/08 09:01:07:198 Total 1 instances are added
+28/08 09:01:08:227 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.99:7676]. - cause: java.net.ConnectException: Connection refused: connect
+28/08 09:01:08:228 Consumer was closed, reconnect.
+28/08 09:01:08:333 Total 0 instances are started
+28/08 09:01:08:333 Total 1 instances are added
+28/08 09:01:09:368 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.99:7676]. - cause: java.net.ConnectException: Connection refused: connect
+28/08 09:01:09:369 Consumer was closed, reconnect.
+28/08 09:01:09:476 Total 0 instances are started
+28/08 09:01:09:477 Total 1 instances are added
+28/08 09:01:10:503 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.99:7676]. - cause: java.net.ConnectException: Connection refused: connect
+28/08 09:01:10:503 Consumer was closed, reconnect.
+28/08 09:01:10:613 Total 0 instances are started
+28/08 09:01:10:614 Total 1 instances are added
+28/08 09:01:11:801 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.99:7676]. - cause: java.net.ConnectException: Connection refused: connect
+28/08 09:01:11:801 Consumer was closed, reconnect.
+28/08 09:01:11:903 Total 0 instances are started
+28/08 09:01:11:903 Total 1 instances are added
+28/08 09:01:12:920 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.99:7676]. - cause: java.net.ConnectException: Connection refused: connect
+28/08 09:01:12:921 Consumer was closed, reconnect.
+28/08 09:01:13:024 Total 0 instances are started
+28/08 09:01:13:026 Total 1 instances are added
+28/08 09:01:14:085 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.99:7676]. - cause: java.net.ConnectException: Connection refused: connect
+28/08 09:01:14:085 Consumer was closed, reconnect.
+28/08 09:01:14:194 Total 0 instances are started
+28/08 09:01:14:196 Total 1 instances are added
+28/08 09:01:15:235 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.99:7676]. - cause: java.net.ConnectException: Connection refused: connect
+28/08 09:01:15:235 Consumer was closed, reconnect.
+28/08 09:01:15:341 Total 0 instances are started
+28/08 09:01:15:342 Total 1 instances are added
+28/08 09:01:16:380 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.99:7676]. - cause: java.net.ConnectException: Connection refused: connect
+28/08 09:01:16:381 Consumer was closed, reconnect.
+28/08 09:01:16:485 Total 0 instances are started
+28/08 09:01:16:486 Total 1 instances are added
+28/08 09:01:17:595 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.99:7676]. - cause: java.net.ConnectException: Connection refused: connect
+28/08 09:01:17:596 Consumer was closed, reconnect.
+28/08 09:01:17:704 Total 0 instances are started
+28/08 09:01:17:705 Total 1 instances are added
+28/08 09:01:18:810 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.99:7676]. - cause: java.net.ConnectException: Connection refused: connect
+28/08 09:01:18:811 Consumer was closed, reconnect.
+28/08 09:01:18:919 Total 0 instances are started
+28/08 09:01:18:921 Total 1 instances are added
+28/08 09:01:19:987 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.99:7676]. - cause: java.net.ConnectException: Connection refused: connect
+28/08 09:01:19:988 Consumer was closed, reconnect.
+28/08 09:01:20:092 Total 0 instances are started
+28/08 09:01:20:093 Total 1 instances are added
+28/08 09:01:46:096 Order Routing started
+28/08 09:01:47:758 Testing connection ...
+28/08 09:01:51:039 Created provisioning instance for CCWS
+28/08 09:01:51:040 Testing connection are success
+28/08 09:01:51:042 Starting process session
+28/08 09:01:53:702 Total 0 instances are started
+28/08 09:01:53:702 Total 1 instances are added
+28/08 09:01:54:893 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.99:7676]. - cause: java.net.ConnectException: Connection refused: connect
+28/08 09:01:54:894 Consumer was closed, reconnect.
+28/08 09:01:55:000 Total 0 instances are started
+28/08 09:01:55:000 Total 1 instances are added
+28/08 09:01:56:018 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.99:7676]. - cause: java.net.ConnectException: Connection refused: connect
+28/08 09:01:56:019 Consumer was closed, reconnect.
+28/08 09:01:56:127 Total 0 instances are started
+28/08 09:01:56:128 Total 1 instances are added
+28/08 09:01:57:151 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.99:7676]. - cause: java.net.ConnectException: Connection refused: connect
+28/08 09:01:57:152 Consumer was closed, reconnect.
+28/08 09:01:57:262 Total 0 instances are started
+28/08 09:01:57:262 Total 1 instances are added
+28/08 09:01:58:298 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.99:7676]. - cause: java.net.ConnectException: Connection refused: connect
+28/08 09:01:58:299 Consumer was closed, reconnect.
+28/08 09:01:58:405 Total 0 instances are started
+28/08 09:01:58:406 Total 1 instances are added
+28/08 09:01:59:718 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.99:7676]. - cause: java.net.ConnectException: Connection refused: connect
+28/08 09:01:59:719 Consumer was closed, reconnect.
+28/08 09:01:59:826 Total 0 instances are started
+28/08 09:01:59:826 Total 1 instances are added
+28/08 09:02:00:871 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.99:7676]. - cause: java.net.ConnectException: Connection refused: connect
+28/08 09:02:00:872 Consumer was closed, reconnect.
+28/08 09:02:01:054 Total 0 instances are started
+28/08 09:02:01:054 Total 1 instances are added
+28/08 09:02:02:103 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.99:7676]. - cause: java.net.ConnectException: Connection refused: connect
+28/08 09:02:02:104 Consumer was closed, reconnect.
+28/08 09:02:02:211 Total 0 instances are started
+28/08 09:02:02:211 Total 1 instances are added
+28/08 09:02:03:238 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.99:7676]. - cause: java.net.ConnectException: Connection refused: connect
+28/08 09:02:03:238 Consumer was closed, reconnect.
+28/08 09:02:03:347 Total 0 instances are started
+28/08 09:02:03:348 Total 1 instances are added
+28/08 09:02:04:412 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.99:7676]. - cause: java.net.ConnectException: Connection refused: connect
+28/08 09:02:04:412 Consumer was closed, reconnect.
+28/08 09:02:04:518 Total 0 instances are started
+28/08 09:02:04:519 Total 1 instances are added
+28/08 09:02:05:635 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.99:7676]. - cause: java.net.ConnectException: Connection refused: connect
+28/08 09:02:05:635 Consumer was closed, reconnect.
+28/08 09:02:05:745 Total 0 instances are started
+28/08 09:02:05:746 Total 1 instances are added
+28/08 09:02:06:810 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.99:7676]. - cause: java.net.ConnectException: Connection refused: connect
+28/08 09:02:06:810 Consumer was closed, reconnect.
+28/08 09:02:06:921 Total 0 instances are started
+28/08 09:02:06:922 Total 1 instances are added
+28/08 09:02:07:971 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.99:7676]. - cause: java.net.ConnectException: Connection refused: connect
+28/08 09:02:07:971 Consumer was closed, reconnect.
+28/08 09:02:08:079 Total 0 instances are started
+28/08 09:02:08:080 Total 1 instances are added
+28/08 09:02:09:099 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.99:7676]. - cause: java.net.ConnectException: Connection refused: connect
+28/08 09:02:09:099 Consumer was closed, reconnect.
+28/08 09:02:09:206 Total 0 instances are started
+28/08 09:02:09:207 Total 1 instances are added
+28/08 09:02:10:254 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.99:7676]. - cause: java.net.ConnectException: Connection refused: connect
+28/08 09:02:10:255 Consumer was closed, reconnect.
+28/08 09:02:10:366 Total 0 instances are started
+28/08 09:02:10:370 Total 1 instances are added
+28/08 09:02:11:409 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.99:7676]. - cause: java.net.ConnectException: Connection refused: connect
+28/08 09:02:11:410 Consumer was closed, reconnect.
+28/08 09:02:11:512 Total 0 instances are started
+28/08 09:02:11:544 Total 1 instances are added
+28/08 09:02:12:546 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.99:7676]. - cause: java.net.ConnectException: Connection refused: connect
+28/08 09:02:12:547 Consumer was closed, reconnect.
+28/08 09:02:12:653 Total 0 instances are started
+28/08 09:02:12:654 Total 1 instances are added
+28/08 09:02:13:672 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.99:7676]. - cause: java.net.ConnectException: Connection refused: connect
+28/08 09:02:13:672 Consumer was closed, reconnect.
+28/08 09:02:13:773 Total 0 instances are started
+28/08 09:02:13:774 Total 1 instances are added
+28/08 09:02:14:804 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.99:7676]. - cause: java.net.ConnectException: Connection refused: connect
+28/08 09:02:14:804 Consumer was closed, reconnect.
+28/08 09:02:14:911 Total 0 instances are started
+28/08 09:02:14:912 Total 1 instances are added
+28/08 09:02:15:940 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.99:7676]. - cause: java.net.ConnectException: Connection refused: connect
+28/08 09:02:15:943 Consumer was closed, reconnect.
+28/08 09:02:16:044 Total 0 instances are started
+28/08 09:02:16:104 Total 1 instances are added
+28/08 09:02:17:067 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.99:7676]. - cause: java.net.ConnectException: Connection refused: connect
+28/08 09:02:17:068 Consumer was closed, reconnect.
+28/08 09:02:17:170 Total 0 instances are started
+28/08 09:02:17:171 Total 1 instances are added
+28/08 09:02:18:193 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.99:7676]. - cause: java.net.ConnectException: Connection refused: connect
+28/08 09:02:18:194 Consumer was closed, reconnect.
+28/08 09:02:18:303 Total 0 instances are started
+28/08 09:02:18:304 Total 1 instances are added
+28/08 09:02:19:348 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.99:7676]. - cause: java.net.ConnectException: Connection refused: connect
+28/08 09:02:19:349 Consumer was closed, reconnect.
+28/08 09:02:19:458 Total 0 instances are started
+28/08 09:02:19:632 Total 1 instances are added
+28/08 09:02:20:477 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.99:7676]. - cause: java.net.ConnectException: Connection refused: connect
+28/08 09:02:20:478 Consumer was closed, reconnect.
+28/08 09:02:20:587 Total 0 instances are started
+28/08 09:02:20:587 Total 1 instances are added
+28/08 09:02:21:620 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.99:7676]. - cause: java.net.ConnectException: Connection refused: connect
+28/08 09:02:21:621 Consumer was closed, reconnect.
+28/08 09:02:21:730 Total 0 instances are started
+28/08 09:02:21:731 Total 1 instances are added
+28/08 09:02:22:757 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.99:7676]. - cause: java.net.ConnectException: Connection refused: connect
+28/08 09:02:22:757 Consumer was closed, reconnect.
+28/08 09:02:22:859 Total 0 instances are started
+28/08 09:02:22:859 Total 1 instances are added
+28/08 09:02:23:912 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.99:7676]. - cause: java.net.ConnectException: Connection refused: connect
+28/08 09:02:23:912 Consumer was closed, reconnect.
+28/08 09:02:24:017 Total 0 instances are started
+28/08 09:02:24:018 Total 1 instances are added
+28/08 09:02:25:050 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.99:7676]. - cause: java.net.ConnectException: Connection refused: connect
+28/08 09:02:25:050 Consumer was closed, reconnect.
+28/08 09:02:25:157 Total 0 instances are started
+28/08 09:02:25:158 Total 1 instances are added
+28/08 09:02:26:243 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.99:7676]. - cause: java.net.ConnectException: Connection refused: connect
+28/08 09:02:26:243 Consumer was closed, reconnect.
+28/08 09:02:26:353 Total 0 instances are started
+28/08 09:02:26:354 Total 1 instances are added
+28/08 09:02:27:723 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.99:7676]. - cause: java.net.ConnectException: Connection refused: connect
+28/08 09:02:27:724 Consumer was closed, reconnect.
+28/08 09:02:27:830 Total 0 instances are started
+28/08 09:02:27:831 Total 1 instances are added
+28/08 09:02:28:858 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.99:7676]. - cause: java.net.ConnectException: Connection refused: connect
+28/08 09:02:28:859 Consumer was closed, reconnect.
+28/08 09:02:28:964 Total 0 instances are started
+28/08 09:02:28:964 Total 1 instances are added
+28/08 09:02:29:973 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.99:7676]. - cause: java.net.ConnectException: Connection refused: connect
+28/08 09:02:29:974 Consumer was closed, reconnect.
+28/08 09:02:30:075 Total 0 instances are started
+28/08 09:02:30:076 Total 1 instances are added
+28/08 09:02:31:096 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.99:7676]. - cause: java.net.ConnectException: Connection refused: connect
+28/08 09:02:31:096 Consumer was closed, reconnect.
+28/08 09:02:31:204 Total 0 instances are started
+28/08 09:02:31:205 Total 1 instances are added
+28/08 09:02:32:248 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.99:7676]. - cause: java.net.ConnectException: Connection refused: connect
+28/08 09:02:32:248 Consumer was closed, reconnect.
+28/08 09:02:32:353 Total 0 instances are started
+28/08 09:02:32:353 Total 1 instances are added
+28/08 09:02:33:385 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.99:7676]. - cause: java.net.ConnectException: Connection refused: connect
+28/08 09:02:33:386 Consumer was closed, reconnect.
+28/08 09:02:33:495 Total 0 instances are started
+28/08 09:02:33:710 Total 1 instances are added
+28/08 09:02:34:520 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.99:7676]. - cause: java.net.ConnectException: Connection refused: connect
+28/08 09:02:34:521 Consumer was closed, reconnect.
+28/08 09:02:34:626 Total 0 instances are started
+28/08 09:02:34:627 Total 1 instances are added
+28/08 09:02:35:941 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.99:7676]. - cause: java.net.ConnectException: Connection refused: connect
+28/08 09:02:35:942 Consumer was closed, reconnect.
+28/08 09:02:36:044 Total 0 instances are started
+28/08 09:02:36:044 Total 1 instances are added
+28/08 09:02:37:058 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.99:7676]. - cause: java.net.ConnectException: Connection refused: connect
+28/08 09:02:37:059 Consumer was closed, reconnect.
+28/08 09:02:37:168 Total 0 instances are started
+28/08 09:02:37:168 Total 1 instances are added
+28/08 09:02:38:218 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.99:7676]. - cause: java.net.ConnectException: Connection refused: connect
+28/08 09:02:38:218 Consumer was closed, reconnect.
+28/08 09:02:38:328 Total 0 instances are started
+28/08 09:02:38:328 Total 1 instances are added
+28/08 09:02:39:356 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.99:7676]. - cause: java.net.ConnectException: Connection refused: connect
+28/08 09:02:39:357 Consumer was closed, reconnect.
+28/08 09:02:39:462 Total 0 instances are started
+28/08 09:02:39:462 Total 1 instances are added
+28/08 09:02:40:506 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.99:7676]. - cause: java.net.ConnectException: Connection refused: connect
+28/08 09:02:40:507 Consumer was closed, reconnect.
+28/08 09:02:40:610 Total 0 instances are started
+28/08 09:02:40:610 Total 1 instances are added
+28/08 09:02:41:624 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.99:7676]. - cause: java.net.ConnectException: Connection refused: connect
+28/08 09:02:41:625 Consumer was closed, reconnect.
+28/08 09:02:41:731 Total 0 instances are started
+28/08 09:02:41:735 Total 1 instances are added
+28/08 09:02:42:757 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.99:7676]. - cause: java.net.ConnectException: Connection refused: connect
+28/08 09:02:42:758 Consumer was closed, reconnect.
+28/08 09:02:42:865 Total 0 instances are started
+28/08 09:02:42:865 Total 1 instances are added
+28/08 09:02:43:927 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.99:7676]. - cause: java.net.ConnectException: Connection refused: connect
+28/08 09:02:43:927 Consumer was closed, reconnect.
+28/08 09:02:44:037 Total 0 instances are started
+28/08 09:02:44:038 Total 1 instances are added
+28/08 09:02:45:072 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.99:7676]. - cause: java.net.ConnectException: Connection refused: connect
+28/08 09:02:45:073 Consumer was closed, reconnect.
+28/08 09:02:45:180 Total 0 instances are started
+28/08 09:02:45:180 Total 1 instances are added
+28/08 09:02:46:199 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.99:7676]. - cause: java.net.ConnectException: Connection refused: connect
+28/08 09:02:46:199 Consumer was closed, reconnect.
+28/08 09:02:46:305 Total 0 instances are started
+28/08 09:02:46:305 Total 1 instances are added
+28/08 09:02:47:339 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.99:7676]. - cause: java.net.ConnectException: Connection refused: connect
+28/08 09:02:47:339 Consumer was closed, reconnect.
+28/08 09:02:47:440 Total 0 instances are started
+28/08 09:02:47:537 Total 1 instances are added
+28/08 09:02:48:486 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.99:7676]. - cause: java.net.ConnectException: Connection refused: connect
+28/08 09:02:48:487 Consumer was closed, reconnect.
+28/08 09:02:48:597 Total 0 instances are started
+28/08 09:02:48:597 Total 1 instances are added
+28/08 09:02:49:660 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.99:7676]. - cause: java.net.ConnectException: Connection refused: connect
+28/08 09:02:49:660 Consumer was closed, reconnect.
+28/08 09:02:49:768 Total 0 instances are started
+28/08 09:02:49:769 Total 1 instances are added
+28/08 09:02:50:802 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.99:7676]. - cause: java.net.ConnectException: Connection refused: connect
+28/08 09:02:50:802 Consumer was closed, reconnect.
+28/08 09:02:50:907 Total 0 instances are started
+28/08 09:02:50:908 Total 1 instances are added
+28/08 09:02:51:932 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.99:7676]. - cause: java.net.ConnectException: Connection refused: connect
+28/08 09:02:51:933 Consumer was closed, reconnect.
+28/08 09:02:52:053 Total 0 instances are started
+28/08 09:02:52:053 Total 1 instances are added
+28/08 09:02:53:066 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.99:7676]. - cause: java.net.ConnectException: Connection refused: connect
+28/08 09:02:53:067 Consumer was closed, reconnect.
+28/08 09:02:53:173 Total 0 instances are started
+28/08 09:02:53:174 Total 1 instances are added
+28/08 09:02:54:187 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.99:7676]. - cause: java.net.ConnectException: Connection refused: connect
+28/08 09:02:54:188 Consumer was closed, reconnect.
+28/08 09:02:54:292 Total 0 instances are started
+28/08 09:02:54:292 Total 1 instances are added
+28/08 09:02:55:331 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.99:7676]. - cause: java.net.ConnectException: Connection refused: connect
+28/08 09:02:55:331 Consumer was closed, reconnect.
+28/08 09:02:55:441 Total 0 instances are started
+28/08 09:02:55:679 Total 1 instances are added
+28/08 09:02:56:466 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.99:7676]. - cause: java.net.ConnectException: Connection refused: connect
+28/08 09:02:56:467 Consumer was closed, reconnect.
+28/08 09:02:56:568 Total 0 instances are started
+28/08 09:02:56:569 Total 1 instances are added
+28/08 09:02:57:603 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.99:7676]. - cause: java.net.ConnectException: Connection refused: connect
+28/08 09:02:57:604 Consumer was closed, reconnect.
+28/08 09:02:57:706 Total 0 instances are started
+28/08 09:02:57:706 Total 1 instances are added
+28/08 09:02:58:737 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.99:7676]. - cause: java.net.ConnectException: Connection refused: connect
+28/08 09:02:58:737 Consumer was closed, reconnect.
+28/08 09:02:58:845 Total 0 instances are started
+28/08 09:02:58:845 Total 1 instances are added
+28/08 09:02:59:879 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.99:7676]. - cause: java.net.ConnectException: Connection refused: connect
+28/08 09:02:59:879 Consumer was closed, reconnect.
+28/08 09:02:59:990 Total 0 instances are started
+28/08 09:02:59:990 Total 1 instances are added
+28/08 09:03:01:013 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.99:7676]. - cause: java.net.ConnectException: Connection refused: connect
+28/08 09:03:01:013 Consumer was closed, reconnect.
+28/08 09:03:01:122 Total 0 instances are started
+28/08 09:03:01:122 Total 1 instances are added
+28/08 09:03:02:178 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.99:7676]. - cause: java.net.ConnectException: Connection refused: connect
+28/08 09:03:02:179 Consumer was closed, reconnect.
+28/08 09:03:02:286 Total 0 instances are started
+28/08 09:03:02:286 Total 1 instances are added
+28/08 09:03:03:317 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.99:7676]. - cause: java.net.ConnectException: Connection refused: connect
+28/08 09:03:03:318 Consumer was closed, reconnect.
+28/08 09:03:03:429 Total 0 instances are started
+28/08 09:03:03:429 Total 1 instances are added
+28/08 09:03:04:444 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.99:7676]. - cause: java.net.ConnectException: Connection refused: connect
+28/08 09:03:04:444 Consumer was closed, reconnect.
+28/08 09:03:04:550 Total 0 instances are started
+28/08 09:03:04:550 Total 1 instances are added
+28/08 09:03:05:855 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.99:7676]. - cause: java.net.ConnectException: Connection refused: connect
+28/08 09:03:05:856 Consumer was closed, reconnect.
+28/08 09:03:05:963 Total 0 instances are started
+28/08 09:03:05:963 Total 1 instances are added
+28/08 09:03:06:981 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.99:7676]. - cause: java.net.ConnectException: Connection refused: connect
+28/08 09:03:06:982 Consumer was closed, reconnect.
+28/08 09:03:07:087 Total 0 instances are started
+28/08 09:03:07:087 Total 1 instances are added
+28/08 09:03:29:987 Close pool
+28/08 09:03:30:087 Close queue connection pool.
+28/08 09:03:30:092 End of process session
+28/08 09:03:30:094 Order Routing stopped
+28/08 09:03:32:026 Order Routing started
+28/08 09:03:32:048 Close pool
+28/08 09:03:32:048 Close pool
+28/08 09:03:32:049 Testing connection ...
+28/08 09:03:32:055 Created provisioning instance for CCWS
+28/08 09:03:32:056 Testing connection are success
+28/08 09:03:32:056 Starting process session
+28/08 09:03:32:954 Total 0 instances are started
+28/08 09:03:32:955 Total 1 instances are added
+28/08 09:03:45:025 Close pool
+28/08 09:03:45:126 Close queue connection pool.
+28/08 09:03:45:138 End of process session
+28/08 09:03:45:139 Order Routing stopped
+28/08 09:03:47:064 Order Routing started
+28/08 09:03:47:086 Close pool
+28/08 09:03:47:086 Close pool
+28/08 09:03:47:086 Testing connection ...
+28/08 09:03:47:093 Created provisioning instance for CCWS
+28/08 09:03:47:094 Testing connection are success
+28/08 09:03:47:094 Starting process session
+28/08 09:03:47:794 Total 0 instances are started
+28/08 09:03:47:795 Total 1 instances are added
+28/08 09:04:16:663 Create order(84922000511) cost time: 152ms
+28/08 09:04:17:024 Update order(84922000511) cost time: 10ms
+28/08 09:04:17:060 unknow-command
+28/08 09:04:17:061 orderId = 125407591 | requestId = 0 | orderDate = 2013/08/28 09:04:16 | userName = system | subProductId = 52789374 | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 100 | isdn = 84922000511 | subscriberType = 2 | shipTo =  | actionType = checkbalance | productId = 274 | amount = 0.0 | provisioningType = SMSC | commandId = 0 | cause = unknow-command | status = 4 | description = null | balance = 
+28/08 09:04:17:083 sendNotify: 84922000511 - Xin loi, he thong dang ban. Xin quy khach vui long nhan tin lai sau.
+28/08 09:05:35:214 Close pool
+28/08 09:05:35:314 Close queue connection pool.
+28/08 09:05:35:329 End of process session
+28/08 09:05:35:330 Order Routing stopped
+28/08 09:05:37:251 Order Routing started
+28/08 09:05:37:272 Close pool
+28/08 09:05:37:273 Close pool
+28/08 09:05:37:273 Testing connection ...
+28/08 09:05:37:280 Created provisioning instance for CCWS
+28/08 09:05:37:280 Testing connection are success
+28/08 09:05:37:281 Starting process session
+28/08 09:05:37:974 Total 0 instances are started
+28/08 09:05:37:975 Total 1 instances are added
+28/08 09:07:11:288 Close pool
+28/08 09:07:11:389 Close queue connection pool.
+28/08 09:07:11:395 End of process session
+28/08 09:07:11:395 Order Routing stopped
+28/08 09:07:13:316 Order Routing started
+28/08 09:07:13:334 Close pool
+28/08 09:07:13:335 Close pool
+28/08 09:07:13:335 Testing connection ...
+28/08 09:07:13:344 Created provisioning instance for CCWS
+28/08 09:07:13:345 Testing connection are success
+28/08 09:07:13:345 Starting process session
+28/08 09:07:14:014 Total 0 instances are started
+28/08 09:07:14:016 Total 1 instances are added
+28/08 09:07:19:322 Close pool
+28/08 09:07:19:422 Close queue connection pool.
+28/08 09:07:19:430 End of process session
+28/08 09:07:19:432 Order Routing stopped
+28/08 09:07:21:356 Order Routing started
+28/08 09:07:21:375 Close pool
+28/08 09:07:21:376 Close pool
+28/08 09:07:21:376 Testing connection ...
+28/08 09:07:21:383 Created provisioning instance for CCWS
+28/08 09:07:21:383 Testing connection are success
+28/08 09:07:21:384 Starting process session
+28/08 09:07:22:094 Total 0 instances are started
+28/08 09:07:22:095 Total 1 instances are added
+28/08 09:08:53:476 Close pool
+28/08 09:08:53:576 Close queue connection pool.
+28/08 09:08:53:583 End of process session
+28/08 09:08:53:584 Order Routing stopped
+28/08 09:08:55:500 Order Routing started
+28/08 09:08:55:519 Close pool
+28/08 09:08:55:520 Close pool
+28/08 09:08:55:520 Testing connection ...
+28/08 09:08:55:527 Created provisioning instance for CCWS
+28/08 09:08:55:527 Testing connection are success
+28/08 09:08:55:528 Starting process session
+28/08 09:08:56:400 Total 0 instances are started
+28/08 09:08:56:401 Total 1 instances are added
+28/08 09:14:20:793 Close pool
+28/08 09:14:20:893 Close queue connection pool.
+28/08 09:14:20:898 End of process session
+28/08 09:14:20:898 Order Routing stopped
+28/08 09:14:22:827 Order Routing started
+28/08 09:14:22:848 Close pool
+28/08 09:14:22:849 Close pool
+28/08 09:14:22:849 Testing connection ...
+28/08 09:14:22:856 Created provisioning instance for CCWS
+28/08 09:14:22:857 Testing connection are success
+28/08 09:14:22:857 Starting process session
+28/08 09:14:23:961 Total 0 instances are started
+28/08 09:14:23:962 Total 1 instances are added
+28/08 09:15:54:893 Order Routing started
+28/08 09:15:58:780 Testing connection ...
+28/08 09:15:59:767 Created provisioning instance for CCWS
+28/08 09:15:59:768 Testing connection are success
+28/08 09:15:59:768 Starting process session
+28/08 09:16:01:468 Total 0 instances are started
+28/08 09:16:01:468 Total 1 instances are added
+28/08 09:16:15:337 Close pool
+28/08 09:16:15:438 Close queue connection pool.
+28/08 09:16:15:444 End of process session
+28/08 09:16:15:446 Order Routing stopped
+28/08 09:16:17:371 Order Routing started
+28/08 09:16:17:389 Close pool
+28/08 09:16:17:390 Close pool
+28/08 09:16:17:391 Testing connection ...
+28/08 09:16:17:400 Created provisioning instance for CCWS
+28/08 09:16:17:401 Testing connection are success
+28/08 09:16:17:402 Starting process session
+28/08 09:16:18:148 Total 0 instances are started
+28/08 09:16:18:149 Total 1 instances are added
+28/08 09:16:37:683 Create order(84922000512) cost time: 77ms
+28/08 09:16:37:743 Update order(84922000512) cost time: 7ms
+28/08 09:16:37:744 orderId = 125407592 | requestId = 0 | orderDate = 2013/08/28 09:16:37 | userName = system | subProductId = 52789373 | channel = SMS | serviceAddress = 268 | keyword = DK CAM | isdn = 84922000512 | subscriberType = -1 | shipTo =  | actionType = register | productId = 274 | amount = 0.0 | provisioningType = SMSC | commandId = 0 | cause = registered | status = 4 | description =  | balance = 
+28/08 09:16:37:860 sendNotify: 84922000512 - Dich vu da duoc dang ky
+28/08 09:31:45:134 Create order(84922000512) cost time: 90ms
+28/08 09:31:45:176 Update order(84922000512) cost time: 14ms
+28/08 09:31:45:177 orderId = 125407597 | requestId = 0 | orderDate = 2013/08/28 09:31:45 | userName = system | subProductId = 52789373 | channel = SMS | serviceAddress = 268 | keyword = DK CAM | isdn = 84922000512 | subscriberType = -1 | shipTo =  | actionType = register | productId = 274 | amount = 0.0 | provisioningType = SMSC | commandId = 0 | cause = registered | status = 4 | description =  | balance = 
+28/08 09:31:45:184 sendNotify: 84922000512 - Dich vu da duoc dang ky
+28/08 09:33:01:857 Close pool
+28/08 09:33:01:958 Close queue connection pool.
+28/08 09:33:01:969 End of process session
+28/08 09:33:01:970 Order Routing stopped
+28/08 09:33:03:891 Order Routing started
+28/08 09:33:03:914 Close pool
+28/08 09:33:03:914 Close pool
+28/08 09:33:03:915 Testing connection ...
+28/08 09:33:03:928 Created provisioning instance for CCWS
+28/08 09:33:03:929 Testing connection are success
+28/08 09:33:03:929 Starting process session
+28/08 09:33:04:794 Total 0 instances are started
+28/08 09:33:04:795 Total 1 instances are added
+28/08 09:33:20:149 Create order(84922000512) cost time: 40ms
+28/08 09:33:20:468 Update order(84922000512) cost time: 23ms
+28/08 09:33:20:469 unknow-command
+28/08 09:33:20:469 orderId = 125407598 | requestId = 0 | orderDate = 2013/08/28 09:33:20 | userName = system | subProductId = 52789373 | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 1000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = checkbalance | productId = 274 | amount = 0.0 | provisioningType = SMSC | commandId = 0 | cause = unknow-command | status = 4 | description = null | balance = 
+28/08 09:33:20:477 sendNotify: 84922000512 - Xin loi, he thong dang ban. Xin quy khach vui long nhan tin lai sau.
+28/08 10:17:53:971 Close pool
+28/08 10:17:54:072 Close queue connection pool.
+28/08 10:17:54:085 End of process session
+28/08 10:17:54:086 Order Routing stopped
+28/08 10:17:56:005 Order Routing started
+28/08 10:17:56:029 Close pool
+28/08 10:17:56:030 Close pool
+28/08 10:17:56:030 Testing connection ...
+28/08 10:17:56:037 Created provisioning instance for CCWS
+28/08 10:17:56:038 Testing connection are success
+28/08 10:17:56:038 Starting process session
+28/08 10:17:57:030 Total 0 instances are started
+28/08 10:17:57:031 Total 1 instances are added
+28/08 10:18:31:255 Create order(84922000512) cost time: 24ms
+28/08 10:18:31:402 Update order(84922000512) cost time: 24ms
+28/08 10:18:31:403 84922000512: LOYALTY - LOYALTY.VALIDATE
+28/08 10:18:31:404 orderId = 125407604 | requestId = 0 | orderDate = 2013/08/28 10:18:31 | userName = system | subProductId = 52789373 | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 1000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 0.0 | provisioningType = LOYALTY | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+28/08 10:28:18:170 Close pool
+28/08 10:28:18:272 Close queue connection pool.
+28/08 10:28:18:280 End of process session
+28/08 10:28:18:281 Order Routing stopped
+28/08 10:28:20:193 Order Routing started
+28/08 10:28:20:212 Close pool
+28/08 10:28:20:213 Close pool
+28/08 10:28:20:213 Testing connection ...
+28/08 10:28:20:220 Created provisioning instance for CCWS
+28/08 10:28:20:221 Testing connection are success
+28/08 10:28:20:221 Starting process session
+28/08 10:28:21:006 Total 0 instances are started
+28/08 10:28:21:007 Total 1 instances are added
+28/08 10:28:42:462 Create order(84922000512) cost time: 20ms
+28/08 10:28:42:589 Update order(84922000512) cost time: 12ms
+28/08 10:28:42:590 84922000512: LOYALTY - LOYALTY.VALIDATE
+28/08 10:28:42:590 orderId = 125407606 | requestId = 0 | orderDate = 2013/08/28 10:28:42 | userName = system | subProductId = 52789373 | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 1000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 0.0 | provisioningType = LOYALTY | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+28/08 10:29:02:267 Close pool
+28/08 10:29:02:368 Close queue connection pool.
+28/08 10:29:02:375 End of process session
+28/08 10:29:02:377 Order Routing stopped
+28/08 10:29:04:289 Order Routing started
+28/08 10:29:04:309 Close pool
+28/08 10:29:04:310 Close pool
+28/08 10:29:04:310 Testing connection ...
+28/08 10:29:04:317 Created provisioning instance for CCWS
+28/08 10:29:04:317 Testing connection are success
+28/08 10:29:04:318 Starting process session
+28/08 10:29:05:067 Total 0 instances are started
+28/08 10:29:05:068 Total 1 instances are added
+28/08 10:35:03:331 Close pool
+28/08 10:35:03:432 Close queue connection pool.
+28/08 10:35:03:438 End of process session
+28/08 10:35:03:439 Order Routing stopped
+28/08 10:35:05:364 Order Routing started
+28/08 10:35:05:382 Close pool
+28/08 10:35:05:382 Close pool
+28/08 10:35:05:383 Testing connection ...
+28/08 10:35:05:392 Created provisioning instance for CCWS
+28/08 10:35:05:393 Testing connection are success
+28/08 10:35:05:393 Starting process session
+28/08 10:35:06:140 Total 0 instances are started
+28/08 10:35:06:141 Total 1 instances are added
+28/08 11:26:57:621 Order Routing started
+28/08 11:27:12:788 Testing connection ...
+28/08 11:27:19:350 Created provisioning instance for CCWS
+28/08 11:27:19:351 Testing connection are success
+28/08 11:27:19:352 Starting process session
+28/08 11:27:20:945 Total 0 instances are started
+28/08 11:27:20:946 Total 1 instances are added
+28/08 11:28:44:395 Create order(84922000512) cost time: 89ms
+28/08 11:28:44:649 Update order(84922000512) cost time: 22ms
+28/08 11:28:44:681 84922000512: LOYALTY - LOYALTY.VALIDATE
+28/08 11:28:44:682 orderId = 125407614 | requestId = 0 | orderDate = 2013/08/28 11:28:44 | userName = system | subProductId = 52789373 | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 1000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 0.0 | provisioningType = LOYALTY | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+28/08 11:31:32:421 Create order(84922000512) cost time: 13ms
+28/08 11:31:32:658 Update order(84922000512) cost time: 11ms
+28/08 11:31:32:658 84922000512: LOYALTY - LOYALTY.VALIDATE
+28/08 11:31:32:659 orderId = 125407615 | requestId = 0 | orderDate = 2013/08/28 11:31:32 | userName = system | subProductId = 52789373 | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 1000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 0.0 | provisioningType = LOYALTY | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+28/08 11:40:41:651 Close pool
+28/08 11:40:41:752 Close queue connection pool.
+28/08 11:40:41:756 End of process session
+28/08 11:40:41:757 Order Routing stopped
+28/08 11:40:43:680 Order Routing started
+28/08 11:40:43:843 Close pool
+28/08 11:40:43:843 Close pool
+28/08 11:40:43:844 Testing connection ...
+28/08 11:40:43:851 Created provisioning instance for CCWS
+28/08 11:40:43:852 Testing connection are success
+28/08 11:40:43:852 Starting process session
+28/08 11:40:44:636 Total 0 instances are started
+28/08 11:40:44:637 Total 1 instances are added
+28/08 11:41:05:942 Create order(84922000512) cost time: 20ms
+28/08 11:41:06:055 Update order(84922000512) cost time: 8ms
+28/08 11:41:06:056 84922000512: LOYALTY - LOYALTY.VALIDATE
+28/08 11:41:06:057 orderId = 125407616 | requestId = 0 | orderDate = 2013/08/28 11:41:05 | userName = system | subProductId = 52789373 | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 1000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+28/08 11:43:10:030 Create order(84922000512) cost time: 31ms
+28/08 11:43:10:150 Update order(84922000512) cost time: 11ms
+28/08 11:43:10:151 84922000512: LOYALTY - LOYALTY.VALIDATE
+28/08 11:43:10:151 orderId = 125407617 | requestId = 0 | orderDate = 2013/08/28 11:43:10 | userName = system | subProductId = 52789373 | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 1000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+28/08 11:43:39:943 Order Routing started
+28/08 11:43:45:776 Testing connection ...
+28/08 11:43:46:715 Created provisioning instance for CCWS
+28/08 11:43:46:717 Testing connection are success
+28/08 11:43:46:718 Starting process session
+28/08 11:43:50:668 Total 0 instances are started
+28/08 11:43:50:669 Total 1 instances are added
+28/08 11:43:59:039 Create order(84922000512) cost time: 30ms
+28/08 11:43:59:204 Update order(84922000512) cost time: 13ms
+28/08 11:43:59:212 84922000512: LOYALTY - LOYALTY.VALIDATE
+28/08 11:43:59:213 orderId = 125407618 | requestId = 0 | orderDate = 2013/08/28 11:43:59 | userName = system | subProductId = 52789373 | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 1000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+28/08 11:45:55:431 Order Routing started
+28/08 11:45:56:988 Testing connection ...
+28/08 11:46:00:549 Created provisioning instance for CCWS
+28/08 11:46:00:549 Testing connection are success
+28/08 11:46:00:549 Starting process session
+28/08 11:46:01:951 Total 0 instances are started
+28/08 11:46:01:954 Total 1 instances are added
+28/08 11:46:17:141 Create order(84922000512) cost time: 26ms
+28/08 11:46:17:309 Update order(84922000512) cost time: 21ms
+28/08 11:46:17:312 84922000512: LOYALTY - LOYALTY.VALIDATE
+28/08 11:46:17:313 orderId = 125407619 | requestId = 0 | orderDate = 2013/08/28 11:46:17 | userName = system | subProductId = 52789373 | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 1000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+28/08 11:47:16:167 Create order(84922000512) cost time: 14ms
+28/08 11:47:16:213 Update order(84922000512) cost time: 7ms
+28/08 11:47:16:214 84922000512: LOYALTY - LOYALTY.VALIDATE
+28/08 11:47:16:215 orderId = 125407620 | requestId = 0 | orderDate = 2013/08/28 11:47:16 | userName = system | subProductId = 52789373 | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 1000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+28/08 11:48:13:210 Create order(84922000512) cost time: 9ms
+28/08 11:48:22:419 Update order(84922000512) cost time: 5ms
+28/08 11:48:22:420 84922000512: LOYALTY - LOYALTY.VALIDATE
+28/08 11:48:22:421 orderId = 125407621 | requestId = 0 | orderDate = 2013/08/28 11:48:13 | userName = system | subProductId = 52789373 | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 1000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+28/08 11:52:00:061 Close pool
+28/08 11:52:00:162 Close queue connection pool.
+28/08 11:52:00:166 End of process session
+28/08 11:52:00:166 Order Routing stopped
+28/08 11:52:02:082 Order Routing started
+28/08 11:52:02:101 Close pool
+28/08 11:52:02:102 Close pool
+28/08 11:52:02:103 Testing connection ...
+28/08 11:52:02:107 Created provisioning instance for CCWS
+28/08 11:52:02:107 Testing connection are success
+28/08 11:52:02:108 Starting process session
+28/08 11:52:02:877 Total 0 instances are started
+28/08 11:52:02:878 Total 1 instances are added
+28/08 11:52:28:345 Create order(84922000512) cost time: 24ms
+28/08 11:52:35:796 Update order(84922000512) cost time: 17ms
+28/08 11:52:35:798 84922000512: LOYALTY - LOYALTY.VALIDATE
+28/08 11:52:35:799 orderId = 125407622 | requestId = 0 | orderDate = 2013/08/28 11:52:28 | userName = system | subProductId = 52789373 | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 1000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+28/08 13:57:51:840 Close pool
+28/08 13:57:52:028 Close queue connection pool.
+28/08 13:57:52:132 End of process session
+28/08 13:57:52:133 Order Routing stopped
+28/08 13:57:53:886 Order Routing started
+28/08 13:57:53:906 Close pool
+28/08 13:57:53:907 Close pool
+28/08 13:57:53:907 Testing connection ...
+28/08 13:57:54:284 Created provisioning instance for CCWS
+28/08 13:57:54:285 Testing connection are success
+28/08 13:57:54:285 Starting process session
+28/08 13:57:55:175 Total 0 instances are started
+28/08 13:57:55:176 Total 1 instances are added
+28/08 13:58:33:197 Create order(84922000512) cost time: 18ms
+28/08 13:58:41:131 Update order(84922000512) cost time: 10ms
+28/08 13:58:41:133 84922000512: LOYALTY - LOYALTY.VALIDATE
+28/08 13:58:41:134 orderId = 125407623 | requestId = 0 | orderDate = 2013/08/28 13:58:33 | userName = system | subProductId = 52789373 | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 1000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+28/08 13:59:34:283 Order Routing started
+28/08 13:59:47:852 Testing connection ...
+28/08 13:59:54:352 Created provisioning instance for CCWS
+28/08 13:59:54:353 Testing connection are success
+28/08 13:59:54:357 Starting process session
+28/08 13:59:55:968 Total 0 instances are started
+28/08 13:59:55:969 Total 1 instances are added
+28/08 14:00:08:166 Create order(84922000512) cost time: 102ms
+28/08 14:00:08:318 Update order(84922000512) cost time: 10ms
+28/08 14:00:08:330 84922000512: LOYALTY - LOYALTY.VALIDATE
+28/08 14:00:08:331 orderId = 125407624 | requestId = 0 | orderDate = 2013/08/28 14:00:08 | userName = system | subProductId = 52789373 | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 1000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+28/08 14:03:44:978 Create order(84922000512) cost time: 10ms
+28/08 14:03:45:077 Update order(84922000512) cost time: 5ms
+28/08 14:03:45:078 84922000512: LOYALTY - LOYALTY.VALIDATE
+28/08 14:03:45:079 orderId = 125407625 | requestId = 0 | orderDate = 2013/08/28 14:03:44 | userName = system | subProductId = 52789373 | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 1000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+28/08 14:11:51:632 Order Routing started
+28/08 14:11:56:149 Testing connection ...
+28/08 14:11:57:186 Created provisioning instance for CCWS
+28/08 14:11:57:186 Testing connection are success
+28/08 14:11:57:187 Starting process session
+28/08 14:11:58:952 Total 0 instances are started
+28/08 14:11:58:953 Total 1 instances are added
+28/08 14:12:19:628 Create order(84922000512) cost time: 32ms
+28/08 14:13:49:153 Order Routing started
+28/08 14:13:53:436 Testing connection ...
+28/08 14:13:54:331 Created provisioning instance for CCWS
+28/08 14:13:54:332 Testing connection are success
+28/08 14:13:54:332 Starting process session
+28/08 14:13:56:063 Total 0 instances are started
+28/08 14:13:56:064 Total 1 instances are added
+28/08 14:14:17:106 Create order(84922000512) cost time: 27ms
+28/08 14:15:20:150 Order Routing started
+28/08 14:15:24:350 Testing connection ...
+28/08 14:15:25:372 Created provisioning instance for CCWS
+28/08 14:15:25:372 Testing connection are success
+28/08 14:15:25:372 Starting process session
+28/08 14:15:26:818 Total 0 instances are started
+28/08 14:15:26:820 Total 1 instances are added
+28/08 14:15:42:082 Create order(84922000512) cost time: 26ms
+28/08 14:15:42:256 Update order(84922000512) cost time: 18ms
+28/08 14:15:42:259 84922000512: LOYALTY - LOYALTY.VALIDATE
+28/08 14:15:42:260 orderId = 125407629 | requestId = 0 | orderDate = 2013/08/28 14:15:42 | userName = system | subProductId = 52789373 | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 1000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+28/08 14:16:53:545 Order Routing started
+28/08 14:16:57:638 Testing connection ...
+28/08 14:16:58:477 Created provisioning instance for CCWS
+28/08 14:16:58:478 Testing connection are success
+28/08 14:16:58:478 Starting process session
+28/08 14:16:59:907 Total 0 instances are started
+28/08 14:16:59:908 Total 1 instances are added
+28/08 14:17:21:462 Create order(84922000512) cost time: 26ms
+28/08 14:17:21:635 Update order(84922000512) cost time: 29ms
+28/08 14:17:21:637 84922000512: LOYALTY - LOYALTY.VALIDATE
+28/08 14:17:21:637 orderId = 125407630 | requestId = 0 | orderDate = 2013/08/28 14:17:21 | userName = system | subProductId = 52789373 | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 1000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+28/08 14:20:48:471 Create order(84922000512) cost time: 9ms
+28/08 14:20:48:570 Update order(84922000512) cost time: 6ms
+28/08 14:20:48:571 84922000512: LOYALTY - LOYALTY.VALIDATE
+28/08 14:20:48:571 orderId = 125407631 | requestId = 0 | orderDate = 2013/08/28 14:20:48 | userName = system | subProductId = 52789373 | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 1000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+28/08 14:22:58:612 Create order(84922000512) cost time: 10ms
+28/08 14:22:58:632 Update order(84922000512) cost time: 4ms
+28/08 14:22:58:633 84922000512: LOYALTY - LOYALTY.VALIDATE
+28/08 14:22:58:634 orderId = 125407632 | requestId = 0 | orderDate = 2013/08/28 14:22:58 | userName = system | subProductId = 52789373 | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 1000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+28/08 14:23:11:652 Create order(84922000512) cost time: 21ms
+28/08 14:23:11:802 Update order(84922000512) cost time: 24ms
+28/08 14:23:11:803 84922000512: LOYALTY - LOYALTY.VALIDATE
+28/08 14:23:11:803 orderId = 125407633 | requestId = 0 | orderDate = 2013/08/28 14:23:11 | userName = system | subProductId = 52789373 | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 1000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+28/08 14:23:53:903 Order Routing started
+28/08 14:23:58:113 Testing connection ...
+28/08 14:23:59:070 Created provisioning instance for CCWS
+28/08 14:23:59:070 Testing connection are success
+28/08 14:23:59:070 Starting process session
+28/08 14:24:00:795 Total 0 instances are started
+28/08 14:24:00:796 Total 1 instances are added
+28/08 14:24:25:818 Create order(84922000512) cost time: 27ms
+28/08 14:24:25:979 Update order(84922000512) cost time: 21ms
+28/08 14:24:25:982 84922000512: LOYALTY - LOYALTY.VALIDATE
+28/08 14:24:25:983 orderId = 125407634 | requestId = 0 | orderDate = 2013/08/28 14:24:25 | userName = system | subProductId = 52789373 | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 1000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+28/08 14:27:55:955 Order Routing started
+28/08 14:27:57:759 Testing connection ...
+28/08 14:28:01:221 Created provisioning instance for CCWS
+28/08 14:28:01:222 Testing connection are success
+28/08 14:28:01:223 Starting process session
+28/08 14:28:02:443 Total 0 instances are started
+28/08 14:28:02:444 Total 1 instances are added
+28/08 14:28:34:035 Order Routing started
+28/08 14:28:38:197 Testing connection ...
+28/08 14:28:39:002 Created provisioning instance for CCWS
+28/08 14:28:39:002 Testing connection are success
+28/08 14:28:39:003 Starting process session
+28/08 14:28:40:092 Total 0 instances are started
+28/08 14:28:40:093 Total 1 instances are added
+28/08 14:29:40:698 Order Routing started
+28/08 14:29:45:167 Testing connection ...
+28/08 14:29:46:205 Created provisioning instance for CCWS
+28/08 14:29:46:206 Testing connection are success
+28/08 14:29:46:206 Starting process session
+28/08 14:29:47:839 Total 0 instances are started
+28/08 14:29:47:840 Total 1 instances are added
+28/08 14:30:01:617 Create order(84922000512) cost time: 23ms
+28/08 14:30:01:777 Update order(84922000512) cost time: 22ms
+28/08 14:30:01:779 84922000512: LOYALTY - LOYALTY.VALIDATE
+28/08 14:30:01:780 orderId = 125407636 | requestId = 0 | orderDate = 2013/08/28 14:30:01 | userName = system | subProductId = 52789373 | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 1000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+28/08 14:44:48:060 Order Routing started
+28/08 14:44:50:639 Testing connection ...
+28/08 14:44:52:431 Created provisioning instance for CCWS
+28/08 14:44:52:431 Testing connection are success
+28/08 14:44:52:431 Starting process session
+28/08 14:44:53:950 Total 0 instances are started
+28/08 14:44:53:951 Total 1 instances are added
+28/08 14:45:18:120 Create order(84922000512) cost time: 30ms
+28/08 14:45:18:275 Update order(84922000512) cost time: 21ms
+28/08 14:45:18:277 84922000512: LOYALTY - LOYALTY.VALIDATE
+28/08 14:45:18:278 orderId = 125407637 | requestId = 0 | orderDate = 2013/08/28 14:45:18 | userName = system | subProductId = 52789373 | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 1000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+28/08 14:45:33:124 Create order(84922000512) cost time: 9ms
+28/08 14:45:33:225 Update order(84922000512) cost time: 5ms
+28/08 14:45:33:226 84922000512: LOYALTY - LOYALTY.VALIDATE
+28/08 14:45:33:227 orderId = 125407638 | requestId = 0 | orderDate = 2013/08/28 14:45:33 | userName = system | subProductId = 52789373 | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 1000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+28/08 14:45:51:148 Create order(84922000512) cost time: 13ms
+28/08 14:45:51:264 Update order(84922000512) cost time: 6ms
+28/08 14:45:51:265 84922000512: LOYALTY - LOYALTY.VALIDATE
+28/08 14:45:51:266 orderId = 125407639 | requestId = 0 | orderDate = 2013/08/28 14:45:51 | userName = system | subProductId = 52789373 | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 1000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+28/08 14:46:12:691 Order Routing started
+28/08 14:46:16:974 Testing connection ...
+28/08 14:46:17:842 Created provisioning instance for CCWS
+28/08 14:46:17:843 Testing connection are success
+28/08 14:46:17:844 Starting process session
+28/08 14:46:19:244 Total 0 instances are started
+28/08 14:46:19:245 Total 1 instances are added
+28/08 14:46:32:643 Create order(84922000512) cost time: 23ms
+28/08 14:46:32:802 Update order(84922000512) cost time: 21ms
+28/08 14:46:32:804 84922000512: LOYALTY - LOYALTY.VALIDATE
+28/08 14:46:32:805 orderId = 125407640 | requestId = 0 | orderDate = 2013/08/28 14:46:32 | userName = system | subProductId = 52789373 | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 1000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+28/08 14:47:59:905 Order Routing started
+28/08 14:48:01:281 Testing connection ...
+28/08 14:48:04:911 Created provisioning instance for CCWS
+28/08 14:48:04:912 Testing connection are success
+28/08 14:48:04:912 Starting process session
+28/08 14:48:11:440 Order Routing started
+28/08 14:48:16:250 Testing connection ...
+28/08 14:48:17:338 Created provisioning instance for CCWS
+28/08 14:48:17:339 Testing connection are success
+28/08 14:48:17:340 Starting process session
+28/08 14:48:18:767 Total 0 instances are started
+28/08 14:48:18:768 Total 1 instances are added
+28/08 14:49:05:063 Order Routing started
+28/08 14:49:09:173 Testing connection ...
+28/08 14:49:10:111 Created provisioning instance for CCWS
+28/08 14:49:10:111 Testing connection are success
+28/08 14:49:10:112 Starting process session
+28/08 14:49:11:360 Total 0 instances are started
+28/08 14:49:11:362 Total 1 instances are added
+28/08 14:49:25:991 Create order(84922000512) cost time: 24ms
+28/08 14:49:26:143 Update order(84922000512) cost time: 14ms
+28/08 14:49:26:145 84922000512: LOYALTY - LOYALTY.VALIDATE
+28/08 14:49:26:146 orderId = 125407643 | requestId = 0 | orderDate = 2013/08/28 14:49:25 | userName = system | subProductId = 52789373 | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 1000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+28/08 14:53:43:790 Order Routing started
+28/08 14:53:47:921 Testing connection ...
+28/08 14:53:48:898 Created provisioning instance for CCWS
+28/08 14:53:48:898 Testing connection are success
+28/08 14:53:48:899 Starting process session
+28/08 14:53:50:322 Total 0 instances are started
+28/08 14:53:50:323 Total 1 instances are added
+28/08 14:54:03:513 Create order(84922000512) cost time: 26ms
+28/08 14:54:03:666 Update order(84922000512) cost time: 11ms
+28/08 14:54:03:668 84922000512: LOYALTY - LOYALTY.VALIDATE
+28/08 14:54:03:669 orderId = 125407645 | requestId = 0 | orderDate = 2013/08/28 14:54:03 | userName = system | subProductId = 52789373 | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 1000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+28/08 14:56:59:202 Order Routing started
+28/08 14:57:03:452 Testing connection ...
+28/08 14:57:04:367 Created provisioning instance for CCWS
+28/08 14:57:04:368 Testing connection are success
+28/08 14:57:04:368 Starting process session
+28/08 14:57:06:091 Total 0 instances are started
+28/08 14:57:06:114 Total 1 instances are added
+28/08 14:57:18:030 Create order(84922000512) cost time: 27ms
+28/08 14:57:18:186 Update order(84922000512) cost time: 10ms
+28/08 14:57:18:189 84922000512: LOYALTY - LOYALTY.VALIDATE
+28/08 14:57:18:190 orderId = 125407649 | requestId = 0 | orderDate = 2013/08/28 14:57:18 | userName = system | subProductId = 52789373 | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 1000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+28/08 14:59:37:804 Order Routing started
+28/08 14:59:42:264 Testing connection ...
+28/08 14:59:43:244 Created provisioning instance for CCWS
+28/08 14:59:43:245 Testing connection are success
+28/08 14:59:43:245 Starting process session
+28/08 14:59:44:855 Total 0 instances are started
+28/08 14:59:44:855 Total 1 instances are added
+28/08 14:59:54:861 Create order(84922000512) cost time: 24ms
+28/08 14:59:55:007 Update order(84922000512) cost time: 11ms
+28/08 14:59:55:008 84922000512: LOYALTY - LOYALTY.VALIDATE
+28/08 14:59:55:009 orderId = 125407652 | requestId = 0 | orderDate = 2013/08/28 14:59:54 | userName = system | subProductId = 52789373 | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 1000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+28/08 15:02:30:630 Order Routing started
+28/08 15:02:32:721 Testing connection ...
+28/08 15:02:35:804 Created provisioning instance for CCWS
+28/08 15:02:35:805 Testing connection are success
+28/08 15:02:35:806 Starting process session
+28/08 15:02:37:210 Total 0 instances are started
+28/08 15:02:37:211 Total 1 instances are added
+28/08 15:02:51:622 Create order(84922000512) cost time: 24ms
+28/08 15:02:51:767 Update order(84922000512) cost time: 13ms
+28/08 15:02:51:769 84922000512: LOYALTY - LOYALTY.VALIDATE
+28/08 15:02:51:770 orderId = 125407654 | requestId = 0 | orderDate = 2013/08/28 15:02:51 | userName = system | subProductId = 52789373 | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 1000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+28/08 15:05:12:878 Order Routing started
+28/08 15:05:17:387 Testing connection ...
+28/08 15:05:18:324 Created provisioning instance for CCWS
+28/08 15:05:18:325 Testing connection are success
+28/08 15:05:18:325 Starting process session
+28/08 15:05:19:842 Total 0 instances are started
+28/08 15:05:19:843 Total 1 instances are added
+28/08 15:05:29:880 Create order(84922000512) cost time: 25ms
+28/08 15:05:30:043 Update order(84922000512) cost time: 21ms
+28/08 15:05:30:045 84922000512: LOYALTY - LOYALTY.VALIDATE
+28/08 15:05:30:046 orderId = 125407655 | requestId = 0 | orderDate = 2013/08/28 15:05:29 | userName = system | subProductId = 52789373 | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 1000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+28/08 15:15:57:721 Order Routing started
+28/08 15:16:12:350 Testing connection ...
+28/08 15:16:13:375 Created provisioning instance for CCWS
+28/08 15:16:13:376 Testing connection are success
+28/08 15:16:13:377 Starting process session
+28/08 15:16:14:901 Total 0 instances are started
+28/08 15:16:14:902 Total 1 instances are added
+28/08 15:16:27:873 Create order(84922000512) cost time: 58ms
+28/08 15:16:28:092 Update order(84922000512) cost time: 32ms
+28/08 15:16:28:094 84922000512: LOYALTY - LOYALTY.VALIDATE
+28/08 15:16:28:095 orderId = 125407656 | requestId = 0 | orderDate = 2013/08/28 15:16:27 | userName = system | subProductId = 52789373 | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 1000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+28/08 15:18:41:232 Order Routing started
+28/08 15:18:45:642 Testing connection ...
+28/08 15:18:46:503 Created provisioning instance for CCWS
+28/08 15:18:46:503 Testing connection are success
+28/08 15:18:46:503 Starting process session
+28/08 15:18:47:732 Total 0 instances are started
+28/08 15:18:47:733 Total 1 instances are added
+28/08 15:19:03:269 Create order(84922000512) cost time: 31ms
+28/08 15:19:03:430 Update order(84922000512) cost time: 13ms
+28/08 15:19:03:432 84922000512: LOYALTY - LOYALTY.VALIDATE
+28/08 15:19:03:433 orderId = 125407657 | requestId = 0 | orderDate = 2013/08/28 15:19:03 | userName = system | subProductId = 52789373 | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 1000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+28/08 15:20:10:205 Order Routing started
+28/08 15:20:14:546 Testing connection ...
+28/08 15:20:15:439 Created provisioning instance for CCWS
+28/08 15:20:15:440 Testing connection are success
+28/08 15:20:15:440 Starting process session
+28/08 15:20:17:215 Total 0 instances are started
+28/08 15:20:17:216 Total 1 instances are added
+28/08 15:20:30:066 Create order(84922000512) cost time: 31ms
+28/08 15:20:30:213 Update order(84922000512) cost time: 13ms
+28/08 15:20:30:215 84922000512: LOYALTY - LOYALTY.VALIDATE
+28/08 15:20:30:216 orderId = 125407658 | requestId = 0 | orderDate = 2013/08/28 15:20:30 | userName = system | subProductId = 52789373 | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 1000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+28/08 15:23:43:194 Order Routing started
+28/08 15:23:47:500 Testing connection ...
+28/08 15:23:48:381 Created provisioning instance for CCWS
+28/08 15:23:48:381 Testing connection are success
+28/08 15:23:48:382 Starting process session
+28/08 15:23:49:761 Total 0 instances are started
+28/08 15:23:49:762 Total 1 instances are added
+28/08 15:24:05:007 Create order(84922000512) cost time: 26ms
+28/08 15:24:05:162 Update order(84922000512) cost time: 16ms
+28/08 15:24:05:164 84922000512: LOYALTY - LOYALTY.VALIDATE
+28/08 15:24:05:165 orderId = 125407659 | requestId = 0 | orderDate = 2013/08/28 15:24:04 | userName = system | subProductId = 52789373 | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 1000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+28/08 15:27:41:970 Order Routing started
+28/08 15:27:46:373 Testing connection ...
+28/08 15:27:47:347 Created provisioning instance for CCWS
+28/08 15:27:47:347 Testing connection are success
+28/08 15:27:47:347 Starting process session
+28/08 15:27:48:919 Total 0 instances are started
+28/08 15:27:48:944 Total 1 instances are added
+28/08 15:28:03:891 Create order(84922000512) cost time: 23ms
+28/08 15:28:04:044 Update order(84922000512) cost time: 11ms
+28/08 15:28:04:046 84922000512: LOYALTY - LOYALTY.VALIDATE
+28/08 15:28:04:046 orderId = 125407660 | requestId = 0 | orderDate = 2013/08/28 15:28:03 | userName = system | subProductId = 52789373 | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 1000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+28/08 15:32:56:106 Create order(84922000512) cost time: 7ms
+28/08 15:32:56:119 Update order(84922000512) cost time: 6ms
+28/08 15:32:56:119 orderId = 125407661 | requestId = 0 | orderDate = 2013/08/28 15:32:56 | userName = system | subProductId = 52789373 | channel = SMS | serviceAddress = 268 | keyword = DK CAM | isdn = 84922000512 | subscriberType = -1 | shipTo =  | actionType = register | productId = 274 | amount = 0.0 | provisioningType = SMSC | commandId = 0 | cause = registered | status = 4 | description =  | balance = 
+28/08 15:32:56:124 sendNotify: 84922000512 - Dich vu da duoc dang ky
+28/08 15:33:09:210 Order Routing started
+28/08 15:33:11:158 Testing connection ...
+28/08 15:33:13:710 Created provisioning instance for CCWS
+28/08 15:33:13:712 Testing connection are success
+28/08 15:33:13:713 Starting process session
+28/08 15:33:14:985 Total 0 instances are started
+28/08 15:33:14:989 Total 1 instances are added
+28/08 15:33:24:220 Create order(84922000512) cost time: 25ms
+28/08 15:33:24:261 Update order(84922000512) cost time: 13ms
+28/08 15:33:24:263 orderId = 125407662 | requestId = 0 | orderDate = 2013/08/28 15:33:24 | userName = system | subProductId = 52789373 | channel = SMS | serviceAddress = 268 | keyword = DK CAM | isdn = 84922000512 | subscriberType = -1 | shipTo =  | actionType = register | productId = 274 | amount = 0.0 | provisioningType = SMSC | commandId = 0 | cause = registered | status = 4 | description =  | balance = 
+28/08 15:33:24:273 sendNotify: 84922000512 - Dich vu da duoc dang ky
+28/08 15:35:14:222 Create order(84922000512) cost time: 8ms
+28/08 15:35:14:253 Update order(84922000512) cost time: 25ms
+28/08 15:35:14:254 orderId = 125407663 | requestId = 0 | orderDate = 2013/08/28 15:35:14 | userName = system | subProductId = 52789373 | channel = SMS | serviceAddress = 268 | keyword = DK CAM | isdn = 84922000512 | subscriberType = -1 | shipTo =  | actionType = register | productId = 274 | amount = 0.0 | provisioningType = SMSC | commandId = 0 | cause = registered | status = 4 | description =  | balance = 
+28/08 15:35:14:262 sendNotify: 84922000512 - Dich vu da duoc dang ky
+28/08 15:58:18:364 Order Routing started
+28/08 15:58:22:734 Testing connection ...
+28/08 15:58:23:637 Created provisioning instance for CCWS
+28/08 15:58:23:639 Testing connection are success
+28/08 15:58:23:639 Starting process session
+28/08 15:58:25:141 Total 0 instances are started
+28/08 15:58:25:142 Total 1 instances are added
+28/08 15:58:35:250 Create order(84922000512) cost time: 29ms
+28/08 15:58:35:323 Update order(84922000512) cost time: 11ms
+28/08 15:58:35:324 orderId = 125407664 | requestId = 0 | orderDate = 2013/08/28 15:58:35 | userName = system | subProductId = 52789373 | channel = SMS | serviceAddress = 268 | keyword = DK CAM | isdn = 84922000512 | subscriberType = -1 | shipTo =  | actionType = register | productId = 274 | amount = 0.0 | provisioningType = SMSC | commandId = 0 | cause = registered | status = 4 | description =  | balance = 
+28/08 15:58:35:335 sendNotify: 84922000512 - Dich vu da duoc dang ky
+28/08 15:59:08:888 Order Routing started
+28/08 15:59:10:442 Testing connection ...
+28/08 15:59:13:280 Created provisioning instance for CCWS
+28/08 15:59:13:280 Testing connection are success
+28/08 15:59:13:281 Starting process session
+28/08 15:59:14:649 Total 0 instances are started
+28/08 15:59:14:651 Total 1 instances are added
+28/08 15:59:38:870 Create order(84922000512) cost time: 32ms
+28/08 15:59:38:909 Update order(84922000512) cost time: 10ms
+28/08 15:59:38:910 orderId = 125407665 | requestId = 0 | orderDate = 2013/08/28 15:59:38 | userName = system | subProductId = 52789373 | channel = SMS | serviceAddress = 268 | keyword = DK CAM | isdn = 84922000512 | subscriberType = -1 | shipTo =  | actionType = register | productId = 274 | amount = 0.0 | provisioningType = SMSC | commandId = 0 | cause = registered | status = 4 | description =  | balance = 
+28/08 15:59:38:926 sendNotify: 84922000512 - Dich vu da duoc dang ky
+28/08 16:01:48:175 Order Routing started
+28/08 16:01:52:442 Testing connection ...
+28/08 16:01:53:394 Created provisioning instance for CCWS
+28/08 16:01:53:394 Testing connection are success
+28/08 16:01:53:395 Starting process session
+28/08 16:01:54:900 Total 0 instances are started
+28/08 16:01:54:902 Total 1 instances are added
+28/08 16:02:06:381 Create order(84922000512) cost time: 25ms
+28/08 16:02:06:472 Update order(84922000512) cost time: 10ms
+28/08 16:02:06:473 orderId = 125407666 | requestId = 0 | orderDate = 2013/08/28 16:02:06 | userName = system | subProductId = 52789373 | channel = SMS | serviceAddress = 268 | keyword = DK CAM | isdn = 84922000512 | subscriberType = -1 | shipTo =  | actionType = register | productId = 274 | amount = 0.0 | provisioningType = SMSC | commandId = 0 | cause = registered | status = 4 | description =  | balance = 
+28/08 16:02:06:484 sendNotify: 84922000512 - Dich vu da duoc dang ky
+28/08 16:03:50:558 Order Routing started
+28/08 16:03:54:866 Testing connection ...
+28/08 16:03:55:858 Created provisioning instance for CCWS
+28/08 16:03:55:859 Testing connection are success
+28/08 16:03:55:861 Starting process session
+28/08 16:03:57:512 Total 0 instances are started
+28/08 16:03:57:513 Total 1 instances are added
+28/08 16:04:10:350 Create order(84922000512) cost time: 29ms
+28/08 16:04:10:437 Update order(84922000512) cost time: 14ms
+28/08 16:04:10:438 orderId = 125407667 | requestId = 0 | orderDate = 2013/08/28 16:04:10 | userName = system | subProductId = 52789373 | channel = SMS | serviceAddress = 268 | keyword = DK CAM | isdn = 84922000512 | subscriberType = -1 | shipTo =  | actionType = register | productId = 274 | amount = 0.0 | provisioningType = SMSC | commandId = 0 | cause = registered | status = 4 | description =  | balance = 
+28/08 16:04:10:447 sendNotify: 84922000512 - Dich vu da duoc dang ky
+28/08 16:05:03:359 Create order(84922000512) cost time: 8ms
+28/08 16:06:16:745 Update order(84922000512) cost time: 7ms
+28/08 16:06:16:747 orderId = 125407668 | requestId = 0 | orderDate = 2013/08/28 16:05:03 | userName = system | subProductId = 52789373 | channel = SMS | serviceAddress = 268 | keyword = DK CAM | isdn = 84922000512 | subscriberType = -1 | shipTo =  | actionType = register | productId = 274 | amount = 0.0 | provisioningType = SMSC | commandId = 0 | cause = registered | status = 4 | description =  | balance = 
+28/08 16:06:16:771 sendNotify: 84922000512 - Dich vu da duoc dang ky
+28/08 16:06:22:395 Create order(84922000512) cost time: 17ms
+28/08 16:06:59:296 Update order(84922000512) cost time: 13ms
+28/08 16:06:59:297 orderId = 125407669 | requestId = 0 | orderDate = 2013/08/28 16:06:22 | userName = system | subProductId = 52789373 | channel = SMS | serviceAddress = 268 | keyword = DK CAM | isdn = 84922000512 | subscriberType = -1 | shipTo =  | actionType = register | productId = 274 | amount = 0.0 | provisioningType = SMSC | commandId = 0 | cause = registered | status = 4 | description =  | balance = 
+28/08 16:06:59:305 sendNotify: 84922000512 - Dich vu da duoc dang ky
+28/08 16:07:10:458 Create order(84922000512) cost time: 10ms
+28/08 16:09:41:640 Order Routing started
+28/08 16:09:46:112 Testing connection ...
+28/08 16:09:46:944 Created provisioning instance for CCWS
+28/08 16:09:46:945 Testing connection are success
+28/08 16:09:46:945 Starting process session
+28/08 16:09:48:207 Total 0 instances are started
+28/08 16:09:48:208 Total 1 instances are added
+28/08 16:10:04:606 Create order(84922000512) cost time: 30ms
+28/08 16:13:03:024 Update order(84922000512) cost time: 15ms
+28/08 16:13:03:026 orderId = 125407671 | requestId = 0 | orderDate = 2013/08/28 16:10:04 | userName = system | subProductId = 52789373 | channel = SMS | serviceAddress = 268 | keyword = DK CAM | isdn = 84922000512 | subscriberType = -1 | shipTo =  | actionType = register | productId = 274 | amount = 0.0 | provisioningType = SMSC | commandId = 0 | cause = registered | status = 4 | description =  | balance = 
+28/08 16:13:03:055 sendNotify: 84922000512 - Dich vu da duoc dang ky
+28/08 16:16:16:709 Create order(84922000512) cost time: 21ms
+28/08 16:16:24:075 Update order(84922000512) cost time: 13ms
+28/08 16:16:24:076 orderId = 125407672 | requestId = 0 | orderDate = 2013/08/28 16:16:16 | userName = system | subProductId = 52789373 | channel = SMS | serviceAddress = 268 | keyword = DK CAM | isdn = 84922000512 | subscriberType = -1 | shipTo =  | actionType = register | productId = 274 | amount = 0.0 | provisioningType = SMSC | commandId = 0 | cause = registered | status = 4 | description =  | balance = 
+28/08 16:16:24:091 sendNotify: 84922000512 - Dich vu da duoc dang ky
+28/08 16:16:47:733 Create order(84922000512) cost time: 17ms
+28/08 16:17:48:400 Update order(84922000512) cost time: 7ms
+28/08 16:17:48:402 orderId = 125407673 | requestId = 0 | orderDate = 2013/08/28 16:16:47 | userName = system | subProductId = 52789373 | channel = SMS | serviceAddress = 268 | keyword = DK CAM | isdn = 84922000512 | subscriberType = -1 | shipTo =  | actionType = register | productId = 274 | amount = 0.0 | provisioningType = SMSC | commandId = 0 | cause = registered | status = 4 | description =  | balance = 
+28/08 16:17:48:413 sendNotify: 84922000512 - Dich vu da duoc dang ky
+28/08 16:39:02:015 Close pool
+28/08 16:39:02:116 Close queue connection pool.
+28/08 16:39:02:121 End of process session
+28/08 16:39:02:123 Order Routing stopped
+28/08 16:39:04:054 Order Routing started
+28/08 16:39:04:077 Close pool
+28/08 16:39:04:077 Close pool
+28/08 16:39:04:078 Testing connection ...
+28/08 16:39:04:085 Created provisioning instance for CCWS
+28/08 16:39:04:085 Testing connection are success
+28/08 16:39:04:086 Starting process session
+28/08 16:39:04:850 Total 0 instances are started
+28/08 16:39:04:851 Total 1 instances are added
+28/08 16:39:43:413 Order Routing started
+28/08 16:39:47:670 Testing connection ...
+28/08 16:39:48:381 Created provisioning instance for CCWS
+28/08 16:39:48:382 Testing connection are success
+28/08 16:39:48:383 Starting process session
+28/08 16:39:50:227 Total 0 instances are started
+28/08 16:39:50:227 Total 1 instances are added
+28/08 16:40:01:620 84922000512: LOYALTY - CRM.SUBSCRIPTION_UNREGIST
+28/08 16:40:01:624 orderId = 0 | requestId = 0 | orderDate = 2013/08/28 16:40:01 | userName = system | subProductId = 52789373 | channel = SMS | serviceAddress = 268 | keyword = HUY CAM | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = unregister | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 13121 | cause =  | status = 1 | description =  | balance = 
+28/08 16:40:58:569 Create order(84922000512) cost time: 15ms
+28/08 16:40:58:683 Update order(84922000512) cost time: 10ms
+28/08 16:40:58:684 84922000512: LOYALTY - CRM.SUBSCRIPTION_REGIST
+28/08 16:40:58:685 orderId = 125407674 | requestId = 0 | orderDate = 2013/08/28 16:40:58 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = DK CAM | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = register | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 13119 | cause =  | status = 1 | description =  | balance = 
+28/08 16:40:58:694 sendNotify: 84922000512 - Chuc mung quy khach da gia nhap Cau lac bo CAM cua Vietnamobile.Hay tiep tuc su dung Vietnamobile de tich luy nhieu diem va nhan duoc nhieu uu dai cua chuong trinh. Chi tiet 789
+28/08 16:44:30:605 invalid-syntax
+28/08 16:44:30:606 orderId = 0 | requestId = 0 | orderDate = 2013/08/28 16:44:30 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = DK CAMm | isdn = 84922000512 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | amount = 0.0 | provisioningType = SMSC | commandId = 0 | cause = invalid-syntax | status = 4 | description = null | balance = 
+28/08 16:44:30:607 sendNotify: 84922000512 - Cu phap nhan tin khong hop le. Xin quy khach vui long kiem tra & thuc hien lai
+28/08 16:46:47:680 Create order(84922000512) cost time: 22ms
+28/08 16:46:47:807 Update order(84922000512) cost time: 9ms
+28/08 16:46:47:808 84922000512: LOYALTY - LOYALTY.VALIDATE
+28/08 16:46:47:809 orderId = 125407675 | requestId = 0 | orderDate = 2013/08/28 16:46:47 | userName = system | subProductId = 52789377 | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 1000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+28/08 16:50:32:583 Close pool
+28/08 16:50:32:684 Close queue connection pool.
+28/08 16:50:32:692 End of process session
+28/08 16:50:32:694 Order Routing stopped
+28/08 16:50:34:606 Order Routing started
+28/08 16:50:34:630 Close pool
+28/08 16:50:34:631 Close pool
+28/08 16:50:34:631 Testing connection ...
+28/08 16:50:34:635 Created provisioning instance for CCWS
+28/08 16:50:34:635 Testing connection are success
+28/08 16:50:34:636 Starting process session
+28/08 16:50:35:505 Total 0 instances are started
+28/08 16:50:35:506 Total 1 instances are added
+28/08 16:50:37:809 Create order(84922000512) cost time: 13ms
+28/08 16:50:37:922 Update order(84922000512) cost time: 10ms
+28/08 16:50:37:923 84922000512: LOYALTY - LOYALTY.VALIDATE
+28/08 16:50:37:924 orderId = 125407676 | requestId = 0 | orderDate = 2013/08/28 16:50:37 | userName = system | subProductId = 52789377 | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 1000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+28/08 16:53:19:130 Order Routing started
+28/08 16:53:21:051 Testing connection ...
+28/08 16:53:24:155 Created provisioning instance for CCWS
+28/08 16:53:24:156 Testing connection are success
+28/08 16:53:24:156 Starting process session
+28/08 16:53:25:781 Total 0 instances are started
+28/08 16:53:25:782 Total 1 instances are added
+28/08 16:53:47:070 Create order(84922000512) cost time: 31ms
+28/08 16:53:47:218 Update order(84922000512) cost time: 12ms
+28/08 16:53:47:220 84922000512: LOYALTY - LOYALTY.VALIDATE
+28/08 16:53:47:221 orderId = 125407677 | requestId = 0 | orderDate = 2013/08/28 16:53:47 | userName = system | subProductId = 52789377 | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 1000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+28/08 16:57:21:943 Order Routing started
+28/08 16:57:26:594 Testing connection ...
+28/08 16:57:27:470 Created provisioning instance for CCWS
+28/08 16:57:27:471 Testing connection are success
+28/08 16:57:27:472 Starting process session
+28/08 16:57:28:851 Total 0 instances are started
+28/08 16:57:28:852 Total 1 instances are added
+28/08 16:57:38:955 Create order(84922000512) cost time: 27ms
+28/08 17:02:55:869 Update order(84922000512) cost time: 18ms
+28/08 17:02:55:876 84922000512: LOYALTY - LOYALTY.VALIDATE
+28/08 17:02:55:877 orderId = 125407678 | requestId = 0 | orderDate = 2013/08/28 16:57:38 | userName = system | subProductId = 52789377 | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 1000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 

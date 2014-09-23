@@ -1,0 +1,187 @@
+23/08 15:26:22:217 Simulator0 started
+23/08 15:26:22:241 Starting process session
+23/08 15:44:07:164 javax.naming.NamingException: Lookup failed for 'jms/VAS' in SerialContext[myEnv={org.omg.CORBA.ORBInitialPort=3700, java.naming.factory.initial=com.sun.enterprise.naming.SerialInitContextFactory, com.sun.corba.ee.transport.ORBTCPConnectTimeouts=5000, org.omg.CORBA.ORBInitialHost=10.32.62.67, java.naming.factory.state=com.sun.corba.ee.impl.presentation.rmi.JNDIStateFactoryImpl, java.naming.factory.url.pkgs=com.sun.enterprise.naming, com.sun.corba.ee.transport.ORBWaitForResponseTimeout=5000}
+23/08 15:44:07:165 End of process session
+23/08 15:53:43:054 Simulator0 started
+23/08 15:53:43:078 Starting process session
+23/08 15:53:43:187 Total 0 instances are started
+23/08 15:53:43:187 Begin to send message.
+23/08 15:53:43:188 Total 1 instances are added
+23/08 15:53:43:318 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DK CAM | isdn = 84922000512 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+23/08 15:53:43:319 message count: 1
+23/08 15:53:48:422 Begin to send message.
+23/08 15:53:53:423 Begin to send message.
+23/08 15:53:58:424 Begin to send message.
+23/08 15:54:03:294 End of process session
+23/08 15:54:03:296 Simulator0 stopped
+23/08 15:57:04:261 Simulator0 started
+23/08 15:57:04:283 Starting process session
+23/08 15:57:04:395 Total 0 instances are started
+23/08 15:57:04:396 Total 1 instances are added
+23/08 15:57:04:395 Begin to send message.
+23/08 15:57:04:414 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DK CAM | isdn = 84922000512 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+23/08 15:57:04:415 message count: 1
+23/08 15:57:09:500 End of process session
+23/08 15:57:09:502 Simulator0 stopped
+23/08 16:02:02:333 Simulator0 started
+23/08 16:02:02:356 Starting process session
+23/08 16:02:02:501 Total 0 instances are started
+23/08 16:02:02:502 Total 1 instances are added
+23/08 16:02:02:607 End of process session
+23/08 16:02:14:610 Simulator0 stopped
+23/08 16:02:17:376 Simulator0 started
+23/08 16:02:17:402 Starting process session
+23/08 16:02:17:513 Total 0 instances are started
+23/08 16:02:17:514 Total 1 instances are added
+23/08 16:02:17:619 End of process session
+23/08 16:02:23:656 Simulator0 stopped
+23/08 16:02:44:481 Simulator0 started
+23/08 16:02:44:501 Starting process session
+23/08 16:02:44:610 Total 0 instances are started
+23/08 16:02:44:610 Begin to send message.
+23/08 16:02:44:611 Total 1 instances are added
+23/08 16:02:44:673 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DK CAM | isdn = 84922000512 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+23/08 16:02:44:674 message count: 1
+23/08 16:02:49:717 End of process session
+23/08 16:02:49:718 Simulator0 stopped
+23/08 16:04:24:522 Simulator0 started
+23/08 16:04:24:546 Starting process session
+23/08 16:04:24:656 Total 0 instances are started
+23/08 16:04:24:656 Begin to send message.
+23/08 16:04:24:657 Total 1 instances are added
+23/08 16:04:24:674 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DK CAM | isdn = 84922000512 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+23/08 16:04:24:676 message count: 1
+23/08 16:04:29:761 End of process session
+23/08 16:04:29:764 Simulator0 stopped
+23/08 16:05:45:260 Simulator0 started
+23/08 16:05:45:282 Starting process session
+23/08 16:05:45:415 Begin to send message.
+23/08 16:05:45:415 Total 0 instances are started
+23/08 16:05:45:417 Total 1 instances are added
+23/08 16:05:45:438 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DK CAM | isdn = 84922000512 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+23/08 16:05:45:439 message count: 1
+23/08 16:05:50:522 End of process session
+23/08 16:05:50:523 Simulator0 stopped
+23/08 16:12:09:481 Simulator0 started
+23/08 16:12:09:501 Starting process session
+23/08 16:12:09:609 Total 0 instances are started
+23/08 16:12:09:609 Begin to send message.
+23/08 16:12:09:610 Total 1 instances are added
+23/08 16:12:09:615 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DK CAM | isdn = 84922000512 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+23/08 16:12:09:616 message count: 1
+23/08 16:12:14:714 End of process session
+23/08 16:12:14:716 Simulator0 stopped
+23/08 16:14:44:567 Simulator0 started
+23/08 16:14:44:589 Starting process session
+23/08 16:14:44:699 Total 0 instances are started
+23/08 16:14:44:700 Total 1 instances are added
+23/08 16:14:44:699 Begin to send message.
+23/08 16:14:44:710 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DK CAM | isdn = 84922000512 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+23/08 16:14:44:711 message count: 1
+23/08 16:14:49:803 End of process session
+23/08 16:14:49:805 Simulator0 stopped
+23/08 16:23:11:760 Simulator0 started
+23/08 16:23:11:779 Starting process session
+23/08 16:23:11:889 Total 0 instances are started
+23/08 16:23:11:889 Begin to send message.
+23/08 16:23:11:890 Total 1 instances are added
+23/08 16:23:11:897 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DK CAM | isdn = 84922000516 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+23/08 16:23:11:900 message count: 1
+23/08 16:23:16:994 End of process session
+23/08 16:23:16:996 Simulator0 stopped
+23/08 16:31:40:925 Simulator0 started
+23/08 16:31:40:945 Starting process session
+23/08 16:31:41:057 Total 0 instances are started
+23/08 16:31:41:057 Begin to send message.
+23/08 16:31:41:058 Total 1 instances are added
+23/08 16:31:41:074 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DK CAM | isdn = 84922000511 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+23/08 16:31:41:076 message count: 1
+23/08 16:31:46:162 End of process session
+23/08 16:31:46:164 Simulator0 stopped
+23/08 16:34:03:139 Simulator0 started
+23/08 16:34:03:160 Starting process session
+23/08 16:34:03:268 Total 0 instances are started
+23/08 16:34:03:269 Total 1 instances are added
+23/08 16:34:03:279 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DK CAM | isdn = 84922000511 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+23/08 16:34:03:280 message count: 1
+23/08 16:34:08:374 End of process session
+23/08 16:34:08:375 Simulator0 stopped
+23/08 16:39:35:198 Simulator0 started
+23/08 16:39:35:222 Starting process session
+23/08 16:39:35:331 Total 0 instances are started
+23/08 16:39:35:332 Total 1 instances are added
+23/08 16:39:35:333 Begin to send message.
+23/08 16:39:35:365 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DK CAM | isdn = 84922000511 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+23/08 16:39:35:366 message count: 1
+23/08 16:39:40:436 End of process session
+23/08 16:39:40:438 Simulator0 stopped
+23/08 16:41:52:182 Simulator0 started
+23/08 16:41:52:208 Starting process session
+23/08 16:41:52:319 Total 0 instances are started
+23/08 16:41:52:320 Total 1 instances are added
+23/08 16:41:52:425 End of process session
+23/08 16:42:01:427 Simulator0 stopped
+23/08 16:42:04:220 Simulator0 started
+23/08 16:42:04:242 Starting process session
+23/08 16:42:04:352 Total 0 instances are started
+23/08 16:42:04:353 Total 1 instances are added
+23/08 16:42:04:352 Begin to send message.
+23/08 16:42:04:384 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DK CAM | isdn = 84922000511 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+23/08 16:42:04:385 message count: 1
+23/08 16:42:09:460 End of process session
+23/08 16:42:09:461 Simulator0 stopped
+23/08 16:45:44:209 Simulator0 started
+23/08 16:45:44:229 Starting process session
+23/08 16:45:44:341 Total 0 instances are started
+23/08 16:45:44:342 Total 1 instances are added
+23/08 16:45:44:343 Begin to send message.
+23/08 16:45:44:370 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DK CAM | isdn = 84922000511 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+23/08 16:45:44:371 message count: 1
+23/08 16:45:49:447 End of process session
+23/08 16:45:49:449 Simulator0 stopped
+23/08 16:49:19:515 Simulator0 started
+23/08 16:49:19:536 Starting process session
+23/08 16:49:19:645 Total 0 instances are started
+23/08 16:49:19:645 Begin to send message.
+23/08 16:49:19:646 Total 1 instances are added
+23/08 16:49:19:662 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DK CAM | isdn = 84922000511 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+23/08 16:49:19:664 message count: 1
+23/08 16:49:24:754 End of process session
+23/08 16:49:24:755 Simulator0 stopped
+23/08 16:50:47:584 Simulator0 started
+23/08 16:50:47:606 Starting process session
+23/08 16:50:47:716 Total 0 instances are started
+23/08 16:50:47:719 Begin to send message.
+23/08 16:50:47:720 Total 1 instances are added
+23/08 16:50:47:728 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DK CAM | isdn = 84922000511 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+23/08 16:50:47:730 message count: 1
+23/08 16:50:52:828 End of process session
+23/08 16:50:52:830 Simulator0 stopped
+23/08 16:52:20:677 Simulator0 started
+23/08 16:52:20:702 Starting process session
+23/08 16:52:20:811 Total 0 instances are started
+23/08 16:52:20:811 Begin to send message.
+23/08 16:52:20:812 Total 1 instances are added
+23/08 16:52:20:819 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DK CAM | isdn = 84922000511 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+23/08 16:52:20:820 message count: 1
+23/08 16:52:25:917 End of process session
+23/08 16:52:25:919 Simulator0 stopped
+23/08 17:04:04:850 Simulator0 started
+23/08 17:04:04:871 Starting process session
+23/08 17:04:04:981 Total 0 instances are started
+23/08 17:04:04:981 Begin to send message.
+23/08 17:04:04:982 Total 1 instances are added
+23/08 17:04:04:989 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DK CAM | isdn = 84922000511 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+23/08 17:04:04:990 message count: 1
+23/08 17:04:10:092 Begin to send message.
+23/08 17:04:15:086 End of process session
+23/08 17:04:15:088 Simulator0 stopped
+23/08 17:17:39:006 Simulator0 started
+23/08 17:17:39:030 Starting process session
+23/08 17:17:39:139 Total 0 instances are started
+23/08 17:17:39:139 Begin to send message.
+23/08 17:17:39:140 Total 1 instances are added
+23/08 17:17:39:147 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DK CAM | isdn = 84922000511 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+23/08 17:17:39:148 message count: 1
+23/08 17:17:44:246 End of process session
+23/08 17:17:44:248 Simulator0 stopped

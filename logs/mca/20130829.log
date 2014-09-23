@@ -1,0 +1,903 @@
+29/08 08:41:18:073 MCA started
+29/08 08:41:22:017 Testing connection ...
+29/08 08:41:43:030 open connection is fail
+29/08 08:41:43:040 java.net.ConnectException: Connection timed out: connect
+29/08 08:41:43:041 Starting process session
+29/08 08:41:43:141 Total 0 instances are started
+29/08 08:41:43:141 Total 1 instances are added
+29/08 08:41:44:173 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.31:7676]. - cause: java.net.ConnectException: Connection refused: connect
+29/08 08:41:44:173 Consumer was closed, reconnect.
+29/08 08:41:44:342 Total 0 instances are started
+29/08 08:41:44:342 Total 1 instances are added
+29/08 08:41:45:367 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.31:7676]. - cause: java.net.ConnectException: Connection refused: connect
+29/08 08:41:45:368 Consumer was closed, reconnect.
+29/08 08:41:45:543 Total 0 instances are started
+29/08 08:41:45:544 Total 1 instances are added
+29/08 08:41:46:605 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.31:7676]. - cause: java.net.ConnectException: Connection refused: connect
+29/08 08:41:46:606 Consumer was closed, reconnect.
+29/08 08:41:46:744 Total 0 instances are started
+29/08 08:41:46:744 Total 1 instances are added
+29/08 08:41:47:767 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.31:7676]. - cause: java.net.ConnectException: Connection refused: connect
+29/08 08:41:47:767 Consumer was closed, reconnect.
+29/08 08:41:47:945 Total 0 instances are started
+29/08 08:41:47:945 Total 1 instances are added
+29/08 08:41:48:959 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.31:7676]. - cause: java.net.ConnectException: Connection refused: connect
+29/08 08:41:48:959 Consumer was closed, reconnect.
+29/08 08:41:49:146 Total 0 instances are started
+29/08 08:41:49:146 Total 1 instances are added
+29/08 08:41:50:175 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.31:7676]. - cause: java.net.ConnectException: Connection refused: connect
+29/08 08:41:50:175 Consumer was closed, reconnect.
+29/08 08:41:50:346 Total 0 instances are started
+29/08 08:41:50:347 Total 1 instances are added
+29/08 08:41:51:384 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.31:7676]. - cause: java.net.ConnectException: Connection refused: connect
+29/08 08:41:51:385 Consumer was closed, reconnect.
+29/08 08:41:51:547 Total 0 instances are started
+29/08 08:41:51:548 Total 1 instances are added
+29/08 08:41:52:983 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.31:7676]. - cause: java.net.ConnectException: Connection refused: connect
+29/08 08:41:52:985 Consumer was closed, reconnect.
+29/08 08:41:53:148 Total 0 instances are started
+29/08 08:41:53:149 Total 1 instances are added
+29/08 08:41:54:169 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.31:7676]. - cause: java.net.ConnectException: Connection refused: connect
+29/08 08:41:54:170 Consumer was closed, reconnect.
+29/08 08:41:54:349 Total 0 instances are started
+29/08 08:41:54:349 Total 1 instances are added
+29/08 08:41:55:357 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.31:7676]. - cause: java.net.ConnectException: Connection refused: connect
+29/08 08:41:55:358 Consumer was closed, reconnect.
+29/08 08:41:55:551 Total 0 instances are started
+29/08 08:41:55:552 Total 1 instances are added
+29/08 08:41:56:608 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.31:7676]. - cause: java.net.ConnectException: Connection refused: connect
+29/08 08:41:56:609 Consumer was closed, reconnect.
+29/08 08:41:56:752 Total 0 instances are started
+29/08 08:41:56:752 Total 1 instances are added
+29/08 08:41:57:768 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.31:7676]. - cause: java.net.ConnectException: Connection refused: connect
+29/08 08:41:57:769 Consumer was closed, reconnect.
+29/08 08:41:57:953 Total 0 instances are started
+29/08 08:41:57:953 Total 1 instances are added
+29/08 08:41:58:981 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.31:7676]. - cause: java.net.ConnectException: Connection refused: connect
+29/08 08:41:58:981 Consumer was closed, reconnect.
+29/08 08:41:59:154 Total 0 instances are started
+29/08 08:41:59:156 Total 1 instances are added
+29/08 08:42:00:235 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.31:7676]. - cause: java.net.ConnectException: Connection refused: connect
+29/08 08:42:00:236 Consumer was closed, reconnect.
+29/08 08:42:00:365 Total 0 instances are started
+29/08 08:42:00:366 Total 1 instances are added
+29/08 08:42:01:407 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.31:7676]. - cause: java.net.ConnectException: Connection refused: connect
+29/08 08:42:01:408 Consumer was closed, reconnect.
+29/08 08:42:01:571 Total 0 instances are started
+29/08 08:42:01:572 Total 1 instances are added
+29/08 08:42:02:659 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.31:7676]. - cause: java.net.ConnectException: Connection refused: connect
+29/08 08:42:02:660 Consumer was closed, reconnect.
+29/08 08:42:02:772 Total 0 instances are started
+29/08 08:42:02:773 Total 1 instances are added
+29/08 08:42:03:879 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.31:7676]. - cause: java.net.ConnectException: Connection refused: connect
+29/08 08:42:03:880 Consumer was closed, reconnect.
+29/08 08:42:04:076 Total 0 instances are started
+29/08 08:42:04:077 Total 1 instances are added
+29/08 08:42:05:127 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.31:7676]. - cause: java.net.ConnectException: Connection refused: connect
+29/08 08:42:05:127 Consumer was closed, reconnect.
+29/08 08:42:05:279 Total 0 instances are started
+29/08 08:42:05:279 Total 1 instances are added
+29/08 08:42:06:304 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.31:7676]. - cause: java.net.ConnectException: Connection refused: connect
+29/08 08:42:06:305 Consumer was closed, reconnect.
+29/08 08:42:06:496 Total 0 instances are started
+29/08 08:42:06:496 Total 1 instances are added
+29/08 08:42:07:526 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.31:7676]. - cause: java.net.ConnectException: Connection refused: connect
+29/08 08:42:07:526 Consumer was closed, reconnect.
+29/08 08:42:07:697 Total 0 instances are started
+29/08 08:42:07:697 Total 1 instances are added
+29/08 08:42:08:785 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.31:7676]. - cause: java.net.ConnectException: Connection refused: connect
+29/08 08:42:08:786 Consumer was closed, reconnect.
+29/08 08:42:08:908 Total 0 instances are started
+29/08 08:42:08:909 Total 1 instances are added
+29/08 08:42:09:943 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.31:7676]. - cause: java.net.ConnectException: Connection refused: connect
+29/08 08:42:09:943 Consumer was closed, reconnect.
+29/08 08:42:10:111 Total 0 instances are started
+29/08 08:42:10:112 Total 1 instances are added
+29/08 08:42:11:165 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.31:7676]. - cause: java.net.ConnectException: Connection refused: connect
+29/08 08:42:11:166 Consumer was closed, reconnect.
+29/08 08:42:11:316 Total 0 instances are started
+29/08 08:42:11:316 Total 1 instances are added
+29/08 08:42:12:335 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.31:7676]. - cause: java.net.ConnectException: Connection refused: connect
+29/08 08:42:12:336 Consumer was closed, reconnect.
+29/08 08:42:12:519 Total 0 instances are started
+29/08 08:42:12:641 Total 1 instances are added
+29/08 08:42:13:536 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.31:7676]. - cause: java.net.ConnectException: Connection refused: connect
+29/08 08:42:13:536 Consumer was closed, reconnect.
+29/08 08:42:13:652 Total 0 instances are started
+29/08 08:42:13:653 Total 1 instances are added
+29/08 08:42:14:689 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.31:7676]. - cause: java.net.ConnectException: Connection refused: connect
+29/08 08:42:14:690 Consumer was closed, reconnect.
+29/08 08:42:14:859 Total 0 instances are started
+29/08 08:42:14:860 Total 1 instances are added
+29/08 08:42:15:882 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.31:7676]. - cause: java.net.ConnectException: Connection refused: connect
+29/08 08:42:15:882 Consumer was closed, reconnect.
+29/08 08:42:16:060 Total 0 instances are started
+29/08 08:42:16:060 Total 1 instances are added
+29/08 08:42:17:083 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.31:7676]. - cause: java.net.ConnectException: Connection refused: connect
+29/08 08:42:17:084 Consumer was closed, reconnect.
+29/08 08:42:17:261 Total 0 instances are started
+29/08 08:42:17:261 Total 1 instances are added
+29/08 08:42:18:284 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.31:7676]. - cause: java.net.ConnectException: Connection refused: connect
+29/08 08:42:18:284 Consumer was closed, reconnect.
+29/08 08:42:18:465 Total 0 instances are started
+29/08 08:42:18:720 Total 1 instances are added
+29/08 08:42:19:506 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.31:7676]. - cause: java.net.ConnectException: Connection refused: connect
+29/08 08:42:19:507 Consumer was closed, reconnect.
+29/08 08:42:19:620 Total 0 instances are started
+29/08 08:42:19:620 Total 1 instances are added
+29/08 08:42:20:700 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.31:7676]. - cause: java.net.ConnectException: Connection refused: connect
+29/08 08:42:20:701 Consumer was closed, reconnect.
+29/08 08:42:20:824 Total 0 instances are started
+29/08 08:42:20:825 Total 1 instances are added
+29/08 08:42:21:844 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.31:7676]. - cause: java.net.ConnectException: Connection refused: connect
+29/08 08:42:21:844 Consumer was closed, reconnect.
+29/08 08:42:21:957 Total 0 instances are started
+29/08 08:42:21:958 Total 1 instances are added
+29/08 08:42:22:979 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.31:7676]. - cause: java.net.ConnectException: Connection refused: connect
+29/08 08:42:22:979 Consumer was closed, reconnect.
+29/08 08:42:23:158 Total 0 instances are started
+29/08 08:42:23:159 Total 1 instances are added
+29/08 08:42:24:192 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.31:7676]. - cause: java.net.ConnectException: Connection refused: connect
+29/08 08:42:24:193 Consumer was closed, reconnect.
+29/08 08:42:24:360 Total 0 instances are started
+29/08 08:42:24:361 Total 1 instances are added
+29/08 08:42:25:379 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.31:7676]. - cause: java.net.ConnectException: Connection refused: connect
+29/08 08:42:25:380 Consumer was closed, reconnect.
+29/08 08:42:25:561 Total 0 instances are started
+29/08 08:42:25:562 Total 1 instances are added
+29/08 08:42:26:618 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.31:7676]. - cause: java.net.ConnectException: Connection refused: connect
+29/08 08:42:26:619 Consumer was closed, reconnect.
+29/08 08:42:26:763 Total 0 instances are started
+29/08 08:42:26:764 Total 1 instances are added
+29/08 08:42:27:823 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.31:7676]. - cause: java.net.ConnectException: Connection refused: connect
+29/08 08:42:27:824 Consumer was closed, reconnect.
+29/08 08:42:27:983 Total 0 instances are started
+29/08 08:42:27:983 Total 1 instances are added
+29/08 08:42:29:013 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.31:7676]. - cause: java.net.ConnectException: Connection refused: connect
+29/08 08:42:29:014 Consumer was closed, reconnect.
+29/08 08:42:29:184 Total 0 instances are started
+29/08 08:42:29:185 Total 1 instances are added
+29/08 08:42:30:221 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.31:7676]. - cause: java.net.ConnectException: Connection refused: connect
+29/08 08:42:30:222 Consumer was closed, reconnect.
+29/08 08:42:30:397 Total 0 instances are started
+29/08 08:42:30:398 Total 1 instances are added
+29/08 08:42:31:413 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.31:7676]. - cause: java.net.ConnectException: Connection refused: connect
+29/08 08:42:31:413 Consumer was closed, reconnect.
+29/08 08:42:31:599 Total 0 instances are started
+29/08 08:42:31:599 Total 1 instances are added
+29/08 08:42:32:676 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.31:7676]. - cause: java.net.ConnectException: Connection refused: connect
+29/08 08:42:32:676 Consumer was closed, reconnect.
+29/08 08:42:32:814 Total 0 instances are started
+29/08 08:42:32:814 Total 1 instances are added
+29/08 08:42:33:855 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.31:7676]. - cause: java.net.ConnectException: Connection refused: connect
+29/08 08:42:33:856 Consumer was closed, reconnect.
+29/08 08:42:34:016 Total 0 instances are started
+29/08 08:42:34:017 Total 1 instances are added
+29/08 08:42:35:042 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.31:7676]. - cause: java.net.ConnectException: Connection refused: connect
+29/08 08:42:35:043 Consumer was closed, reconnect.
+29/08 08:42:35:217 Total 0 instances are started
+29/08 08:42:35:218 Total 1 instances are added
+29/08 08:42:36:338 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.31:7676]. - cause: java.net.ConnectException: Connection refused: connect
+29/08 08:42:36:338 Consumer was closed, reconnect.
+29/08 08:42:36:527 Total 0 instances are started
+29/08 08:42:36:527 Total 1 instances are added
+29/08 08:42:37:580 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.31:7676]. - cause: java.net.ConnectException: Connection refused: connect
+29/08 08:42:37:581 Consumer was closed, reconnect.
+29/08 08:42:37:731 Total 0 instances are started
+29/08 08:42:37:731 Total 1 instances are added
+29/08 08:42:38:751 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.31:7676]. - cause: java.net.ConnectException: Connection refused: connect
+29/08 08:42:38:751 Consumer was closed, reconnect.
+29/08 08:42:38:932 Total 0 instances are started
+29/08 08:42:38:932 Total 1 instances are added
+29/08 08:42:39:962 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.31:7676]. - cause: java.net.ConnectException: Connection refused: connect
+29/08 08:42:39:962 Consumer was closed, reconnect.
+29/08 08:42:40:132 Total 0 instances are started
+29/08 08:42:40:133 Total 1 instances are added
+29/08 08:42:41:155 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.31:7676]. - cause: java.net.ConnectException: Connection refused: connect
+29/08 08:42:41:156 Consumer was closed, reconnect.
+29/08 08:42:41:340 Total 0 instances are started
+29/08 08:42:41:341 Total 1 instances are added
+29/08 08:42:42:364 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.31:7676]. - cause: java.net.ConnectException: Connection refused: connect
+29/08 08:42:42:364 Consumer was closed, reconnect.
+29/08 08:42:42:541 Total 0 instances are started
+29/08 08:42:42:541 Total 1 instances are added
+29/08 08:42:43:554 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.31:7676]. - cause: java.net.ConnectException: Connection refused: connect
+29/08 08:42:43:554 Consumer was closed, reconnect.
+29/08 08:42:43:742 Total 0 instances are started
+29/08 08:42:43:743 Total 1 instances are added
+29/08 08:42:44:777 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.31:7676]. - cause: java.net.ConnectException: Connection refused: connect
+29/08 08:42:44:777 Consumer was closed, reconnect.
+29/08 08:42:44:943 Total 0 instances are started
+29/08 08:42:44:944 Total 1 instances are added
+29/08 08:42:46:000 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.31:7676]. - cause: java.net.ConnectException: Connection refused: connect
+29/08 08:42:46:001 Consumer was closed, reconnect.
+29/08 08:42:46:144 Total 0 instances are started
+29/08 08:42:46:144 Total 1 instances are added
+29/08 08:42:47:194 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.31:7676]. - cause: java.net.ConnectException: Connection refused: connect
+29/08 08:42:47:194 Consumer was closed, reconnect.
+29/08 08:42:47:346 Total 0 instances are started
+29/08 08:42:47:346 Total 1 instances are added
+29/08 08:42:48:366 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.31:7676]. - cause: java.net.ConnectException: Connection refused: connect
+29/08 08:42:48:366 Consumer was closed, reconnect.
+29/08 08:42:48:554 Total 0 instances are started
+29/08 08:42:48:660 Total 1 instances are added
+29/08 08:42:49:582 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.31:7676]. - cause: java.net.ConnectException: Connection refused: connect
+29/08 08:42:49:582 Consumer was closed, reconnect.
+29/08 08:42:49:761 Total 0 instances are started
+29/08 08:42:49:762 Total 1 instances are added
+29/08 08:42:50:804 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.31:7676]. - cause: java.net.ConnectException: Connection refused: connect
+29/08 08:42:50:804 Consumer was closed, reconnect.
+29/08 08:42:50:962 Total 0 instances are started
+29/08 08:42:50:963 Total 1 instances are added
+29/08 08:42:51:998 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.31:7676]. - cause: java.net.ConnectException: Connection refused: connect
+29/08 08:42:51:999 Consumer was closed, reconnect.
+29/08 08:42:52:173 Total 0 instances are started
+29/08 08:42:52:173 Total 1 instances are added
+29/08 08:42:53:214 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.31:7676]. - cause: java.net.ConnectException: Connection refused: connect
+29/08 08:42:53:214 Consumer was closed, reconnect.
+29/08 08:42:53:374 Total 0 instances are started
+29/08 08:42:53:374 Total 1 instances are added
+29/08 08:42:54:404 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.31:7676]. - cause: java.net.ConnectException: Connection refused: connect
+29/08 08:42:54:405 Consumer was closed, reconnect.
+29/08 08:42:54:575 Total 0 instances are started
+29/08 08:42:54:714 Total 1 instances are added
+29/08 08:42:55:621 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.31:7676]. - cause: java.net.ConnectException: Connection refused: connect
+29/08 08:42:55:621 Consumer was closed, reconnect.
+29/08 08:42:55:819 Total 0 instances are started
+29/08 08:42:55:820 Total 1 instances are added
+29/08 08:42:56:850 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.31:7676]. - cause: java.net.ConnectException: Connection refused: connect
+29/08 08:42:56:850 Consumer was closed, reconnect.
+29/08 08:42:56:952 Total 0 instances are started
+29/08 08:42:56:953 Total 1 instances are added
+29/08 08:42:57:995 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.31:7676]. - cause: java.net.ConnectException: Connection refused: connect
+29/08 08:42:57:996 Consumer was closed, reconnect.
+29/08 08:42:58:175 Total 0 instances are started
+29/08 08:42:58:176 Total 1 instances are added
+29/08 08:42:59:272 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.31:7676]. - cause: java.net.ConnectException: Connection refused: connect
+29/08 08:42:59:273 Consumer was closed, reconnect.
+29/08 08:42:59:377 Total 0 instances are started
+29/08 08:42:59:377 Total 1 instances are added
+29/08 08:43:00:404 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.31:7676]. - cause: java.net.ConnectException: Connection refused: connect
+29/08 08:43:00:405 Consumer was closed, reconnect.
+29/08 08:43:00:580 Total 0 instances are started
+29/08 08:43:00:581 Total 1 instances are added
+29/08 08:43:01:602 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.31:7676]. - cause: java.net.ConnectException: Connection refused: connect
+29/08 08:43:01:602 Consumer was closed, reconnect.
+29/08 08:43:01:781 Total 0 instances are started
+29/08 08:43:01:782 Total 1 instances are added
+29/08 08:43:02:810 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.31:7676]. - cause: java.net.ConnectException: Connection refused: connect
+29/08 08:43:02:811 Consumer was closed, reconnect.
+29/08 08:43:02:984 Total 0 instances are started
+29/08 08:43:02:984 Total 1 instances are added
+29/08 08:43:04:001 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.31:7676]. - cause: java.net.ConnectException: Connection refused: connect
+29/08 08:43:04:002 Consumer was closed, reconnect.
+29/08 08:43:04:185 Total 0 instances are started
+29/08 08:43:04:186 Total 1 instances are added
+29/08 08:43:05:215 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.31:7676]. - cause: java.net.ConnectException: Connection refused: connect
+29/08 08:43:05:217 Consumer was closed, reconnect.
+29/08 08:43:05:395 Total 0 instances are started
+29/08 08:43:05:396 Total 1 instances are added
+29/08 08:43:06:417 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.31:7676]. - cause: java.net.ConnectException: Connection refused: connect
+29/08 08:43:06:417 Consumer was closed, reconnect.
+29/08 08:43:06:596 Total 0 instances are started
+29/08 08:43:06:606 Total 1 instances are added
+29/08 08:43:07:620 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.31:7676]. - cause: java.net.ConnectException: Connection refused: connect
+29/08 08:43:07:621 Consumer was closed, reconnect.
+29/08 08:43:07:807 Total 0 instances are started
+29/08 08:43:07:807 Total 1 instances are added
+29/08 08:43:08:909 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.31:7676]. - cause: java.net.ConnectException: Connection refused: connect
+29/08 08:43:08:910 Consumer was closed, reconnect.
+29/08 08:43:09:108 Total 0 instances are started
+29/08 08:43:09:109 Total 1 instances are added
+29/08 08:43:10:141 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.31:7676]. - cause: java.net.ConnectException: Connection refused: connect
+29/08 08:43:10:142 Consumer was closed, reconnect.
+29/08 08:43:10:332 Total 0 instances are started
+29/08 08:43:10:333 Total 1 instances are added
+29/08 08:43:11:369 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.31:7676]. - cause: java.net.ConnectException: Connection refused: connect
+29/08 08:43:11:370 Consumer was closed, reconnect.
+29/08 08:43:11:533 Total 0 instances are started
+29/08 08:43:11:533 Total 1 instances are added
+29/08 08:43:12:545 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.31:7676]. - cause: java.net.ConnectException: Connection refused: connect
+29/08 08:43:12:545 Consumer was closed, reconnect.
+29/08 08:43:12:735 Total 0 instances are started
+29/08 08:43:12:736 Total 1 instances are added
+29/08 08:43:13:825 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.31:7676]. - cause: java.net.ConnectException: Connection refused: connect
+29/08 08:43:13:826 Consumer was closed, reconnect.
+29/08 08:43:13:936 Total 0 instances are started
+29/08 08:43:13:936 Total 1 instances are added
+29/08 08:43:14:962 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.31:7676]. - cause: java.net.ConnectException: Connection refused: connect
+29/08 08:43:14:963 Consumer was closed, reconnect.
+29/08 08:43:15:137 Total 0 instances are started
+29/08 08:43:15:137 Total 1 instances are added
+29/08 08:43:16:178 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.31:7676]. - cause: java.net.ConnectException: Connection refused: connect
+29/08 08:43:16:178 Consumer was closed, reconnect.
+29/08 08:43:16:338 Total 0 instances are started
+29/08 08:43:16:339 Total 1 instances are added
+29/08 08:43:17:369 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.31:7676]. - cause: java.net.ConnectException: Connection refused: connect
+29/08 08:43:17:370 Consumer was closed, reconnect.
+29/08 08:43:17:544 Total 0 instances are started
+29/08 08:43:17:544 Total 1 instances are added
+29/08 08:43:18:614 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.31:7676]. - cause: java.net.ConnectException: Connection refused: connect
+29/08 08:43:18:615 Consumer was closed, reconnect.
+29/08 08:43:18:745 Total 0 instances are started
+29/08 08:43:18:745 Total 1 instances are added
+29/08 08:43:19:775 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.31:7676]. - cause: java.net.ConnectException: Connection refused: connect
+29/08 08:43:19:775 Consumer was closed, reconnect.
+29/08 08:43:19:945 Total 0 instances are started
+29/08 08:43:19:946 Total 1 instances are added
+29/08 08:43:20:964 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.31:7676]. - cause: java.net.ConnectException: Connection refused: connect
+29/08 08:43:20:965 Consumer was closed, reconnect.
+29/08 08:43:21:148 Total 0 instances are started
+29/08 08:43:21:149 Total 1 instances are added
+29/08 08:43:22:172 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.31:7676]. - cause: java.net.ConnectException: Connection refused: connect
+29/08 08:43:22:172 Consumer was closed, reconnect.
+29/08 08:43:22:284 Total 0 instances are started
+29/08 08:43:22:285 Total 1 instances are added
+29/08 08:43:23:316 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.31:7676]. - cause: java.net.ConnectException: Connection refused: connect
+29/08 08:43:23:316 Consumer was closed, reconnect.
+29/08 08:43:23:502 Total 0 instances are started
+29/08 08:43:23:503 Total 1 instances are added
+29/08 08:43:24:681 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.31:7676]. - cause: java.net.ConnectException: Connection refused: connect
+29/08 08:43:24:682 Consumer was closed, reconnect.
+29/08 08:43:24:803 Total 0 instances are started
+29/08 08:43:24:804 Total 1 instances are added
+29/08 08:43:25:828 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.31:7676]. - cause: java.net.ConnectException: Connection refused: connect
+29/08 08:43:25:828 Consumer was closed, reconnect.
+29/08 08:43:26:016 Total 0 instances are started
+29/08 08:43:26:016 Total 1 instances are added
+29/08 08:43:27:059 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.31:7676]. - cause: java.net.ConnectException: Connection refused: connect
+29/08 08:43:27:059 Consumer was closed, reconnect.
+29/08 08:43:27:224 Total 0 instances are started
+29/08 08:43:27:224 Total 1 instances are added
+29/08 08:43:28:260 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.31:7676]. - cause: java.net.ConnectException: Connection refused: connect
+29/08 08:43:28:261 Consumer was closed, reconnect.
+29/08 08:43:28:425 Total 0 instances are started
+29/08 08:43:28:427 Total 1 instances are added
+29/08 08:43:29:465 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.31:7676]. - cause: java.net.ConnectException: Connection refused: connect
+29/08 08:43:29:465 Consumer was closed, reconnect.
+29/08 08:43:29:628 Total 0 instances are started
+29/08 08:43:29:629 Total 1 instances are added
+29/08 08:43:30:654 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.31:7676]. - cause: java.net.ConnectException: Connection refused: connect
+29/08 08:43:30:655 Consumer was closed, reconnect.
+29/08 08:43:30:829 Total 0 instances are started
+29/08 08:43:30:830 Total 1 instances are added
+29/08 08:43:31:854 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.31:7676]. - cause: java.net.ConnectException: Connection refused: connect
+29/08 08:43:31:854 Consumer was closed, reconnect.
+29/08 08:43:32:030 Total 0 instances are started
+29/08 08:43:32:031 Total 1 instances are added
+29/08 08:43:33:059 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.31:7676]. - cause: java.net.ConnectException: Connection refused: connect
+29/08 08:43:33:060 Consumer was closed, reconnect.
+29/08 08:43:33:231 Total 0 instances are started
+29/08 08:43:33:232 Total 1 instances are added
+29/08 08:43:34:247 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.31:7676]. - cause: java.net.ConnectException: Connection refused: connect
+29/08 08:43:34:247 Consumer was closed, reconnect.
+29/08 08:43:34:432 Total 0 instances are started
+29/08 08:43:34:433 Total 1 instances are added
+29/08 08:43:35:467 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.31:7676]. - cause: java.net.ConnectException: Connection refused: connect
+29/08 08:43:35:467 Consumer was closed, reconnect.
+29/08 08:43:35:633 Total 0 instances are started
+29/08 08:43:35:633 Total 1 instances are added
+29/08 08:43:36:665 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.31:7676]. - cause: java.net.ConnectException: Connection refused: connect
+29/08 08:43:36:665 Consumer was closed, reconnect.
+29/08 08:43:36:834 Total 0 instances are started
+29/08 08:43:36:835 Total 1 instances are added
+29/08 08:43:37:868 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.31:7676]. - cause: java.net.ConnectException: Connection refused: connect
+29/08 08:43:37:869 Consumer was closed, reconnect.
+29/08 08:43:38:035 Total 0 instances are started
+29/08 08:43:38:036 Total 1 instances are added
+29/08 08:43:39:077 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.31:7676]. - cause: java.net.ConnectException: Connection refused: connect
+29/08 08:43:39:078 Consumer was closed, reconnect.
+29/08 08:43:39:237 Total 0 instances are started
+29/08 08:43:39:238 Total 1 instances are added
+29/08 08:43:40:258 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.31:7676]. - cause: java.net.ConnectException: Connection refused: connect
+29/08 08:43:40:259 Consumer was closed, reconnect.
+29/08 08:43:40:441 Total 0 instances are started
+29/08 08:43:40:441 Total 1 instances are added
+29/08 08:43:41:483 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.31:7676]. - cause: java.net.ConnectException: Connection refused: connect
+29/08 08:43:41:484 Consumer was closed, reconnect.
+29/08 08:43:41:641 Total 0 instances are started
+29/08 08:43:41:641 Total 1 instances are added
+29/08 08:43:42:690 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.31:7676]. - cause: java.net.ConnectException: Connection refused: connect
+29/08 08:43:42:690 Consumer was closed, reconnect.
+29/08 08:43:42:842 Total 0 instances are started
+29/08 08:43:42:843 Total 1 instances are added
+29/08 08:43:43:880 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.31:7676]. - cause: java.net.ConnectException: Connection refused: connect
+29/08 08:43:43:881 Consumer was closed, reconnect.
+29/08 08:43:44:043 Total 0 instances are started
+29/08 08:43:44:043 Total 1 instances are added
+29/08 08:43:45:078 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.31:7676]. - cause: java.net.ConnectException: Connection refused: connect
+29/08 08:43:45:079 Consumer was closed, reconnect.
+29/08 08:43:45:248 Total 0 instances are started
+29/08 08:43:45:249 Total 1 instances are added
+29/08 08:43:46:268 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.31:7676]. - cause: java.net.ConnectException: Connection refused: connect
+29/08 08:43:46:269 Consumer was closed, reconnect.
+29/08 08:43:46:449 Total 0 instances are started
+29/08 08:43:46:593 Total 1 instances are added
+29/08 08:43:47:481 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.31:7676]. - cause: java.net.ConnectException: Connection refused: connect
+29/08 08:43:47:482 Consumer was closed, reconnect.
+29/08 08:43:47:600 Total 0 instances are started
+29/08 08:43:47:601 Total 1 instances are added
+29/08 08:43:48:620 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.31:7676]. - cause: java.net.ConnectException: Connection refused: connect
+29/08 08:43:48:620 Consumer was closed, reconnect.
+29/08 08:43:48:802 Total 0 instances are started
+29/08 08:43:48:803 Total 1 instances are added
+29/08 08:43:49:831 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.31:7676]. - cause: java.net.ConnectException: Connection refused: connect
+29/08 08:43:49:831 Consumer was closed, reconnect.
+29/08 08:43:50:003 Total 0 instances are started
+29/08 08:43:50:004 Total 1 instances are added
+29/08 08:43:51:033 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.31:7676]. - cause: java.net.ConnectException: Connection refused: connect
+29/08 08:43:51:034 Consumer was closed, reconnect.
+29/08 08:43:51:204 Total 0 instances are started
+29/08 08:43:51:204 Total 1 instances are added
+29/08 08:43:52:244 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.31:7676]. - cause: java.net.ConnectException: Connection refused: connect
+29/08 08:43:52:245 Consumer was closed, reconnect.
+29/08 08:43:52:405 Total 0 instances are started
+29/08 08:43:52:405 Total 1 instances are added
+29/08 08:43:53:449 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.31:7676]. - cause: java.net.ConnectException: Connection refused: connect
+29/08 08:43:53:449 Consumer was closed, reconnect.
+29/08 08:43:53:606 Total 0 instances are started
+29/08 08:43:53:607 Total 1 instances are added
+29/08 08:43:54:652 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.31:7676]. - cause: java.net.ConnectException: Connection refused: connect
+29/08 08:43:54:652 Consumer was closed, reconnect.
+29/08 08:43:54:807 Total 0 instances are started
+29/08 08:43:54:808 Total 1 instances are added
+29/08 08:43:55:834 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.31:7676]. - cause: java.net.ConnectException: Connection refused: connect
+29/08 08:43:55:835 Consumer was closed, reconnect.
+29/08 08:43:56:008 Total 0 instances are started
+29/08 08:43:56:009 Total 1 instances are added
+29/08 08:43:57:023 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.31:7676]. - cause: java.net.ConnectException: Connection refused: connect
+29/08 08:43:57:023 Consumer was closed, reconnect.
+29/08 08:43:57:209 Total 0 instances are started
+29/08 08:43:57:210 Total 1 instances are added
+29/08 08:43:58:243 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.31:7676]. - cause: java.net.ConnectException: Connection refused: connect
+29/08 08:43:58:243 Consumer was closed, reconnect.
+29/08 08:43:58:419 Total 0 instances are started
+29/08 08:43:58:420 Total 1 instances are added
+29/08 08:43:59:465 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.31:7676]. - cause: java.net.ConnectException: Connection refused: connect
+29/08 08:43:59:466 Consumer was closed, reconnect.
+29/08 08:43:59:622 Total 0 instances are started
+29/08 08:43:59:623 Total 1 instances are added
+29/08 08:44:00:664 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.31:7676]. - cause: java.net.ConnectException: Connection refused: connect
+29/08 08:44:00:665 Consumer was closed, reconnect.
+29/08 08:44:00:823 Total 0 instances are started
+29/08 08:44:00:824 Total 1 instances are added
+29/08 08:44:01:860 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.31:7676]. - cause: java.net.ConnectException: Connection refused: connect
+29/08 08:44:01:861 Consumer was closed, reconnect.
+29/08 08:44:02:027 Total 0 instances are started
+29/08 08:44:02:028 Total 1 instances are added
+29/08 08:44:03:064 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.31:7676]. - cause: java.net.ConnectException: Connection refused: connect
+29/08 08:44:03:064 Consumer was closed, reconnect.
+29/08 08:44:03:230 Total 0 instances are started
+29/08 08:44:03:230 Total 1 instances are added
+29/08 08:44:04:291 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.31:7676]. - cause: java.net.ConnectException: Connection refused: connect
+29/08 08:44:04:292 Consumer was closed, reconnect.
+29/08 08:44:04:438 Total 0 instances are started
+29/08 08:44:04:439 Total 1 instances are added
+29/08 08:44:05:468 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.31:7676]. - cause: java.net.ConnectException: Connection refused: connect
+29/08 08:44:05:468 Consumer was closed, reconnect.
+29/08 08:44:05:639 Total 0 instances are started
+29/08 08:44:05:639 Total 1 instances are added
+29/08 08:44:06:658 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.31:7676]. - cause: java.net.ConnectException: Connection refused: connect
+29/08 08:44:06:659 Consumer was closed, reconnect.
+29/08 08:44:06:840 Total 0 instances are started
+29/08 08:44:06:840 Total 1 instances are added
+29/08 08:44:07:866 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.31:7676]. - cause: java.net.ConnectException: Connection refused: connect
+29/08 08:44:07:867 Consumer was closed, reconnect.
+29/08 08:44:08:041 Total 0 instances are started
+29/08 08:44:08:042 Total 1 instances are added
+29/08 08:44:09:097 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.31:7676]. - cause: java.net.ConnectException: Connection refused: connect
+29/08 08:44:09:098 Consumer was closed, reconnect.
+29/08 08:44:09:242 Total 0 instances are started
+29/08 08:44:09:242 Total 1 instances are added
+29/08 08:44:10:278 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.31:7676]. - cause: java.net.ConnectException: Connection refused: connect
+29/08 08:44:10:278 Consumer was closed, reconnect.
+29/08 08:44:10:445 Total 0 instances are started
+29/08 08:44:10:445 Total 1 instances are added
+29/08 08:44:11:473 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.31:7676]. - cause: java.net.ConnectException: Connection refused: connect
+29/08 08:44:11:473 Consumer was closed, reconnect.
+29/08 08:44:11:646 Total 0 instances are started
+29/08 08:44:11:647 Total 1 instances are added
+29/08 08:44:12:705 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.31:7676]. - cause: java.net.ConnectException: Connection refused: connect
+29/08 08:44:12:705 Consumer was closed, reconnect.
+29/08 08:44:12:847 Total 0 instances are started
+29/08 08:44:12:848 Total 1 instances are added
+29/08 08:44:13:882 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.31:7676]. - cause: java.net.ConnectException: Connection refused: connect
+29/08 08:44:13:882 Consumer was closed, reconnect.
+29/08 08:44:14:051 Total 0 instances are started
+29/08 08:44:14:051 Total 1 instances are added
+29/08 08:44:15:078 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.31:7676]. - cause: java.net.ConnectException: Connection refused: connect
+29/08 08:44:15:078 Consumer was closed, reconnect.
+29/08 08:44:15:252 Total 0 instances are started
+29/08 08:44:15:252 Total 1 instances are added
+29/08 08:44:16:293 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.31:7676]. - cause: java.net.ConnectException: Connection refused: connect
+29/08 08:44:16:293 Consumer was closed, reconnect.
+29/08 08:44:16:453 Total 0 instances are started
+29/08 08:44:16:611 Total 1 instances are added
+29/08 08:44:17:511 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.31:7676]. - cause: java.net.ConnectException: Connection refused: connect
+29/08 08:44:17:511 Consumer was closed, reconnect.
+29/08 08:44:17:613 Total 0 instances are started
+29/08 08:44:17:614 Total 1 instances are added
+29/08 08:44:18:662 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.31:7676]. - cause: java.net.ConnectException: Connection refused: connect
+29/08 08:44:18:662 Consumer was closed, reconnect.
+29/08 08:44:18:814 Total 0 instances are started
+29/08 08:44:18:815 Total 1 instances are added
+29/08 08:44:19:872 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.31:7676]. - cause: java.net.ConnectException: Connection refused: connect
+29/08 08:44:19:872 Consumer was closed, reconnect.
+29/08 08:44:20:032 Total 0 instances are started
+29/08 08:44:20:032 Total 1 instances are added
+29/08 08:44:21:062 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.31:7676]. - cause: java.net.ConnectException: Connection refused: connect
+29/08 08:44:21:062 Consumer was closed, reconnect.
+29/08 08:44:21:237 Total 0 instances are started
+29/08 08:44:21:237 Total 1 instances are added
+29/08 08:44:22:285 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.31:7676]. - cause: java.net.ConnectException: Connection refused: connect
+29/08 08:44:22:286 Consumer was closed, reconnect.
+29/08 08:44:22:438 Total 0 instances are started
+29/08 08:44:22:714 Total 1 instances are added
+29/08 08:44:23:470 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.31:7676]. - cause: java.net.ConnectException: Connection refused: connect
+29/08 08:44:23:471 Consumer was closed, reconnect.
+29/08 08:44:23:637 Total 0 instances are started
+29/08 08:44:23:638 Total 1 instances are added
+29/08 08:44:24:684 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.31:7676]. - cause: java.net.ConnectException: Connection refused: connect
+29/08 08:44:24:685 Consumer was closed, reconnect.
+29/08 08:44:24:848 Total 0 instances are started
+29/08 08:44:24:849 Total 1 instances are added
+29/08 08:44:25:875 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.31:7676]. - cause: java.net.ConnectException: Connection refused: connect
+29/08 08:44:25:875 Consumer was closed, reconnect.
+29/08 08:44:26:049 Total 0 instances are started
+29/08 08:44:26:049 Total 1 instances are added
+29/08 08:44:27:245 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.31:7676]. - cause: java.net.ConnectException: Connection refused: connect
+29/08 08:44:27:245 Consumer was closed, reconnect.
+29/08 08:44:27:355 Total 0 instances are started
+29/08 08:44:27:356 Total 1 instances are added
+29/08 08:44:28:371 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.31:7676]. - cause: java.net.ConnectException: Connection refused: connect
+29/08 08:44:28:371 Consumer was closed, reconnect.
+29/08 08:44:28:472 Total 0 instances are started
+29/08 08:44:28:744 Total 1 instances are added
+29/08 08:44:29:504 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.31:7676]. - cause: java.net.ConnectException: Connection refused: connect
+29/08 08:44:29:504 Consumer was closed, reconnect.
+29/08 08:44:29:645 Total 0 instances are started
+29/08 08:44:29:645 Total 1 instances are added
+29/08 08:44:30:692 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.31:7676]. - cause: java.net.ConnectException: Connection refused: connect
+29/08 08:44:30:693 Consumer was closed, reconnect.
+29/08 08:44:30:850 Total 0 instances are started
+29/08 08:44:30:850 Total 1 instances are added
+29/08 08:44:31:879 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.31:7676]. - cause: java.net.ConnectException: Connection refused: connect
+29/08 08:44:31:879 Consumer was closed, reconnect.
+29/08 08:44:32:051 Total 0 instances are started
+29/08 08:44:32:052 Total 1 instances are added
+29/08 08:44:33:069 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.31:7676]. - cause: java.net.ConnectException: Connection refused: connect
+29/08 08:44:33:103 Consumer was closed, reconnect.
+29/08 08:44:33:255 Total 0 instances are started
+29/08 08:44:33:256 Total 1 instances are added
+29/08 08:44:34:275 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.31:7676]. - cause: java.net.ConnectException: Connection refused: connect
+29/08 08:44:34:275 Consumer was closed, reconnect.
+29/08 08:44:34:463 Total 0 instances are started
+29/08 08:44:34:763 Total 1 instances are added
+29/08 08:44:35:501 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.31:7676]. - cause: java.net.ConnectException: Connection refused: connect
+29/08 08:44:35:501 Consumer was closed, reconnect.
+29/08 08:44:35:672 Total 0 instances are started
+29/08 08:44:35:673 Total 1 instances are added
+29/08 08:44:36:955 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.31:7676]. - cause: java.net.ConnectException: Connection refused: connect
+29/08 08:44:36:956 Consumer was closed, reconnect.
+29/08 08:44:37:076 Total 0 instances are started
+29/08 08:44:37:076 Total 1 instances are added
+29/08 08:44:38:135 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.31:7676]. - cause: java.net.ConnectException: Connection refused: connect
+29/08 08:44:38:136 Consumer was closed, reconnect.
+29/08 08:44:38:277 Total 0 instances are started
+29/08 08:44:38:277 Total 1 instances are added
+29/08 08:44:39:301 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.31:7676]. - cause: java.net.ConnectException: Connection refused: connect
+29/08 08:44:39:301 Consumer was closed, reconnect.
+29/08 08:44:39:478 Total 0 instances are started
+29/08 08:44:39:478 Total 1 instances are added
+29/08 08:44:40:706 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.31:7676]. - cause: java.net.ConnectException: Connection refused: connect
+29/08 08:44:40:706 Consumer was closed, reconnect.
+29/08 08:44:40:879 Total 0 instances are started
+29/08 08:44:40:879 Total 1 instances are added
+29/08 08:44:41:913 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.31:7676]. - cause: java.net.ConnectException: Connection refused: connect
+29/08 08:44:41:913 Consumer was closed, reconnect.
+29/08 08:44:42:080 Total 0 instances are started
+29/08 08:44:42:080 Total 1 instances are added
+29/08 08:44:43:110 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.31:7676]. - cause: java.net.ConnectException: Connection refused: connect
+29/08 08:44:43:111 Consumer was closed, reconnect.
+29/08 08:44:43:281 Total 0 instances are started
+29/08 08:44:43:282 Total 1 instances are added
+29/08 08:44:44:364 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.31:7676]. - cause: java.net.ConnectException: Connection refused: connect
+29/08 08:44:44:364 Consumer was closed, reconnect.
+29/08 08:44:44:482 Total 0 instances are started
+29/08 08:44:44:500 Total 1 instances are added
+29/08 08:49:05:061 MCA started
+29/08 08:49:08:719 Testing connection ...
+29/08 08:49:29:730 open connection is fail
+29/08 08:49:29:746 java.net.ConnectException: Connection timed out: connect
+29/08 08:49:29:747 Starting process session
+29/08 08:49:29:848 Total 0 instances are started
+29/08 08:49:29:850 Total 1 instances are added
+29/08 08:54:21:955 MCA started
+29/08 08:54:26:162 Testing connection ...
+29/08 08:54:47:244 open connection is fail
+29/08 08:54:47:257 java.net.ConnectException: Connection timed out: connect
+29/08 08:54:47:258 Starting process session
+29/08 08:54:47:359 Total 0 instances are started
+29/08 08:54:47:360 Total 1 instances are added
+29/08 09:03:24:088 MCA started
+29/08 09:03:26:841 Testing connection ...
+29/08 09:03:48:063 open connection is fail
+29/08 09:03:48:078 java.net.ConnectException: Connection timed out: connect
+29/08 09:03:48:079 Starting process session
+29/08 09:03:48:180 Total 0 instances are started
+29/08 09:03:48:181 Total 1 instances are added
+29/08 09:48:15:733 MCA started
+29/08 09:48:19:716 Testing connection ...
+29/08 09:48:40:730 open connection is fail
+29/08 09:48:40:736 java.net.ConnectException: Connection timed out: connect
+29/08 09:48:40:737 Starting process session
+29/08 09:48:40:837 Total 0 instances are started
+29/08 09:48:40:838 Total 1 instances are added
+29/08 09:49:32:564 MCA started
+29/08 09:49:36:176 Testing connection ...
+29/08 09:49:57:197 open connection is fail
+29/08 09:49:57:211 java.net.ConnectException: Connection timed out: connect
+29/08 09:49:57:212 Starting process session
+29/08 09:49:57:312 Total 0 instances are started
+29/08 09:49:57:314 Total 1 instances are added
+29/08 10:15:29:543 MCA started
+29/08 10:15:33:235 Testing connection ...
+29/08 10:15:54:260 open connection is fail
+29/08 10:15:54:271 java.net.ConnectException: Connection timed out: connect
+29/08 10:15:54:272 Starting process session
+29/08 10:15:54:372 Total 0 instances are started
+29/08 10:15:54:373 Total 1 instances are added
+29/08 10:50:12:433 MCA started
+29/08 10:50:16:206 Testing connection ...
+29/08 10:50:37:219 open connection is fail
+29/08 10:50:37:226 java.net.ConnectException: Connection timed out: connect
+29/08 10:50:37:227 Starting process session
+29/08 10:50:37:327 Total 0 instances are started
+29/08 10:50:37:328 Total 1 instances are added
+29/08 11:12:21:984 MCA started
+29/08 11:12:26:268 Testing connection ...
+29/08 11:12:47:264 open connection is fail
+29/08 11:12:47:272 java.net.ConnectException: Connection timed out: connect
+29/08 11:12:47:272 Starting process session
+29/08 11:12:47:375 Total 0 instances are started
+29/08 11:12:47:376 Total 1 instances are added
+29/08 11:14:41:901 MCA started
+29/08 11:14:46:141 Testing connection ...
+29/08 11:15:07:149 open connection is fail
+29/08 11:15:07:162 java.net.ConnectException: Connection timed out: connect
+29/08 11:15:07:163 Starting process session
+29/08 11:15:07:273 Total 0 instances are started
+29/08 11:15:07:274 Total 1 instances are added
+29/08 11:16:02:782 MCA started
+29/08 11:16:06:775 Testing connection ...
+29/08 11:16:27:803 open connection is fail
+29/08 11:16:27:815 java.net.ConnectException: Connection timed out: connect
+29/08 11:16:27:815 Starting process session
+29/08 11:16:27:916 Total 0 instances are started
+29/08 11:16:27:918 Total 1 instances are added
+29/08 11:17:42:130 MCA started
+29/08 11:17:46:739 Testing connection ...
+29/08 11:18:07:778 open connection is fail
+29/08 11:18:07:793 java.net.ConnectException: Connection timed out: connect
+29/08 11:18:07:794 Starting process session
+29/08 11:18:07:895 Total 0 instances are started
+29/08 11:18:07:900 Total 1 instances are added
+29/08 11:23:09:368 MCA started
+29/08 11:23:13:533 Testing connection ...
+29/08 11:23:34:558 open connection is fail
+29/08 11:23:34:570 java.net.ConnectException: Connection timed out: connect
+29/08 11:23:34:571 Starting process session
+29/08 11:23:34:671 Total 0 instances are started
+29/08 11:23:34:672 Total 1 instances are added
+29/08 13:57:01:814 MCA started
+29/08 13:57:04:782 Testing connection ...
+29/08 13:57:25:981 open connection is fail
+29/08 13:57:25:993 java.net.ConnectException: Connection timed out: connect
+29/08 13:57:25:994 Starting process session
+29/08 13:57:26:094 Total 0 instances are started
+29/08 13:57:26:096 Total 1 instances are added
+29/08 14:02:03:025 MCA started
+29/08 14:02:07:272 Testing connection ...
+29/08 14:02:28:298 open connection is fail
+29/08 14:02:28:306 java.net.ConnectException: Connection timed out: connect
+29/08 14:02:28:306 Starting process session
+29/08 14:02:28:408 Total 0 instances are started
+29/08 14:02:28:409 Total 1 instances are added
+29/08 14:13:18:022 MCA started
+29/08 14:13:47:682 java.sql.SQLException: Connections could not be acquired from the underlying database!
+29/08 14:13:47:683 End of process session
+29/08 14:15:34:619 java.sql.SQLException: Connections could not be acquired from the underlying database!
+29/08 14:15:34:620 End of process session
+29/08 14:17:30:811 java.sql.SQLException: An SQLException was provoked by the following failure: com.mchange.v2.resourcepool.ResourcePoolException: A ResourcePool cannot acquire a new resource -- the factory or source appears to be down.
+29/08 14:17:30:812 End of process session
+29/08 14:19:34:819 MCA started
+29/08 14:19:38:865 Testing connection ...
+29/08 14:19:59:875 open connection is fail
+29/08 14:19:59:892 java.net.ConnectException: Connection timed out: connect
+29/08 14:19:59:893 Starting process session
+29/08 14:19:59:994 Total 0 instances are started
+29/08 14:19:59:995 Total 1 instances are added
+29/08 14:50:44:765 MCA started
+29/08 14:50:49:354 Testing connection ...
+29/08 14:51:10:393 open connection is fail
+29/08 14:51:10:403 java.net.ConnectException: Connection timed out: connect
+29/08 14:51:10:404 Starting process session
+29/08 14:51:10:505 Total 0 instances are started
+29/08 14:51:10:506 Total 1 instances are added
+29/08 14:55:47:853 MCA started
+29/08 14:55:52:988 Testing connection ...
+29/08 14:56:13:996 open connection is fail
+29/08 14:56:14:011 java.net.ConnectException: Connection timed out: connect
+29/08 14:56:14:012 Starting process session
+29/08 14:56:14:113 Total 0 instances are started
+29/08 14:56:14:114 Total 1 instances are added
+29/08 15:03:19:903 MCA started
+29/08 15:03:24:518 Testing connection ...
+29/08 15:03:45:552 open connection is fail
+29/08 15:03:45:561 java.net.ConnectException: Connection timed out: connect
+29/08 15:03:45:562 Starting process session
+29/08 15:03:45:662 Total 0 instances are started
+29/08 15:03:45:663 Total 1 instances are added
+29/08 15:11:10:567 MCA started
+29/08 15:11:12:342 Testing connection ...
+29/08 15:11:19:075 MCA started
+29/08 15:11:23:111 Testing connection ...
+29/08 15:11:44:132 open connection is fail
+29/08 15:11:44:146 java.net.ConnectException: Connection timed out: connect
+29/08 15:11:44:148 Starting process session
+29/08 15:11:44:249 Total 0 instances are started
+29/08 15:11:44:250 Total 1 instances are added
+29/08 15:34:48:621 MCA started
+29/08 15:34:52:392 Testing connection ...
+29/08 15:35:13:409 open connection is fail
+29/08 15:35:13:421 java.net.ConnectException: Connection timed out: connect
+29/08 15:35:13:421 Starting process session
+29/08 15:35:13:522 Total 0 instances are started
+29/08 15:35:13:524 Total 1 instances are added
+29/08 15:39:25:194 MCA started
+29/08 15:39:29:255 Testing connection ...
+29/08 15:39:50:290 open connection is fail
+29/08 15:39:50:306 java.net.ConnectException: Connection timed out: connect
+29/08 15:39:50:307 Starting process session
+29/08 15:39:50:408 Total 0 instances are started
+29/08 15:39:50:409 Total 1 instances are added
+29/08 15:41:00:164 MCA started
+29/08 15:41:04:030 Testing connection ...
+29/08 15:41:25:028 open connection is fail
+29/08 15:41:25:044 java.net.ConnectException: Connection timed out: connect
+29/08 15:41:25:045 Starting process session
+29/08 15:41:25:148 Total 0 instances are started
+29/08 15:41:25:149 Total 1 instances are added
+29/08 15:51:14:611 MCA started
+29/08 15:51:19:081 Testing connection ...
+29/08 15:51:40:084 open connection is fail
+29/08 15:51:40:101 java.net.ConnectException: Connection timed out: connect
+29/08 15:51:40:103 Starting process session
+29/08 15:51:40:204 Total 0 instances are started
+29/08 15:51:40:205 Total 1 instances are added
+29/08 15:52:11:815 MCA started
+29/08 15:52:15:496 Testing connection ...
+29/08 15:52:36:525 open connection is fail
+29/08 15:52:36:540 java.net.ConnectException: Connection timed out: connect
+29/08 15:52:36:541 Starting process session
+29/08 15:52:36:642 Total 0 instances are started
+29/08 15:52:36:644 Total 1 instances are added
+29/08 15:54:03:611 MCA started
+29/08 15:54:07:821 Testing connection ...
+29/08 15:54:28:832 open connection is fail
+29/08 15:54:28:847 java.net.ConnectException: Connection timed out: connect
+29/08 15:54:28:847 Starting process session
+29/08 15:54:28:948 Total 0 instances are started
+29/08 15:54:28:949 Total 1 instances are added
+29/08 16:12:18:964 MCA started
+29/08 16:12:23:298 Testing connection ...
+29/08 16:12:44:329 open connection is fail
+29/08 16:12:44:338 java.net.ConnectException: Connection timed out: connect
+29/08 16:12:44:339 Starting process session
+29/08 16:12:44:439 Total 0 instances are started
+29/08 16:12:44:440 Total 1 instances are added
+29/08 16:17:04:043 MCA started
+29/08 16:17:08:133 Testing connection ...
+29/08 16:17:29:162 open connection is fail
+29/08 16:17:29:177 java.net.ConnectException: Connection timed out: connect
+29/08 16:17:29:178 Starting process session
+29/08 16:17:29:279 Total 0 instances are started
+29/08 16:17:29:279 Total 1 instances are added
+29/08 16:21:38:895 MCA started
+29/08 16:21:43:008 Testing connection ...
+29/08 16:22:04:020 open connection is fail
+29/08 16:22:04:027 java.net.ConnectException: Connection timed out: connect
+29/08 16:22:04:028 Starting process session
+29/08 16:22:04:129 Total 0 instances are started
+29/08 16:22:04:130 Total 1 instances are added
+29/08 16:25:19:669 MCA started
+29/08 16:25:23:516 Testing connection ...
+29/08 16:25:44:542 open connection is fail
+29/08 16:25:44:557 java.net.ConnectException: Connection timed out: connect
+29/08 16:25:44:558 Starting process session
+29/08 16:25:44:659 Total 0 instances are started
+29/08 16:25:44:695 Total 1 instances are added
+29/08 16:26:13:664 MCA started
+29/08 16:26:17:821 Testing connection ...
+29/08 16:26:38:843 open connection is fail
+29/08 16:26:38:858 java.net.ConnectException: Connection timed out: connect
+29/08 16:26:38:858 Starting process session
+29/08 16:26:38:959 Total 0 instances are started
+29/08 16:26:38:960 Total 1 instances are added
+29/08 16:28:45:173 MCA started
+29/08 16:28:49:450 Testing connection ...
+29/08 16:29:10:479 open connection is fail
+29/08 16:29:10:487 java.net.ConnectException: Connection timed out: connect
+29/08 16:29:10:488 Starting process session
+29/08 16:29:10:588 Total 0 instances are started
+29/08 16:29:10:589 Total 1 instances are added
+29/08 16:35:17:902 MCA started
+29/08 16:35:21:959 Testing connection ...
+29/08 16:35:42:977 open connection is fail
+29/08 16:35:42:992 java.net.ConnectException: Connection timed out: connect
+29/08 16:35:42:994 Starting process session
+29/08 16:35:43:100 Total 0 instances are started
+29/08 16:35:43:102 Total 1 instances are added
+29/08 16:37:56:112 MCA started
+29/08 16:37:59:536 Testing connection ...
+29/08 16:38:20:552 open connection is fail
+29/08 16:38:20:564 java.net.ConnectException: Connection timed out: connect
+29/08 16:38:20:564 Starting process session
+29/08 16:38:20:665 Total 0 instances are started
+29/08 16:38:20:668 Total 1 instances are added
+29/08 16:49:09:818 MCA started
+29/08 16:49:11:593 Testing connection ...
+29/08 16:49:32:618 open connection is fail
+29/08 16:49:32:633 java.net.ConnectException: Connection timed out: connect
+29/08 16:49:32:634 Starting process session
+29/08 16:49:32:735 Total 0 instances are started
+29/08 16:49:32:737 Total 1 instances are added
+29/08 17:04:21:787 MCA started
+29/08 17:04:24:085 Testing connection ...
+29/08 17:04:45:309 open connection is fail
+29/08 17:04:45:324 java.net.ConnectException: Connection timed out: connect
+29/08 17:04:45:325 Starting process session
+29/08 17:04:45:426 Total 0 instances are started
+29/08 17:04:45:427 Total 1 instances are added
+29/08 17:08:37:733 MCA started
+29/08 17:08:41:850 Testing connection ...
+29/08 17:09:02:869 open connection is fail
+29/08 17:09:02:945 java.net.ConnectException: Connection timed out: connect
+29/08 17:09:02:948 Starting process session
+29/08 17:09:03:050 Total 0 instances are started
+29/08 17:09:03:073 Total 1 instances are added
+29/08 17:24:02:486 MCA started
+29/08 17:24:06:395 Testing connection ...
+29/08 17:24:27:401 open connection is fail
+29/08 17:24:27:424 java.net.ConnectException: Connection timed out: connect
+29/08 17:24:27:425 Starting process session
+29/08 17:24:27:526 Total 0 instances are started
+29/08 17:24:27:527 Total 1 instances are added
+29/08 17:43:23:943 MCA started
+29/08 17:43:26:862 Testing connection ...
+29/08 17:43:47:963 open connection is fail
+29/08 17:43:47:976 java.net.ConnectException: Connection timed out: connect
+29/08 17:43:47:977 Starting process session
+29/08 17:43:48:077 Total 0 instances are started
+29/08 17:43:48:078 Total 1 instances are added
+29/08 17:50:01:514 MCA started
+29/08 17:50:05:748 Testing connection ...
+29/08 17:50:26:771 open connection is fail
+29/08 17:50:26:779 java.net.ConnectException: Connection timed out: connect
+29/08 17:50:26:780 Starting process session
+29/08 17:50:26:881 Total 0 instances are started
+29/08 17:50:26:882 Total 1 instances are added
+29/08 18:06:21:490 MCA started
+29/08 18:06:25:346 Testing connection ...
+29/08 18:06:46:343 open connection is fail
+29/08 18:06:46:354 java.net.ConnectException: Connection timed out: connect
+29/08 18:06:46:354 Starting process session
+29/08 18:06:46:455 Total 0 instances are started
+29/08 18:06:46:456 Total 1 instances are added
+29/08 18:13:37:641 MCA started
+29/08 18:13:41:576 Testing connection ...
+29/08 18:14:02:582 open connection is fail
+29/08 18:14:02:598 java.net.ConnectException: Connection timed out: connect
+29/08 18:14:02:599 Starting process session
+29/08 18:14:02:700 Total 0 instances are started
+29/08 18:14:02:700 Total 1 instances are added

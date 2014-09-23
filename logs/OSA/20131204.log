@@ -1,0 +1,962 @@
+04/12 13:40:08:094 OSA started
+04/12 13:40:08:120 Testing connection ...
+04/12 13:40:08:177 Created provisioning instance for OSA
+04/12 13:40:08:180 Testing connection are success
+04/12 13:40:08:183 Starting process session
+04/12 13:40:09:045 Total 0 instances are started
+04/12 13:40:09:045 Init queue connection pool 1386139209045
+04/12 13:40:09:050 Total 1 instances are added
+04/12 14:50:55:257 OSA started
+04/12 14:50:55:276 Testing connection ...
+04/12 14:50:55:324 Created provisioning instance for OSA
+04/12 14:50:55:327 Testing connection are success
+04/12 14:50:55:329 Starting process session
+04/12 14:50:57:826 Total 0 instances are started
+04/12 14:50:57:826 Init queue connection pool 1386143457826
+04/12 14:50:57:831 Total 1 instances are added
+04/12 16:00:05:420 OSA started
+04/12 16:00:05:449 Testing connection ...
+04/12 16:00:05:512 Created provisioning instance for OSA
+04/12 16:00:05:516 Testing connection are success
+04/12 16:00:05:519 Starting process session
+04/12 16:00:06:425 Total 0 instances are started
+04/12 16:00:06:425 Init queue connection pool 1386147606425
+04/12 16:00:06:431 Total 1 instances are added
+04/12 16:00:06:517 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:00:06:848 Total 0 instances are started
+04/12 16:00:06:863 Total 1 instances are added
+04/12 16:00:06:875 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:00:07:277 Total 0 instances are started
+04/12 16:00:07:286 Total 1 instances are added
+04/12 16:00:07:289 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:00:07:694 Total 0 instances are started
+04/12 16:00:07:700 Total 1 instances are added
+04/12 16:00:07:722 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:00:08:113 Total 0 instances are started
+04/12 16:00:08:118 Total 1 instances are added
+04/12 16:00:08:120 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:00:08:524 Total 0 instances are started
+04/12 16:00:08:537 Total 1 instances are added
+04/12 16:00:08:541 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:00:08:948 Total 0 instances are started
+04/12 16:00:08:957 Total 1 instances are added
+04/12 16:00:08:963 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:00:09:369 Total 0 instances are started
+04/12 16:00:09:378 Total 1 instances are added
+04/12 16:00:09:381 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:00:09:788 Total 0 instances are started
+04/12 16:00:09:797 Total 1 instances are added
+04/12 16:00:09:802 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:00:10:209 Total 0 instances are started
+04/12 16:00:10:219 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:00:10:263 Total 1 instances are added
+04/12 16:00:10:673 Total 0 instances are started
+04/12 16:00:10:682 Total 1 instances are added
+04/12 16:00:10:700 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:00:11:097 Total 0 instances are started
+04/12 16:00:11:105 Total 1 instances are added
+04/12 16:00:11:110 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:00:11:518 Total 0 instances are started
+04/12 16:00:11:525 Total 1 instances are added
+04/12 16:00:11:546 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:00:11:935 Total 0 instances are started
+04/12 16:00:11:947 Total 1 instances are added
+04/12 16:00:11:951 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:00:12:355 Total 0 instances are started
+04/12 16:00:12:364 Total 1 instances are added
+04/12 16:00:12:371 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:00:12:774 Total 0 instances are started
+04/12 16:00:12:783 Total 1 instances are added
+04/12 16:00:12:787 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:00:13:191 Total 0 instances are started
+04/12 16:00:13:200 Total 1 instances are added
+04/12 16:00:13:203 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:00:13:609 Total 0 instances are started
+04/12 16:00:13:619 Total 1 instances are added
+04/12 16:00:13:621 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:00:14:027 Total 0 instances are started
+04/12 16:00:14:036 Total 1 instances are added
+04/12 16:00:14:040 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:00:14:442 Total 0 instances are started
+04/12 16:00:14:448 Total 1 instances are added
+04/12 16:00:14:450 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:00:14:853 Total 0 instances are started
+04/12 16:00:14:862 Total 1 instances are added
+04/12 16:00:14:864 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:00:15:269 Total 0 instances are started
+04/12 16:00:15:277 Total 1 instances are added
+04/12 16:00:15:281 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:00:15:686 Total 0 instances are started
+04/12 16:00:15:695 Total 1 instances are added
+04/12 16:00:15:698 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:00:16:104 Total 0 instances are started
+04/12 16:00:16:113 Total 1 instances are added
+04/12 16:00:16:116 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:00:16:520 Total 0 instances are started
+04/12 16:00:16:531 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:00:16:531 Total 1 instances are added
+04/12 16:00:16:946 Total 0 instances are started
+04/12 16:00:16:954 Total 1 instances are added
+04/12 16:00:16:958 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:00:17:366 Total 0 instances are started
+04/12 16:00:17:373 Total 1 instances are added
+04/12 16:00:17:391 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:00:17:779 Total 0 instances are started
+04/12 16:00:17:790 Total 1 instances are added
+04/12 16:00:17:792 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:00:18:201 Total 0 instances are started
+04/12 16:00:18:217 Total 1 instances are added
+04/12 16:00:18:223 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:00:18:626 Total 0 instances are started
+04/12 16:00:18:640 Total 1 instances are added
+04/12 16:00:18:644 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:00:19:047 Total 0 instances are started
+04/12 16:00:19:057 Total 1 instances are added
+04/12 16:00:19:060 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:00:19:466 Total 0 instances are started
+04/12 16:00:19:477 Total 1 instances are added
+04/12 16:00:19:478 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:00:19:885 Total 0 instances are started
+04/12 16:00:19:894 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:00:19:894 Total 1 instances are added
+04/12 16:00:20:310 Total 0 instances are started
+04/12 16:00:20:318 Total 1 instances are added
+04/12 16:00:20:322 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:00:20:727 Total 0 instances are started
+04/12 16:00:20:737 Total 1 instances are added
+04/12 16:00:20:738 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:00:21:144 Total 0 instances are started
+04/12 16:00:21:154 Total 1 instances are added
+04/12 16:00:21:154 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:00:21:562 Total 0 instances are started
+04/12 16:00:21:571 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:00:21:572 Total 1 instances are added
+04/12 16:00:21:986 Total 0 instances are started
+04/12 16:00:21:998 Total 1 instances are added
+04/12 16:00:22:000 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:00:22:406 Total 0 instances are started
+04/12 16:00:22:411 Total 1 instances are added
+04/12 16:00:22:413 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:00:22:816 Total 0 instances are started
+04/12 16:00:22:824 Total 1 instances are added
+04/12 16:00:22:828 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:00:23:233 Total 0 instances are started
+04/12 16:00:23:250 Total 1 instances are added
+04/12 16:00:23:262 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:00:23:655 Total 0 instances are started
+04/12 16:00:23:659 Total 1 instances are added
+04/12 16:00:23:662 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:00:24:064 Total 0 instances are started
+04/12 16:00:24:074 Total 1 instances are added
+04/12 16:00:24:076 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:00:24:483 Total 0 instances are started
+04/12 16:00:24:489 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:00:24:490 Total 1 instances are added
+04/12 16:00:24:897 Total 0 instances are started
+04/12 16:00:24:909 Total 1 instances are added
+04/12 16:00:24:913 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:00:25:317 Total 0 instances are started
+04/12 16:00:25:329 Total 1 instances are added
+04/12 16:00:25:336 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:00:25:736 Total 0 instances are started
+04/12 16:00:25:745 Total 1 instances are added
+04/12 16:00:25:746 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:00:26:154 Total 0 instances are started
+04/12 16:00:26:164 Total 1 instances are added
+04/12 16:00:26:166 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:00:26:572 Total 0 instances are started
+04/12 16:00:26:580 Total 1 instances are added
+04/12 16:00:26:584 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:00:26:990 Total 0 instances are started
+04/12 16:00:26:994 Total 1 instances are added
+04/12 16:00:26:995 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:00:27:399 Total 0 instances are started
+04/12 16:00:27:409 Total 1 instances are added
+04/12 16:00:27:410 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:00:27:816 Total 0 instances are started
+04/12 16:00:27:826 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:00:27:830 Total 1 instances are added
+04/12 16:00:28:245 Total 0 instances are started
+04/12 16:00:28:255 Total 1 instances are added
+04/12 16:00:28:257 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:00:28:663 Total 0 instances are started
+04/12 16:00:28:673 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:00:28:673 Total 1 instances are added
+04/12 16:00:29:081 Total 0 instances are started
+04/12 16:00:29:090 Total 1 instances are added
+04/12 16:00:29:093 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:00:29:499 Total 0 instances are started
+04/12 16:00:29:507 Total 1 instances are added
+04/12 16:00:29:518 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:00:29:910 Total 0 instances are started
+04/12 16:00:29:920 Total 1 instances are added
+04/12 16:00:29:920 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:00:30:329 Total 0 instances are started
+04/12 16:00:30:338 Total 1 instances are added
+04/12 16:00:30:340 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:00:30:747 Total 0 instances are started
+04/12 16:00:30:753 Total 1 instances are added
+04/12 16:00:30:755 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:00:31:159 Total 0 instances are started
+04/12 16:00:31:164 Total 1 instances are added
+04/12 16:00:31:167 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:00:31:570 Total 0 instances are started
+04/12 16:00:31:579 Total 1 instances are added
+04/12 16:00:31:581 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:00:31:983 Total 0 instances are started
+04/12 16:00:32:002 Total 1 instances are added
+04/12 16:00:32:004 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:00:32:408 Total 0 instances are started
+04/12 16:00:32:421 Total 1 instances are added
+04/12 16:00:32:422 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:00:32:828 Total 0 instances are started
+04/12 16:00:32:837 Total 1 instances are added
+04/12 16:00:32:839 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:00:33:244 Total 0 instances are started
+04/12 16:00:33:255 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:00:33:256 Total 1 instances are added
+04/12 16:00:33:669 Total 0 instances are started
+04/12 16:00:33:684 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:00:33:685 Total 1 instances are added
+04/12 16:00:34:096 Total 0 instances are started
+04/12 16:00:34:107 Total 1 instances are added
+04/12 16:00:34:110 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:00:34:513 Total 0 instances are started
+04/12 16:00:34:518 Total 1 instances are added
+04/12 16:00:34:519 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:00:34:923 Total 0 instances are started
+04/12 16:00:34:932 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:00:34:933 Total 1 instances are added
+04/12 16:00:35:347 Total 0 instances are started
+04/12 16:00:35:370 Total 1 instances are added
+04/12 16:00:35:389 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:00:35:778 Total 0 instances are started
+04/12 16:00:35:788 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:00:35:788 Total 1 instances are added
+04/12 16:00:36:196 Total 0 instances are started
+04/12 16:00:36:207 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:00:36:207 Total 1 instances are added
+04/12 16:00:36:622 Total 0 instances are started
+04/12 16:00:36:628 Total 1 instances are added
+04/12 16:00:36:628 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:00:37:032 Total 0 instances are started
+04/12 16:00:37:051 Total 1 instances are added
+04/12 16:00:37:048 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:00:37:457 Total 0 instances are started
+04/12 16:00:37:462 Total 1 instances are added
+04/12 16:00:37:463 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:00:37:866 Total 0 instances are started
+04/12 16:00:37:876 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:00:37:881 Total 1 instances are added
+04/12 16:00:38:292 Total 0 instances are started
+04/12 16:00:38:303 Total 1 instances are added
+04/12 16:00:38:307 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:00:38:712 Total 0 instances are started
+04/12 16:00:38:725 Total 1 instances are added
+04/12 16:00:38:729 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:00:39:134 Total 0 instances are started
+04/12 16:00:39:145 Total 1 instances are added
+04/12 16:00:39:145 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:00:39:553 Total 0 instances are started
+04/12 16:00:39:558 Total 1 instances are added
+04/12 16:00:39:560 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:00:39:963 Total 0 instances are started
+04/12 16:00:39:973 Total 1 instances are added
+04/12 16:00:39:975 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:00:40:384 Total 0 instances are started
+04/12 16:00:40:391 Total 1 instances are added
+04/12 16:00:40:392 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:00:40:796 Total 0 instances are started
+04/12 16:00:40:803 Total 1 instances are added
+04/12 16:00:40:804 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:00:41:208 Total 0 instances are started
+04/12 16:00:41:213 Total 1 instances are added
+04/12 16:00:41:215 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:00:41:618 Total 0 instances are started
+04/12 16:00:41:623 Total 1 instances are added
+04/12 16:00:41:625 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:00:42:027 Total 0 instances are started
+04/12 16:00:42:040 Total 1 instances are added
+04/12 16:00:42:060 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:00:42:449 Total 0 instances are started
+04/12 16:00:42:458 Total 1 instances are added
+04/12 16:00:42:461 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:00:42:866 Total 0 instances are started
+04/12 16:00:42:876 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:00:42:876 Total 1 instances are added
+04/12 16:00:43:284 Total 0 instances are started
+04/12 16:00:43:293 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:00:43:296 Total 1 instances are added
+04/12 16:00:43:703 Total 0 instances are started
+04/12 16:00:43:713 Total 1 instances are added
+04/12 16:00:43:713 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:00:44:120 Total 0 instances are started
+04/12 16:00:44:129 Total 1 instances are added
+04/12 16:00:44:130 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:00:44:534 Total 0 instances are started
+04/12 16:00:44:542 Total 1 instances are added
+04/12 16:00:44:545 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:00:44:953 Total 0 instances are started
+04/12 16:00:44:969 Total 1 instances are added
+04/12 16:00:44:972 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:00:45:375 Total 0 instances are started
+04/12 16:00:45:380 Total 1 instances are added
+04/12 16:00:45:382 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:00:45:784 Total 0 instances are started
+04/12 16:00:45:792 Total 1 instances are added
+04/12 16:00:45:795 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:00:46:200 Total 0 instances are started
+04/12 16:00:46:208 Total 1 instances are added
+04/12 16:00:46:211 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:00:46:616 Total 0 instances are started
+04/12 16:00:46:629 Total 1 instances are added
+04/12 16:00:46:631 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:00:47:037 Total 0 instances are started
+04/12 16:00:47:047 Total 1 instances are added
+04/12 16:00:47:048 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:00:47:454 Total 0 instances are started
+04/12 16:00:47:463 Total 1 instances are added
+04/12 16:00:47:464 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:00:47:870 Total 0 instances are started
+04/12 16:00:47:886 Total 1 instances are added
+04/12 16:00:47:906 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:00:48:297 Total 0 instances are started
+04/12 16:00:48:307 Total 1 instances are added
+04/12 16:00:48:308 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:00:48:714 Total 0 instances are started
+04/12 16:00:48:723 Total 1 instances are added
+04/12 16:00:48:725 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:00:49:130 Total 0 instances are started
+04/12 16:00:49:144 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:00:49:144 Total 1 instances are added
+04/12 16:00:49:559 Total 0 instances are started
+04/12 16:00:49:568 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:00:49:569 Total 1 instances are added
+04/12 16:00:49:982 Total 0 instances are started
+04/12 16:00:49:992 Total 1 instances are added
+04/12 16:00:49:993 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:00:50:400 Total 0 instances are started
+04/12 16:00:50:409 Total 1 instances are added
+04/12 16:00:50:411 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:00:50:817 Total 0 instances are started
+04/12 16:00:50:827 Total 1 instances are added
+04/12 16:00:50:829 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:00:51:239 Total 0 instances are started
+04/12 16:00:51:249 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:00:51:250 Total 1 instances are added
+04/12 16:00:51:666 Total 0 instances are started
+04/12 16:00:51:679 Total 1 instances are added
+04/12 16:00:51:685 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:00:52:086 Total 0 instances are started
+04/12 16:00:52:095 Total 1 instances are added
+04/12 16:00:52:096 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:00:52:502 Total 0 instances are started
+04/12 16:00:52:512 Total 1 instances are added
+04/12 16:00:52:513 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:00:52:920 Total 0 instances are started
+04/12 16:00:52:932 Total 1 instances are added
+04/12 16:00:52:935 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:00:53:339 Total 0 instances are started
+04/12 16:00:53:351 Total 1 instances are added
+04/12 16:00:53:355 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:00:53:760 Total 0 instances are started
+04/12 16:00:53:768 Total 1 instances are added
+04/12 16:00:53:801 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:00:54:190 Total 0 instances are started
+04/12 16:00:54:195 Total 1 instances are added
+04/12 16:00:54:195 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:00:54:599 Total 0 instances are started
+04/12 16:00:54:608 Total 1 instances are added
+04/12 16:00:54:609 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:00:55:017 Total 0 instances are started
+04/12 16:00:55:027 Total 1 instances are added
+04/12 16:00:55:028 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:00:55:434 Total 0 instances are started
+04/12 16:00:55:443 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:00:55:444 Total 1 instances are added
+04/12 16:00:55:857 Total 0 instances are started
+04/12 16:00:55:865 Total 1 instances are added
+04/12 16:00:55:868 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:00:56:274 Total 0 instances are started
+04/12 16:00:56:284 Total 1 instances are added
+04/12 16:00:56:284 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:00:56:691 Total 0 instances are started
+04/12 16:00:56:701 Total 1 instances are added
+04/12 16:00:56:702 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:00:57:109 Total 0 instances are started
+04/12 16:00:57:118 Total 1 instances are added
+04/12 16:00:57:119 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:00:57:526 Total 0 instances are started
+04/12 16:00:57:536 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:00:57:536 Total 1 instances are added
+04/12 16:00:57:950 Total 0 instances are started
+04/12 16:00:57:960 Total 1 instances are added
+04/12 16:00:57:961 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:00:58:371 Total 0 instances are started
+04/12 16:00:58:388 Total 1 instances are added
+04/12 16:00:58:391 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:00:58:795 Total 0 instances are started
+04/12 16:00:58:805 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:00:58:806 Total 1 instances are added
+04/12 16:00:59:220 Total 0 instances are started
+04/12 16:00:59:229 Total 1 instances are added
+04/12 16:00:59:230 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:00:59:638 Total 0 instances are started
+04/12 16:00:59:649 Total 1 instances are added
+04/12 16:00:59:649 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:01:00:056 Total 0 instances are started
+04/12 16:01:00:068 Total 1 instances are added
+04/12 16:01:00:076 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:01:00:477 Total 0 instances are started
+04/12 16:01:00:484 Total 1 instances are added
+04/12 16:01:00:505 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:01:00:893 Total 0 instances are started
+04/12 16:01:00:903 Total 1 instances are added
+04/12 16:01:00:904 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:01:01:311 Total 0 instances are started
+04/12 16:01:01:321 Total 1 instances are added
+04/12 16:01:01:321 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:01:01:733 Total 0 instances are started
+04/12 16:01:01:742 Total 1 instances are added
+04/12 16:01:01:743 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:01:02:149 Total 0 instances are started
+04/12 16:01:02:160 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:01:02:161 Total 1 instances are added
+04/12 16:01:02:577 Total 0 instances are started
+04/12 16:01:02:586 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:01:02:587 Total 1 instances are added
+04/12 16:01:03:003 Total 0 instances are started
+04/12 16:01:03:013 Total 1 instances are added
+04/12 16:01:03:013 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:01:03:420 Total 0 instances are started
+04/12 16:01:03:425 Total 1 instances are added
+04/12 16:01:03:427 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:01:03:830 Total 0 instances are started
+04/12 16:01:03:840 Total 1 instances are added
+04/12 16:01:03:840 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:01:04:247 Total 0 instances are started
+04/12 16:01:04:258 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:01:04:258 Total 1 instances are added
+04/12 16:01:04:673 Total 0 instances are started
+04/12 16:01:04:685 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:01:04:687 Total 1 instances are added
+04/12 16:01:05:104 Total 0 instances are started
+04/12 16:01:05:116 Total 1 instances are added
+04/12 16:01:05:119 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:01:05:523 Total 0 instances are started
+04/12 16:01:05:532 Total 1 instances are added
+04/12 16:01:05:533 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:01:05:940 Total 0 instances are started
+04/12 16:01:05:949 Total 1 instances are added
+04/12 16:01:05:950 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:01:06:357 Total 0 instances are started
+04/12 16:01:06:365 Total 1 instances are added
+04/12 16:01:06:392 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:01:06:774 Total 0 instances are started
+04/12 16:01:06:781 Total 1 instances are added
+04/12 16:01:06:784 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:01:07:188 Total 0 instances are started
+04/12 16:01:07:194 Total 1 instances are added
+04/12 16:01:07:195 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:01:07:599 Total 0 instances are started
+04/12 16:01:07:609 Total 1 instances are added
+04/12 16:01:07:609 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:01:08:016 Total 0 instances are started
+04/12 16:01:08:025 Total 1 instances are added
+04/12 16:01:08:026 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:01:08:433 Total 0 instances are started
+04/12 16:01:08:444 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:01:08:444 Total 1 instances are added
+04/12 16:01:08:856 Total 0 instances are started
+04/12 16:01:08:870 Total 1 instances are added
+04/12 16:01:08:871 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:01:09:278 Total 0 instances are started
+04/12 16:01:09:285 Total 1 instances are added
+04/12 16:01:09:287 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:01:09:694 Total 0 instances are started
+04/12 16:01:09:704 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:01:09:704 Total 1 instances are added
+04/12 16:01:10:116 Total 0 instances are started
+04/12 16:01:10:125 Total 1 instances are added
+04/12 16:01:10:127 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:01:10:534 Total 0 instances are started
+04/12 16:01:10:543 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:01:10:543 Total 1 instances are added
+04/12 16:01:10:957 Total 0 instances are started
+04/12 16:01:10:967 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:01:10:967 Total 1 instances are added
+04/12 16:01:11:381 Total 0 instances are started
+04/12 16:01:11:389 Total 1 instances are added
+04/12 16:01:11:392 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:01:11:800 Total 0 instances are started
+04/12 16:01:11:815 Total 1 instances are added
+04/12 16:01:11:819 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:01:12:222 Total 0 instances are started
+04/12 16:01:12:233 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:01:12:235 Total 1 instances are added
+04/12 16:01:12:644 Total 0 instances are started
+04/12 16:01:12:654 Total 1 instances are added
+04/12 16:01:12:654 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:01:13:063 Total 0 instances are started
+04/12 16:01:13:068 Total 1 instances are added
+04/12 16:01:13:082 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:01:13:472 Total 0 instances are started
+04/12 16:01:13:483 Total 1 instances are added
+04/12 16:01:13:486 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:01:13:892 Total 0 instances are started
+04/12 16:01:13:898 Total 1 instances are added
+04/12 16:01:13:900 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:01:14:301 Total 0 instances are started
+04/12 16:01:14:311 Total 1 instances are added
+04/12 16:01:14:311 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:01:14:718 Total 0 instances are started
+04/12 16:01:14:729 Total 1 instances are added
+04/12 16:01:14:732 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:01:15:137 Total 0 instances are started
+04/12 16:01:15:147 Total 1 instances are added
+04/12 16:01:15:147 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:01:15:554 Total 0 instances are started
+04/12 16:01:15:565 Total 1 instances are added
+04/12 16:01:15:566 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:01:15:970 Total 0 instances are started
+04/12 16:01:15:978 Total 1 instances are added
+04/12 16:01:15:979 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:01:16:384 Total 0 instances are started
+04/12 16:01:16:394 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:01:16:444 Total 1 instances are added
+04/12 16:01:16:857 Total 0 instances are started
+04/12 16:01:16:869 Total 1 instances are added
+04/12 16:01:16:871 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:01:17:277 Total 0 instances are started
+04/12 16:01:17:286 Total 1 instances are added
+04/12 16:01:17:295 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:01:17:696 Total 0 instances are started
+04/12 16:01:17:706 Total 1 instances are added
+04/12 16:01:17:707 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:01:18:112 Total 0 instances are started
+04/12 16:01:18:121 Total 1 instances are added
+04/12 16:01:18:123 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:01:18:533 Total 0 instances are started
+04/12 16:01:18:546 Total 1 instances are added
+04/12 16:01:18:548 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:01:18:953 Total 0 instances are started
+04/12 16:01:18:962 Total 1 instances are added
+04/12 16:01:18:981 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:01:19:370 Total 0 instances are started
+04/12 16:01:19:379 Total 1 instances are added
+04/12 16:01:19:380 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:01:19:786 Total 0 instances are started
+04/12 16:01:19:795 Total 1 instances are added
+04/12 16:01:19:797 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:01:20:202 Total 0 instances are started
+04/12 16:01:20:213 Total 1 instances are added
+04/12 16:01:20:215 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:01:20:621 Total 0 instances are started
+04/12 16:01:20:630 Total 1 instances are added
+04/12 16:01:20:631 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:01:21:037 Total 0 instances are started
+04/12 16:01:21:047 Total 1 instances are added
+04/12 16:01:21:047 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:01:21:454 Total 0 instances are started
+04/12 16:01:21:464 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:01:21:464 Total 1 instances are added
+04/12 16:01:21:879 Total 0 instances are started
+04/12 16:01:21:889 Total 1 instances are added
+04/12 16:01:21:889 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:01:22:296 Total 0 instances are started
+04/12 16:01:22:301 Total 1 instances are added
+04/12 16:01:22:303 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:01:22:707 Total 0 instances are started
+04/12 16:01:22:717 Total 1 instances are added
+04/12 16:01:22:717 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:01:23:124 Total 0 instances are started
+04/12 16:01:23:135 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:01:23:136 Total 1 instances are added
+04/12 16:01:23:549 Total 0 instances are started
+04/12 16:01:23:557 Total 1 instances are added
+04/12 16:01:23:559 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:01:23:965 Total 0 instances are started
+04/12 16:01:23:975 Total 1 instances are added
+04/12 16:01:23:975 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:01:24:382 Total 0 instances are started
+04/12 16:01:24:388 Total 1 instances are added
+04/12 16:01:24:389 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:01:24:792 Total 0 instances are started
+04/12 16:01:24:800 Total 1 instances are added
+04/12 16:01:24:810 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:01:25:204 Total 0 instances are started
+04/12 16:01:25:217 Total 1 instances are added
+04/12 16:01:25:220 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:01:25:624 Total 0 instances are started
+04/12 16:01:25:635 Total 1 instances are added
+04/12 16:01:25:637 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:01:26:044 Total 0 instances are started
+04/12 16:01:26:058 Total 1 instances are added
+04/12 16:01:26:058 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:01:26:466 Total 0 instances are started
+04/12 16:01:26:476 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:01:26:476 Total 1 instances are added
+04/12 16:01:26:889 Total 0 instances are started
+04/12 16:01:26:900 Total 1 instances are added
+04/12 16:01:26:903 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:01:27:311 Total 0 instances are started
+04/12 16:01:27:323 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:01:27:324 Total 1 instances are added
+04/12 16:01:27:731 Total 0 instances are started
+04/12 16:01:27:740 Total 1 instances are added
+04/12 16:01:27:740 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:01:28:147 Total 0 instances are started
+04/12 16:01:28:157 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:01:28:157 Total 1 instances are added
+04/12 16:01:28:572 Total 0 instances are started
+04/12 16:01:28:581 Total 1 instances are added
+04/12 16:01:28:581 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:01:28:988 Total 0 instances are started
+04/12 16:01:29:000 Total 1 instances are added
+04/12 16:01:29:000 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:01:29:409 Total 0 instances are started
+04/12 16:01:29:418 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:01:29:419 Total 1 instances are added
+04/12 16:01:29:830 Total 0 instances are started
+04/12 16:01:29:837 Total 1 instances are added
+04/12 16:01:29:837 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:01:30:241 Total 0 instances are started
+04/12 16:01:30:250 Total 1 instances are added
+04/12 16:01:30:251 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:01:30:659 Total 0 instances are started
+04/12 16:01:30:669 Total 1 instances are added
+04/12 16:01:30:670 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:01:31:076 Total 0 instances are started
+04/12 16:01:31:086 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:01:31:086 Total 1 instances are added
+04/12 16:01:31:509 Total 0 instances are started
+04/12 16:01:31:519 Total 1 instances are added
+04/12 16:01:31:520 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:01:31:927 Total 0 instances are started
+04/12 16:01:31:940 Total 1 instances are added
+04/12 16:01:31:943 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:01:32:347 Total 0 instances are started
+04/12 16:01:32:356 Total 1 instances are added
+04/12 16:01:32:358 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:01:32:765 Total 0 instances are started
+04/12 16:01:32:778 Total 1 instances are added
+04/12 16:01:32:780 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:01:33:186 Total 0 instances are started
+04/12 16:01:33:196 Total 1 instances are added
+04/12 16:01:33:199 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:01:33:605 Total 0 instances are started
+04/12 16:01:33:615 Total 1 instances are added
+04/12 16:01:33:618 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:01:34:024 Total 0 instances are started
+04/12 16:01:34:031 Total 1 instances are added
+04/12 16:01:34:032 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:01:34:435 Total 0 instances are started
+04/12 16:01:34:441 Total 1 instances are added
+04/12 16:01:34:444 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:01:34:847 Total 0 instances are started
+04/12 16:01:34:855 Total 1 instances are added
+04/12 16:01:34:858 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:01:35:264 Total 0 instances are started
+04/12 16:01:35:270 Total 1 instances are added
+04/12 16:01:35:271 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:01:35:674 Total 0 instances are started
+04/12 16:01:35:686 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:01:35:686 Total 1 instances are added
+04/12 16:01:36:099 Total 0 instances are started
+04/12 16:01:36:108 Total 1 instances are added
+04/12 16:01:36:109 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:01:36:516 Total 0 instances are started
+04/12 16:01:36:528 Total 1 instances are added
+04/12 16:01:36:531 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:01:36:935 Total 0 instances are started
+04/12 16:01:36:949 Total 1 instances are added
+04/12 16:01:36:952 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:01:37:358 Total 0 instances are started
+04/12 16:01:37:365 Total 1 instances are added
+04/12 16:01:37:384 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:01:37:772 Total 0 instances are started
+04/12 16:01:37:782 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:01:37:782 Total 1 instances are added
+04/12 16:01:38:196 Total 0 instances are started
+04/12 16:01:38:206 Total 1 instances are added
+04/12 16:01:38:207 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:01:38:614 Total 0 instances are started
+04/12 16:01:38:625 Total 1 instances are added
+04/12 16:01:38:628 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:01:39:032 Total 0 instances are started
+04/12 16:01:39:042 Total 1 instances are added
+04/12 16:01:39:041 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:01:39:449 Total 0 instances are started
+04/12 16:01:39:454 Total 1 instances are added
+04/12 16:01:39:456 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:01:39:857 Total 0 instances are started
+04/12 16:01:39:868 Total 1 instances are added
+04/12 16:01:39:868 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:01:40:275 Total 0 instances are started
+04/12 16:01:40:286 Total 1 instances are added
+04/12 16:01:40:290 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:01:40:695 Total 0 instances are started
+04/12 16:01:40:705 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:01:40:705 Total 1 instances are added
+04/12 16:01:41:119 Total 0 instances are started
+04/12 16:01:41:129 Total 1 instances are added
+04/12 16:01:41:131 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:01:41:537 Total 0 instances are started
+04/12 16:01:41:545 Total 1 instances are added
+04/12 16:01:41:545 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:01:41:954 Total 0 instances are started
+04/12 16:01:41:963 Total 1 instances are added
+04/12 16:01:41:964 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:01:42:370 Total 0 instances are started
+04/12 16:01:42:383 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:01:42:383 Total 1 instances are added
+04/12 16:01:42:800 Total 0 instances are started
+04/12 16:01:42:810 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:01:42:810 Total 1 instances are added
+04/12 16:01:43:223 Total 0 instances are started
+04/12 16:01:43:229 Total 1 instances are added
+04/12 16:01:43:233 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:01:43:633 Total 0 instances are started
+04/12 16:01:43:639 Total 1 instances are added
+04/12 16:01:43:640 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:01:44:044 Total 0 instances are started
+04/12 16:01:44:048 Total 1 instances are added
+04/12 16:01:44:062 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback
+04/12 16:01:44:452 Total 0 instances are started
+04/12 16:01:44:464 Total 1 instances are added
+04/12 16:01:44:465 queue-not-found
+Context: vas/CommandCallback : vas/CommandCallback

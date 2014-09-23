@@ -1,0 +1,120 @@
+16/09 08:49:31:169 Order Routing started
+16/09 08:49:41:081 Testing connection ...
+16/09 08:50:01:898 Created provisioning instance for CCWS
+16/09 08:50:01:955 Testing connection are success
+16/09 08:50:01:955 Starting process session
+16/09 08:50:02:881 Total 0 instances are started
+16/09 08:50:02:882 Total 1 instances are added
+16/09 09:07:17:757 Order Routing started
+16/09 09:07:22:065 Testing connection ...
+16/09 09:07:23:018 Created provisioning instance for CCWS
+16/09 09:07:23:018 Testing connection are success
+16/09 09:07:23:019 Starting process session
+16/09 09:07:24:334 Total 0 instances are started
+16/09 09:07:24:336 Total 1 instances are added
+16/09 09:10:45:377 Order Routing started
+16/09 09:10:49:938 Testing connection ...
+16/09 09:10:50:953 Created provisioning instance for CCWS
+16/09 09:10:50:953 Testing connection are success
+16/09 09:10:50:954 Starting process session
+16/09 09:10:52:010 Total 0 instances are started
+16/09 09:10:52:011 Total 1 instances are added
+16/09 09:25:05:502 Close pool
+16/09 09:25:05:603 Close queue connection pool.
+16/09 09:25:05:609 End of process session
+16/09 09:25:05:610 Order Routing stopped
+16/09 09:25:07:520 Order Routing started
+16/09 09:25:07:542 Close pool
+16/09 09:25:07:543 Close pool
+16/09 09:25:07:544 Testing connection ...
+16/09 09:25:07:579 Created provisioning instance for CCWS
+16/09 09:25:07:580 Testing connection are success
+16/09 09:25:07:581 Starting process session
+16/09 09:25:08:355 Total 0 instances are started
+16/09 09:25:08:356 Total 1 instances are added
+16/09 09:25:56:307 Order Routing started
+16/09 09:26:31:286 Testing connection ...
+16/09 09:26:32:046 Created provisioning instance for CCWS
+16/09 09:26:32:047 Testing connection are success
+16/09 09:26:32:047 Starting process session
+16/09 09:26:42:941 java.sql.SQLException: An SQLException was provoked by the following failure: java.lang.InterruptedException
+16/09 09:26:42:942 Close pool
+16/09 09:26:42:942 End of process session
+16/09 09:26:52:952 Close pool
+16/09 09:26:52:953 Close pool
+16/09 09:26:52:953 Testing connection ...
+16/09 09:26:52:961 Created provisioning instance for CCWS
+16/09 09:26:52:963 Testing connection are success
+16/09 09:26:52:964 Starting process session
+16/09 09:26:53:864 Total 0 instances are started
+16/09 09:26:53:865 Total 1 instances are added
+16/09 09:37:11:444 Order Routing started
+16/09 09:37:15:399 Testing connection ...
+16/09 09:37:16:297 Created provisioning instance for CCWS
+16/09 09:37:16:299 Testing connection are success
+16/09 09:37:16:299 Starting process session
+16/09 09:37:17:828 Total 0 instances are started
+16/09 09:37:17:829 Total 1 instances are added
+16/09 09:38:40:882 Order Routing started
+16/09 09:38:45:253 Testing connection ...
+16/09 09:38:45:989 Created provisioning instance for CCWS
+16/09 09:38:45:994 Testing connection are success
+16/09 09:38:45:996 Starting process session
+16/09 09:38:47:615 Total 0 instances are started
+16/09 09:38:47:615 Total 1 instances are added
+16/09 09:39:56:688 Order Routing started
+16/09 09:40:01:302 Testing connection ...
+16/09 09:40:02:285 Created provisioning instance for CCWS
+16/09 09:40:02:286 Testing connection are success
+16/09 09:40:02:286 Starting process session
+16/09 09:40:04:127 Total 0 instances are started
+16/09 09:40:04:128 Total 1 instances are added
+16/09 09:51:19:387 Order Routing started
+16/09 09:51:24:978 Testing connection ...
+16/09 09:51:25:620 Created provisioning instance for CCWS
+16/09 09:51:25:620 Testing connection are success
+16/09 09:51:25:621 Starting process session
+16/09 09:51:27:464 Total 0 instances are started
+16/09 09:51:27:465 Total 1 instances are added
+16/09 09:53:13:401 Order Routing started
+16/09 09:53:18:186 Testing connection ...
+16/09 09:53:19:208 Created provisioning instance for CCWS
+16/09 09:53:19:209 Testing connection are success
+16/09 09:53:19:211 Starting process session
+16/09 09:53:20:585 Total 0 instances are started
+16/09 09:53:20:586 Total 1 instances are added
+16/09 10:03:29:977 Order Routing started
+16/09 10:03:34:321 Testing connection ...
+16/09 10:03:35:254 Created provisioning instance for CCWS
+16/09 10:03:35:255 Testing connection are success
+16/09 10:03:35:256 Starting process session
+16/09 10:03:36:613 Total 0 instances are started
+16/09 10:03:36:613 Total 1 instances are added
+16/09 10:06:45:711 Order Routing started
+16/09 10:06:50:124 Testing connection ...
+16/09 10:06:51:176 Created provisioning instance for CCWS
+16/09 10:06:51:178 Testing connection are success
+16/09 10:06:51:179 Starting process session
+16/09 10:06:52:965 Total 0 instances are started
+16/09 10:06:52:966 Total 1 instances are added
+16/09 10:17:44:083 Order Routing started
+16/09 10:17:48:429 Testing connection ...
+16/09 10:17:49:412 Created provisioning instance for CCWS
+16/09 10:17:49:414 Testing connection are success
+16/09 10:17:49:414 Starting process session
+16/09 10:17:51:109 Total 0 instances are started
+16/09 10:17:51:110 Total 1 instances are added
+16/09 11:29:40:182 Order Routing started
+16/09 11:29:42:085 Testing connection ...
+16/09 11:29:42:832 Created provisioning instance for CCWS
+16/09 11:29:42:834 Testing connection are success
+16/09 11:29:42:835 Starting process session
+16/09 11:29:44:594 Total 0 instances are started
+16/09 11:29:44:595 Total 1 instances are added
+16/09 11:44:19:733 Order Routing started
+16/09 11:44:21:402 Testing connection ...
+16/09 11:44:22:009 Created provisioning instance for CCWS
+16/09 11:44:22:011 Testing connection are success
+16/09 11:44:22:012 Starting process session
+16/09 11:44:23:429 Total 0 instances are started
+16/09 11:44:23:430 Total 1 instances are added

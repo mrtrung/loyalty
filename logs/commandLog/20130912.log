@@ -1,0 +1,2067 @@
+12/09 08:49:39:499 Command Logs started
+12/09 08:49:39:816 Starting process session
+12/09 08:49:39:938 Total 0 instances are started
+12/09 08:49:39:941 Total 1 instances are added
+12/09 08:50:02:274 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.70:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+12/09 08:50:02:275 Consumer was closed, reconnect.
+12/09 08:50:02:410 Total 0 instances are started
+12/09 08:50:02:411 Total 1 instances are added
+12/09 08:50:23:431 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.70:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+12/09 08:50:23:432 Consumer was closed, reconnect.
+12/09 08:50:23:537 Total 0 instances are started
+12/09 08:50:23:538 Total 1 instances are added
+12/09 08:50:44:547 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.70:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+12/09 08:50:44:605 Consumer was closed, reconnect.
+12/09 08:50:44:715 Total 0 instances are started
+12/09 08:50:44:716 Total 1 instances are added
+12/09 08:51:05:748 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.70:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+12/09 08:51:05:748 Consumer was closed, reconnect.
+12/09 08:51:05:853 Total 0 instances are started
+12/09 08:51:05:854 Total 1 instances are added
+12/09 08:51:26:877 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.70:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+12/09 08:51:26:878 Consumer was closed, reconnect.
+12/09 08:51:26:988 Total 0 instances are started
+12/09 08:51:26:988 Total 1 instances are added
+12/09 08:51:48:006 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.70:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+12/09 08:51:48:006 Consumer was closed, reconnect.
+12/09 08:51:48:110 Total 0 instances are started
+12/09 08:51:48:111 Total 1 instances are added
+12/09 08:52:09:126 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.70:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+12/09 08:52:09:126 Consumer was closed, reconnect.
+12/09 08:52:09:235 Total 0 instances are started
+12/09 08:52:09:236 Total 1 instances are added
+12/09 08:52:30:271 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.70:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+12/09 08:52:30:272 Consumer was closed, reconnect.
+12/09 08:52:30:374 Total 0 instances are started
+12/09 08:52:30:375 Total 1 instances are added
+12/09 08:52:51:397 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.70:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+12/09 08:52:51:398 Consumer was closed, reconnect.
+12/09 08:52:51:498 Total 0 instances are started
+12/09 08:52:51:499 Total 1 instances are added
+12/09 08:53:12:553 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.70:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+12/09 08:53:12:554 Consumer was closed, reconnect.
+12/09 08:53:12:660 Total 0 instances are started
+12/09 08:53:12:661 Total 1 instances are added
+12/09 08:53:33:681 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.70:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+12/09 08:53:33:681 Consumer was closed, reconnect.
+12/09 08:53:33:785 Total 0 instances are started
+12/09 08:53:33:786 Total 1 instances are added
+12/09 08:53:54:799 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.70:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+12/09 08:53:54:800 Consumer was closed, reconnect.
+12/09 08:53:54:904 Total 0 instances are started
+12/09 08:53:54:905 Total 1 instances are added
+12/09 08:54:15:930 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.70:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+12/09 08:54:15:931 Consumer was closed, reconnect.
+12/09 08:54:16:035 Total 0 instances are started
+12/09 08:54:16:036 Total 1 instances are added
+12/09 08:54:37:057 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.70:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+12/09 08:54:37:057 Consumer was closed, reconnect.
+12/09 08:54:37:161 Total 0 instances are started
+12/09 08:54:37:162 Total 1 instances are added
+12/09 08:54:58:178 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.70:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+12/09 08:54:58:179 Consumer was closed, reconnect.
+12/09 08:54:58:282 Total 0 instances are started
+12/09 08:54:58:283 Total 1 instances are added
+12/09 08:55:19:301 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.70:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+12/09 08:55:19:301 Consumer was closed, reconnect.
+12/09 08:55:19:410 Total 0 instances are started
+12/09 08:55:19:411 Total 1 instances are added
+12/09 08:55:40:440 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.70:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+12/09 08:55:40:441 Consumer was closed, reconnect.
+12/09 08:55:40:549 Total 0 instances are started
+12/09 08:55:40:550 Total 1 instances are added
+12/09 08:56:01:560 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.70:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+12/09 08:56:01:560 Consumer was closed, reconnect.
+12/09 08:56:01:664 Total 0 instances are started
+12/09 08:56:01:665 Total 1 instances are added
+12/09 08:56:22:682 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.70:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+12/09 08:56:22:683 Consumer was closed, reconnect.
+12/09 08:56:22:789 Total 0 instances are started
+12/09 08:56:22:790 Total 1 instances are added
+12/09 08:56:43:804 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.70:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+12/09 08:56:43:805 Consumer was closed, reconnect.
+12/09 08:56:43:906 Total 0 instances are started
+12/09 08:56:43:907 Total 1 instances are added
+12/09 08:57:04:932 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.70:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+12/09 08:57:04:932 Consumer was closed, reconnect.
+12/09 08:57:05:034 Total 0 instances are started
+12/09 08:57:05:035 Total 1 instances are added
+12/09 08:57:26:048 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.70:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+12/09 08:57:26:049 Consumer was closed, reconnect.
+12/09 08:57:26:150 Total 0 instances are started
+12/09 08:57:26:150 Total 1 instances are added
+12/09 08:57:47:179 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.70:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+12/09 08:57:47:180 Consumer was closed, reconnect.
+12/09 08:57:47:285 Total 0 instances are started
+12/09 08:57:47:286 Total 1 instances are added
+12/09 08:58:19:951 Command Logs started
+12/09 08:58:20:169 Starting process session
+12/09 08:58:20:347 Total 0 instances are started
+12/09 08:58:20:349 Total 1 instances are added
+12/09 08:58:42:351 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.75:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+12/09 08:58:42:352 Consumer was closed, reconnect.
+12/09 08:58:42:455 Total 0 instances are started
+12/09 08:58:42:455 Total 1 instances are added
+12/09 08:59:03:476 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.75:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+12/09 08:59:03:476 Consumer was closed, reconnect.
+12/09 08:59:03:577 Total 0 instances are started
+12/09 08:59:03:578 Total 1 instances are added
+12/09 08:59:24:594 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.75:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+12/09 08:59:24:594 Consumer was closed, reconnect.
+12/09 08:59:24:704 Total 0 instances are started
+12/09 08:59:24:705 Total 1 instances are added
+12/09 08:59:44:858 Command Logs started
+12/09 08:59:45:067 Starting process session
+12/09 08:59:45:187 Total 0 instances are started
+12/09 08:59:45:187 Total 1 instances are added
+12/09 08:59:55:198 0 records were writen to database.
+12/09 09:00:05:204 0 records were writen to database.
+12/09 09:00:15:210 0 records were writen to database.
+12/09 09:00:25:213 0 records were writen to database.
+12/09 09:00:35:224 0 records were writen to database.
+12/09 09:00:45:230 0 records were writen to database.
+12/09 09:00:55:240 0 records were writen to database.
+12/09 09:01:05:247 0 records were writen to database.
+12/09 09:01:15:254 0 records were writen to database.
+12/09 09:01:25:258 0 records were writen to database.
+12/09 09:01:35:261 0 records were writen to database.
+12/09 09:01:45:271 0 records were writen to database.
+12/09 09:01:55:281 0 records were writen to database.
+12/09 09:02:05:292 0 records were writen to database.
+12/09 09:02:15:295 0 records were writen to database.
+12/09 09:02:25:296 0 records were writen to database.
+12/09 09:02:35:300 0 records were writen to database.
+12/09 09:02:45:302 0 records were writen to database.
+12/09 09:02:55:311 0 records were writen to database.
+12/09 09:03:05:322 0 records were writen to database.
+12/09 09:03:15:329 0 records were writen to database.
+12/09 09:03:25:332 0 records were writen to database.
+12/09 09:03:35:340 0 records were writen to database.
+12/09 09:03:45:345 0 records were writen to database.
+12/09 09:03:55:351 0 records were writen to database.
+12/09 09:04:05:362 0 records were writen to database.
+12/09 09:04:15:371 0 records were writen to database.
+12/09 09:04:25:374 0 records were writen to database.
+12/09 09:04:35:380 0 records were writen to database.
+12/09 09:04:45:391 0 records were writen to database.
+12/09 09:04:55:397 0 records were writen to database.
+12/09 09:05:05:407 0 records were writen to database.
+12/09 09:05:15:411 0 records were writen to database.
+12/09 09:05:25:415 0 records were writen to database.
+12/09 09:05:35:429 0 records were writen to database.
+12/09 09:05:45:433 0 records were writen to database.
+12/09 09:05:55:444 0 records were writen to database.
+12/09 09:06:05:446 0 records were writen to database.
+12/09 09:06:15:456 0 records were writen to database.
+12/09 09:06:25:464 0 records were writen to database.
+12/09 09:06:35:470 0 records were writen to database.
+12/09 09:06:45:480 0 records were writen to database.
+12/09 09:06:55:484 0 records were writen to database.
+12/09 09:07:05:537 1 records were writen to database.
+12/09 09:07:15:547 0 records were writen to database.
+12/09 09:07:25:557 0 records were writen to database.
+12/09 09:07:35:563 0 records were writen to database.
+12/09 09:07:45:566 0 records were writen to database.
+12/09 09:07:55:572 0 records were writen to database.
+12/09 09:08:05:577 0 records were writen to database.
+12/09 09:08:15:585 0 records were writen to database.
+12/09 09:08:25:593 0 records were writen to database.
+12/09 09:08:35:603 0 records were writen to database.
+12/09 09:08:45:612 0 records were writen to database.
+12/09 09:08:55:620 0 records were writen to database.
+12/09 09:09:05:631 0 records were writen to database.
+12/09 09:09:15:642 0 records were writen to database.
+12/09 09:09:25:648 0 records were writen to database.
+12/09 09:09:35:655 0 records were writen to database.
+12/09 09:09:45:659 0 records were writen to database.
+12/09 09:09:55:660 0 records were writen to database.
+12/09 09:10:05:671 0 records were writen to database.
+12/09 09:10:15:680 0 records were writen to database.
+12/09 09:10:25:689 0 records were writen to database.
+12/09 09:10:35:699 0 records were writen to database.
+12/09 09:10:45:706 0 records were writen to database.
+12/09 09:10:55:711 0 records were writen to database.
+12/09 09:11:05:719 0 records were writen to database.
+12/09 09:11:15:729 0 records were writen to database.
+12/09 09:11:25:739 0 records were writen to database.
+12/09 09:11:35:745 0 records were writen to database.
+12/09 09:11:45:752 0 records were writen to database.
+12/09 09:11:55:753 0 records were writen to database.
+12/09 09:12:05:758 0 records were writen to database.
+12/09 09:12:15:778 1 records were writen to database.
+12/09 09:12:25:780 0 records were writen to database.
+12/09 09:12:35:784 0 records were writen to database.
+12/09 09:12:45:794 0 records were writen to database.
+12/09 09:12:55:804 0 records were writen to database.
+12/09 09:13:05:812 0 records were writen to database.
+12/09 09:13:15:821 0 records were writen to database.
+12/09 09:13:25:823 0 records were writen to database.
+12/09 09:13:35:830 0 records were writen to database.
+12/09 09:13:45:839 0 records were writen to database.
+12/09 09:13:55:841 0 records were writen to database.
+12/09 09:14:05:843 0 records were writen to database.
+12/09 09:14:15:846 0 records were writen to database.
+12/09 09:14:25:852 0 records were writen to database.
+12/09 09:14:35:861 0 records were writen to database.
+12/09 09:14:45:868 0 records were writen to database.
+12/09 09:14:55:873 0 records were writen to database.
+12/09 09:15:05:884 0 records were writen to database.
+12/09 09:15:15:892 0 records were writen to database.
+12/09 09:15:25:894 0 records were writen to database.
+12/09 09:15:35:901 0 records were writen to database.
+12/09 09:15:45:912 0 records were writen to database.
+12/09 09:15:55:920 0 records were writen to database.
+12/09 09:16:05:922 0 records were writen to database.
+12/09 09:16:15:923 0 records were writen to database.
+12/09 09:16:25:927 0 records were writen to database.
+12/09 09:16:35:938 0 records were writen to database.
+12/09 09:16:45:944 0 records were writen to database.
+12/09 09:16:55:946 0 records were writen to database.
+12/09 09:17:05:950 0 records were writen to database.
+12/09 09:17:15:960 0 records were writen to database.
+12/09 09:17:25:964 0 records were writen to database.
+12/09 09:17:35:975 0 records were writen to database.
+12/09 09:17:45:981 0 records were writen to database.
+12/09 09:17:55:982 0 records were writen to database.
+12/09 09:18:05:990 0 records were writen to database.
+12/09 09:18:15:999 0 records were writen to database.
+12/09 09:18:26:007 0 records were writen to database.
+12/09 09:18:36:016 0 records were writen to database.
+12/09 09:18:46:020 0 records were writen to database.
+12/09 09:18:56:026 0 records were writen to database.
+12/09 09:19:06:033 0 records were writen to database.
+12/09 09:19:16:043 0 records were writen to database.
+12/09 09:19:26:051 0 records were writen to database.
+12/09 09:19:36:055 0 records were writen to database.
+12/09 09:19:46:062 0 records were writen to database.
+12/09 09:19:56:066 0 records were writen to database.
+12/09 09:20:06:075 0 records were writen to database.
+12/09 09:20:16:077 0 records were writen to database.
+12/09 09:20:26:083 0 records were writen to database.
+12/09 09:20:36:090 0 records were writen to database.
+12/09 09:20:46:092 0 records were writen to database.
+12/09 09:21:02:522 Command Logs started
+12/09 09:21:02:624 Starting process session
+12/09 09:21:02:845 Total 0 instances are started
+12/09 09:21:02:846 Total 1 instances are added
+12/09 09:21:12:851 0 records were writen to database.
+12/09 09:21:22:855 0 records were writen to database.
+12/09 09:21:32:860 0 records were writen to database.
+12/09 09:21:42:867 0 records were writen to database.
+12/09 09:21:52:870 0 records were writen to database.
+12/09 09:22:02:876 0 records were writen to database.
+12/09 09:22:12:883 0 records were writen to database.
+12/09 09:22:22:898 1 records were writen to database.
+12/09 09:22:32:906 0 records were writen to database.
+12/09 09:22:42:910 0 records were writen to database.
+12/09 09:22:52:921 0 records were writen to database.
+12/09 09:23:02:927 0 records were writen to database.
+12/09 09:23:12:935 0 records were writen to database.
+12/09 09:23:22:946 0 records were writen to database.
+12/09 09:23:32:951 0 records were writen to database.
+12/09 09:23:42:958 0 records were writen to database.
+12/09 09:23:52:962 0 records were writen to database.
+12/09 09:24:14:144 Command Logs started
+12/09 09:24:14:447 Starting process session
+12/09 09:24:14:558 Total 0 instances are started
+12/09 09:24:14:559 Total 1 instances are added
+12/09 09:24:24:564 0 records were writen to database.
+12/09 09:24:34:567 0 records were writen to database.
+12/09 09:24:44:573 0 records were writen to database.
+12/09 09:24:54:582 0 records were writen to database.
+12/09 09:25:04:587 0 records were writen to database.
+12/09 09:25:14:597 0 records were writen to database.
+12/09 09:25:24:604 0 records were writen to database.
+12/09 09:25:34:607 0 records were writen to database.
+12/09 09:25:44:617 0 records were writen to database.
+12/09 09:25:54:627 0 records were writen to database.
+12/09 09:26:04:634 0 records were writen to database.
+12/09 09:26:14:637 0 records were writen to database.
+12/09 09:26:24:648 0 records were writen to database.
+12/09 09:26:34:654 0 records were writen to database.
+12/09 09:26:44:665 0 records were writen to database.
+12/09 09:26:54:667 0 records were writen to database.
+12/09 09:27:04:672 0 records were writen to database.
+12/09 09:27:34:899 Command Logs started
+12/09 09:27:35:152 Starting process session
+12/09 09:27:35:362 Total 0 instances are started
+12/09 09:27:35:364 Total 1 instances are added
+12/09 09:27:45:373 0 records were writen to database.
+12/09 09:27:55:376 0 records were writen to database.
+12/09 09:28:05:385 0 records were writen to database.
+12/09 09:28:15:390 0 records were writen to database.
+12/09 09:28:25:397 0 records were writen to database.
+12/09 09:28:35:405 0 records were writen to database.
+12/09 09:28:45:408 0 records were writen to database.
+12/09 09:28:55:414 0 records were writen to database.
+12/09 09:29:05:416 0 records were writen to database.
+12/09 09:29:15:421 0 records were writen to database.
+12/09 09:29:25:432 0 records were writen to database.
+12/09 09:29:35:434 0 records were writen to database.
+12/09 09:29:45:443 0 records were writen to database.
+12/09 09:29:55:449 0 records were writen to database.
+12/09 09:30:05:459 0 records were writen to database.
+12/09 09:30:15:482 1 records were writen to database.
+12/09 09:30:25:487 0 records were writen to database.
+12/09 09:30:35:492 0 records were writen to database.
+12/09 09:30:45:501 0 records were writen to database.
+12/09 09:30:55:507 0 records were writen to database.
+12/09 09:31:05:517 0 records were writen to database.
+12/09 09:31:15:522 0 records were writen to database.
+12/09 09:31:25:529 0 records were writen to database.
+12/09 11:25:02:269 Command Logs started
+12/09 11:25:02:482 Starting process session
+12/09 11:25:02:790 Total 0 instances are started
+12/09 11:25:02:791 Total 1 instances are added
+12/09 11:25:12:795 0 records were writen to database.
+12/09 11:25:22:804 0 records were writen to database.
+12/09 11:25:32:813 0 records were writen to database.
+12/09 11:25:42:815 0 records were writen to database.
+12/09 11:25:52:821 0 records were writen to database.
+12/09 11:26:02:831 0 records were writen to database.
+12/09 11:26:12:837 0 records were writen to database.
+12/09 11:26:22:844 0 records were writen to database.
+12/09 11:26:32:852 0 records were writen to database.
+12/09 11:26:42:858 0 records were writen to database.
+12/09 11:26:52:864 0 records were writen to database.
+12/09 11:27:02:870 0 records were writen to database.
+12/09 11:27:12:876 0 records were writen to database.
+12/09 11:27:22:880 0 records were writen to database.
+12/09 11:27:32:882 0 records were writen to database.
+12/09 11:27:42:885 0 records were writen to database.
+12/09 11:27:52:891 0 records were writen to database.
+12/09 11:28:02:901 0 records were writen to database.
+12/09 11:28:12:911 0 records were writen to database.
+12/09 11:28:22:920 0 records were writen to database.
+12/09 11:28:32:930 0 records were writen to database.
+12/09 11:28:42:936 0 records were writen to database.
+12/09 11:28:52:946 0 records were writen to database.
+12/09 11:29:02:953 0 records were writen to database.
+12/09 11:29:12:962 0 records were writen to database.
+12/09 11:29:22:969 0 records were writen to database.
+12/09 11:29:32:973 0 records were writen to database.
+12/09 11:29:42:981 0 records were writen to database.
+12/09 11:29:52:982 0 records were writen to database.
+12/09 11:30:02:984 0 records were writen to database.
+12/09 11:30:12:994 0 records were writen to database.
+12/09 11:30:22:996 0 records were writen to database.
+12/09 11:30:33:006 0 records were writen to database.
+12/09 11:30:43:010 0 records were writen to database.
+12/09 11:30:53:011 0 records were writen to database.
+12/09 11:31:03:098 0 records were writen to database.
+12/09 11:31:21:754 Command Logs started
+12/09 11:31:22:067 Starting process session
+12/09 11:31:22:257 Total 0 instances are started
+12/09 11:31:22:257 Total 1 instances are added
+12/09 11:31:32:263 0 records were writen to database.
+12/09 11:31:42:269 0 records were writen to database.
+12/09 11:31:52:275 0 records were writen to database.
+12/09 11:32:02:283 0 records were writen to database.
+12/09 11:32:12:287 0 records were writen to database.
+12/09 11:32:22:294 0 records were writen to database.
+12/09 11:32:32:299 0 records were writen to database.
+12/09 11:32:42:304 0 records were writen to database.
+12/09 11:32:52:305 0 records were writen to database.
+12/09 11:33:02:314 0 records were writen to database.
+12/09 11:33:12:322 0 records were writen to database.
+12/09 11:33:22:333 0 records were writen to database.
+12/09 11:33:32:344 0 records were writen to database.
+12/09 11:33:42:349 0 records were writen to database.
+12/09 11:33:52:356 0 records were writen to database.
+12/09 11:34:02:365 0 records were writen to database.
+12/09 11:34:12:370 0 records were writen to database.
+12/09 11:34:22:375 0 records were writen to database.
+12/09 11:34:32:378 0 records were writen to database.
+12/09 11:34:42:389 0 records were writen to database.
+12/09 11:34:52:394 0 records were writen to database.
+12/09 11:35:02:397 0 records were writen to database.
+12/09 11:35:12:406 0 records were writen to database.
+12/09 11:35:22:500 0 records were writen to database.
+12/09 11:35:32:502 0 records were writen to database.
+12/09 11:35:42:507 0 records were writen to database.
+12/09 11:35:52:511 0 records were writen to database.
+12/09 11:36:02:514 0 records were writen to database.
+12/09 11:36:12:519 0 records were writen to database.
+12/09 11:36:22:540 1 records were writen to database.
+12/09 11:36:32:545 0 records were writen to database.
+12/09 11:36:42:549 0 records were writen to database.
+12/09 11:36:52:553 0 records were writen to database.
+12/09 11:37:02:560 0 records were writen to database.
+12/09 11:37:12:563 0 records were writen to database.
+12/09 11:37:22:568 0 records were writen to database.
+12/09 11:37:32:576 0 records were writen to database.
+12/09 11:37:42:585 0 records were writen to database.
+12/09 11:37:52:589 0 records were writen to database.
+12/09 11:38:02:591 0 records were writen to database.
+12/09 11:38:12:600 0 records were writen to database.
+12/09 11:38:22:603 0 records were writen to database.
+12/09 11:38:32:610 0 records were writen to database.
+12/09 11:38:42:612 0 records were writen to database.
+12/09 11:38:52:621 0 records were writen to database.
+12/09 11:39:02:629 0 records were writen to database.
+12/09 11:39:12:640 0 records were writen to database.
+12/09 11:39:22:646 0 records were writen to database.
+12/09 11:39:32:657 0 records were writen to database.
+12/09 11:39:42:662 0 records were writen to database.
+12/09 11:39:52:664 0 records were writen to database.
+12/09 11:40:02:673 0 records were writen to database.
+12/09 11:40:12:684 0 records were writen to database.
+12/09 11:40:22:687 0 records were writen to database.
+12/09 11:40:32:696 0 records were writen to database.
+12/09 11:40:42:707 0 records were writen to database.
+12/09 11:40:52:710 0 records were writen to database.
+12/09 11:41:02:718 0 records were writen to database.
+12/09 11:41:12:721 0 records were writen to database.
+12/09 11:41:22:724 0 records were writen to database.
+12/09 11:41:32:733 0 records were writen to database.
+12/09 11:41:42:736 0 records were writen to database.
+12/09 11:41:52:737 0 records were writen to database.
+12/09 11:42:02:740 0 records were writen to database.
+12/09 11:42:12:745 0 records were writen to database.
+12/09 11:42:22:752 0 records were writen to database.
+12/09 11:42:32:819 1 records were writen to database.
+12/09 11:42:42:821 0 records were writen to database.
+12/09 11:42:52:832 0 records were writen to database.
+12/09 11:43:02:834 0 records were writen to database.
+12/09 11:43:12:836 0 records were writen to database.
+12/09 11:43:22:847 0 records were writen to database.
+12/09 11:43:32:849 0 records were writen to database.
+12/09 11:43:42:853 0 records were writen to database.
+12/09 11:43:52:860 0 records were writen to database.
+12/09 11:44:02:867 0 records were writen to database.
+12/09 11:44:12:875 0 records were writen to database.
+12/09 11:44:22:882 0 records were writen to database.
+12/09 11:44:32:889 0 records were writen to database.
+12/09 11:44:42:899 0 records were writen to database.
+12/09 11:44:52:900 0 records were writen to database.
+12/09 11:45:02:907 0 records were writen to database.
+12/09 11:45:12:913 0 records were writen to database.
+12/09 11:45:22:918 0 records were writen to database.
+12/09 11:45:32:921 0 records were writen to database.
+12/09 11:45:42:930 0 records were writen to database.
+12/09 11:45:52:941 0 records were writen to database.
+12/09 11:46:02:947 0 records were writen to database.
+12/09 11:46:12:955 0 records were writen to database.
+12/09 11:46:22:957 0 records were writen to database.
+12/09 11:46:32:963 0 records were writen to database.
+12/09 11:46:42:970 0 records were writen to database.
+12/09 11:46:52:979 0 records were writen to database.
+12/09 11:47:02:988 0 records were writen to database.
+12/09 11:47:12:996 0 records were writen to database.
+12/09 11:47:23:002 0 records were writen to database.
+12/09 11:47:33:009 0 records were writen to database.
+12/09 11:47:43:014 0 records were writen to database.
+12/09 11:47:53:025 0 records were writen to database.
+12/09 11:48:03:034 0 records were writen to database.
+12/09 11:48:13:039 0 records were writen to database.
+12/09 11:48:23:046 0 records were writen to database.
+12/09 11:48:33:053 0 records were writen to database.
+12/09 11:48:43:059 0 records were writen to database.
+12/09 11:48:53:065 0 records were writen to database.
+12/09 11:49:03:073 0 records were writen to database.
+12/09 11:49:13:076 0 records were writen to database.
+12/09 11:49:23:082 0 records were writen to database.
+12/09 11:49:33:085 0 records were writen to database.
+12/09 11:49:43:087 0 records were writen to database.
+12/09 11:49:53:095 0 records were writen to database.
+12/09 11:50:03:096 0 records were writen to database.
+12/09 11:50:13:105 0 records were writen to database.
+12/09 11:50:23:109 0 records were writen to database.
+12/09 11:50:33:116 0 records were writen to database.
+12/09 11:50:43:126 0 records were writen to database.
+12/09 11:50:53:128 0 records were writen to database.
+12/09 11:51:03:132 0 records were writen to database.
+12/09 11:51:13:143 0 records were writen to database.
+12/09 11:51:23:148 0 records were writen to database.
+12/09 11:51:33:150 0 records were writen to database.
+12/09 11:51:43:161 0 records were writen to database.
+12/09 11:51:53:166 0 records were writen to database.
+12/09 11:52:03:169 0 records were writen to database.
+12/09 11:52:13:177 0 records were writen to database.
+12/09 11:52:23:179 0 records were writen to database.
+12/09 11:52:33:188 0 records were writen to database.
+12/09 11:52:43:199 0 records were writen to database.
+12/09 11:52:53:202 0 records were writen to database.
+12/09 11:53:03:209 0 records were writen to database.
+12/09 11:53:13:220 0 records were writen to database.
+12/09 11:53:23:230 0 records were writen to database.
+12/09 11:53:33:235 0 records were writen to database.
+12/09 11:53:43:237 0 records were writen to database.
+12/09 11:53:53:244 0 records were writen to database.
+12/09 11:54:03:247 0 records were writen to database.
+12/09 11:54:13:251 0 records were writen to database.
+12/09 11:54:23:254 0 records were writen to database.
+12/09 11:54:33:264 0 records were writen to database.
+12/09 11:54:43:273 0 records were writen to database.
+12/09 11:54:53:276 0 records were writen to database.
+12/09 11:55:03:296 1 records were writen to database.
+12/09 11:55:13:306 0 records were writen to database.
+12/09 11:55:23:317 0 records were writen to database.
+12/09 11:55:33:324 0 records were writen to database.
+12/09 11:55:43:334 0 records were writen to database.
+12/09 11:55:53:339 0 records were writen to database.
+12/09 11:56:03:346 0 records were writen to database.
+12/09 11:56:13:350 0 records were writen to database.
+12/09 11:56:23:353 0 records were writen to database.
+12/09 11:56:33:357 0 records were writen to database.
+12/09 11:56:43:364 0 records were writen to database.
+12/09 11:56:53:365 0 records were writen to database.
+12/09 11:57:03:367 0 records were writen to database.
+12/09 11:57:13:375 0 records were writen to database.
+12/09 11:57:23:378 0 records were writen to database.
+12/09 11:57:33:398 1 records were writen to database.
+12/09 11:57:57:339 Command Logs started
+12/09 11:57:57:761 Starting process session
+12/09 11:57:58:045 Total 0 instances are started
+12/09 11:57:58:048 Total 1 instances are added
+12/09 11:57:58:178 Total 0 instances are started
+12/09 11:57:58:179 Total 1 instances are added
+12/09 11:57:59:806 Total 0 instances are started
+12/09 11:57:59:807 Total 1 instances are added
+12/09 11:58:09:816 0 records were writen to database.
+12/09 11:58:19:828 0 records were writen to database.
+12/09 11:58:29:832 0 records were writen to database.
+12/09 11:58:39:839 0 records were writen to database.
+12/09 11:58:49:849 0 records were writen to database.
+12/09 11:58:59:854 0 records were writen to database.
+12/09 11:59:09:862 0 records were writen to database.
+12/09 11:59:19:886 1 records were writen to database.
+12/09 11:59:29:894 0 records were writen to database.
+12/09 11:59:39:904 0 records were writen to database.
+12/09 11:59:49:912 0 records were writen to database.
+12/09 11:59:59:916 0 records were writen to database.
+12/09 12:00:09:923 0 records were writen to database.
+12/09 12:00:19:927 0 records were writen to database.
+12/09 12:00:29:933 0 records were writen to database.
+12/09 12:00:39:943 0 records were writen to database.
+12/09 12:00:49:953 0 records were writen to database.
+12/09 12:00:59:964 0 records were writen to database.
+12/09 12:01:09:973 0 records were writen to database.
+12/09 12:01:19:983 0 records were writen to database.
+12/09 12:01:29:988 0 records were writen to database.
+12/09 12:01:39:997 0 records were writen to database.
+12/09 12:01:50:002 0 records were writen to database.
+12/09 12:02:00:006 0 records were writen to database.
+12/09 12:02:10:015 0 records were writen to database.
+12/09 12:06:49:981 Command Logs started
+12/09 12:06:50:337 Starting process session
+12/09 12:06:51:167 Total 0 instances are started
+12/09 12:06:51:168 Total 1 instances are added
+12/09 12:07:01:178 0 records were writen to database.
+12/09 12:07:11:182 0 records were writen to database.
+12/09 12:07:21:187 0 records were writen to database.
+12/09 12:07:31:194 0 records were writen to database.
+12/09 12:07:41:206 0 records were writen to database.
+12/09 12:07:51:213 0 records were writen to database.
+12/09 12:08:01:217 0 records were writen to database.
+12/09 12:08:11:218 0 records were writen to database.
+12/09 12:08:21:224 0 records were writen to database.
+12/09 12:08:31:227 0 records were writen to database.
+12/09 12:08:41:289 1 records were writen to database.
+12/09 12:08:51:300 0 records were writen to database.
+12/09 12:09:01:341 0 records were writen to database.
+12/09 12:09:11:351 0 records were writen to database.
+12/09 12:09:21:361 0 records were writen to database.
+12/09 12:09:31:367 0 records were writen to database.
+12/09 12:09:41:373 0 records were writen to database.
+12/09 12:09:51:382 0 records were writen to database.
+12/09 12:10:01:389 0 records were writen to database.
+12/09 12:10:11:394 0 records were writen to database.
+12/09 12:10:21:404 0 records were writen to database.
+12/09 12:10:31:411 0 records were writen to database.
+12/09 12:10:41:418 0 records were writen to database.
+12/09 12:10:51:427 0 records were writen to database.
+12/09 12:11:01:433 0 records were writen to database.
+12/09 12:11:11:440 0 records were writen to database.
+12/09 12:11:21:448 0 records were writen to database.
+12/09 12:11:31:451 0 records were writen to database.
+12/09 12:11:41:461 0 records were writen to database.
+12/09 12:11:51:464 0 records were writen to database.
+12/09 12:12:01:473 0 records were writen to database.
+12/09 12:12:11:484 0 records were writen to database.
+12/09 12:12:21:490 0 records were writen to database.
+12/09 12:13:26:278 Command Logs started
+12/09 12:13:26:304 Starting process session
+12/09 12:13:27:609 Total 0 instances are started
+12/09 12:13:27:610 Total 1 instances are added
+12/09 12:13:37:611 0 records were writen to database.
+12/09 12:13:47:613 0 records were writen to database.
+12/09 12:13:57:616 0 records were writen to database.
+12/09 12:14:07:622 0 records were writen to database.
+12/09 12:14:17:630 0 records were writen to database.
+12/09 12:14:27:634 0 records were writen to database.
+12/09 12:14:37:645 0 records were writen to database.
+12/09 12:14:47:654 0 records were writen to database.
+12/09 12:14:57:662 0 records were writen to database.
+12/09 12:15:07:667 0 records were writen to database.
+12/09 12:15:17:669 0 records were writen to database.
+12/09 12:15:27:680 0 records were writen to database.
+12/09 12:15:44:513 Command Logs started
+12/09 12:15:44:779 Starting process session
+12/09 12:15:45:339 Total 0 instances are started
+12/09 12:15:45:340 Total 1 instances are added
+12/09 12:15:55:348 0 records were writen to database.
+12/09 12:16:05:351 0 records were writen to database.
+12/09 12:16:15:357 0 records were writen to database.
+12/09 12:16:25:359 0 records were writen to database.
+12/09 12:16:35:367 0 records were writen to database.
+12/09 12:16:45:375 0 records were writen to database.
+12/09 12:16:55:377 0 records were writen to database.
+12/09 12:17:05:383 0 records were writen to database.
+12/09 12:17:15:385 0 records were writen to database.
+12/09 12:17:25:388 0 records were writen to database.
+12/09 12:17:35:391 0 records were writen to database.
+12/09 12:17:45:393 0 records were writen to database.
+12/09 12:17:55:402 0 records were writen to database.
+12/09 12:18:05:404 0 records were writen to database.
+12/09 12:18:15:407 0 records were writen to database.
+12/09 12:18:25:416 0 records were writen to database.
+12/09 12:18:35:427 0 records were writen to database.
+12/09 12:18:45:430 0 records were writen to database.
+12/09 12:18:55:431 0 records were writen to database.
+12/09 12:19:05:437 0 records were writen to database.
+12/09 12:19:15:446 0 records were writen to database.
+12/09 12:19:25:449 0 records were writen to database.
+12/09 12:19:35:458 0 records were writen to database.
+12/09 12:19:45:464 0 records were writen to database.
+12/09 12:19:55:467 0 records were writen to database.
+12/09 12:20:05:471 0 records were writen to database.
+12/09 12:20:15:475 0 records were writen to database.
+12/09 12:20:25:486 0 records were writen to database.
+12/09 12:20:35:496 0 records were writen to database.
+12/09 12:21:46:156 Command Logs started
+12/09 12:21:46:333 Starting process session
+12/09 12:21:47:474 Total 0 instances are started
+12/09 12:21:47:475 Total 1 instances are added
+12/09 12:21:57:478 0 records were writen to database.
+12/09 12:22:07:481 0 records were writen to database.
+12/09 12:22:17:486 0 records were writen to database.
+12/09 12:22:27:488 0 records were writen to database.
+12/09 12:22:42:171 Command Logs started
+12/09 12:22:42:504 Starting process session
+12/09 12:22:42:632 Total 0 instances are started
+12/09 12:22:42:637 Total 1 instances are added
+12/09 12:22:52:640 0 records were writen to database.
+12/09 12:23:02:651 0 records were writen to database.
+12/09 12:23:12:662 0 records were writen to database.
+12/09 12:23:22:671 0 records were writen to database.
+12/09 12:23:32:681 0 records were writen to database.
+12/09 12:23:42:703 1 records were writen to database.
+12/09 12:23:52:708 0 records were writen to database.
+12/09 12:24:02:710 0 records were writen to database.
+12/09 12:24:12:721 0 records were writen to database.
+12/09 12:24:22:723 0 records were writen to database.
+12/09 12:24:32:734 0 records were writen to database.
+12/09 12:24:42:739 0 records were writen to database.
+12/09 12:24:52:746 0 records were writen to database.
+12/09 12:25:02:755 0 records were writen to database.
+12/09 12:25:12:761 0 records were writen to database.
+12/09 12:25:22:764 0 records were writen to database.
+12/09 12:25:32:774 0 records were writen to database.
+12/09 12:25:42:784 0 records were writen to database.
+12/09 12:25:52:792 0 records were writen to database.
+12/09 12:26:02:798 0 records were writen to database.
+12/09 12:26:12:804 0 records were writen to database.
+12/09 12:26:22:808 0 records were writen to database.
+12/09 12:26:32:812 0 records were writen to database.
+12/09 12:26:42:819 0 records were writen to database.
+12/09 12:26:52:849 0 records were writen to database.
+12/09 12:27:02:853 0 records were writen to database.
+12/09 12:27:12:862 0 records were writen to database.
+12/09 12:27:22:870 0 records were writen to database.
+12/09 12:27:32:882 1 records were writen to database.
+12/09 12:27:42:884 0 records were writen to database.
+12/09 12:27:52:890 0 records were writen to database.
+12/09 12:28:02:894 0 records were writen to database.
+12/09 12:28:12:903 0 records were writen to database.
+12/09 14:16:19:900 Command Logs started
+12/09 14:16:20:328 Starting process session
+12/09 14:16:20:525 Total 0 instances are started
+12/09 14:16:20:534 Total 1 instances are added
+12/09 14:16:30:538 0 records were writen to database.
+12/09 14:16:40:544 0 records were writen to database.
+12/09 14:16:50:555 0 records were writen to database.
+12/09 14:17:00:558 0 records were writen to database.
+12/09 14:17:10:561 0 records were writen to database.
+12/09 14:17:20:566 0 records were writen to database.
+12/09 14:17:30:570 0 records were writen to database.
+12/09 14:17:40:580 0 records were writen to database.
+12/09 14:17:50:586 0 records were writen to database.
+12/09 14:18:00:596 0 records were writen to database.
+12/09 14:18:10:603 0 records were writen to database.
+12/09 14:18:20:610 0 records were writen to database.
+12/09 14:18:30:620 0 records were writen to database.
+12/09 14:18:40:630 0 records were writen to database.
+12/09 14:18:50:632 0 records were writen to database.
+12/09 14:19:00:640 0 records were writen to database.
+12/09 14:19:10:651 0 records were writen to database.
+12/09 14:19:20:659 0 records were writen to database.
+12/09 14:19:30:665 0 records were writen to database.
+12/09 14:19:40:668 0 records were writen to database.
+12/09 14:19:50:673 0 records were writen to database.
+12/09 14:20:00:680 0 records were writen to database.
+12/09 14:20:10:683 0 records were writen to database.
+12/09 14:20:20:690 0 records were writen to database.
+12/09 14:20:30:707 1 records were writen to database.
+12/09 14:20:40:712 0 records were writen to database.
+12/09 14:20:50:719 0 records were writen to database.
+12/09 14:21:00:721 0 records were writen to database.
+12/09 14:21:10:729 0 records were writen to database.
+12/09 14:21:20:739 0 records were writen to database.
+12/09 14:21:30:742 0 records were writen to database.
+12/09 14:21:40:746 0 records were writen to database.
+12/09 14:21:50:753 0 records were writen to database.
+12/09 14:22:00:757 0 records were writen to database.
+12/09 14:22:10:761 0 records were writen to database.
+12/09 14:22:20:765 0 records were writen to database.
+12/09 14:22:30:772 0 records were writen to database.
+12/09 14:22:40:774 0 records were writen to database.
+12/09 14:22:50:777 0 records were writen to database.
+12/09 14:23:00:783 0 records were writen to database.
+12/09 14:23:10:786 0 records were writen to database.
+12/09 14:23:20:788 0 records were writen to database.
+12/09 14:23:30:793 0 records were writen to database.
+12/09 14:23:40:799 0 records were writen to database.
+12/09 14:23:50:813 1 records were writen to database.
+12/09 14:24:00:818 0 records were writen to database.
+12/09 14:24:10:828 0 records were writen to database.
+12/09 14:24:20:834 0 records were writen to database.
+12/09 14:24:30:838 0 records were writen to database.
+12/09 14:24:40:840 0 records were writen to database.
+12/09 14:24:50:849 0 records were writen to database.
+12/09 14:25:00:854 0 records were writen to database.
+12/09 14:25:10:859 0 records were writen to database.
+12/09 14:25:20:864 0 records were writen to database.
+12/09 14:25:30:867 0 records were writen to database.
+12/09 14:25:40:872 0 records were writen to database.
+12/09 14:25:50:883 0 records were writen to database.
+12/09 14:26:00:892 0 records were writen to database.
+12/09 14:26:10:897 0 records were writen to database.
+12/09 14:26:20:904 0 records were writen to database.
+12/09 14:26:30:914 0 records were writen to database.
+12/09 14:26:40:918 0 records were writen to database.
+12/09 14:26:50:929 0 records were writen to database.
+12/09 14:27:00:939 0 records were writen to database.
+12/09 14:27:10:949 0 records were writen to database.
+12/09 14:27:20:952 0 records were writen to database.
+12/09 14:27:30:956 0 records were writen to database.
+12/09 14:27:40:966 0 records were writen to database.
+12/09 14:27:50:970 0 records were writen to database.
+12/09 14:28:00:980 0 records were writen to database.
+12/09 14:28:10:989 0 records were writen to database.
+12/09 14:28:20:992 0 records were writen to database.
+12/09 14:28:30:999 0 records were writen to database.
+12/09 14:28:41:004 0 records were writen to database.
+12/09 14:28:51:007 0 records were writen to database.
+12/09 14:29:01:011 0 records were writen to database.
+12/09 14:29:11:020 0 records were writen to database.
+12/09 14:29:21:025 0 records were writen to database.
+12/09 14:29:31:031 0 records were writen to database.
+12/09 14:29:41:042 0 records were writen to database.
+12/09 14:29:51:047 0 records were writen to database.
+12/09 14:30:01:057 0 records were writen to database.
+12/09 14:30:11:059 0 records were writen to database.
+12/09 14:30:21:063 0 records were writen to database.
+12/09 14:30:31:069 0 records were writen to database.
+12/09 14:30:41:071 0 records were writen to database.
+12/09 14:30:51:078 0 records were writen to database.
+12/09 14:31:01:088 0 records were writen to database.
+12/09 14:31:11:096 0 records were writen to database.
+12/09 14:31:21:098 0 records were writen to database.
+12/09 14:31:31:102 0 records were writen to database.
+12/09 14:31:41:110 0 records were writen to database.
+12/09 14:31:51:121 0 records were writen to database.
+12/09 14:32:01:143 1 records were writen to database.
+12/09 14:32:11:146 0 records were writen to database.
+12/09 14:32:21:153 0 records were writen to database.
+12/09 14:32:31:163 0 records were writen to database.
+12/09 14:32:41:169 0 records were writen to database.
+12/09 14:32:51:172 0 records were writen to database.
+12/09 14:33:01:174 0 records were writen to database.
+12/09 14:33:11:179 0 records were writen to database.
+12/09 14:33:21:190 0 records were writen to database.
+12/09 14:33:31:195 0 records were writen to database.
+12/09 14:33:41:201 0 records were writen to database.
+12/09 14:33:51:204 0 records were writen to database.
+12/09 14:34:01:207 0 records were writen to database.
+12/09 14:34:11:217 0 records were writen to database.
+12/09 14:34:21:227 0 records were writen to database.
+12/09 14:34:31:233 0 records were writen to database.
+12/09 14:34:41:236 0 records were writen to database.
+12/09 14:34:51:246 0 records were writen to database.
+12/09 14:35:01:254 0 records were writen to database.
+12/09 14:35:11:265 0 records were writen to database.
+12/09 14:35:21:267 0 records were writen to database.
+12/09 14:35:31:269 0 records were writen to database.
+12/09 14:35:41:274 0 records were writen to database.
+12/09 14:35:51:276 0 records were writen to database.
+12/09 14:36:12:745 Command Logs started
+12/09 14:36:12:831 Starting process session
+12/09 14:36:12:955 Total 0 instances are started
+12/09 14:36:12:955 Total 1 instances are added
+12/09 14:36:22:967 0 records were writen to database.
+12/09 14:36:32:971 0 records were writen to database.
+12/09 14:36:42:973 0 records were writen to database.
+12/09 14:36:52:978 0 records were writen to database.
+12/09 14:37:02:982 0 records were writen to database.
+12/09 14:37:12:989 0 records were writen to database.
+12/09 14:37:22:999 0 records were writen to database.
+12/09 14:37:33:007 0 records were writen to database.
+12/09 14:37:43:012 0 records were writen to database.
+12/09 14:37:53:021 0 records were writen to database.
+12/09 14:38:03:039 1 records were writen to database.
+12/09 14:38:13:045 0 records were writen to database.
+12/09 14:38:23:051 0 records were writen to database.
+12/09 14:38:33:058 0 records were writen to database.
+12/09 14:38:43:064 0 records were writen to database.
+12/09 14:38:53:071 0 records were writen to database.
+12/09 14:39:03:074 0 records were writen to database.
+12/09 14:39:13:076 0 records were writen to database.
+12/09 14:39:23:084 0 records were writen to database.
+12/09 14:39:33:093 0 records were writen to database.
+12/09 14:39:43:103 0 records were writen to database.
+12/09 14:39:53:111 0 records were writen to database.
+12/09 14:40:03:118 0 records were writen to database.
+12/09 14:40:13:126 0 records were writen to database.
+12/09 14:40:23:131 0 records were writen to database.
+12/09 14:40:33:142 0 records were writen to database.
+12/09 14:40:43:144 0 records were writen to database.
+12/09 14:40:53:146 0 records were writen to database.
+12/09 14:41:03:150 0 records were writen to database.
+12/09 14:41:13:161 0 records were writen to database.
+12/09 14:41:23:169 0 records were writen to database.
+12/09 14:41:33:176 0 records were writen to database.
+12/09 14:41:43:190 1 records were writen to database.
+12/09 14:41:53:199 0 records were writen to database.
+12/09 14:42:03:207 0 records were writen to database.
+12/09 14:42:13:216 0 records were writen to database.
+12/09 14:42:23:221 0 records were writen to database.
+12/09 14:42:33:227 0 records were writen to database.
+12/09 14:42:43:232 0 records were writen to database.
+12/09 14:42:53:237 0 records were writen to database.
+12/09 14:43:03:245 0 records were writen to database.
+12/09 14:43:13:254 0 records were writen to database.
+12/09 14:43:23:260 0 records were writen to database.
+12/09 14:43:33:269 0 records were writen to database.
+12/09 14:43:43:278 0 records were writen to database.
+12/09 14:43:53:282 0 records were writen to database.
+12/09 14:44:03:290 0 records were writen to database.
+12/09 14:44:13:300 0 records were writen to database.
+12/09 14:44:23:309 0 records were writen to database.
+12/09 14:44:33:317 0 records were writen to database.
+12/09 14:44:43:326 0 records were writen to database.
+12/09 14:44:53:332 0 records were writen to database.
+12/09 14:45:03:340 0 records were writen to database.
+12/09 14:45:13:342 0 records were writen to database.
+12/09 14:45:23:365 1 records were writen to database.
+12/09 14:45:33:368 0 records were writen to database.
+12/09 14:45:43:370 0 records were writen to database.
+12/09 14:45:53:381 0 records were writen to database.
+12/09 14:46:03:386 0 records were writen to database.
+12/09 14:46:13:392 0 records were writen to database.
+12/09 14:46:28:789 Command Logs started
+12/09 14:46:28:945 Starting process session
+12/09 14:46:29:068 Total 0 instances are started
+12/09 14:46:29:070 Total 1 instances are added
+12/09 14:46:29:246 Total 0 instances are started
+12/09 14:46:29:247 Total 1 instances are added
+12/09 14:46:30:625 Total 0 instances are started
+12/09 14:46:30:626 Total 1 instances are added
+12/09 14:46:40:634 0 records were writen to database.
+12/09 14:46:50:645 0 records were writen to database.
+12/09 14:47:00:654 0 records were writen to database.
+12/09 14:47:10:661 0 records were writen to database.
+12/09 14:47:20:663 0 records were writen to database.
+12/09 14:47:30:669 0 records were writen to database.
+12/09 14:47:40:677 0 records were writen to database.
+12/09 14:47:50:687 0 records were writen to database.
+12/09 14:48:00:693 0 records were writen to database.
+12/09 14:48:10:702 0 records were writen to database.
+12/09 14:48:20:704 0 records were writen to database.
+12/09 14:48:30:715 0 records were writen to database.
+12/09 14:48:40:717 0 records were writen to database.
+12/09 14:48:50:727 0 records were writen to database.
+12/09 14:49:00:732 0 records were writen to database.
+12/09 14:49:10:736 0 records were writen to database.
+12/09 14:49:20:740 0 records were writen to database.
+12/09 14:49:30:748 0 records were writen to database.
+12/09 14:49:40:751 0 records were writen to database.
+12/09 14:49:50:755 0 records were writen to database.
+12/09 14:50:00:765 0 records were writen to database.
+12/09 14:50:10:783 1 records were writen to database.
+12/09 14:50:20:784 0 records were writen to database.
+12/09 14:50:30:794 0 records were writen to database.
+12/09 14:50:40:805 0 records were writen to database.
+12/09 14:50:50:807 0 records were writen to database.
+12/09 14:51:00:818 0 records were writen to database.
+12/09 14:51:10:823 0 records were writen to database.
+12/09 14:51:20:829 0 records were writen to database.
+12/09 14:51:30:838 0 records were writen to database.
+12/09 14:51:40:841 0 records were writen to database.
+12/09 14:51:50:845 0 records were writen to database.
+12/09 14:52:00:854 0 records were writen to database.
+12/09 14:52:10:865 0 records were writen to database.
+12/09 14:52:20:869 0 records were writen to database.
+12/09 14:52:30:876 0 records were writen to database.
+12/09 14:52:40:878 0 records were writen to database.
+12/09 14:52:50:881 0 records were writen to database.
+12/09 14:53:00:889 0 records were writen to database.
+12/09 14:53:10:898 0 records were writen to database.
+12/09 14:53:20:909 0 records were writen to database.
+12/09 14:53:30:911 0 records were writen to database.
+12/09 14:53:40:919 0 records were writen to database.
+12/09 14:53:50:929 0 records were writen to database.
+12/09 14:54:00:934 0 records were writen to database.
+12/09 14:54:10:944 0 records were writen to database.
+12/09 14:54:20:951 0 records were writen to database.
+12/09 14:54:30:960 0 records were writen to database.
+12/09 14:54:40:967 0 records were writen to database.
+12/09 14:54:50:975 0 records were writen to database.
+12/09 14:55:00:986 0 records were writen to database.
+12/09 14:55:10:990 0 records were writen to database.
+12/09 14:55:21:000 0 records were writen to database.
+12/09 14:55:31:010 0 records were writen to database.
+12/09 14:55:41:018 0 records were writen to database.
+12/09 14:55:51:028 0 records were writen to database.
+12/09 14:56:01:037 0 records were writen to database.
+12/09 14:56:11:041 0 records were writen to database.
+12/09 14:56:21:048 0 records were writen to database.
+12/09 14:56:31:052 0 records were writen to database.
+12/09 14:56:41:055 0 records were writen to database.
+12/09 14:56:51:059 0 records were writen to database.
+12/09 14:57:01:067 0 records were writen to database.
+12/09 14:57:11:078 0 records were writen to database.
+12/09 14:57:21:082 0 records were writen to database.
+12/09 14:57:31:091 0 records were writen to database.
+12/09 14:57:41:094 0 records were writen to database.
+12/09 14:57:51:100 0 records were writen to database.
+12/09 14:58:01:104 0 records were writen to database.
+12/09 14:58:11:111 0 records were writen to database.
+12/09 14:58:21:138 1 records were writen to database.
+12/09 14:58:31:142 0 records were writen to database.
+12/09 14:58:41:146 0 records were writen to database.
+12/09 14:58:51:148 0 records were writen to database.
+12/09 14:59:01:150 0 records were writen to database.
+12/09 14:59:11:161 0 records were writen to database.
+12/09 14:59:21:163 0 records were writen to database.
+12/09 14:59:31:172 0 records were writen to database.
+12/09 14:59:41:182 0 records were writen to database.
+12/09 14:59:51:191 0 records were writen to database.
+12/09 15:00:01:198 0 records were writen to database.
+12/09 15:00:11:203 0 records were writen to database.
+12/09 15:00:21:213 0 records were writen to database.
+12/09 15:00:31:222 0 records were writen to database.
+12/09 15:00:41:241 1 records were writen to database.
+12/09 15:00:51:245 0 records were writen to database.
+12/09 15:01:01:250 0 records were writen to database.
+12/09 15:01:11:260 0 records were writen to database.
+12/09 15:01:21:040 Command Logs started
+12/09 15:01:21:409 Starting process session
+12/09 15:01:21:658 Total 0 instances are started
+12/09 15:01:21:661 Total 1 instances are added
+12/09 15:01:31:660 0 records were writen to database.
+12/09 15:01:41:670 0 records were writen to database.
+12/09 15:01:51:681 0 records were writen to database.
+12/09 15:02:01:688 0 records were writen to database.
+12/09 15:02:11:690 0 records were writen to database.
+12/09 15:02:21:696 0 records were writen to database.
+12/09 15:02:31:698 0 records were writen to database.
+12/09 15:02:41:709 0 records were writen to database.
+12/09 15:02:51:727 1 records were writen to database.
+12/09 15:03:01:733 0 records were writen to database.
+12/09 15:03:11:735 0 records were writen to database.
+12/09 15:03:21:741 0 records were writen to database.
+12/09 15:03:31:744 0 records were writen to database.
+12/09 15:03:41:753 0 records were writen to database.
+12/09 15:22:59:668 Command Logs started
+12/09 15:22:59:834 Starting process session
+12/09 15:23:01:151 Total 0 instances are started
+12/09 15:23:01:152 Total 1 instances are added
+12/09 15:23:11:158 0 records were writen to database.
+12/09 15:23:21:165 0 records were writen to database.
+12/09 15:23:31:173 0 records were writen to database.
+12/09 15:23:41:183 0 records were writen to database.
+12/09 15:23:51:191 0 records were writen to database.
+12/09 15:24:01:195 0 records were writen to database.
+12/09 15:24:11:202 0 records were writen to database.
+12/09 15:24:21:206 0 records were writen to database.
+12/09 15:24:31:210 0 records were writen to database.
+12/09 15:24:41:215 0 records were writen to database.
+12/09 15:24:51:219 0 records were writen to database.
+12/09 15:25:01:227 0 records were writen to database.
+12/09 15:25:14:655 Command Logs started
+12/09 15:25:14:940 Starting process session
+12/09 15:25:15:233 Total 0 instances are started
+12/09 15:25:15:235 Total 1 instances are added
+12/09 15:25:15:349 Total 0 instances are started
+12/09 15:25:15:357 Total 1 instances are added
+12/09 15:25:16:569 Total 0 instances are started
+12/09 15:25:16:570 Total 1 instances are added
+12/09 15:25:26:579 0 records were writen to database.
+12/09 15:25:38:611 Command Logs started
+12/09 15:25:38:967 Starting process session
+12/09 15:25:39:359 Total 0 instances are started
+12/09 15:25:39:360 Total 1 instances are added
+12/09 15:25:49:366 0 records were writen to database.
+12/09 15:25:59:375 0 records were writen to database.
+12/09 15:26:09:385 0 records were writen to database.
+12/09 15:26:19:389 0 records were writen to database.
+12/09 15:26:29:397 0 records were writen to database.
+12/09 15:26:39:405 0 records were writen to database.
+12/09 15:26:49:415 0 records were writen to database.
+12/09 15:26:59:420 0 records were writen to database.
+12/09 15:27:09:429 0 records were writen to database.
+12/09 15:27:19:469 0 records were writen to database.
+12/09 15:27:29:480 0 records were writen to database.
+12/09 15:27:39:487 0 records were writen to database.
+12/09 15:27:49:490 0 records were writen to database.
+12/09 15:27:59:495 0 records were writen to database.
+12/09 15:28:09:506 0 records were writen to database.
+12/09 15:28:19:508 0 records were writen to database.
+12/09 15:28:29:519 0 records were writen to database.
+12/09 15:28:39:526 0 records were writen to database.
+12/09 15:28:49:536 0 records were writen to database.
+12/09 15:28:59:544 0 records were writen to database.
+12/09 15:29:09:549 0 records were writen to database.
+12/09 15:29:19:558 0 records were writen to database.
+12/09 15:29:29:566 0 records were writen to database.
+12/09 15:29:39:574 0 records were writen to database.
+12/09 15:29:49:583 0 records were writen to database.
+12/09 15:29:59:589 0 records were writen to database.
+12/09 15:30:09:597 0 records were writen to database.
+12/09 15:30:19:605 0 records were writen to database.
+12/09 15:30:29:613 0 records were writen to database.
+12/09 15:30:39:621 0 records were writen to database.
+12/09 15:30:49:630 0 records were writen to database.
+12/09 15:30:59:632 0 records were writen to database.
+12/09 15:31:09:640 0 records were writen to database.
+12/09 15:31:19:646 0 records were writen to database.
+12/09 15:31:29:654 0 records were writen to database.
+12/09 15:31:39:658 0 records were writen to database.
+12/09 15:31:49:669 0 records were writen to database.
+12/09 15:31:59:676 0 records were writen to database.
+12/09 15:32:09:684 0 records were writen to database.
+12/09 15:32:19:688 0 records were writen to database.
+12/09 15:32:29:691 0 records were writen to database.
+12/09 15:32:39:699 0 records were writen to database.
+12/09 15:32:49:707 0 records were writen to database.
+12/09 15:32:59:713 0 records were writen to database.
+12/09 15:33:09:716 0 records were writen to database.
+12/09 15:33:19:725 0 records were writen to database.
+12/09 15:33:29:728 0 records were writen to database.
+12/09 15:33:39:732 0 records were writen to database.
+12/09 15:33:49:740 0 records were writen to database.
+12/09 15:33:59:751 0 records were writen to database.
+12/09 15:34:09:753 0 records were writen to database.
+12/09 15:34:19:756 0 records were writen to database.
+12/09 15:34:29:760 0 records were writen to database.
+12/09 15:34:39:764 0 records were writen to database.
+12/09 15:34:49:775 0 records were writen to database.
+12/09 15:34:59:778 0 records were writen to database.
+12/09 15:35:09:789 0 records were writen to database.
+12/09 15:35:19:795 0 records were writen to database.
+12/09 15:35:29:806 0 records were writen to database.
+12/09 15:35:39:808 0 records were writen to database.
+12/09 15:35:49:815 0 records were writen to database.
+12/09 15:35:59:826 0 records were writen to database.
+12/09 15:36:09:837 0 records were writen to database.
+12/09 15:36:19:843 0 records were writen to database.
+12/09 15:36:29:853 0 records were writen to database.
+12/09 15:36:39:861 0 records were writen to database.
+12/09 15:36:49:864 0 records were writen to database.
+12/09 15:36:59:873 0 records were writen to database.
+12/09 15:37:09:883 0 records were writen to database.
+12/09 15:37:19:890 0 records were writen to database.
+12/09 15:37:29:898 0 records were writen to database.
+12/09 15:37:39:907 0 records were writen to database.
+12/09 15:37:49:909 0 records were writen to database.
+12/09 15:37:59:916 0 records were writen to database.
+12/09 15:38:09:925 0 records were writen to database.
+12/09 15:38:19:935 0 records were writen to database.
+12/09 15:38:29:937 0 records were writen to database.
+12/09 15:38:39:948 0 records were writen to database.
+12/09 15:38:49:951 0 records were writen to database.
+12/09 15:38:59:961 0 records were writen to database.
+12/09 15:39:09:962 0 records were writen to database.
+12/09 15:39:19:968 0 records were writen to database.
+12/09 15:39:29:970 0 records were writen to database.
+12/09 15:39:40:062 0 records were writen to database.
+12/09 15:39:50:070 0 records were writen to database.
+12/09 15:40:00:072 0 records were writen to database.
+12/09 15:40:10:080 0 records were writen to database.
+12/09 15:40:20:081 0 records were writen to database.
+12/09 15:40:30:095 0 records were writen to database.
+12/09 15:40:40:098 0 records were writen to database.
+12/09 15:40:50:104 0 records were writen to database.
+12/09 15:41:00:112 0 records were writen to database.
+12/09 15:41:10:117 0 records were writen to database.
+12/09 15:41:20:125 0 records were writen to database.
+12/09 15:41:30:132 0 records were writen to database.
+12/09 15:41:40:142 0 records were writen to database.
+12/09 15:41:50:148 0 records were writen to database.
+12/09 15:42:00:151 0 records were writen to database.
+12/09 15:42:10:158 0 records were writen to database.
+12/09 15:42:20:160 0 records were writen to database.
+12/09 15:42:30:164 0 records were writen to database.
+12/09 15:42:40:168 0 records were writen to database.
+12/09 15:42:50:176 0 records were writen to database.
+12/09 15:43:00:181 0 records were writen to database.
+12/09 15:43:10:187 0 records were writen to database.
+12/09 15:43:20:189 0 records were writen to database.
+12/09 15:43:30:196 0 records were writen to database.
+12/09 15:43:40:203 0 records were writen to database.
+12/09 15:43:50:212 0 records were writen to database.
+12/09 15:44:00:218 0 records were writen to database.
+12/09 15:44:10:226 0 records were writen to database.
+12/09 15:44:20:233 0 records were writen to database.
+12/09 15:44:30:243 0 records were writen to database.
+12/09 15:44:40:253 0 records were writen to database.
+12/09 15:44:50:259 0 records were writen to database.
+12/09 15:45:00:269 0 records were writen to database.
+12/09 15:45:10:277 0 records were writen to database.
+12/09 15:45:20:284 0 records were writen to database.
+12/09 16:10:54:807 Command Logs started
+12/09 16:10:55:017 Starting process session
+12/09 16:10:55:120 Total 0 instances are started
+12/09 16:10:55:120 Total 1 instances are added
+12/09 16:10:57:179 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:10:57:179 Consumer was closed, reconnect.
+12/09 16:10:57:287 Total 0 instances are started
+12/09 16:10:57:288 Total 1 instances are added
+12/09 16:10:58:317 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:10:58:317 Consumer was closed, reconnect.
+12/09 16:10:58:423 Total 0 instances are started
+12/09 16:10:58:424 Total 1 instances are added
+12/09 16:10:59:474 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:10:59:475 Consumer was closed, reconnect.
+12/09 16:10:59:577 Total 0 instances are started
+12/09 16:10:59:577 Total 1 instances are added
+12/09 16:11:00:704 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:11:00:704 Consumer was closed, reconnect.
+12/09 16:11:00:808 Total 0 instances are started
+12/09 16:11:00:808 Total 1 instances are added
+12/09 16:11:01:837 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:11:01:837 Consumer was closed, reconnect.
+12/09 16:11:01:953 Total 0 instances are started
+12/09 16:11:01:953 Total 1 instances are added
+12/09 16:11:03:045 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:11:03:046 Consumer was closed, reconnect.
+12/09 16:11:03:154 Total 0 instances are started
+12/09 16:11:03:154 Total 1 instances are added
+12/09 16:11:04:181 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:11:04:181 Consumer was closed, reconnect.
+12/09 16:11:04:291 Total 0 instances are started
+12/09 16:11:04:291 Total 1 instances are added
+12/09 16:11:05:323 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:11:05:323 Consumer was closed, reconnect.
+12/09 16:11:05:432 Total 0 instances are started
+12/09 16:11:05:433 Total 1 instances are added
+12/09 16:11:06:459 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:11:06:459 Consumer was closed, reconnect.
+12/09 16:11:06:563 Total 0 instances are started
+12/09 16:11:06:563 Total 1 instances are added
+12/09 16:11:07:595 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:11:07:595 Consumer was closed, reconnect.
+12/09 16:11:07:696 Total 0 instances are started
+12/09 16:11:07:696 Total 1 instances are added
+12/09 16:11:08:709 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:11:08:709 Consumer was closed, reconnect.
+12/09 16:11:08:817 Total 0 instances are started
+12/09 16:11:09:074 Total 1 instances are added
+12/09 16:11:09:843 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:11:09:844 Consumer was closed, reconnect.
+12/09 16:11:09:949 Total 0 instances are started
+12/09 16:11:09:949 Total 1 instances are added
+12/09 16:11:10:991 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:11:10:991 Consumer was closed, reconnect.
+12/09 16:11:11:100 Total 0 instances are started
+12/09 16:11:11:100 Total 1 instances are added
+12/09 16:11:12:115 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:11:12:115 Consumer was closed, reconnect.
+12/09 16:11:12:215 Total 0 instances are started
+12/09 16:11:12:216 Total 1 instances are added
+12/09 16:11:13:227 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:11:13:228 Consumer was closed, reconnect.
+12/09 16:11:13:336 Total 0 instances are started
+12/09 16:11:13:336 Total 1 instances are added
+12/09 16:11:14:355 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:11:14:355 Consumer was closed, reconnect.
+12/09 16:11:14:457 Total 0 instances are started
+12/09 16:11:14:457 Total 1 instances are added
+12/09 16:11:15:489 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:11:15:489 Consumer was closed, reconnect.
+12/09 16:11:15:597 Total 0 instances are started
+12/09 16:11:15:597 Total 1 instances are added
+12/09 16:11:16:628 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:11:16:629 Consumer was closed, reconnect.
+12/09 16:11:16:737 Total 0 instances are started
+12/09 16:11:16:737 Total 1 instances are added
+12/09 16:11:17:759 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:11:17:759 Consumer was closed, reconnect.
+12/09 16:11:17:863 Total 0 instances are started
+12/09 16:11:17:863 Total 1 instances are added
+12/09 16:11:18:877 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:11:18:877 Consumer was closed, reconnect.
+12/09 16:11:18:985 Total 0 instances are started
+12/09 16:11:18:985 Total 1 instances are added
+12/09 16:11:20:002 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:11:20:002 Consumer was closed, reconnect.
+12/09 16:11:20:106 Total 0 instances are started
+12/09 16:11:20:106 Total 1 instances are added
+12/09 16:11:21:145 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:11:21:145 Consumer was closed, reconnect.
+12/09 16:11:21:247 Total 0 instances are started
+12/09 16:11:21:247 Total 1 instances are added
+12/09 16:11:22:820 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:11:22:820 Consumer was closed, reconnect.
+12/09 16:11:22:928 Total 0 instances are started
+12/09 16:11:22:928 Total 1 instances are added
+12/09 16:11:23:969 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:11:23:970 Consumer was closed, reconnect.
+12/09 16:11:24:079 Total 0 instances are started
+12/09 16:11:24:079 Total 1 instances are added
+12/09 16:11:25:113 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:11:25:113 Consumer was closed, reconnect.
+12/09 16:11:25:215 Total 0 instances are started
+12/09 16:11:25:215 Total 1 instances are added
+12/09 16:11:26:232 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:11:26:232 Consumer was closed, reconnect.
+12/09 16:11:26:335 Total 0 instances are started
+12/09 16:11:26:335 Total 1 instances are added
+12/09 16:11:27:351 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:11:27:351 Consumer was closed, reconnect.
+12/09 16:11:27:457 Total 0 instances are started
+12/09 16:11:27:457 Total 1 instances are added
+12/09 16:11:28:475 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:11:28:475 Consumer was closed, reconnect.
+12/09 16:11:28:577 Total 0 instances are started
+12/09 16:11:28:577 Total 1 instances are added
+12/09 16:11:29:613 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:11:29:613 Consumer was closed, reconnect.
+12/09 16:11:29:717 Total 0 instances are started
+12/09 16:11:29:717 Total 1 instances are added
+12/09 16:11:30:730 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:11:30:730 Consumer was closed, reconnect.
+12/09 16:11:30:837 Total 0 instances are started
+12/09 16:11:30:908 Total 1 instances are added
+12/09 16:11:31:846 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:11:31:847 Consumer was closed, reconnect.
+12/09 16:11:31:956 Total 0 instances are started
+12/09 16:11:31:956 Total 1 instances are added
+12/09 16:11:32:982 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:11:32:982 Consumer was closed, reconnect.
+12/09 16:11:33:088 Total 0 instances are started
+12/09 16:11:33:088 Total 1 instances are added
+12/09 16:11:34:115 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:11:34:115 Consumer was closed, reconnect.
+12/09 16:11:34:224 Total 0 instances are started
+12/09 16:11:34:224 Total 1 instances are added
+12/09 16:11:35:274 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:11:35:274 Consumer was closed, reconnect.
+12/09 16:11:35:385 Total 0 instances are started
+12/09 16:11:35:386 Total 1 instances are added
+12/09 16:11:36:416 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:11:36:417 Consumer was closed, reconnect.
+12/09 16:11:36:522 Total 0 instances are started
+12/09 16:11:36:523 Total 1 instances are added
+12/09 16:11:37:561 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:11:37:562 Consumer was closed, reconnect.
+12/09 16:11:37:669 Total 0 instances are started
+12/09 16:11:37:669 Total 1 instances are added
+12/09 16:11:38:691 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:11:38:692 Consumer was closed, reconnect.
+12/09 16:11:38:796 Total 0 instances are started
+12/09 16:11:38:796 Total 1 instances are added
+12/09 16:11:39:815 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:11:39:816 Consumer was closed, reconnect.
+12/09 16:11:39:922 Total 0 instances are started
+12/09 16:11:39:922 Total 1 instances are added
+12/09 16:11:40:958 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:11:40:959 Consumer was closed, reconnect.
+12/09 16:11:41:065 Total 0 instances are started
+12/09 16:11:41:066 Total 1 instances are added
+12/09 16:11:42:092 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:11:42:092 Consumer was closed, reconnect.
+12/09 16:11:42:200 Total 0 instances are started
+12/09 16:11:42:201 Total 1 instances are added
+12/09 16:11:43:224 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:11:43:224 Consumer was closed, reconnect.
+12/09 16:11:43:325 Total 0 instances are started
+12/09 16:11:43:326 Total 1 instances are added
+12/09 16:11:44:351 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:11:44:352 Consumer was closed, reconnect.
+12/09 16:11:44:454 Total 0 instances are started
+12/09 16:11:44:501 Total 1 instances are added
+12/09 16:11:45:471 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:11:45:471 Consumer was closed, reconnect.
+12/09 16:11:45:576 Total 0 instances are started
+12/09 16:11:45:577 Total 1 instances are added
+12/09 16:11:46:597 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:11:46:598 Consumer was closed, reconnect.
+12/09 16:11:46:704 Total 0 instances are started
+12/09 16:11:46:705 Total 1 instances are added
+12/09 16:11:47:729 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:11:47:729 Consumer was closed, reconnect.
+12/09 16:11:47:840 Total 0 instances are started
+12/09 16:11:47:841 Total 1 instances are added
+12/09 16:11:49:041 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:11:49:042 Consumer was closed, reconnect.
+12/09 16:11:49:146 Total 0 instances are started
+12/09 16:11:49:147 Total 1 instances are added
+12/09 16:11:50:161 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:11:50:162 Consumer was closed, reconnect.
+12/09 16:11:50:263 Total 0 instances are started
+12/09 16:11:50:264 Total 1 instances are added
+12/09 16:11:51:287 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:11:51:287 Consumer was closed, reconnect.
+12/09 16:11:51:390 Total 0 instances are started
+12/09 16:11:51:391 Total 1 instances are added
+12/09 16:11:52:420 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:11:52:421 Consumer was closed, reconnect.
+12/09 16:11:52:531 Total 0 instances are started
+12/09 16:11:52:531 Total 1 instances are added
+12/09 16:11:53:559 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:11:53:559 Consumer was closed, reconnect.
+12/09 16:11:53:663 Total 0 instances are started
+12/09 16:11:53:664 Total 1 instances are added
+12/09 16:11:54:712 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:11:54:713 Consumer was closed, reconnect.
+12/09 16:11:54:816 Total 0 instances are started
+12/09 16:11:54:972 Total 1 instances are added
+12/09 16:11:55:845 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:11:55:845 Consumer was closed, reconnect.
+12/09 16:11:55:947 Total 0 instances are started
+12/09 16:11:55:947 Total 1 instances are added
+12/09 16:11:56:989 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:11:56:990 Consumer was closed, reconnect.
+12/09 16:11:57:093 Total 0 instances are started
+12/09 16:11:57:093 Total 1 instances are added
+12/09 16:11:58:121 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:11:58:121 Consumer was closed, reconnect.
+12/09 16:11:58:226 Total 0 instances are started
+12/09 16:11:58:227 Total 1 instances are added
+12/09 16:11:59:235 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:11:59:236 Consumer was closed, reconnect.
+12/09 16:11:59:344 Total 0 instances are started
+12/09 16:11:59:344 Total 1 instances are added
+12/09 16:12:00:370 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:12:00:371 Consumer was closed, reconnect.
+12/09 16:12:00:472 Total 0 instances are started
+12/09 16:12:00:472 Total 1 instances are added
+12/09 16:12:01:493 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:12:01:493 Consumer was closed, reconnect.
+12/09 16:12:01:600 Total 0 instances are started
+12/09 16:12:01:601 Total 1 instances are added
+12/09 16:12:02:622 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:12:02:623 Consumer was closed, reconnect.
+12/09 16:12:02:735 Total 0 instances are started
+12/09 16:12:02:736 Total 1 instances are added
+12/09 16:12:03:761 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:12:03:761 Consumer was closed, reconnect.
+12/09 16:12:03:868 Total 0 instances are started
+12/09 16:12:03:868 Total 1 instances are added
+12/09 16:12:05:094 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:12:05:094 Consumer was closed, reconnect.
+12/09 16:12:05:199 Total 0 instances are started
+12/09 16:12:05:199 Total 1 instances are added
+12/09 16:12:06:281 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:12:06:282 Consumer was closed, reconnect.
+12/09 16:12:06:391 Total 0 instances are started
+12/09 16:12:06:391 Total 1 instances are added
+12/09 16:12:07:413 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:12:07:414 Consumer was closed, reconnect.
+12/09 16:12:07:522 Total 0 instances are started
+12/09 16:12:07:522 Total 1 instances are added
+12/09 16:12:08:550 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:12:08:551 Consumer was closed, reconnect.
+12/09 16:12:08:654 Total 0 instances are started
+12/09 16:12:08:654 Total 1 instances are added
+12/09 16:12:09:680 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:12:09:680 Consumer was closed, reconnect.
+12/09 16:12:09:785 Total 0 instances are started
+12/09 16:12:09:785 Total 1 instances are added
+12/09 16:12:10:809 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:12:10:810 Consumer was closed, reconnect.
+12/09 16:12:10:913 Total 0 instances are started
+12/09 16:12:10:987 Total 1 instances are added
+12/09 16:12:11:934 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:12:11:934 Consumer was closed, reconnect.
+12/09 16:12:12:043 Total 0 instances are started
+12/09 16:12:12:044 Total 1 instances are added
+12/09 16:12:13:069 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:12:13:069 Consumer was closed, reconnect.
+12/09 16:12:13:178 Total 0 instances are started
+12/09 16:12:13:178 Total 1 instances are added
+12/09 16:12:14:191 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:12:14:192 Consumer was closed, reconnect.
+12/09 16:12:14:301 Total 0 instances are started
+12/09 16:12:14:302 Total 1 instances are added
+12/09 16:12:15:323 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:12:15:324 Consumer was closed, reconnect.
+12/09 16:12:15:427 Total 0 instances are started
+12/09 16:12:15:428 Total 1 instances are added
+12/09 16:12:16:446 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:12:16:447 Consumer was closed, reconnect.
+12/09 16:12:16:554 Total 0 instances are started
+12/09 16:12:16:554 Total 1 instances are added
+12/09 16:12:17:579 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:12:17:579 Consumer was closed, reconnect.
+12/09 16:12:17:689 Total 0 instances are started
+12/09 16:12:17:689 Total 1 instances are added
+12/09 16:12:18:702 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:12:18:702 Consumer was closed, reconnect.
+12/09 16:12:18:804 Total 0 instances are started
+12/09 16:12:18:804 Total 1 instances are added
+12/09 16:12:19:821 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:12:19:822 Consumer was closed, reconnect.
+12/09 16:12:19:933 Total 0 instances are started
+12/09 16:12:19:934 Total 1 instances are added
+12/09 16:12:21:025 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:12:21:025 Consumer was closed, reconnect.
+12/09 16:12:21:127 Total 0 instances are started
+12/09 16:12:21:127 Total 1 instances are added
+12/09 16:12:22:151 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:12:22:152 Consumer was closed, reconnect.
+12/09 16:12:22:254 Total 0 instances are started
+12/09 16:12:22:254 Total 1 instances are added
+12/09 16:12:23:285 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:12:23:285 Consumer was closed, reconnect.
+12/09 16:12:23:388 Total 0 instances are started
+12/09 16:12:23:388 Total 1 instances are added
+12/09 16:12:24:413 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:12:24:414 Consumer was closed, reconnect.
+12/09 16:12:24:520 Total 0 instances are started
+12/09 16:12:24:520 Total 1 instances are added
+12/09 16:12:25:562 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:12:25:562 Consumer was closed, reconnect.
+12/09 16:12:25:672 Total 0 instances are started
+12/09 16:12:25:672 Total 1 instances are added
+12/09 16:12:27:207 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:12:27:208 Consumer was closed, reconnect.
+12/09 16:12:27:318 Total 0 instances are started
+12/09 16:12:27:318 Total 1 instances are added
+12/09 16:12:28:346 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:12:28:346 Consumer was closed, reconnect.
+12/09 16:12:28:452 Total 0 instances are started
+12/09 16:12:28:453 Total 1 instances are added
+12/09 16:12:29:484 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:12:29:485 Consumer was closed, reconnect.
+12/09 16:12:29:587 Total 0 instances are started
+12/09 16:12:29:588 Total 1 instances are added
+12/09 16:12:30:615 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:12:30:615 Consumer was closed, reconnect.
+12/09 16:12:30:718 Total 0 instances are started
+12/09 16:12:30:718 Total 1 instances are added
+12/09 16:12:31:729 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:12:31:730 Consumer was closed, reconnect.
+12/09 16:12:31:834 Total 0 instances are started
+12/09 16:12:31:835 Total 1 instances are added
+12/09 16:12:32:943 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:12:32:944 Consumer was closed, reconnect.
+12/09 16:12:33:053 Total 0 instances are started
+12/09 16:12:33:053 Total 1 instances are added
+12/09 16:12:34:091 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:12:34:091 Consumer was closed, reconnect.
+12/09 16:12:34:199 Total 0 instances are started
+12/09 16:12:34:199 Total 1 instances are added
+12/09 16:12:35:216 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:12:35:216 Consumer was closed, reconnect.
+12/09 16:12:35:327 Total 0 instances are started
+12/09 16:12:35:327 Total 1 instances are added
+12/09 16:12:36:353 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:12:36:354 Consumer was closed, reconnect.
+12/09 16:12:36:454 Total 0 instances are started
+12/09 16:12:36:455 Total 1 instances are added
+12/09 16:12:37:479 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:12:37:480 Consumer was closed, reconnect.
+12/09 16:12:37:580 Total 0 instances are started
+12/09 16:12:37:583 Total 1 instances are added
+12/09 16:12:38:605 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:12:38:605 Consumer was closed, reconnect.
+12/09 16:12:38:715 Total 0 instances are started
+12/09 16:12:38:716 Total 1 instances are added
+12/09 16:12:39:730 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:12:39:731 Consumer was closed, reconnect.
+12/09 16:12:39:838 Total 0 instances are started
+12/09 16:12:39:839 Total 1 instances are added
+12/09 16:12:40:945 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:12:40:946 Consumer was closed, reconnect.
+12/09 16:12:41:054 Total 0 instances are started
+12/09 16:12:41:055 Total 1 instances are added
+12/09 16:12:42:066 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:12:42:067 Consumer was closed, reconnect.
+12/09 16:12:42:177 Total 0 instances are started
+12/09 16:12:42:177 Total 1 instances are added
+12/09 16:12:43:193 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:12:43:193 Consumer was closed, reconnect.
+12/09 16:12:43:309 Total 0 instances are started
+12/09 16:12:43:309 Total 1 instances are added
+12/09 16:12:44:350 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:12:44:351 Consumer was closed, reconnect.
+12/09 16:12:44:466 Total 0 instances are started
+12/09 16:12:44:466 Total 1 instances are added
+12/09 16:12:45:493 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:12:45:493 Consumer was closed, reconnect.
+12/09 16:12:45:598 Total 0 instances are started
+12/09 16:12:45:599 Total 1 instances are added
+12/09 16:12:46:615 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:12:46:615 Consumer was closed, reconnect.
+12/09 16:12:46:718 Total 0 instances are started
+12/09 16:12:46:719 Total 1 instances are added
+12/09 16:12:47:735 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:12:47:739 Consumer was closed, reconnect.
+12/09 16:12:47:849 Total 0 instances are started
+12/09 16:12:47:849 Total 1 instances are added
+12/09 16:12:48:885 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:12:48:885 Consumer was closed, reconnect.
+12/09 16:12:48:992 Total 0 instances are started
+12/09 16:12:49:020 Total 1 instances are added
+12/09 16:12:50:020 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:12:50:020 Consumer was closed, reconnect.
+12/09 16:12:50:123 Total 0 instances are started
+12/09 16:12:50:123 Total 1 instances are added
+12/09 16:12:51:169 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:12:51:170 Consumer was closed, reconnect.
+12/09 16:12:51:274 Total 0 instances are started
+12/09 16:12:51:275 Total 1 instances are added
+12/09 16:12:52:300 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:12:52:301 Consumer was closed, reconnect.
+12/09 16:12:52:408 Total 0 instances are started
+12/09 16:12:52:409 Total 1 instances are added
+12/09 16:12:53:417 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:12:53:417 Consumer was closed, reconnect.
+12/09 16:12:53:523 Total 0 instances are started
+12/09 16:12:53:524 Total 1 instances are added
+12/09 16:12:54:553 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:12:54:554 Consumer was closed, reconnect.
+12/09 16:12:54:660 Total 0 instances are started
+12/09 16:12:54:660 Total 1 instances are added
+12/09 16:12:55:684 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:12:55:685 Consumer was closed, reconnect.
+12/09 16:12:55:786 Total 0 instances are started
+12/09 16:12:55:786 Total 1 instances are added
+12/09 16:12:56:807 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:12:56:807 Consumer was closed, reconnect.
+12/09 16:12:56:909 Total 0 instances are started
+12/09 16:12:57:003 Total 1 instances are added
+12/09 16:12:57:929 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:12:57:929 Consumer was closed, reconnect.
+12/09 16:12:58:037 Total 0 instances are started
+12/09 16:12:58:037 Total 1 instances are added
+12/09 16:12:59:061 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:12:59:061 Consumer was closed, reconnect.
+12/09 16:12:59:168 Total 0 instances are started
+12/09 16:12:59:168 Total 1 instances are added
+12/09 16:13:00:223 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:13:00:223 Consumer was closed, reconnect.
+12/09 16:13:00:328 Total 0 instances are started
+12/09 16:13:00:329 Total 1 instances are added
+12/09 16:13:01:348 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:13:01:349 Consumer was closed, reconnect.
+12/09 16:13:01:456 Total 0 instances are started
+12/09 16:13:01:457 Total 1 instances are added
+12/09 16:13:02:473 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:13:02:473 Consumer was closed, reconnect.
+12/09 16:13:02:582 Total 0 instances are started
+12/09 16:13:02:583 Total 1 instances are added
+12/09 16:13:03:617 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:13:03:618 Consumer was closed, reconnect.
+12/09 16:13:03:719 Total 0 instances are started
+12/09 16:13:03:720 Total 1 instances are added
+12/09 16:13:04:747 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:13:04:748 Consumer was closed, reconnect.
+12/09 16:13:04:849 Total 0 instances are started
+12/09 16:13:05:015 Total 1 instances are added
+12/09 16:13:05:877 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:13:05:877 Consumer was closed, reconnect.
+12/09 16:13:05:987 Total 0 instances are started
+12/09 16:13:05:988 Total 1 instances are added
+12/09 16:13:06:098 Total 0 instances are started
+12/09 16:13:06:098 Total 1 instances are added
+12/09 16:13:07:116 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:13:07:118 Consumer was closed, reconnect.
+12/09 16:13:07:227 Total 0 instances are started
+12/09 16:13:07:227 Total 1 instances are added
+12/09 16:13:08:255 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:13:08:255 Consumer was closed, reconnect.
+12/09 16:13:08:364 Total 0 instances are started
+12/09 16:13:08:364 Total 1 instances are added
+12/09 16:13:09:387 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:13:09:387 Consumer was closed, reconnect.
+12/09 16:13:09:491 Total 0 instances are started
+12/09 16:13:09:491 Total 1 instances are added
+12/09 16:13:10:534 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:13:10:535 Consumer was closed, reconnect.
+12/09 16:13:10:642 Total 0 instances are started
+12/09 16:13:10:642 Total 1 instances are added
+12/09 16:13:11:675 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:13:11:676 Consumer was closed, reconnect.
+12/09 16:13:11:784 Total 0 instances are started
+12/09 16:13:11:784 Total 1 instances are added
+12/09 16:13:12:809 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:13:12:809 Consumer was closed, reconnect.
+12/09 16:13:12:915 Total 0 instances are started
+12/09 16:13:12:915 Total 1 instances are added
+12/09 16:13:13:950 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:13:13:950 Consumer was closed, reconnect.
+12/09 16:13:14:057 Total 0 instances are started
+12/09 16:13:14:058 Total 1 instances are added
+12/09 16:13:15:093 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:13:15:094 Consumer was closed, reconnect.
+12/09 16:13:15:199 Total 0 instances are started
+12/09 16:13:15:199 Total 1 instances are added
+12/09 16:13:16:220 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:13:16:220 Consumer was closed, reconnect.
+12/09 16:13:16:331 Total 0 instances are started
+12/09 16:13:16:331 Total 1 instances are added
+12/09 16:13:17:349 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:13:17:350 Consumer was closed, reconnect.
+12/09 16:13:17:452 Total 0 instances are started
+12/09 16:13:17:453 Total 1 instances are added
+12/09 16:13:18:483 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:13:18:483 Consumer was closed, reconnect.
+12/09 16:13:18:589 Total 0 instances are started
+12/09 16:13:18:718 Total 1 instances are added
+12/09 16:13:19:611 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:13:19:611 Consumer was closed, reconnect.
+12/09 16:13:19:719 Total 0 instances are started
+12/09 16:13:19:720 Total 1 instances are added
+12/09 16:13:20:782 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:13:20:783 Consumer was closed, reconnect.
+12/09 16:13:20:884 Total 0 instances are started
+12/09 16:13:20:885 Total 1 instances are added
+12/09 16:13:21:909 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:13:21:910 Consumer was closed, reconnect.
+12/09 16:13:22:015 Total 0 instances are started
+12/09 16:13:22:016 Total 1 instances are added
+12/09 16:13:23:233 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:13:23:234 Consumer was closed, reconnect.
+12/09 16:13:23:343 Total 0 instances are started
+12/09 16:13:23:343 Total 1 instances are added
+12/09 16:13:24:359 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:13:24:360 Consumer was closed, reconnect.
+12/09 16:13:24:465 Total 0 instances are started
+12/09 16:13:24:466 Total 1 instances are added
+12/09 16:13:38:035 0 records were writen to database.
+12/09 16:13:48:043 0 records were writen to database.
+12/09 16:13:58:053 0 records were writen to database.
+12/09 16:14:08:056 0 records were writen to database.
+12/09 16:14:18:060 0 records were writen to database.
+12/09 16:14:28:071 0 records were writen to database.
+12/09 16:14:38:072 0 records were writen to database.
+12/09 16:14:48:081 0 records were writen to database.
+12/09 16:14:58:082 0 records were writen to database.
+12/09 16:15:08:091 0 records were writen to database.
+12/09 16:15:18:099 0 records were writen to database.
+12/09 16:15:28:108 0 records were writen to database.
+12/09 16:15:38:115 0 records were writen to database.
+12/09 16:15:48:120 0 records were writen to database.
+12/09 16:15:58:129 0 records were writen to database.
+12/09 16:16:08:133 0 records were writen to database.
+12/09 16:16:18:137 0 records were writen to database.
+12/09 16:16:28:146 0 records were writen to database.
+12/09 16:16:38:150 0 records were writen to database.
+12/09 16:16:48:158 0 records were writen to database.
+12/09 16:16:58:168 0 records were writen to database.
+12/09 16:17:10:171 0 records were writen to database.
+12/09 16:17:20:181 0 records were writen to database.
+12/09 16:17:30:182 0 records were writen to database.
+12/09 16:17:40:183 0 records were writen to database.
+12/09 16:17:50:187 0 records were writen to database.
+12/09 16:18:00:192 0 records were writen to database.
+12/09 16:18:10:197 0 records were writen to database.
+12/09 16:18:20:201 0 records were writen to database.
+12/09 16:18:30:202 0 records were writen to database.
+12/09 16:18:40:204 0 records were writen to database.
+12/09 16:18:50:205 0 records were writen to database.
+12/09 16:19:08:151 Command Logs started
+12/09 16:19:08:424 Starting process session
+12/09 16:19:08:550 Total 0 instances are started
+12/09 16:19:08:555 Total 1 instances are added
+12/09 16:19:18:554 0 records were writen to database.
+12/09 16:19:28:564 0 records were writen to database.
+12/09 16:19:38:569 0 records were writen to database.
+12/09 16:19:48:579 0 records were writen to database.
+12/09 16:19:58:585 0 records were writen to database.
+12/09 16:20:08:588 0 records were writen to database.
+12/09 16:20:18:595 0 records were writen to database.
+12/09 16:20:28:602 0 records were writen to database.
+12/09 16:20:38:610 0 records were writen to database.
+12/09 16:20:48:619 0 records were writen to database.
+12/09 16:20:58:630 0 records were writen to database.
+12/09 16:21:08:639 0 records were writen to database.
+12/09 16:21:18:644 0 records were writen to database.
+12/09 16:21:28:648 0 records were writen to database.
+12/09 16:21:38:654 0 records were writen to database.
+12/09 16:21:48:663 0 records were writen to database.
+12/09 16:21:58:669 0 records were writen to database.
+12/09 16:22:08:680 0 records were writen to database.
+12/09 16:22:18:682 0 records were writen to database.
+12/09 16:22:28:693 0 records were writen to database.
+12/09 16:22:38:701 0 records were writen to database.
+12/09 16:22:48:712 0 records were writen to database.
+12/09 16:22:58:716 0 records were writen to database.
+12/09 16:23:08:725 0 records were writen to database.
+12/09 16:23:18:731 0 records were writen to database.
+12/09 16:23:28:734 0 records were writen to database.
+12/09 16:23:38:739 0 records were writen to database.
+12/09 16:23:48:747 0 records were writen to database.
+12/09 16:23:58:755 0 records were writen to database.
+12/09 16:24:08:762 0 records were writen to database.
+12/09 16:24:18:768 0 records were writen to database.
+12/09 16:24:28:776 0 records were writen to database.
+12/09 16:24:38:781 0 records were writen to database.
+12/09 16:24:48:789 0 records were writen to database.
+12/09 16:24:58:800 0 records were writen to database.
+12/09 16:25:08:808 0 records were writen to database.
+12/09 16:25:18:817 0 records were writen to database.
+12/09 16:25:28:828 0 records were writen to database.
+12/09 16:25:38:836 0 records were writen to database.
+12/09 16:25:48:837 0 records were writen to database.
+12/09 16:25:58:843 0 records were writen to database.
+12/09 16:26:08:849 0 records were writen to database.
+12/09 16:26:18:856 0 records were writen to database.
+12/09 16:26:28:866 0 records were writen to database.
+12/09 16:26:38:868 0 records were writen to database.
+12/09 16:26:48:870 0 records were writen to database.
+12/09 16:26:58:874 0 records were writen to database.
+12/09 16:27:08:878 0 records were writen to database.
+12/09 16:27:18:883 0 records were writen to database.
+12/09 16:27:28:892 0 records were writen to database.
+12/09 16:27:38:894 0 records were writen to database.
+12/09 16:27:48:896 0 records were writen to database.
+12/09 16:27:58:903 0 records were writen to database.
+12/09 16:28:08:912 0 records were writen to database.
+12/09 16:28:18:914 0 records were writen to database.
+12/09 16:28:28:921 0 records were writen to database.
+12/09 16:28:38:931 0 records were writen to database.
+12/09 16:28:48:934 0 records were writen to database.
+12/09 16:28:58:940 0 records were writen to database.
+12/09 16:29:08:945 0 records were writen to database.
+12/09 16:29:18:952 0 records were writen to database.
+12/09 16:29:28:954 0 records were writen to database.
+12/09 16:29:38:961 0 records were writen to database.
+12/09 16:29:48:968 0 records were writen to database.
+12/09 16:29:58:976 0 records were writen to database.
+12/09 16:30:08:978 0 records were writen to database.
+12/09 16:30:18:986 0 records were writen to database.
+12/09 16:30:28:995 0 records were writen to database.
+12/09 16:30:39:003 0 records were writen to database.
+12/09 16:30:49:010 0 records were writen to database.
+12/09 16:30:59:012 0 records were writen to database.
+12/09 16:31:09:017 0 records were writen to database.
+12/09 16:31:19:022 0 records were writen to database.
+12/09 16:31:29:028 0 records were writen to database.
+12/09 16:31:39:038 0 records were writen to database.
+12/09 16:31:49:039 0 records were writen to database.
+12/09 16:31:59:044 0 records were writen to database.
+12/09 16:32:09:048 0 records were writen to database.
+12/09 16:32:19:053 0 records were writen to database.
+12/09 16:32:29:055 0 records were writen to database.
+12/09 16:32:39:060 0 records were writen to database.
+12/09 16:32:49:063 0 records were writen to database.
+12/09 16:32:59:069 0 records were writen to database.
+12/09 16:33:09:079 0 records were writen to database.
+12/09 16:33:34:872 Command Logs started
+12/09 16:33:35:208 Starting process session
+12/09 16:33:35:379 Total 0 instances are started
+12/09 16:33:35:379 Total 1 instances are added
+12/09 16:33:45:380 0 records were writen to database.
+12/09 16:33:55:388 0 records were writen to database.
+12/09 16:34:05:397 0 records were writen to database.
+12/09 16:34:15:399 0 records were writen to database.
+12/09 16:34:25:409 0 records were writen to database.
+12/09 16:34:35:420 0 records were writen to database.
+12/09 16:34:45:426 0 records were writen to database.
+12/09 16:34:55:428 0 records were writen to database.
+12/09 16:35:05:433 0 records were writen to database.
+12/09 16:35:15:439 0 records were writen to database.
+12/09 16:35:25:446 0 records were writen to database.
+12/09 16:35:35:448 0 records were writen to database.
+12/09 16:35:45:458 0 records were writen to database.
+12/09 16:35:55:467 0 records were writen to database.
+12/09 16:36:05:473 0 records were writen to database.
+12/09 16:36:15:479 0 records were writen to database.
+12/09 16:36:25:490 0 records were writen to database.
+12/09 16:36:47:390 Command Logs started
+12/09 16:36:47:674 Starting process session
+12/09 16:36:48:583 Total 0 instances are started
+12/09 16:36:48:584 Total 1 instances are added
+12/09 16:36:58:591 0 records were writen to database.
+12/09 16:37:08:602 0 records were writen to database.
+12/09 16:37:18:611 0 records were writen to database.
+12/09 16:37:28:619 0 records were writen to database.
+12/09 16:37:38:626 0 records were writen to database.
+12/09 16:37:48:629 0 records were writen to database.
+12/09 16:37:58:636 0 records were writen to database.
+12/09 16:38:08:638 0 records were writen to database.
+12/09 16:38:18:644 0 records were writen to database.
+12/09 16:38:28:654 0 records were writen to database.
+12/09 16:38:38:662 0 records were writen to database.
+12/09 16:38:48:672 0 records were writen to database.
+12/09 16:38:58:674 0 records were writen to database.
+12/09 16:39:08:678 0 records were writen to database.
+12/09 16:39:18:680 0 records were writen to database.
+12/09 16:39:28:688 0 records were writen to database.
+12/09 16:39:38:699 0 records were writen to database.
+12/09 16:39:48:707 0 records were writen to database.
+12/09 16:39:58:715 0 records were writen to database.
+12/09 16:40:08:725 0 records were writen to database.
+12/09 16:40:18:734 0 records were writen to database.
+12/09 16:40:28:741 0 records were writen to database.
+12/09 16:40:38:748 0 records were writen to database.
+12/09 16:40:48:758 0 records were writen to database.
+12/09 16:40:58:761 0 records were writen to database.
+12/09 16:41:08:764 0 records were writen to database.
+12/09 16:41:18:768 0 records were writen to database.
+12/09 16:41:28:770 0 records were writen to database.
+12/09 16:41:38:776 0 records were writen to database.
+12/09 16:41:48:787 0 records were writen to database.
+12/09 16:41:58:789 0 records were writen to database.
+12/09 16:42:08:796 0 records were writen to database.
+12/09 16:42:18:799 0 records were writen to database.
+12/09 16:42:28:807 0 records were writen to database.
+12/09 16:42:38:815 0 records were writen to database.
+12/09 16:42:48:818 0 records were writen to database.
+12/09 16:42:58:820 0 records were writen to database.
+12/09 16:43:08:831 0 records were writen to database.
+12/09 16:43:18:834 0 records were writen to database.
+12/09 16:43:28:838 0 records were writen to database.
+12/09 16:43:38:842 0 records were writen to database.
+12/09 16:43:48:853 0 records were writen to database.
+12/09 16:43:58:860 0 records were writen to database.
+12/09 16:44:08:867 0 records were writen to database.
+12/09 16:44:18:875 0 records were writen to database.
+12/09 16:44:28:886 0 records were writen to database.
+12/09 16:44:38:891 0 records were writen to database.
+12/09 16:44:48:895 0 records were writen to database.
+12/09 16:44:58:897 0 records were writen to database.
+12/09 16:45:08:904 0 records were writen to database.
+12/09 16:45:18:914 0 records were writen to database.
+12/09 16:45:28:920 0 records were writen to database.
+12/09 16:45:38:931 0 records were writen to database.
+12/09 16:45:48:935 0 records were writen to database.
+12/09 16:45:58:938 0 records were writen to database.
+12/09 16:46:08:944 0 records were writen to database.
+12/09 16:46:18:955 0 records were writen to database.
+12/09 16:46:28:964 0 records were writen to database.
+12/09 16:46:38:971 0 records were writen to database.
+12/09 16:46:48:977 0 records were writen to database.
+12/09 16:46:58:981 0 records were writen to database.
+12/09 16:47:08:989 0 records were writen to database.
+12/09 16:47:18:993 0 records were writen to database.
+12/09 16:47:29:002 0 records were writen to database.
+12/09 16:47:39:013 0 records were writen to database.
+12/09 16:47:49:022 0 records were writen to database.
+12/09 16:47:59:028 0 records were writen to database.
+12/09 16:48:09:033 0 records were writen to database.
+12/09 16:48:19:043 0 records were writen to database.
+12/09 16:48:29:052 0 records were writen to database.
+12/09 16:48:39:057 0 records were writen to database.
+12/09 16:48:49:062 0 records were writen to database.
+12/09 16:48:59:065 0 records were writen to database.
+12/09 16:49:19:084 Command Logs started
+12/09 16:49:19:116 Starting process session
+12/09 16:49:19:352 Total 0 instances are started
+12/09 16:49:19:353 Total 1 instances are added
+12/09 16:49:29:362 0 records were writen to database.
+12/09 16:49:39:371 0 records were writen to database.
+12/09 16:49:49:379 0 records were writen to database.
+12/09 16:49:59:383 0 records were writen to database.
+12/09 16:50:09:390 0 records were writen to database.
+12/09 16:50:19:393 0 records were writen to database.
+12/09 16:50:29:400 0 records were writen to database.
+12/09 16:50:39:402 0 records were writen to database.
+12/09 16:50:49:410 0 records were writen to database.
+12/09 16:51:05:891 Command Logs started
+12/09 16:51:06:094 Starting process session
+12/09 16:51:06:287 Total 0 instances are started
+12/09 16:51:06:290 Total 1 instances are added
+12/09 16:51:16:299 0 records were writen to database.
+12/09 16:51:26:302 0 records were writen to database.
+12/09 16:51:36:305 0 records were writen to database.
+12/09 16:51:46:309 0 records were writen to database.
+12/09 16:51:56:320 0 records were writen to database.
+12/09 16:52:06:328 0 records were writen to database.
+12/09 16:52:16:338 0 records were writen to database.
+12/09 16:52:26:345 0 records were writen to database.
+12/09 16:52:36:352 0 records were writen to database.
+12/09 16:52:46:358 0 records were writen to database.
+12/09 16:52:56:365 0 records were writen to database.
+12/09 16:53:06:368 0 records were writen to database.
+12/09 16:53:16:370 0 records were writen to database.
+12/09 16:53:26:374 0 records were writen to database.
+12/09 16:53:36:382 0 records were writen to database.
+12/09 16:53:46:388 0 records were writen to database.
+12/09 16:53:56:396 0 records were writen to database.
+12/09 16:54:06:407 0 records were writen to database.
+12/09 16:54:16:411 0 records were writen to database.
+12/09 16:54:26:415 0 records were writen to database.
+12/09 16:54:36:417 0 records were writen to database.
+12/09 16:54:46:421 0 records were writen to database.
+12/09 16:54:56:423 0 records were writen to database.
+12/09 16:55:06:434 0 records were writen to database.
+12/09 16:55:25:658 Command Logs started
+12/09 16:55:25:855 Starting process session
+12/09 16:55:26:117 Total 0 instances are started
+12/09 16:55:26:118 Total 1 instances are added
+12/09 16:55:36:120 0 records were writen to database.
+12/09 16:55:46:126 0 records were writen to database.
+12/09 16:55:56:133 0 records were writen to database.
+12/09 16:56:06:139 0 records were writen to database.
+12/09 16:56:16:150 0 records were writen to database.
+12/09 16:56:26:158 0 records were writen to database.
+12/09 16:56:36:169 0 records were writen to database.
+12/09 16:56:46:176 0 records were writen to database.
+12/09 16:56:56:179 0 records were writen to database.
+12/09 16:57:06:184 0 records were writen to database.
+12/09 16:57:16:186 0 records were writen to database.
+12/09 16:57:26:187 0 records were writen to database.
+12/09 16:57:36:197 0 records were writen to database.
+12/09 16:57:46:200 0 records were writen to database.
+12/09 16:57:56:203 0 records were writen to database.
+12/09 16:58:06:214 0 records were writen to database.
+12/09 16:58:16:219 0 records were writen to database.
+12/09 16:58:26:222 0 records were writen to database.
+12/09 16:58:36:230 0 records were writen to database.
+12/09 16:58:46:238 0 records were writen to database.
+12/09 16:58:56:242 0 records were writen to database.
+12/09 16:59:06:249 0 records were writen to database.
+12/09 16:59:16:253 0 records were writen to database.
+12/09 16:59:26:259 0 records were writen to database.
+12/09 16:59:36:270 0 records were writen to database.
+12/09 16:59:46:272 0 records were writen to database.
+12/09 16:59:56:277 0 records were writen to database.
+12/09 17:00:06:281 0 records were writen to database.
+12/09 17:00:16:290 0 records were writen to database.
+12/09 17:00:26:298 0 records were writen to database.
+12/09 17:00:36:309 0 records were writen to database.
+12/09 17:00:46:313 0 records were writen to database.
+12/09 17:00:56:321 0 records were writen to database.
+12/09 17:01:06:330 0 records were writen to database.
+12/09 17:01:16:341 0 records were writen to database.
+12/09 17:01:26:350 0 records were writen to database.
+12/09 17:01:51:077 Command Logs started
+12/09 17:01:51:409 Starting process session
+12/09 17:01:51:951 Total 0 instances are started
+12/09 17:01:51:953 Total 1 instances are added
+12/09 17:02:01:950 0 records were writen to database.
+12/09 17:02:11:956 0 records were writen to database.
+12/09 17:02:21:967 0 records were writen to database.
+12/09 17:02:31:969 0 records were writen to database.
+12/09 17:02:41:978 0 records were writen to database.
+12/09 17:02:51:984 0 records were writen to database.
+12/09 17:03:01:986 0 records were writen to database.
+12/09 17:03:11:993 0 records were writen to database.
+12/09 17:03:22:144 0 records were writen to database.
+12/09 17:03:32:154 0 records were writen to database.
+12/09 17:03:42:162 0 records were writen to database.
+12/09 17:03:52:166 0 records were writen to database.
+12/09 17:04:02:176 0 records were writen to database.
+12/09 17:04:12:185 0 records were writen to database.
+12/09 17:04:22:190 0 records were writen to database.
+12/09 17:04:32:192 0 records were writen to database.
+12/09 17:04:42:201 0 records were writen to database.
+12/09 17:04:52:205 0 records were writen to database.
+12/09 17:05:02:212 0 records were writen to database.
+12/09 17:05:12:221 0 records were writen to database.
+12/09 17:05:22:231 0 records were writen to database.
+12/09 17:05:32:240 0 records were writen to database.
+12/09 17:05:42:242 0 records were writen to database.
+12/09 17:05:52:248 0 records were writen to database.
+12/09 17:06:02:256 0 records were writen to database.
+12/09 17:06:12:266 0 records were writen to database.
+12/09 17:06:22:273 0 records were writen to database.
+12/09 17:06:32:281 0 records were writen to database.
+12/09 17:06:42:287 0 records were writen to database.
+12/09 17:06:52:296 0 records were writen to database.
+12/09 17:07:02:307 0 records were writen to database.
+12/09 17:07:12:312 0 records were writen to database.
+12/09 17:07:22:314 0 records were writen to database.
+12/09 17:07:32:317 0 records were writen to database.
+12/09 17:07:51:843 Command Logs started
+12/09 17:07:52:238 Starting process session
+12/09 17:07:52:354 Total 0 instances are started
+12/09 17:07:52:359 Total 1 instances are added
+12/09 17:08:02:363 0 records were writen to database.
+12/09 17:08:12:371 0 records were writen to database.
+12/09 17:08:22:376 0 records were writen to database.
+12/09 17:08:32:387 0 records were writen to database.
+12/09 17:08:42:396 0 records were writen to database.
+12/09 17:08:52:399 0 records were writen to database.
+12/09 17:09:02:404 0 records were writen to database.
+12/09 17:09:12:406 0 records were writen to database.
+12/09 17:09:22:412 0 records were writen to database.
+12/09 17:09:32:421 0 records were writen to database.
+12/09 17:09:42:424 0 records were writen to database.
+12/09 17:09:52:428 0 records were writen to database.
+12/09 17:10:02:431 0 records were writen to database.
+12/09 17:10:12:436 0 records were writen to database.
+12/09 17:10:22:444 0 records were writen to database.
+12/09 17:10:32:455 0 records were writen to database.
+12/09 17:10:42:462 0 records were writen to database.
+12/09 17:10:52:464 0 records were writen to database.
+12/09 17:11:02:469 0 records were writen to database.
+12/09 17:11:12:479 0 records were writen to database.
+12/09 17:11:22:481 0 records were writen to database.
+12/09 17:11:32:491 0 records were writen to database.
+12/09 17:11:42:502 0 records were writen to database.
+12/09 17:11:52:511 0 records were writen to database.
+12/09 17:12:02:517 0 records were writen to database.
+12/09 17:12:12:523 0 records were writen to database.
+12/09 17:12:22:527 0 records were writen to database.
+12/09 17:12:32:530 0 records were writen to database.
+12/09 17:12:42:534 0 records were writen to database.
+12/09 17:12:52:542 0 records were writen to database.
+12/09 17:13:02:550 0 records were writen to database.
+12/09 17:13:12:557 0 records were writen to database.
+12/09 17:13:22:566 0 records were writen to database.
+12/09 17:13:32:569 0 records were writen to database.
+12/09 17:13:42:578 0 records were writen to database.
+12/09 17:13:52:582 0 records were writen to database.
+12/09 17:14:02:589 0 records were writen to database.
+12/09 17:14:12:597 0 records were writen to database.
+12/09 17:14:22:606 0 records were writen to database.
+12/09 17:14:32:610 0 records were writen to database.
+12/09 17:14:42:616 0 records were writen to database.
+12/09 17:14:52:619 0 records were writen to database.
+12/09 17:15:02:624 0 records were writen to database.
+12/09 17:15:12:628 0 records were writen to database.
+12/09 17:15:22:637 0 records were writen to database.
+12/09 17:15:32:643 0 records were writen to database.
+12/09 17:15:44:164 Command Logs started
+12/09 17:15:44:467 Starting process session
+12/09 17:15:44:644 Total 0 instances are started
+12/09 17:15:44:648 Total 1 instances are added
+12/09 17:15:54:651 0 records were writen to database.
+12/09 17:16:04:656 0 records were writen to database.
+12/09 17:16:14:661 0 records were writen to database.
+12/09 17:16:24:663 0 records were writen to database.
+12/09 17:16:34:673 0 records were writen to database.
+12/09 17:16:44:679 0 records were writen to database.
+12/09 17:16:54:689 0 records were writen to database.
+12/09 17:17:04:692 0 records were writen to database.
+12/09 17:17:14:694 0 records were writen to database.
+12/09 17:17:24:696 0 records were writen to database.
+12/09 17:17:34:705 0 records were writen to database.
+12/09 17:17:44:713 0 records were writen to database.
+12/09 17:17:54:723 0 records were writen to database.
+12/09 17:18:04:727 0 records were writen to database.
+12/09 17:18:14:733 0 records were writen to database.
+12/09 17:18:24:741 0 records were writen to database.
+12/09 17:18:34:748 0 records were writen to database.
+12/09 17:18:44:758 0 records were writen to database.
+12/09 17:18:54:763 0 records were writen to database.
+12/09 17:19:04:769 0 records were writen to database.
+12/09 17:19:14:777 0 records were writen to database.
+12/09 17:19:24:787 0 records were writen to database.
+12/09 17:19:34:796 0 records were writen to database.
+12/09 17:19:44:800 0 records were writen to database.
+12/09 17:19:54:810 0 records were writen to database.
+12/09 17:20:04:821 0 records were writen to database.
+12/09 17:20:14:824 0 records were writen to database.
+12/09 17:20:24:830 0 records were writen to database.
+12/09 17:20:34:833 0 records were writen to database.
+12/09 17:20:44:836 0 records were writen to database.
+12/09 17:20:54:841 0 records were writen to database.
+12/09 17:21:04:850 0 records were writen to database.

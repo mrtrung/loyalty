@@ -1,0 +1,247 @@
+10/09 08:34:51:528 OSA started
+10/09 08:34:51:642 Testing connection ...
+10/09 08:34:52:446 Created provisioning instance for OSA
+10/09 08:34:52:447 Testing connection are success
+10/09 08:34:52:447 Starting process session
+10/09 08:34:53:782 Total 0 instances are started
+10/09 08:34:53:783 Total 1 instances are added
+10/09 08:35:14:792 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.63:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+10/09 08:35:14:793 Consumer was closed, reconnect.
+10/09 08:35:14:895 Total 0 instances are started
+10/09 08:35:14:896 Total 1 instances are added
+10/09 08:35:35:922 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.63:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+10/09 08:35:35:923 Consumer was closed, reconnect.
+10/09 08:35:36:302 Total 0 instances are started
+10/09 08:35:36:303 Total 1 instances are added
+10/09 08:35:57:332 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.63:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+10/09 08:35:57:344 Consumer was closed, reconnect.
+10/09 08:35:57:709 Total 0 instances are started
+10/09 08:35:57:710 Total 1 instances are added
+10/09 08:36:18:726 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.63:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+10/09 08:36:18:726 Consumer was closed, reconnect.
+10/09 08:36:18:827 Total 0 instances are started
+10/09 08:36:18:838 Total 1 instances are added
+10/09 08:36:39:869 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.63:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+10/09 08:36:39:870 Consumer was closed, reconnect.
+10/09 08:36:40:240 Total 0 instances are started
+10/09 08:36:40:241 Total 1 instances are added
+10/09 08:37:01:259 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.63:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+10/09 08:37:01:260 Consumer was closed, reconnect.
+10/09 08:37:01:647 Total 0 instances are started
+10/09 08:37:01:648 Total 1 instances are added
+10/09 08:37:22:684 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.63:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+10/09 08:37:22:685 Consumer was closed, reconnect.
+10/09 08:37:23:049 Total 0 instances are started
+10/09 08:37:23:050 Total 1 instances are added
+10/09 08:37:44:090 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.63:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+10/09 08:37:44:091 Consumer was closed, reconnect.
+10/09 08:37:44:457 Total 0 instances are started
+10/09 08:37:44:458 Total 1 instances are added
+10/09 08:38:05:503 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.63:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+10/09 08:38:05:504 Consumer was closed, reconnect.
+10/09 08:38:05:860 Total 0 instances are started
+10/09 08:38:05:861 Total 1 instances are added
+10/09 08:38:26:892 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.63:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+10/09 08:38:26:893 Consumer was closed, reconnect.
+10/09 08:38:27:266 Total 0 instances are started
+10/09 08:38:27:267 Total 1 instances are added
+10/09 08:38:48:288 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.63:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+10/09 08:38:48:289 Consumer was closed, reconnect.
+10/09 08:38:48:669 Total 0 instances are started
+10/09 08:38:48:670 Total 1 instances are added
+10/09 08:39:14:313 OSA started
+10/09 08:39:14:438 Testing connection ...
+10/09 08:39:15:286 Created provisioning instance for OSA
+10/09 08:39:15:287 Testing connection are success
+10/09 08:39:15:287 Starting process session
+10/09 08:39:16:676 Total 0 instances are started
+10/09 08:39:16:676 Total 1 instances are added
+10/09 08:41:15:721 OSA started
+10/09 08:41:16:198 Testing connection ...
+10/09 08:41:16:941 Created provisioning instance for OSA
+10/09 08:41:16:942 Testing connection are success
+10/09 08:41:16:942 Starting process session
+10/09 08:41:18:008 Total 0 instances are started
+10/09 08:41:18:008 Total 1 instances are added
+10/09 08:46:53:407 OSA started
+10/09 08:46:53:559 Testing connection ...
+10/09 08:46:54:298 Created provisioning instance for OSA
+10/09 08:46:54:298 Testing connection are success
+10/09 08:46:54:299 Starting process session
+10/09 08:46:55:734 Total 0 instances are started
+10/09 08:46:55:735 Total 1 instances are added
+10/09 08:55:25:100 OSA started
+10/09 08:55:25:567 Testing connection ...
+10/09 08:55:26:203 Created provisioning instance for OSA
+10/09 08:55:26:203 Testing connection are success
+10/09 08:55:26:204 Starting process session
+10/09 08:55:27:775 Total 0 instances are started
+10/09 08:55:27:776 Total 1 instances are added
+10/09 09:03:27:959 OSA started
+10/09 09:03:28:241 Testing connection ...
+10/09 09:03:29:025 Created provisioning instance for OSA
+10/09 09:03:29:025 Testing connection are success
+10/09 09:03:29:026 Starting process session
+10/09 09:03:30:862 Total 0 instances are started
+10/09 09:03:30:863 Total 1 instances are added
+10/09 09:11:00:618 OSA started
+10/09 09:11:01:260 Testing connection ...
+10/09 09:11:02:241 Created provisioning instance for OSA
+10/09 09:11:02:241 Testing connection are success
+10/09 09:11:02:243 Starting process session
+10/09 09:11:03:594 Total 0 instances are started
+10/09 09:11:03:595 Total 1 instances are added
+10/09 09:13:42:192 OSA started
+10/09 09:13:42:867 Testing connection ...
+10/09 09:13:43:634 Created provisioning instance for OSA
+10/09 09:13:43:635 Testing connection are success
+10/09 09:13:43:635 Starting process session
+10/09 09:13:45:810 Total 0 instances are started
+10/09 09:13:45:813 Total 1 instances are added
+10/09 09:14:17:547 OSA started
+10/09 09:14:18:283 Testing connection ...
+10/09 09:14:19:071 Created provisioning instance for OSA
+10/09 09:14:19:072 Testing connection are success
+10/09 09:14:19:072 Starting process session
+10/09 09:14:20:244 Total 0 instances are started
+10/09 09:14:20:245 Total 1 instances are added
+10/09 09:16:02:680 OSA started
+10/09 09:16:02:718 Testing connection ...
+10/09 09:16:03:218 Created provisioning instance for OSA
+10/09 09:16:03:218 Testing connection are success
+10/09 09:16:03:218 Starting process session
+10/09 09:16:04:808 Total 0 instances are started
+10/09 09:16:04:809 Total 1 instances are added
+10/09 09:27:57:365 OSA started
+10/09 09:27:58:177 Testing connection ...
+10/09 09:27:59:094 Created provisioning instance for OSA
+10/09 09:27:59:094 Testing connection are success
+10/09 09:27:59:095 Starting process session
+10/09 09:28:00:312 Total 0 instances are started
+10/09 09:28:00:313 Total 1 instances are added
+10/09 09:30:31:458 OSA started
+10/09 09:30:31:568 Testing connection ...
+10/09 09:30:32:481 Created provisioning instance for OSA
+10/09 09:30:32:481 Testing connection are success
+10/09 09:30:32:482 Starting process session
+10/09 09:30:33:708 Total 0 instances are started
+10/09 09:30:33:712 Total 1 instances are added
+10/09 09:37:31:945 OSA started
+10/09 09:37:32:089 Testing connection ...
+10/09 09:37:33:062 Created provisioning instance for OSA
+10/09 09:37:33:062 Testing connection are success
+10/09 09:37:33:063 Starting process session
+10/09 09:37:33:947 Total 0 instances are started
+10/09 09:37:33:948 Total 1 instances are added
+10/09 09:45:06:582 OSA started
+10/09 09:45:06:683 Testing connection ...
+10/09 09:45:07:369 Created provisioning instance for OSA
+10/09 09:45:07:369 Testing connection are success
+10/09 09:45:07:370 Starting process session
+10/09 09:45:09:272 Total 0 instances are started
+10/09 09:45:09:276 Total 1 instances are added
+10/09 10:01:47:301 OSA started
+10/09 10:01:47:706 Testing connection ...
+10/09 10:01:48:521 Created provisioning instance for OSA
+10/09 10:01:48:521 Testing connection are success
+10/09 10:01:48:522 Starting process session
+10/09 10:01:50:251 Total 0 instances are started
+10/09 10:01:50:253 Total 1 instances are added
+10/09 10:05:39:726 OSA started
+10/09 10:05:40:544 Testing connection ...
+10/09 10:05:41:171 Created provisioning instance for OSA
+10/09 10:05:41:171 Testing connection are success
+10/09 10:05:41:172 Starting process session
+10/09 10:05:43:852 Total 0 instances are started
+10/09 10:05:43:853 Total 1 instances are added
+10/09 10:17:11:205 OSA started
+10/09 10:17:11:852 Testing connection ...
+10/09 10:17:12:706 Created provisioning instance for OSA
+10/09 10:17:12:706 Testing connection are success
+10/09 10:17:12:707 Starting process session
+10/09 10:17:14:727 Total 0 instances are started
+10/09 10:17:14:729 Total 1 instances are added
+10/09 10:57:12:618 OSA started
+10/09 10:57:12:962 Testing connection ...
+10/09 10:57:13:673 Created provisioning instance for OSA
+10/09 10:57:13:673 Testing connection are success
+10/09 10:57:13:674 Starting process session
+10/09 10:57:15:944 Total 0 instances are started
+10/09 10:57:15:948 Total 1 instances are added
+10/09 12:09:24:854 OSA started
+10/09 12:09:25:099 Testing connection ...
+10/09 12:09:25:640 Created provisioning instance for OSA
+10/09 12:09:25:640 Testing connection are success
+10/09 12:09:25:640 Starting process session
+10/09 12:09:26:752 Total 0 instances are started
+10/09 12:09:26:753 Total 1 instances are added
+10/09 14:34:47:282 OSA started
+10/09 14:34:47:727 Testing connection ...
+10/09 14:34:48:579 Created provisioning instance for OSA
+10/09 14:34:48:580 Testing connection are success
+10/09 14:34:48:580 Starting process session
+10/09 14:34:49:574 Total 0 instances are started
+10/09 14:34:49:574 Total 1 instances are added
+10/09 15:19:45:523 OSA started
+10/09 15:19:45:563 Testing connection ...
+10/09 15:19:46:278 Created provisioning instance for OSA
+10/09 15:19:46:279 Testing connection are success
+10/09 15:19:46:279 Starting process session
+10/09 15:19:48:384 Total 0 instances are started
+10/09 15:19:48:386 Total 1 instances are added
+10/09 15:25:32:177 OSA started
+10/09 15:25:32:939 Testing connection ...
+10/09 15:25:33:691 Created provisioning instance for OSA
+10/09 15:25:33:691 Testing connection are success
+10/09 15:25:33:692 Starting process session
+10/09 15:25:35:540 Total 0 instances are started
+10/09 15:25:35:541 Total 1 instances are added
+10/09 15:38:11:969 OSA started
+10/09 15:38:12:513 Testing connection ...
+10/09 15:38:13:153 Created provisioning instance for OSA
+10/09 15:38:13:154 Testing connection are success
+10/09 15:38:13:155 Starting process session
+10/09 15:38:15:081 Total 0 instances are started
+10/09 15:38:15:082 Total 1 instances are added
+10/09 15:42:10:237 OSA started
+10/09 15:42:10:805 Testing connection ...
+10/09 15:42:11:350 Created provisioning instance for OSA
+10/09 15:42:11:350 Testing connection are success
+10/09 15:42:11:351 Starting process session
+10/09 15:42:13:912 Total 0 instances are started
+10/09 15:42:13:913 Total 1 instances are added
+10/09 16:59:08:307 OSA started
+10/09 16:59:21:004 Testing connection ...
+10/09 16:59:26:992 Created provisioning instance for OSA
+10/09 16:59:26:993 Testing connection are success
+10/09 16:59:26:993 Starting process session
+10/09 16:59:36:875 Total 0 instances are started
+10/09 16:59:36:878 Total 1 instances are added
+10/09 17:00:03:664 OSA started
+10/09 17:00:03:707 Testing connection ...
+10/09 17:00:04:408 Created provisioning instance for OSA
+10/09 17:00:04:409 Testing connection are success
+10/09 17:00:04:410 Starting process session
+10/09 17:00:05:708 Total 0 instances are started
+10/09 17:00:05:709 Total 1 instances are added
+10/09 17:03:37:018 OSA started
+10/09 17:03:37:328 Testing connection ...
+10/09 17:03:38:087 Created provisioning instance for OSA
+10/09 17:03:38:088 Testing connection are success
+10/09 17:03:38:088 Starting process session
+10/09 17:03:40:065 Total 0 instances are started
+10/09 17:03:40:065 Total 1 instances are added
+10/09 17:06:17:321 OSA started
+10/09 17:06:17:826 Testing connection ...
+10/09 17:06:18:380 Created provisioning instance for OSA
+10/09 17:06:18:381 Testing connection are success
+10/09 17:06:18:381 Starting process session
+10/09 17:06:20:958 Total 0 instances are started
+10/09 17:06:20:959 Total 1 instances are added
+10/09 17:08:39:430 OSA started
+10/09 17:08:39:465 Testing connection ...
+10/09 17:08:40:539 Created provisioning instance for OSA
+10/09 17:08:40:540 Testing connection are success
+10/09 17:08:40:540 Starting process session
+10/09 17:08:42:001 Total 0 instances are started
+10/09 17:08:42:003 Total 1 instances are added

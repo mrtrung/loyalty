@@ -1,0 +1,161 @@
+13/05 14:31:38:724 CRM started
+13/05 14:31:38:742 Testing connection ...
+13/05 14:31:38:743 Created provisioning instance for CRM
+13/05 14:31:38:744 Testing connection are success
+13/05 14:31:38:744 Starting process session
+13/05 14:31:38:846 Total 0 instances are started
+13/05 14:31:38:846 Init queue connection pool 1399966298846
+13/05 14:31:38:847 Total 1 instances are added
+13/05 14:44:45:818 CRM started
+13/05 14:44:45:832 Testing connection ...
+13/05 14:44:45:833 Created provisioning instance for CRM
+13/05 14:44:45:834 Testing connection are success
+13/05 14:44:45:834 Starting process session
+13/05 14:44:45:936 Total 0 instances are started
+13/05 14:44:45:936 Init queue connection pool 1399967085936
+13/05 14:44:45:937 Total 1 instances are added
+13/05 15:05:18:285 CRM started
+13/05 15:05:18:298 Testing connection ...
+13/05 15:05:18:298 Created provisioning instance for CRM
+13/05 15:05:18:299 Testing connection are success
+13/05 15:05:18:299 Starting process session
+13/05 15:05:18:400 Total 0 instances are started
+13/05 15:05:18:400 Init queue connection pool 1399968318400
+13/05 15:05:18:401 Total 1 instances are added
+13/05 15:09:13:257 CRM started
+13/05 15:09:13:268 Testing connection ...
+13/05 15:09:13:268 Created provisioning instance for CRM
+13/05 15:09:13:269 Testing connection are success
+13/05 15:09:16:371 Starting process session
+13/05 15:09:16:474 Total 0 instances are started
+13/05 15:09:16:474 Init queue connection pool 1399968556474
+13/05 15:09:16:476 Total 1 instances are added
+13/05 15:21:46:273 CRM started
+13/05 15:21:46:289 Testing connection ...
+13/05 15:21:46:290 Created provisioning instance for CRM
+13/05 15:21:46:290 Testing connection are success
+13/05 15:21:46:291 Starting process session
+13/05 15:21:46:392 Total 0 instances are started
+13/05 15:21:46:392 Init queue connection pool 1399969306392
+13/05 15:21:46:393 Total 1 instances are added
+13/05 15:29:31:030 Close pool
+13/05 15:29:31:047 Thread destroyed
+13/05 15:29:31:131 Close queue connection pool.
+13/05 15:29:31:132 End of process session
+13/05 15:36:49:956 CRM started
+13/05 15:36:49:967 Testing connection ...
+13/05 15:36:49:968 Created provisioning instance for CRM
+13/05 15:36:49:968 Testing connection are success
+13/05 15:36:49:968 Starting process session
+13/05 15:36:50:069 Init queue connection pool 1399970210069
+13/05 15:36:50:469 Total 0 instances are started
+13/05 15:36:50:470 Total 5 instances are added
+13/05 15:46:21:684 SEND: ID=307006: com.crm.provisioning.impl.CommandImpl.register{84922000512, 274}
+13/05 15:46:21:706 sendNotify: 84922000512 - Quy khach da la thanh vien cua Cau lac bo CAM cua Vietnamobile. Hay tiep tuc su dung Vietnamobile de tich luy nhieu diem va nhan duoc nhieu uu dai cua chuong trinh. Chi tiet 789
+13/05 15:46:21:707 orderId = 128070645 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = CAM | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = register | productId = 274 | commandId = 521 | request = ID=307006: com.crm.provisioning.impl.CommandImpl.register{84922000512, 274} | response =  | status = 4 | cause = registered | description = 
+13/05 16:03:00:843 SEND: ID=307009: com.crm.provisioning.impl.CommandImpl.register{84922000512, 274}
+13/05 16:03:00:859 sendNotify: 84922000512 - Quy khach da la thanh vien cua Cau lac bo CAM cua Vietnamobile. Hay tiep tuc su dung Vietnamobile de tich luy nhieu diem va nhan duoc nhieu uu dai cua chuong trinh. Chi tiet 789
+13/05 16:03:00:860 orderId = 128070647 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = CAM | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = register | productId = 274 | commandId = 521 | request = ID=307009: com.crm.provisioning.impl.CommandImpl.register{84922000512, 274} | response =  | status = 4 | cause = registered | description = 
+13/05 16:05:00:364 SEND: ID=307012: com.crm.provisioning.impl.CommandImpl.register{84922000512, 274}
+13/05 16:05:00:377 sendNotify: 84922000512 - Quy khach da la thanh vien cua Cau lac bo CAM cua Vietnamobile. Hay tiep tuc su dung Vietnamobile de tich luy nhieu diem va nhan duoc nhieu uu dai cua chuong trinh. Chi tiet 789
+13/05 16:05:00:378 orderId = 128070649 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = CAM | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = register | productId = 274 | commandId = 521 | request = ID=307012: com.crm.provisioning.impl.CommandImpl.register{84922000512, 274} | response =  | status = 4 | cause = registered | description = 
+13/05 16:05:28:860 SEND: ID=307014: null
+13/05 16:05:28:867 orderId = 128070650 | requestId = 0 | userId = system | channel = core | serviceAddress = D10 | keyword = SUBSCRIPTION_D10 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = unregister | productId = 13947 | commandId = 18832 | request = ID=307014: null | response =  | status = 4 | cause = unregistered | description = unknow-subscription
+13/05 16:08:39:492 CRM started
+13/05 16:08:39:505 Testing connection ...
+13/05 16:08:39:507 Created provisioning instance for CRM
+13/05 16:08:39:507 Testing connection are success
+13/05 16:08:39:508 Starting process session
+13/05 16:08:39:609 Init queue connection pool 1399972119609
+13/05 16:08:40:016 Total 0 instances are started
+13/05 16:08:40:017 Total 5 instances are added
+13/05 16:09:01:609 SEND: ID=308002: com.crm.provisioning.impl.CommandImpl.register{84922000512, 274}
+13/05 16:09:01:629 sendNotify: 84922000512 - Quy khach da la thanh vien cua Cau lac bo CAM cua Vietnamobile. Hay tiep tuc su dung Vietnamobile de tich luy nhieu diem va nhan duoc nhieu uu dai cua chuong trinh. Chi tiet 789
+13/05 16:09:01:630 orderId = 128070651 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = CAM | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = register | productId = 274 | commandId = 521 | request = ID=308002: com.crm.provisioning.impl.CommandImpl.register{84922000512, 274} | response =  | status = 4 | cause = registered | description = 
+13/05 16:11:01:676 sendNotify: 84922000512 - Quy khach chua dang ky tham gia Cau lac bo CAM, vui long dang ky: DK CAM gui 268 de duoc tich luy va doi diem cua chuong trinh. Chi tiet 789
+13/05 16:11:01:677 orderId = 128070652 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = TRA DIEM | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | commandId = 300 | request =  | response =  | status = 4 | cause = unknow-member | description = 
+13/05 16:24:54:352 CRM started
+13/05 16:24:54:367 Testing connection ...
+13/05 16:24:54:368 Created provisioning instance for CRM
+13/05 16:24:54:368 Testing connection are success
+13/05 16:24:54:369 Starting process session
+13/05 16:24:54:471 Init queue connection pool 1399973094471
+13/05 16:24:54:877 Total 0 instances are started
+13/05 16:24:54:878 Total 5 instances are added
+13/05 16:26:30:141 SEND: ID=309002: com.crm.provisioning.impl.CommandImpl.register{84922000512, 274}
+13/05 16:26:46:144 sendNotify: 84922000512 - Quy khach da la thanh vien cua Cau lac bo CAM cua Vietnamobile. Hay tiep tuc su dung Vietnamobile de tich luy nhieu diem va nhan duoc nhieu uu dai cua chuong trinh. Chi tiet 789
+13/05 16:26:46:145 orderId = 128070654 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = CAM | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = register | productId = 274 | commandId = 521 | request = ID=309002: com.crm.provisioning.impl.CommandImpl.register{84922000512, 274} | response =  | status = 4 | cause = registered | description = 
+13/05 16:28:04:753 SEND: ID=309005: com.crm.provisioning.impl.CommandImpl.register{84922000512, 274}
+13/05 16:28:04:762 sendNotify: 84922000512 - Quy khach da la thanh vien cua Cau lac bo CAM cua Vietnamobile. Hay tiep tuc su dung Vietnamobile de tich luy nhieu diem va nhan duoc nhieu uu dai cua chuong trinh. Chi tiet 789
+13/05 16:28:04:763 orderId = 128070655 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = CAM | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = register | productId = 274 | commandId = 521 | request = ID=309005: com.crm.provisioning.impl.CommandImpl.register{84922000512, 274} | response =  | status = 4 | cause = registered | description = 
+13/05 16:54:44:045 CRM started
+13/05 16:54:44:063 Testing connection ...
+13/05 16:54:44:064 Created provisioning instance for CRM
+13/05 16:54:44:065 Testing connection are success
+13/05 16:54:44:065 Starting process session
+13/05 16:54:44:167 Init queue connection pool 1399974884167
+13/05 16:54:44:567 Total 0 instances are started
+13/05 16:54:44:568 Total 5 instances are added
+13/05 16:55:22:336 SEND: ID=310002: com.crm.provisioning.impl.CommandImpl.register{84922000512, 274}
+13/05 16:55:49:356 sendNotify: 84922000512 - Quy khach da la thanh vien cua Cau lac bo CAM cua Vietnamobile. Hay tiep tuc su dung Vietnamobile de tich luy nhieu diem va nhan duoc nhieu uu dai cua chuong trinh. Chi tiet 789
+13/05 16:55:49:357 orderId = 128070658 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = CAM | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = register | productId = 274 | commandId = 521 | request = ID=310002: com.crm.provisioning.impl.CommandImpl.register{84922000512, 274} | response =  | status = 4 | cause = registered | description = 
+13/05 16:58:18:175 sendNotify: 84922000512 - Quy khach chua dang ky tham gia Cau lac bo CAM, vui long dang ky: DK CAM gui 268 de duoc tich luy va doi diem cua chuong trinh. Chi tiet 789
+13/05 16:58:18:176 orderId = 128070659 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = TRA DIEM | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | commandId = 300 | request =  | response =  | status = 4 | cause = unknow-member | description = 
+13/05 17:12:38:038 sendNotify: 84922000512 - Quy khach chua dang ky tham gia Cau lac bo CAM, vui long dang ky: DK CAM gui 268 de duoc tich luy va doi diem cua chuong trinh. Chi tiet 789
+13/05 17:12:38:038 orderId = 128070660 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = TRA DIEM | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | commandId = 300 | request =  | response =  | status = 4 | cause = unknow-member | description = 
+13/05 17:12:40:230 sendNotify: 84922000512 - Quy khach chua dang ky tham gia Cau lac bo CAM, vui long dang ky: DK CAM gui 268 de duoc tich luy va doi diem cua chuong trinh. Chi tiet 789
+13/05 17:12:40:231 orderId = 128070662 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = TRA DIEM | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | commandId = 300 | request =  | response =  | status = 4 | cause = unknow-member | description = 
+13/05 17:15:56:402 sendNotify: 84922000512 - Quy khach chua dang ky tham gia Cau lac bo CAM, vui long dang ky: DK CAM gui 268 de duoc tich luy va doi diem cua chuong trinh. Chi tiet 789
+13/05 17:15:56:403 orderId = 128070663 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = TRA DIEM | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | commandId = 300 | request =  | response =  | status = 4 | cause = unknow-member | description = 
+13/05 17:25:37:779 sendNotify: 84922000512 - Quy khach chua dang ky tham gia Cau lac bo CAM, vui long dang ky: DK CAM gui 268 de duoc tich luy va doi diem cua chuong trinh. Chi tiet 789
+13/05 17:25:37:779 orderId = 128070664 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = TRA DIEM | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | commandId = 300 | request =  | response =  | status = 4 | cause = unknow-member | description = 
+13/05 17:36:19:918 CRM started
+13/05 17:36:19:928 Testing connection ...
+13/05 17:36:19:929 Created provisioning instance for CRM
+13/05 17:36:19:929 Testing connection are success
+13/05 17:36:19:930 Starting process session
+13/05 17:36:20:033 Init queue connection pool 1399977380033
+13/05 17:36:20:435 Total 0 instances are started
+13/05 17:36:20:435 Total 5 instances are added
+13/05 17:39:53:992 sendNotify: 84922000512 - Quy khach chua dang ky tham gia Cau lac bo CAM, vui long dang ky: DK CAM gui 268 de duoc tich luy va doi diem cua chuong trinh. Chi tiet 789
+13/05 17:39:53:993 orderId = 128070666 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = TRA DIEM | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | commandId = 300 | request =  | response =  | status = 4 | cause = unknow-member | description = 
+13/05 17:54:55:898 sendNotify: 84922000512 - Quy khach chua dang ky tham gia Cau lac bo CAM, vui long dang ky: DK CAM gui 268 de duoc tich luy va doi diem cua chuong trinh. Chi tiet 789
+13/05 17:54:55:899 orderId = 128070667 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = TRA DIEM | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | commandId = 300 | request =  | response =  | status = 4 | cause = unknow-member | description = 
+13/05 17:54:57:661 sendNotify: 84922000512 - Quy khach chua dang ky tham gia Cau lac bo CAM, vui long dang ky: DK CAM gui 268 de duoc tich luy va doi diem cua chuong trinh. Chi tiet 789
+13/05 17:54:57:662 orderId = 128070669 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = TRA DIEM | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | commandId = 300 | request =  | response =  | status = 4 | cause = unknow-member | description = 
+13/05 17:55:39:651 sendNotify: 84922000512 - Quy khach chua dang ky tham gia Cau lac bo CAM, vui long dang ky: DK CAM gui 268 de duoc tich luy va doi diem cua chuong trinh. Chi tiet 789
+13/05 17:55:39:652 orderId = 128070670 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = TRA DIEM | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | commandId = 300 | request =  | response =  | status = 4 | cause = unknow-member | description = 
+13/05 18:06:28:298 sendNotify: 84922000512 - Quy khach chua dang ky tham gia Cau lac bo CAM, vui long dang ky: DK CAM gui 268 de duoc tich luy va doi diem cua chuong trinh. Chi tiet 789
+13/05 18:06:28:299 orderId = 128070671 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = TRA DIEM | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | commandId = 300 | request =  | response =  | status = 4 | cause = unknow-member | description = 
+13/05 18:16:08:807 sendNotify: 84922000512 - Quy khach chua dang ky tham gia Cau lac bo CAM, vui long dang ky: DK CAM gui 268 de duoc tich luy va doi diem cua chuong trinh. Chi tiet 789
+13/05 18:16:08:808 orderId = 128070673 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = TRA DIEM | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | commandId = 300 | request =  | response =  | status = 4 | cause = unknow-member | description = 
+13/05 18:19:11:317 sendNotify: 84922000512 - Quy khach chua dang ky tham gia Cau lac bo CAM, vui long dang ky: DK CAM gui 268 de duoc tich luy va doi diem cua chuong trinh. Chi tiet 789
+13/05 18:19:11:318 orderId = 128070674 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = TRA DIEM | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | commandId = 300 | request =  | response =  | status = 4 | cause = unknow-member | description = 
+13/05 18:36:57:779 CRM started
+13/05 18:36:57:788 Testing connection ...
+13/05 18:36:57:789 Created provisioning instance for CRM
+13/05 18:36:57:789 Testing connection are success
+13/05 18:36:57:789 Starting process session
+13/05 18:36:57:890 Init queue connection pool 1399981017890
+13/05 18:36:58:290 Total 0 instances are started
+13/05 18:36:58:291 Total 5 instances are added
+13/05 18:38:42:387 CRM started
+13/05 18:38:43:559 Testing connection ...
+13/05 18:38:43:561 Created provisioning instance for CRM
+13/05 18:38:43:563 Testing connection are success
+13/05 18:38:43:563 Starting process session
+13/05 18:38:43:672 Init queue connection pool 1399981123672
+13/05 18:38:44:069 Total 0 instances are started
+13/05 18:38:44:069 Total 5 instances are added
+13/05 18:40:07:862 sendNotify: 84922000512 - Quy khach chua dang ky tham gia Cau lac bo CAM, vui long dang ky: DK CAM gui 268 de duoc tich luy va doi diem cua chuong trinh. Chi tiet 789
+13/05 18:40:07:863 orderId = 128070679 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = TRA DIEM | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | commandId = 300 | request =  | response =  | status = 4 | cause = unknow-member | description = 
+13/05 18:42:38:123 CRM started
+13/05 18:42:38:134 Testing connection ...
+13/05 18:42:38:135 Created provisioning instance for CRM
+13/05 18:42:38:135 Testing connection are success
+13/05 18:42:38:136 Starting process session
+13/05 18:42:38:237 Init queue connection pool 1399981358237
+13/05 18:42:38:644 Total 0 instances are started
+13/05 18:42:38:645 Total 5 instances are added
+13/05 18:46:25:294 sendNotify: 84922000512 - Tai khoan cua Quy khach da het hieu luc. Lien he 789. Xin chan thanh cam on.
+13/05 18:46:25:295 orderId = 128070680 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = TRA DIEM | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | commandId = 300 | request =  | response =  | status = 4 | cause = expired | description = 

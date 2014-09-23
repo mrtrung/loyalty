@@ -1,0 +1,180 @@
+13/05 14:31:46:750 Bind Transmitter 01 started
+13/05 14:31:46:765 Testing connection ...
+13/05 14:31:46:772 Connecting to SMSC 
+13/05 14:31:46:803 Bind request (bindreq: (pdu: 0 2 0 [1]) PPV ppv@321 SMPP 52 (addrrang: 1 1 345) ) 
+13/05 14:31:46:810 Bind response (bindresp: (pdu: 36 80000002 0 1) ANAM_ESME_LINK 52) 
+13/05 14:31:46:811 SMSC connection is established 
+13/05 14:31:46:811 Created provisioning instance for SMSC
+13/05 14:31:46:811 Testing connection are success
+13/05 14:31:46:812 Starting process session
+13/05 14:32:16:765 Enquirelink request: (enquirelink: (pdu: 0 15 0 [2]) ) 
+13/05 14:32:16:770 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 2) ) 
+13/05 14:32:46:765 Enquirelink request: (enquirelink: (pdu: 0 15 0 [3]) ) 
+13/05 14:32:46:767 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 3) ) 
+13/05 14:33:16:765 Enquirelink request: (enquirelink: (pdu: 0 15 0 [4]) ) 
+13/05 14:33:16:767 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 4) ) 
+13/05 14:33:46:765 Enquirelink request: (enquirelink: (pdu: 0 15 0 [5]) ) 
+13/05 14:33:46:766 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 5) ) 
+13/05 14:34:16:765 Enquirelink request: (enquirelink: (pdu: 0 15 0 [6]) ) 
+13/05 14:34:16:767 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 6) ) 
+13/05 14:34:46:766 Enquirelink request: (enquirelink: (pdu: 0 15 0 [7]) ) 
+13/05 14:34:46:768 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 7) ) 
+13/05 14:35:16:766 Enquirelink request: (enquirelink: (pdu: 0 15 0 [8]) ) 
+13/05 14:35:16:769 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 8) ) 
+13/05 14:35:46:766 Enquirelink request: (enquirelink: (pdu: 0 15 0 [9]) ) 
+13/05 14:35:46:769 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 9) ) 
+13/05 14:36:16:766 Enquirelink request: (enquirelink: (pdu: 0 15 0 [10]) ) 
+13/05 14:36:16:768 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 10) ) 
+13/05 14:36:46:767 Enquirelink request: (enquirelink: (pdu: 0 15 0 [11]) ) 
+13/05 14:36:46:770 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 11) ) 
+13/05 14:37:16:767 Enquirelink request: (enquirelink: (pdu: 0 15 0 [12]) ) 
+13/05 14:37:16:769 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 12) ) 
+13/05 14:37:46:767 Enquirelink request: (enquirelink: (pdu: 0 15 0 [13]) ) 
+13/05 14:37:46:769 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 13) ) 
+13/05 14:38:16:768 Enquirelink request: (enquirelink: (pdu: 0 15 0 [14]) ) 
+13/05 14:38:16:770 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 14) ) 
+13/05 14:38:46:768 Enquirelink request: (enquirelink: (pdu: 0 15 0 [15]) ) 
+13/05 14:38:46:770 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 15) ) 
+13/05 14:39:16:768 Enquirelink request: (enquirelink: (pdu: 0 15 0 [16]) ) 
+13/05 14:39:16:770 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 16) ) 
+13/05 14:39:46:768 Enquirelink request: (enquirelink: (pdu: 0 15 0 [17]) ) 
+13/05 14:39:46:770 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 17) ) 
+13/05 14:40:16:769 Enquirelink request: (enquirelink: (pdu: 0 15 0 [18]) ) 
+13/05 14:40:16:771 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 18) ) 
+13/05 14:40:46:769 Enquirelink request: (enquirelink: (pdu: 0 15 0 [19]) ) 
+13/05 14:40:46:771 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 19) ) 
+13/05 14:41:16:769 Enquirelink request: (enquirelink: (pdu: 0 15 0 [20]) ) 
+13/05 14:41:16:771 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 20) ) 
+13/05 14:44:54:843 Bind Transmitter 01 started
+13/05 14:44:54:857 Testing connection ...
+13/05 14:44:54:866 Connecting to SMSC 
+13/05 14:44:54:881 Bind request (bindreq: (pdu: 0 2 0 [1]) PPV ppv@321 SMPP 52 (addrrang: 1 1 345) ) 
+13/05 14:44:54:888 Bind response (bindresp: (pdu: 36 80000002 0 1) ANAM_ESME_LINK 52) 
+13/05 14:44:54:889 SMSC connection is established 
+13/05 14:44:54:889 Created provisioning instance for SMSC
+13/05 14:44:54:889 Testing connection are success
+13/05 14:44:54:890 Starting process session
+13/05 14:45:24:857 Enquirelink request: (enquirelink: (pdu: 0 15 0 [2]) ) 
+13/05 14:45:24:861 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 2) ) 
+13/05 14:45:54:857 Enquirelink request: (enquirelink: (pdu: 0 15 0 [3]) ) 
+13/05 14:45:54:859 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 3) ) 
+13/05 14:46:24:858 Enquirelink request: (enquirelink: (pdu: 0 15 0 [4]) ) 
+13/05 14:46:24:860 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 4) ) 
+13/05 14:46:54:858 Enquirelink request: (enquirelink: (pdu: 0 15 0 [5]) ) 
+13/05 14:46:54:860 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 5) ) 
+13/05 14:47:24:858 Enquirelink request: (enquirelink: (pdu: 0 15 0 [6]) ) 
+13/05 14:47:24:860 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 6) ) 
+13/05 14:47:54:859 Enquirelink request: (enquirelink: (pdu: 0 15 0 [7]) ) 
+13/05 14:47:54:861 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 7) ) 
+13/05 14:48:24:859 Enquirelink request: (enquirelink: (pdu: 0 15 0 [8]) ) 
+13/05 14:48:24:861 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 8) ) 
+13/05 14:48:54:859 Enquirelink request: (enquirelink: (pdu: 0 15 0 [9]) ) 
+13/05 14:48:54:861 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 9) ) 
+13/05 14:49:24:859 Enquirelink request: (enquirelink: (pdu: 0 15 0 [10]) ) 
+13/05 14:49:24:861 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 10) ) 
+13/05 15:05:26:321 Bind Transmitter 01 started
+13/05 15:05:26:335 Testing connection ...
+13/05 15:05:26:345 Connecting to SMSC 
+13/05 15:05:26:372 Bind request (bindreq: (pdu: 0 2 0 [1]) PPV ppv@321 SMPP 52 (addrrang: 1 1 345) ) 
+13/05 15:05:26:380 Bind response (bindresp: (pdu: 36 80000002 0 1) ANAM_ESME_LINK 52) 
+13/05 15:05:26:380 SMSC connection is established 
+13/05 15:05:26:381 Created provisioning instance for SMSC
+13/05 15:05:26:381 Testing connection are success
+13/05 15:05:26:381 Starting process session
+13/05 15:05:56:336 Enquirelink request: (enquirelink: (pdu: 0 15 0 [2]) ) 
+13/05 15:05:56:340 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 2) ) 
+13/05 15:06:26:336 Enquirelink request: (enquirelink: (pdu: 0 15 0 [3]) ) 
+13/05 15:06:26:338 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 3) ) 
+13/05 15:06:56:336 Enquirelink request: (enquirelink: (pdu: 0 15 0 [4]) ) 
+13/05 15:06:56:338 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 4) ) 
+13/05 15:07:26:337 Enquirelink request: (enquirelink: (pdu: 0 15 0 [5]) ) 
+13/05 15:07:26:339 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 5) ) 
+13/05 15:07:56:337 Enquirelink request: (enquirelink: (pdu: 0 15 0 [6]) ) 
+13/05 15:07:56:339 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 6) ) 
+13/05 15:09:28:286 Bind Transmitter 01 started
+13/05 15:09:28:294 Testing connection ...
+13/05 15:09:28:301 Connecting to SMSC 
+13/05 15:09:28:321 Bind request (bindreq: (pdu: 0 2 0 [1]) PPV ppv@321 SMPP 52 (addrrang: 1 1 345) ) 
+13/05 15:09:28:328 Bind response (bindresp: (pdu: 36 80000002 0 1) ANAM_ESME_LINK 52) 
+13/05 15:09:28:329 SMSC connection is established 
+13/05 15:09:28:329 Created provisioning instance for SMSC
+13/05 15:09:28:329 Testing connection are success
+13/05 15:09:33:747 Starting process session
+13/05 15:09:58:294 Enquirelink request: (enquirelink: (pdu: 0 15 0 [2]) ) 
+13/05 15:09:58:298 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 2) ) 
+13/05 15:10:28:294 Enquirelink request: (enquirelink: (pdu: 0 15 0 [3]) ) 
+13/05 15:10:28:296 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 3) ) 
+13/05 15:10:58:294 Enquirelink request: (enquirelink: (pdu: 0 15 0 [4]) ) 
+13/05 15:10:58:296 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 4) ) 
+13/05 15:11:28:295 Enquirelink request: (enquirelink: (pdu: 0 15 0 [5]) ) 
+13/05 15:11:28:297 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 5) ) 
+13/05 15:11:58:295 Enquirelink request: (enquirelink: (pdu: 0 15 0 [6]) ) 
+13/05 15:11:58:297 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 6) ) 
+13/05 15:12:28:295 Enquirelink request: (enquirelink: (pdu: 0 15 0 [7]) ) 
+13/05 15:12:28:297 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 7) ) 
+13/05 15:12:58:296 Enquirelink request: (enquirelink: (pdu: 0 15 0 [8]) ) 
+13/05 15:12:58:298 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 8) ) 
+13/05 15:13:28:296 Enquirelink request: (enquirelink: (pdu: 0 15 0 [9]) ) 
+13/05 15:13:28:298 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 9) ) 
+13/05 15:13:58:296 Enquirelink request: (enquirelink: (pdu: 0 15 0 [10]) ) 
+13/05 15:13:58:302 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 10) ) 
+13/05 15:14:28:296 Enquirelink request: (enquirelink: (pdu: 0 15 0 [11]) ) 
+13/05 15:14:28:302 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 11) ) 
+13/05 15:14:58:297 Enquirelink request: (enquirelink: (pdu: 0 15 0 [12]) ) 
+13/05 15:14:58:302 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 12) ) 
+13/05 15:15:28:297 Enquirelink request: (enquirelink: (pdu: 0 15 0 [13]) ) 
+13/05 15:15:28:303 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 13) ) 
+13/05 15:15:58:298 Enquirelink request: (enquirelink: (pdu: 0 15 0 [14]) ) 
+13/05 15:15:58:302 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 14) ) 
+13/05 15:16:28:299 Enquirelink request: (enquirelink: (pdu: 0 15 0 [15]) ) 
+13/05 15:16:28:306 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 15) ) 
+13/05 15:16:58:299 Enquirelink request: (enquirelink: (pdu: 0 15 0 [16]) ) 
+13/05 15:16:58:305 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 16) ) 
+13/05 15:17:28:299 Enquirelink request: (enquirelink: (pdu: 0 15 0 [17]) ) 
+13/05 15:17:28:323 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 17) ) 
+13/05 15:17:58:299 Enquirelink request: (enquirelink: (pdu: 0 15 0 [18]) ) 
+13/05 15:17:58:306 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 18) ) 
+13/05 15:18:28:300 Enquirelink request: (enquirelink: (pdu: 0 15 0 [19]) ) 
+13/05 15:18:28:306 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 19) ) 
+13/05 15:18:58:300 Enquirelink request: (enquirelink: (pdu: 0 15 0 [20]) ) 
+13/05 15:18:58:305 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 20) ) 
+13/05 15:19:28:300 Enquirelink request: (enquirelink: (pdu: 0 15 0 [21]) ) 
+13/05 15:19:28:306 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 21) ) 
+13/05 15:19:58:301 Enquirelink request: (enquirelink: (pdu: 0 15 0 [22]) ) 
+13/05 15:19:58:307 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 22) ) 
+13/05 15:20:28:301 Enquirelink request: (enquirelink: (pdu: 0 15 0 [23]) ) 
+13/05 15:20:28:307 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 23) ) 
+13/05 15:21:53:305 Bind Transmitter 01 started
+13/05 15:21:53:313 Testing connection ...
+13/05 15:21:53:319 Connecting to SMSC 
+13/05 15:21:53:335 Bind request (bindreq: (pdu: 0 2 0 [1]) PPV ppv@321 SMPP 52 (addrrang: 1 1 345) ) 
+13/05 15:21:53:342 Bind response (bindresp: (pdu: 36 80000002 0 1) ANAM_ESME_LINK 52) 
+13/05 15:21:53:343 SMSC connection is established 
+13/05 15:21:53:343 Created provisioning instance for SMSC
+13/05 15:21:53:344 Testing connection are success
+13/05 15:21:53:344 Starting process session
+13/05 15:22:23:313 Enquirelink request: (enquirelink: (pdu: 0 15 0 [2]) ) 
+13/05 15:22:23:317 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 2) ) 
+13/05 15:22:53:313 Enquirelink request: (enquirelink: (pdu: 0 15 0 [3]) ) 
+13/05 15:22:53:315 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 3) ) 
+13/05 15:23:23:313 Enquirelink request: (enquirelink: (pdu: 0 15 0 [4]) ) 
+13/05 15:23:23:315 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 4) ) 
+13/05 15:23:53:313 Enquirelink request: (enquirelink: (pdu: 0 15 0 [5]) ) 
+13/05 15:23:53:315 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 5) ) 
+13/05 15:24:23:313 Enquirelink request: (enquirelink: (pdu: 0 15 0 [6]) ) 
+13/05 15:24:23:315 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 6) ) 
+13/05 15:24:53:314 Enquirelink request: (enquirelink: (pdu: 0 15 0 [7]) ) 
+13/05 15:24:53:316 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 7) ) 
+13/05 15:25:03:962 Close pool
+13/05 15:25:03:963 It can take a while to stop.
+13/05 15:25:03:975 Thread destroyed
+13/05 15:25:03:977 Unbind response (unbind_resp: (pdu: 16 80000006 0 8) ) 
+13/05 15:25:03:978 End of process session
+13/05 15:37:01:982 Bind Transmitter 01 started
+13/05 16:08:48:522 Bind Transmitter 01 started
+13/05 16:25:03:377 Bind Transmitter 01 started
+13/05 16:54:52:067 Bind Transmitter 01 started
+13/05 17:36:33:927 Bind Transmitter 01 started
+13/05 18:37:03:797 Bind Transmitter 01 started
+13/05 18:38:52:471 Bind Transmitter 01 started
+13/05 18:42:42:132 Bind Transmitter 01 started

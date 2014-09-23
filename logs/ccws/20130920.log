@@ -1,0 +1,18 @@
+20/09 10:52:29:389 CCWS started
+20/09 10:52:35:175 Testing connection ...
+20/09 10:52:39:728 Created provisioning instance for CCWS
+20/09 10:52:39:729 Testing connection are success
+20/09 10:52:39:730 Starting process session
+20/09 10:52:39:831 Total 0 instances are started
+20/09 10:52:39:832 Total 1 instances are added
+20/09 11:47:22:868 Created provisioning instance for CCWS
+20/09 11:47:22:869 SEND: ID=283004: com.comverse_in.prepaid.ccws.ServiceSoapStub.modifySubscriber:84922000514:PROMOTION_60{3000.0;18/11/2013 23:59:59},
+20/09 11:47:23:026 RECEIVE: ID=283004: success: costTime=155
+20/09 11:47:23:026 orderId = 125410145 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 100 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 309 | request = ID=283004: com.comverse_in.prepaid.ccws.ServiceSoapStub.modifySubscriber:84922000514:PROMOTION_60{3000.0;18/11/2013 23:59:59}, | response = ID=283004: success: costTime=155 | status = 1 | cause = success | description = success
+20/09 14:20:43:953 CCWS started
+20/09 14:20:49:625 Testing connection ...
+20/09 14:20:54:085 Created provisioning instance for CCWS
+20/09 14:20:54:086 Testing connection are success
+20/09 14:20:54:087 Starting process session
+20/09 14:20:54:190 Total 0 instances are started
+20/09 14:20:54:192 Total 1 instances are added

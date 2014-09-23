@@ -1,0 +1,952 @@
+30/08 08:35:38:130 CRM started
+30/08 08:35:41:118 Testing connection ...
+30/08 08:35:41:119 Created provisioning instance for CRM
+30/08 08:35:41:138 Testing connection are success
+30/08 08:35:41:138 Starting process session
+30/08 08:35:41:239 Total 0 instances are started
+30/08 08:35:41:240 Total 1 instances are added
+30/08 08:42:16:451 orderId = 125407748 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 2000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+30/08 08:42:18:616 orderId = 125407748 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 2000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 304 | request =  | response =  | status = 4 | cause = error | description = null
+30/08 08:42:18:624 For input string: ""
+30/08 08:42:18:779 Total 0 instances are started
+30/08 08:42:18:780 Total 1 instances are added
+30/08 08:45:34:245 orderId = 125407749 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 2000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+30/08 08:45:34:570 orderId = 125407749 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 2000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 304 | request =  | response =  | status = 4 | cause = error | description = null
+30/08 08:45:34:581 For input string: ""
+30/08 08:45:34:735 Total 0 instances are started
+30/08 08:45:34:736 Total 1 instances are added
+30/08 08:45:42:222 orderId = 125407750 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 2000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+30/08 08:45:42:557 orderId = 125407750 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 2000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 304 | request =  | response =  | status = 4 | cause = error | description = null
+30/08 08:45:42:566 For input string: ""
+30/08 08:45:42:715 Total 0 instances are started
+30/08 08:45:42:716 Total 1 instances are added
+30/08 08:45:49:223 orderId = 125407751 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 2000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+30/08 08:45:49:444 orderId = 125407751 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 2000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 304 | request =  | response =  | status = 4 | cause = error | description = null
+30/08 08:45:49:453 For input string: ""
+30/08 08:45:49:625 Total 0 instances are started
+30/08 08:45:49:626 Total 1 instances are added
+30/08 08:46:04:277 orderId = 125407752 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 2000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+30/08 08:46:04:615 orderId = 125407752 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 2000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 304 | request =  | response =  | status = 4 | cause = error | description = null
+30/08 08:46:04:627 For input string: ""
+30/08 08:46:04:769 Total 0 instances are started
+30/08 08:46:04:770 Total 1 instances are added
+30/08 08:46:11:379 orderId = 125407753 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 2000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+30/08 08:46:11:696 orderId = 125407753 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 2000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 304 | request =  | response =  | status = 4 | cause = error | description = null
+30/08 08:46:11:708 For input string: ""
+30/08 08:46:11:882 Total 0 instances are started
+30/08 08:46:11:883 Total 1 instances are added
+30/08 08:46:41:385 CRM started
+30/08 08:46:44:593 Testing connection ...
+30/08 08:46:44:595 Created provisioning instance for CRM
+30/08 08:46:44:595 Testing connection are success
+30/08 08:46:44:595 Starting process session
+30/08 08:46:44:697 Total 0 instances are started
+30/08 08:46:44:697 Total 1 instances are added
+30/08 08:47:16:295 orderId = 125407754 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 2000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+30/08 08:49:52:137 CRM started
+30/08 08:49:55:351 Testing connection ...
+30/08 08:49:55:352 Created provisioning instance for CRM
+30/08 08:49:55:352 Testing connection are success
+30/08 08:49:55:352 Starting process session
+30/08 08:49:55:454 Total 0 instances are started
+30/08 08:49:55:454 Total 1 instances are added
+30/08 08:53:17:285 CRM started
+30/08 08:53:20:565 Testing connection ...
+30/08 08:53:20:567 Created provisioning instance for CRM
+30/08 08:53:20:567 Testing connection are success
+30/08 08:53:20:568 Starting process session
+30/08 08:53:20:671 Total 0 instances are started
+30/08 08:53:20:674 Total 1 instances are added
+30/08 08:53:30:309 orderId = 125407756 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 2000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+30/08 08:55:43:860 CRM started
+30/08 08:55:46:989 Testing connection ...
+30/08 08:55:46:990 Created provisioning instance for CRM
+30/08 08:55:46:992 Testing connection are success
+30/08 08:55:46:993 Starting process session
+30/08 08:55:47:106 Total 0 instances are started
+30/08 08:55:47:106 Total 1 instances are added
+30/08 08:56:52:418 CRM started
+30/08 08:56:55:083 Testing connection ...
+30/08 08:56:55:084 Created provisioning instance for CRM
+30/08 08:56:55:113 Testing connection are success
+30/08 08:56:55:114 Starting process session
+30/08 08:56:55:215 Total 0 instances are started
+30/08 08:56:55:215 Total 1 instances are added
+30/08 08:57:11:405 orderId = 125407757 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 2000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+30/08 08:57:12:640 orderId = 125407757 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 2000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 304 | request =  | response =  | status = 4 | cause = error | description = null
+30/08 08:57:12:649 For input string: ""
+30/08 08:57:12:803 Total 0 instances are started
+30/08 08:57:12:804 Total 1 instances are added
+30/08 08:57:23:352 orderId = 125407758 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 2000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+30/08 08:57:23:680 orderId = 125407758 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 2000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 304 | request =  | response =  | status = 4 | cause = error | description = null
+30/08 08:57:23:688 For input string: ""
+30/08 08:57:23:811 Total 0 instances are started
+30/08 08:57:23:812 Total 1 instances are added
+30/08 08:58:54:786 CRM started
+30/08 08:58:58:086 Testing connection ...
+30/08 08:58:58:088 Created provisioning instance for CRM
+30/08 08:58:58:088 Testing connection are success
+30/08 08:58:58:089 Starting process session
+30/08 08:58:58:192 Total 0 instances are started
+30/08 08:58:58:194 Total 1 instances are added
+30/08 09:02:50:545 CRM started
+30/08 09:02:53:652 Testing connection ...
+30/08 09:02:53:653 Created provisioning instance for CRM
+30/08 09:02:53:653 Testing connection are success
+30/08 09:02:53:654 Starting process session
+30/08 09:02:53:756 Total 0 instances are started
+30/08 09:02:53:757 Total 1 instances are added
+30/08 09:02:56:486 orderId = 125407760 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 2000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+30/08 09:03:36:266 CRM started
+30/08 09:03:39:279 Testing connection ...
+30/08 09:03:39:280 Created provisioning instance for CRM
+30/08 09:03:39:280 Testing connection are success
+30/08 09:03:39:281 Starting process session
+30/08 09:03:39:387 Total 0 instances are started
+30/08 09:03:39:388 Total 1 instances are added
+30/08 09:03:42:244 orderId = 125407761 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 2000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+30/08 09:08:16:128 CRM started
+30/08 09:08:19:360 Testing connection ...
+30/08 09:08:19:361 Created provisioning instance for CRM
+30/08 09:08:19:362 Testing connection are success
+30/08 09:08:19:362 Starting process session
+30/08 09:08:19:464 Total 0 instances are started
+30/08 09:08:19:464 Total 1 instances are added
+30/08 09:09:13:121 orderId = 125407762 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 2000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 4 | cause = error | description = null
+30/08 09:09:13:132 com.crm.provisioning.message.CommandMessage cannot be cast to com.crm.provisioning.message.VNMMessage
+30/08 09:09:13:301 Total 0 instances are started
+30/08 09:09:13:302 Total 1 instances are added
+30/08 09:09:20:057 orderId = 125407763 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 2000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 4 | cause = error | description = null
+30/08 09:09:20:068 com.crm.provisioning.message.CommandMessage cannot be cast to com.crm.provisioning.message.VNMMessage
+30/08 09:09:20:235 Total 0 instances are started
+30/08 09:09:20:237 Total 1 instances are added
+30/08 09:09:27:065 orderId = 125407764 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 2000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 4 | cause = error | description = null
+30/08 09:09:27:075 com.crm.provisioning.message.CommandMessage cannot be cast to com.crm.provisioning.message.VNMMessage
+30/08 09:09:27:243 Total 0 instances are started
+30/08 09:09:27:244 Total 1 instances are added
+30/08 09:09:44:523 CRM started
+30/08 09:09:47:442 Testing connection ...
+30/08 09:09:47:443 Created provisioning instance for CRM
+30/08 09:09:47:444 Testing connection are success
+30/08 09:09:47:444 Starting process session
+30/08 09:09:47:545 Total 0 instances are started
+30/08 09:09:47:547 Total 1 instances are added
+30/08 09:10:03:637 orderId = 125407765 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 2000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 4 | cause = error | description = null
+30/08 09:10:03:654 com.crm.provisioning.message.CommandMessage cannot be cast to com.crm.provisioning.message.VNMMessage
+30/08 09:10:03:802 Total 0 instances are started
+30/08 09:10:03:804 Total 1 instances are added
+30/08 09:10:15:442 orderId = 125407766 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 2000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 4 | cause = error | description = null
+30/08 09:10:15:450 com.crm.provisioning.message.CommandMessage cannot be cast to com.crm.provisioning.message.VNMMessage
+30/08 09:10:15:627 Total 0 instances are started
+30/08 09:10:15:628 Total 1 instances are added
+30/08 09:13:22:953 CRM started
+30/08 09:13:23:496 Testing connection ...
+30/08 09:13:23:500 Created provisioning instance for CRM
+30/08 09:13:23:597 Testing connection are success
+30/08 09:13:23:600 Starting process session
+30/08 09:13:23:718 Total 0 instances are started
+30/08 09:13:23:718 Total 1 instances are added
+30/08 09:13:44:739 orderId = 125407768 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 2000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 4 | cause = error | description = null
+30/08 09:13:44:748 com.crm.provisioning.message.CommandMessage cannot be cast to com.crm.provisioning.message.VNMMessage
+30/08 09:13:44:919 Total 0 instances are started
+30/08 09:13:44:920 Total 1 instances are added
+30/08 09:14:01:656 orderId = 125407769 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 2000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 4 | cause = error | description = null
+30/08 09:14:01:665 com.crm.provisioning.message.CommandMessage cannot be cast to com.crm.provisioning.message.VNMMessage
+30/08 09:14:01:826 Total 0 instances are started
+30/08 09:14:01:827 Total 1 instances are added
+30/08 09:14:48:507 CRM started
+30/08 09:14:51:662 Testing connection ...
+30/08 09:14:51:663 Created provisioning instance for CRM
+30/08 09:14:51:663 Testing connection are success
+30/08 09:14:51:664 Starting process session
+30/08 09:14:51:769 Total 0 instances are started
+30/08 09:14:51:770 Total 1 instances are added
+30/08 09:15:09:425 orderId = 125407770 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 2000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+30/08 09:17:47:606 CRM started
+30/08 09:17:50:775 Testing connection ...
+30/08 09:17:50:777 Created provisioning instance for CRM
+30/08 09:17:50:777 Testing connection are success
+30/08 09:17:50:779 Starting process session
+30/08 09:17:50:886 Total 0 instances are started
+30/08 09:17:50:887 Total 1 instances are added
+30/08 09:17:53:476 orderId = 125407771 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 2000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+30/08 09:17:53:498 orderId = 125407772 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 2000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+30/08 09:21:58:286 CRM started
+30/08 09:22:01:496 Testing connection ...
+30/08 09:22:01:500 Created provisioning instance for CRM
+30/08 09:22:01:501 Testing connection are success
+30/08 09:22:01:502 Starting process session
+30/08 09:22:01:604 Total 0 instances are started
+30/08 09:22:01:605 Total 1 instances are added
+30/08 09:22:41:417 CRM started
+30/08 09:22:44:696 Testing connection ...
+30/08 09:22:44:700 Created provisioning instance for CRM
+30/08 09:22:44:702 Testing connection are success
+30/08 09:22:44:703 Starting process session
+30/08 09:22:44:805 Total 0 instances are started
+30/08 09:22:44:806 Total 1 instances are added
+30/08 09:26:19:110 orderId = 125407773 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 2000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+30/08 09:27:12:033 orderId = 125407773 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 2000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 304 | request =  | response =  | status = 4 | cause = error | description = null
+30/08 09:27:12:039 For input string: ""
+30/08 09:27:12:203 Total 0 instances are started
+30/08 09:27:12:204 Total 1 instances are added
+30/08 09:27:49:951 CRM started
+30/08 09:27:53:002 Testing connection ...
+30/08 09:27:53:003 Created provisioning instance for CRM
+30/08 09:27:53:003 Testing connection are success
+30/08 09:27:53:004 Starting process session
+30/08 09:27:53:111 Total 0 instances are started
+30/08 09:27:53:112 Total 1 instances are added
+30/08 09:30:41:827 CRM started
+30/08 09:30:45:076 Testing connection ...
+30/08 09:30:45:078 Created provisioning instance for CRM
+30/08 09:30:45:079 Testing connection are success
+30/08 09:30:45:079 Starting process session
+30/08 09:30:45:181 Total 0 instances are started
+30/08 09:30:45:181 Total 1 instances are added
+30/08 09:34:22:148 CRM started
+30/08 09:34:25:403 Testing connection ...
+30/08 09:34:25:404 Created provisioning instance for CRM
+30/08 09:34:25:404 Testing connection are success
+30/08 09:34:25:405 Starting process session
+30/08 09:34:25:506 Total 0 instances are started
+30/08 09:34:25:506 Total 1 instances are added
+30/08 09:35:04:975 CRM started
+30/08 09:35:10:573 Testing connection ...
+30/08 09:35:10:575 Created provisioning instance for CRM
+30/08 09:35:10:575 Testing connection are success
+30/08 09:35:10:576 Starting process session
+30/08 09:35:10:692 Total 0 instances are started
+30/08 09:35:10:692 Total 1 instances are added
+30/08 09:38:19:750 orderId = 125407776 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 2000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+30/08 09:39:16:640 orderId = 125407776 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 2000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 304 | request =  | response =  | status = 4 | cause = error | description = null
+30/08 09:39:16:651 For input string: ""
+30/08 09:39:16:766 Total 0 instances are started
+30/08 09:39:16:768 Total 1 instances are added
+30/08 09:44:18:074 CRM started
+30/08 09:44:22:158 Testing connection ...
+30/08 09:44:22:159 Created provisioning instance for CRM
+30/08 09:44:22:160 Testing connection are success
+30/08 09:44:22:160 Starting process session
+30/08 09:44:22:262 Total 0 instances are started
+30/08 09:44:22:263 Total 1 instances are added
+30/08 09:44:39:886 orderId = 125407777 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 2000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+30/08 09:46:44:793 CRM started
+30/08 09:46:48:616 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.validateE(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+30/08 09:46:48:616 End of process session
+30/08 09:48:04:700 CRM started
+30/08 09:48:08:564 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.validateE(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+30/08 09:48:08:564 End of process session
+30/08 09:49:48:649 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.validateE(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+30/08 09:49:48:650 End of process session
+30/08 09:50:34:835 CRM started
+30/08 09:50:38:586 Testing connection ...
+30/08 09:50:38:589 Created provisioning instance for CRM
+30/08 09:50:38:590 Testing connection are success
+30/08 09:50:38:591 Starting process session
+30/08 09:50:38:692 Total 0 instances are started
+30/08 09:50:38:692 Total 1 instances are added
+30/08 09:50:52:358 orderId = 125407778 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 2000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+30/08 09:50:53:610 orderId = 125407778 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 2000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 304 | request =  | response =  | status = 4 | cause = error | description = null
+30/08 09:50:53:623 For input string: ""
+30/08 09:50:53:745 Total 0 instances are started
+30/08 09:50:53:746 Total 1 instances are added
+30/08 09:50:54:853 orderId = 125407779 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 2000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+30/08 09:50:55:062 orderId = 125407780 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 2000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+30/08 09:50:55:092 orderId = 125407779 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 2000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 304 | request =  | response =  | status = 4 | cause = error | description = null
+30/08 09:50:55:101 For input string: ""
+30/08 09:50:55:253 Total 0 instances are started
+30/08 09:50:55:253 Total 1 instances are added
+30/08 09:50:55:388 orderId = 125407780 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 2000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 304 | request =  | response =  | status = 4 | cause = error | description = null
+30/08 09:50:55:397 For input string: ""
+30/08 09:50:55:553 Total 0 instances are started
+30/08 09:50:55:554 Total 1 instances are added
+30/08 09:50:55:663 orderId = 125407781 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 2000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+30/08 09:50:55:990 orderId = 125407781 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 2000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 304 | request =  | response =  | status = 4 | cause = error | description = null
+30/08 09:50:56:000 For input string: ""
+30/08 09:50:56:161 Total 0 instances are started
+30/08 09:50:56:161 Total 1 instances are added
+30/08 09:50:56:167 orderId = 125407782 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 2000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+30/08 09:50:56:492 orderId = 125407782 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 2000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 304 | request =  | response =  | status = 4 | cause = error | description = null
+30/08 09:50:56:500 For input string: ""
+30/08 09:50:56:662 Total 0 instances are started
+30/08 09:50:56:663 Total 1 instances are added
+30/08 09:52:20:700 orderId = 125407783 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 2000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+30/08 09:52:20:935 orderId = 125407783 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 2000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 304 | request =  | response =  | status = 4 | cause = error | description = null
+30/08 09:52:20:951 For input string: ""
+30/08 09:52:21:133 Total 0 instances are started
+30/08 09:52:21:134 Total 1 instances are added
+30/08 09:53:09:758 orderId = 125407784 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 2000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+30/08 09:53:09:981 orderId = 125407784 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 2000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 304 | request =  | response =  | status = 4 | cause = error | description = null
+30/08 09:53:09:989 For input string: ""
+30/08 09:53:10:138 Total 0 instances are started
+30/08 09:53:10:139 Total 1 instances are added
+30/08 09:53:49:360 orderId = 125407785 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 2000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+30/08 09:54:47:985 orderId = 125407785 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 2000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 304 | request =  | response =  | status = 4 | cause = error | description = null
+30/08 09:54:47:994 For input string: ""
+30/08 09:54:48:144 Total 0 instances are started
+30/08 09:54:48:146 Total 1 instances are added
+30/08 09:55:13:411 orderId = 125407786 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 2000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+30/08 09:56:12:903 orderId = 125407786 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 2000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 304 | request =  | response =  | status = 4 | cause = error | description = null
+30/08 09:56:12:911 For input string: ""
+30/08 09:56:13:023 Total 0 instances are started
+30/08 09:56:13:025 Total 1 instances are added
+30/08 09:58:47:178 CRM started
+30/08 09:58:50:266 Testing connection ...
+30/08 09:58:50:268 Created provisioning instance for CRM
+30/08 09:58:50:269 Testing connection are success
+30/08 09:58:50:269 Starting process session
+30/08 09:58:50:379 Total 0 instances are started
+30/08 09:58:50:379 Total 1 instances are added
+30/08 10:00:46:939 orderId = 125407787 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 2000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+30/08 10:02:08:734 CRM started
+30/08 10:02:11:775 Testing connection ...
+30/08 10:02:11:776 Created provisioning instance for CRM
+30/08 10:02:11:791 Testing connection are success
+30/08 10:02:11:792 Starting process session
+30/08 10:02:11:893 Total 0 instances are started
+30/08 10:02:11:893 Total 1 instances are added
+30/08 10:02:31:552 orderId = 125407788 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 2000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+30/08 10:02:32:718 orderId = 125407788 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 2000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 304 | request =  | response =  | status = 0 | cause = success | description = 
+30/08 10:08:49:042 CRM started
+30/08 10:09:17:661 Error occured: Connections could not be acquired from the underlying database!
+30/08 10:10:38:300 CRM started
+30/08 10:10:41:336 Testing connection ...
+30/08 10:10:41:337 Created provisioning instance for CRM
+30/08 10:10:41:337 Testing connection are success
+30/08 10:10:41:338 Starting process session
+30/08 10:10:41:439 Total 0 instances are started
+30/08 10:10:41:439 Total 1 instances are added
+30/08 10:11:26:577 orderId = 125407789 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 2000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+30/08 10:11:28:949 orderId = 125407790 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 2000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+30/08 10:14:56:112 orderId = 125407791 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 2000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+30/08 10:14:56:774 orderId = 125407789 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 2000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 304 | request =  | response =  | status = 0 | cause = success | description = 
+30/08 10:14:56:987 orderId = 125407790 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 2000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 304 | request =  | response =  | status = 0 | cause = success | description = 
+30/08 10:14:57:719 orderId = 125407791 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 2000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 304 | request =  | response =  | status = 0 | cause = success | description = 
+30/08 10:15:56:628 CRM started
+30/08 10:15:57:601 Testing connection ...
+30/08 10:15:57:618 Created provisioning instance for CRM
+30/08 10:15:58:021 Testing connection are success
+30/08 10:15:58:022 Starting process session
+30/08 10:15:58:142 Total 0 instances are started
+30/08 10:15:58:151 Total 1 instances are added
+30/08 10:16:26:966 orderId = 125407792 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 2000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+30/08 10:16:28:420 orderId = 125407792 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 2000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 304 | request =  | response =  | status = 0 | cause = success | description = 
+30/08 10:16:33:737 orderId = 125407793 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 2000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+30/08 10:16:34:058 orderId = 125407793 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 2000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 304 | request =  | response =  | status = 0 | cause = success | description = 
+30/08 10:17:15:663 CRM started
+30/08 10:17:18:776 Testing connection ...
+30/08 10:17:18:778 Created provisioning instance for CRM
+30/08 10:17:18:779 Testing connection are success
+30/08 10:17:18:779 Starting process session
+30/08 10:17:18:881 Total 0 instances are started
+30/08 10:17:18:881 Total 1 instances are added
+30/08 10:17:33:522 orderId = 125407794 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 2000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+30/08 10:28:13:902 CRM started
+30/08 10:28:16:713 Testing connection ...
+30/08 10:28:16:714 Created provisioning instance for CRM
+30/08 10:28:16:714 Testing connection are success
+30/08 10:28:16:715 Starting process session
+30/08 10:28:16:818 Total 0 instances are started
+30/08 10:28:16:819 Total 1 instances are added
+30/08 10:28:31:801 orderId = 125407795 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 2000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+30/08 10:28:32:827 orderId = 125407795 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 2000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 304 | request =  | response =  | status = 0 | cause = success | description = 
+30/08 10:28:43:659 orderId = 125407796 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 2000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+30/08 10:28:43:988 orderId = 125407796 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 2000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 304 | request =  | response =  | status = 0 | cause = success | description = 
+30/08 10:28:50:614 orderId = 125407797 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 2000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+30/08 10:28:50:966 orderId = 125407797 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 2000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 304 | request =  | response =  | status = 0 | cause = success | description = 
+30/08 10:28:57:574 orderId = 125407798 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 2000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+30/08 10:28:57:787 orderId = 125407798 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 2000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 304 | request =  | response =  | status = 0 | cause = success | description = 
+30/08 10:29:09:697 orderId = 125407799 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 2000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+30/08 10:29:09:908 orderId = 125407799 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 2000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 304 | request =  | response =  | status = 0 | cause = success | description = 
+30/08 10:29:38:825 CRM started
+30/08 10:29:41:892 Testing connection ...
+30/08 10:29:41:892 Created provisioning instance for CRM
+30/08 10:29:41:893 Testing connection are success
+30/08 10:29:41:893 Starting process session
+30/08 10:29:41:996 Total 0 instances are started
+30/08 10:29:41:996 Total 1 instances are added
+30/08 10:30:00:740 orderId = 125407800 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 2000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+30/08 10:38:11:142 CRM started
+30/08 10:38:14:304 Testing connection ...
+30/08 10:38:14:307 Created provisioning instance for CRM
+30/08 10:38:14:307 Testing connection are success
+30/08 10:38:14:308 Starting process session
+30/08 10:38:14:409 Total 0 instances are started
+30/08 10:38:14:409 Total 1 instances are added
+30/08 10:38:39:056 orderId = 125407801 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 2000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+30/08 10:41:10:356 CRM started
+30/08 10:41:13:230 Testing connection ...
+30/08 10:41:13:232 Created provisioning instance for CRM
+30/08 10:41:13:232 Testing connection are success
+30/08 10:41:13:233 Starting process session
+30/08 10:41:13:334 Total 0 instances are started
+30/08 10:41:13:334 Total 1 instances are added
+30/08 10:41:36:355 orderId = 125407802 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 2000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+30/08 10:43:18:888 javax.jms.JMSException: [C4056]: Received goodbye message from broker.
+30/08 10:43:18:999 javax.jms.IllegalStateException: [C4062]: Cannot perform operation, connection is closed.
+30/08 10:43:20:040 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.36:50415]. - cause: java.net.ConnectException: Connection refused: connect
+30/08 10:43:20:041 Consumer was closed, reconnect.
+30/08 10:43:20:153 Total 0 instances are started
+30/08 10:43:20:155 Total 1 instances are added
+30/08 10:43:21:213 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.36:50415]. - cause: java.net.ConnectException: Connection refused: connect
+30/08 10:43:21:214 Consumer was closed, reconnect.
+30/08 10:43:21:360 Total 0 instances are started
+30/08 10:43:21:361 Total 1 instances are added
+30/08 10:43:22:429 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.36:50415]. - cause: java.net.ConnectException: Connection refused: connect
+30/08 10:43:22:430 Consumer was closed, reconnect.
+30/08 10:43:22:565 Total 0 instances are started
+30/08 10:43:22:566 Total 1 instances are added
+30/08 10:43:23:624 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.36:7676]. - cause: java.net.ConnectException: Connection refused: connect
+30/08 10:43:23:625 Consumer was closed, reconnect.
+30/08 10:43:23:773 Total 0 instances are started
+30/08 10:43:23:774 Total 1 instances are added
+30/08 10:43:24:780 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.36:7676]. - cause: java.net.ConnectException: Connection refused: connect
+30/08 10:43:24:781 Consumer was closed, reconnect.
+30/08 10:43:24:979 Total 0 instances are started
+30/08 10:43:24:983 Total 1 instances are added
+30/08 10:43:26:040 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.36:7676]. - cause: java.net.ConnectException: Connection refused: connect
+30/08 10:43:26:040 Consumer was closed, reconnect.
+30/08 10:43:26:183 Total 0 instances are started
+30/08 10:43:26:184 Total 1 instances are added
+30/08 10:43:27:219 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.36:7676]. - cause: java.net.ConnectException: Connection refused: connect
+30/08 10:43:27:220 Consumer was closed, reconnect.
+30/08 10:43:27:386 Total 0 instances are started
+30/08 10:43:27:386 Total 1 instances are added
+30/08 10:43:28:432 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.36:7676]. - cause: java.net.ConnectException: Connection refused: connect
+30/08 10:43:28:433 Consumer was closed, reconnect.
+30/08 10:43:28:588 Total 0 instances are started
+30/08 10:43:28:589 Total 1 instances are added
+30/08 10:43:29:620 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.36:7676]. - cause: java.net.ConnectException: Connection refused: connect
+30/08 10:43:29:621 Consumer was closed, reconnect.
+30/08 10:43:29:790 Total 0 instances are started
+30/08 10:43:29:791 Total 1 instances are added
+30/08 10:43:30:839 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.36:7676]. - cause: java.net.ConnectException: Connection refused: connect
+30/08 10:43:30:840 Consumer was closed, reconnect.
+30/08 10:43:30:992 Total 0 instances are started
+30/08 10:43:30:992 Total 1 instances are added
+30/08 10:43:32:016 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.36:7676]. - cause: java.net.ConnectException: Connection refused: connect
+30/08 10:43:32:016 Consumer was closed, reconnect.
+30/08 10:43:32:193 Total 0 instances are started
+30/08 10:43:32:193 Total 1 instances are added
+30/08 10:43:33:255 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.36:7676]. - cause: java.net.ConnectException: Connection refused: connect
+30/08 10:43:33:256 Consumer was closed, reconnect.
+30/08 10:43:33:394 Total 0 instances are started
+30/08 10:43:33:394 Total 1 instances are added
+30/08 10:43:34:403 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.36:7676]. - cause: java.net.ConnectException: Connection refused: connect
+30/08 10:43:34:403 Consumer was closed, reconnect.
+30/08 10:43:34:595 Total 0 instances are started
+30/08 10:43:34:595 Total 1 instances are added
+30/08 10:43:35:653 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.36:7676]. - cause: java.net.ConnectException: Connection refused: connect
+30/08 10:43:35:654 Consumer was closed, reconnect.
+30/08 10:43:35:799 Total 0 instances are started
+30/08 10:43:35:799 Total 1 instances are added
+30/08 10:43:36:835 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.36:7676]. - cause: java.net.ConnectException: Connection refused: connect
+30/08 10:43:36:836 Consumer was closed, reconnect.
+30/08 10:43:37:000 Total 0 instances are started
+30/08 10:43:37:000 Total 1 instances are added
+30/08 10:43:38:060 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.36:7676]. - cause: java.net.ConnectException: Connection refused: connect
+30/08 10:43:38:060 Consumer was closed, reconnect.
+30/08 10:43:38:214 Total 0 instances are started
+30/08 10:43:38:215 Total 1 instances are added
+30/08 10:43:39:243 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.36:7676]. - cause: java.net.ConnectException: Connection refused: connect
+30/08 10:43:39:243 Consumer was closed, reconnect.
+30/08 10:43:39:415 Total 0 instances are started
+30/08 10:43:39:415 Total 1 instances are added
+30/08 10:43:40:434 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.36:7676]. - cause: java.net.ConnectException: Connection refused: connect
+30/08 10:43:40:435 Consumer was closed, reconnect.
+30/08 10:43:40:553 Total 0 instances are started
+30/08 10:43:40:554 Total 1 instances are added
+30/08 10:43:41:582 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.36:7676]. - cause: java.net.ConnectException: Connection refused: connect
+30/08 10:43:41:582 Consumer was closed, reconnect.
+30/08 10:43:41:759 Total 0 instances are started
+30/08 10:43:42:768 Total 1 instances are added
+30/08 10:43:42:811 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.36:7676]. - cause: java.net.ConnectException: Connection refused: connect
+30/08 10:43:42:812 Consumer was closed, reconnect.
+30/08 10:43:42:969 Total 0 instances are started
+30/08 10:43:42:970 Total 1 instances are added
+30/08 10:43:43:984 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.36:7676]. - cause: java.net.ConnectException: Connection refused: connect
+30/08 10:43:43:985 Consumer was closed, reconnect.
+30/08 10:43:44:205 Total 0 instances are started
+30/08 10:43:44:206 Total 1 instances are added
+30/08 10:43:45:232 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.36:7676]. - cause: java.net.ConnectException: Connection refused: connect
+30/08 10:43:45:232 Consumer was closed, reconnect.
+30/08 10:43:45:407 Total 0 instances are started
+30/08 10:43:45:407 Total 1 instances are added
+30/08 10:43:46:459 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.36:7676]. - cause: java.net.ConnectException: Connection refused: connect
+30/08 10:43:46:459 Consumer was closed, reconnect.
+30/08 10:43:46:620 Total 0 instances are started
+30/08 10:43:46:621 Total 1 instances are added
+30/08 10:43:47:774 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.36:7676]. - cause: java.net.ConnectException: Connection refused: connect
+30/08 10:43:47:775 Consumer was closed, reconnect.
+30/08 10:43:47:921 Total 0 instances are started
+30/08 10:43:47:922 Total 1 instances are added
+30/08 10:45:02:397 CRM started
+30/08 10:45:05:510 Testing connection ...
+30/08 10:45:05:512 Created provisioning instance for CRM
+30/08 10:45:05:513 Testing connection are success
+30/08 10:45:05:513 Starting process session
+30/08 10:45:05:615 Total 0 instances are started
+30/08 10:45:05:616 Total 1 instances are added
+30/08 10:45:34:307 orderId = 125407803 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 2000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+30/08 10:53:53:092 CRM started
+30/08 10:53:55:946 Testing connection ...
+30/08 10:53:55:946 Created provisioning instance for CRM
+30/08 10:53:55:947 Testing connection are success
+30/08 10:53:55:947 Starting process session
+30/08 10:53:56:048 Total 0 instances are started
+30/08 10:53:56:048 Total 1 instances are added
+30/08 10:54:10:964 orderId = 125407804 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 2000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+30/08 10:54:22:855 orderId = 125407805 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 2000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+30/08 10:55:48:015 CRM started
+30/08 10:55:51:196 Testing connection ...
+30/08 10:55:51:204 Created provisioning instance for CRM
+30/08 10:55:51:205 Testing connection are success
+30/08 10:55:51:206 Starting process session
+30/08 10:55:51:308 Total 0 instances are started
+30/08 10:55:51:309 Total 1 instances are added
+30/08 10:56:02:002 orderId = 125407806 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 2000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+30/08 11:11:11:470 CRM started
+30/08 11:11:14:504 Testing connection ...
+30/08 11:11:14:505 Created provisioning instance for CRM
+30/08 11:11:14:507 Testing connection are success
+30/08 11:11:14:508 Starting process session
+30/08 11:11:14:611 Total 0 instances are started
+30/08 11:11:14:611 Total 1 instances are added
+30/08 11:11:37:398 orderId = 125407807 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 2000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+30/08 11:12:37:841 CRM started
+30/08 11:12:40:945 Testing connection ...
+30/08 11:12:40:946 Created provisioning instance for CRM
+30/08 11:12:40:947 Testing connection are success
+30/08 11:12:40:947 Starting process session
+30/08 11:12:41:051 Total 0 instances are started
+30/08 11:12:41:051 Total 1 instances are added
+30/08 11:12:54:776 orderId = 125407808 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 2000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+30/08 11:13:37:831 CRM started
+30/08 11:13:40:809 Testing connection ...
+30/08 11:13:40:810 Created provisioning instance for CRM
+30/08 11:13:40:810 Testing connection are success
+30/08 11:13:40:811 Starting process session
+30/08 11:13:40:913 Total 0 instances are started
+30/08 11:13:40:913 Total 1 instances are added
+30/08 11:13:54:803 orderId = 125407809 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 2000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+30/08 11:13:56:653 orderId = 125407809 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 2000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 304 | request =  | response =  | status = 0 | cause = success | description = 
+30/08 11:17:26:107 CRM started
+30/08 11:17:29:245 Testing connection ...
+30/08 11:17:29:246 Created provisioning instance for CRM
+30/08 11:17:29:246 Testing connection are success
+30/08 11:17:29:247 Starting process session
+30/08 11:17:29:348 Total 0 instances are started
+30/08 11:17:29:348 Total 1 instances are added
+30/08 11:17:55:089 orderId = 125407810 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 2000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+30/08 11:19:08:719 orderId = 125407810 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 2000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 304 | request =  | response =  | status = 0 | cause = success | description = 
+30/08 11:21:22:248 CRM started
+30/08 11:21:25:390 Testing connection ...
+30/08 11:21:25:391 Created provisioning instance for CRM
+30/08 11:21:25:392 Testing connection are success
+30/08 11:21:25:392 Starting process session
+30/08 11:21:25:494 Total 0 instances are started
+30/08 11:21:25:494 Total 1 instances are added
+30/08 11:21:47:154 orderId = 125407811 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 2000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+30/08 11:23:00:244 CRM started
+30/08 11:23:03:116 Testing connection ...
+30/08 11:23:03:116 Created provisioning instance for CRM
+30/08 11:23:03:117 Testing connection are success
+30/08 11:23:03:117 Starting process session
+30/08 11:23:03:218 Total 0 instances are started
+30/08 11:23:03:218 Total 1 instances are added
+30/08 11:23:30:296 orderId = 125407812 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 2000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+30/08 11:23:31:434 orderId = 125407812 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 2000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 304 | request =  | response =  | status = 0 | cause = success | description = 
+30/08 11:30:05:033 CRM started
+30/08 11:30:08:061 Testing connection ...
+30/08 11:30:08:063 Created provisioning instance for CRM
+30/08 11:30:08:070 Testing connection are success
+30/08 11:30:08:070 Starting process session
+30/08 11:30:08:171 Total 0 instances are started
+30/08 11:30:08:171 Total 1 instances are added
+30/08 11:31:27:757 CRM started
+30/08 11:31:30:473 Testing connection ...
+30/08 11:31:30:473 Created provisioning instance for CRM
+30/08 11:31:30:476 Testing connection are success
+30/08 11:31:30:477 Starting process session
+30/08 11:31:30:578 Total 0 instances are started
+30/08 11:31:30:579 Total 1 instances are added
+30/08 11:31:51:803 orderId = 125407813 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 2000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+30/08 11:31:52:959 orderId = 125407813 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 2000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 304 | request =  | response =  | status = 4 | cause = error | description = null
+30/08 11:31:52:971 ORA-00904: "SOURCEADDRESS": invalid identifier
+
+30/08 11:31:53:096 Total 0 instances are started
+30/08 11:31:53:097 Total 1 instances are added
+30/08 11:37:34:565 CRM started
+30/08 11:37:37:471 Testing connection ...
+30/08 11:37:37:473 Created provisioning instance for CRM
+30/08 11:37:37:478 Testing connection are success
+30/08 11:37:37:480 Starting process session
+30/08 11:37:37:586 Total 0 instances are started
+30/08 11:37:37:586 Total 1 instances are added
+30/08 11:37:55:508 orderId = 125407814 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 2000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+30/08 11:37:56:858 orderId = 125407814 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 2000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 304 | request =  | response =  | status = 4 | cause = error | description = null
+30/08 11:37:56:874 ORA-00904: "SOURCEADDRESS": invalid identifier
+
+30/08 11:37:56:978 Total 0 instances are started
+30/08 11:37:56:979 Total 1 instances are added
+30/08 11:39:56:697 CRM started
+30/08 11:39:59:520 Testing connection ...
+30/08 11:39:59:521 Created provisioning instance for CRM
+30/08 11:39:59:522 Testing connection are success
+30/08 11:39:59:523 Starting process session
+30/08 11:39:59:624 Total 0 instances are started
+30/08 11:39:59:630 Total 1 instances are added
+30/08 11:40:12:591 orderId = 125407815 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 2000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+30/08 11:40:59:853 CRM started
+30/08 11:41:02:832 Testing connection ...
+30/08 11:41:02:833 Created provisioning instance for CRM
+30/08 11:41:02:846 Testing connection are success
+30/08 11:41:02:847 Starting process session
+30/08 11:41:02:948 Total 0 instances are started
+30/08 11:41:02:948 Total 1 instances are added
+30/08 11:41:17:575 orderId = 125407816 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 2000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+30/08 11:41:49:805 CRM started
+30/08 11:41:51:128 Testing connection ...
+30/08 11:41:51:129 Created provisioning instance for CRM
+30/08 11:41:51:137 Testing connection are success
+30/08 11:41:51:138 Starting process session
+30/08 11:41:51:263 Total 0 instances are started
+30/08 11:41:51:263 Total 1 instances are added
+30/08 11:42:23:695 orderId = 125407817 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 2000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+30/08 11:44:47:985 CRM started
+30/08 11:44:50:966 Testing connection ...
+30/08 11:44:50:969 Created provisioning instance for CRM
+30/08 11:44:50:970 Testing connection are success
+30/08 11:44:50:972 Starting process session
+30/08 11:44:51:074 Total 0 instances are started
+30/08 11:44:51:079 Total 1 instances are added
+30/08 11:45:25:831 orderId = 125407818 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 2000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+30/08 11:47:04:108 CRM started
+30/08 11:47:05:031 Testing connection ...
+30/08 11:47:05:031 Created provisioning instance for CRM
+30/08 11:47:05:032 Testing connection are success
+30/08 11:47:05:035 Starting process session
+30/08 11:47:05:208 Total 0 instances are started
+30/08 11:47:05:213 Total 1 instances are added
+30/08 11:47:17:122 orderId = 125407819 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 2000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+30/08 11:50:20:829 CRM started
+30/08 11:50:23:718 Testing connection ...
+30/08 11:50:23:722 Created provisioning instance for CRM
+30/08 11:50:23:744 Testing connection are success
+30/08 11:50:23:745 Starting process session
+30/08 11:50:23:849 Total 0 instances are started
+30/08 11:50:23:849 Total 1 instances are added
+30/08 11:51:38:911 orderId = 125407820 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 2000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+30/08 12:33:38:537 CRM started
+30/08 12:33:41:466 Testing connection ...
+30/08 12:33:41:467 Created provisioning instance for CRM
+30/08 12:33:41:468 Testing connection are success
+30/08 12:33:41:469 Starting process session
+30/08 12:33:41:570 Total 0 instances are started
+30/08 12:33:41:571 Total 1 instances are added
+30/08 12:34:06:677 orderId = 125407821 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 2000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+30/08 12:40:17:254 CRM started
+30/08 12:40:21:375 Testing connection ...
+30/08 12:40:21:376 Created provisioning instance for CRM
+30/08 12:40:21:378 Testing connection are success
+30/08 12:40:21:378 Starting process session
+30/08 12:40:21:479 Total 0 instances are started
+30/08 12:40:21:479 Total 1 instances are added
+30/08 12:40:23:948 orderId = 125407822 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 2000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+30/08 12:46:11:825 CRM started
+30/08 12:46:14:204 Testing connection ...
+30/08 12:46:14:207 Created provisioning instance for CRM
+30/08 12:46:14:209 Testing connection are success
+30/08 12:46:14:210 Starting process session
+30/08 12:46:14:319 Total 0 instances are started
+30/08 12:46:14:320 Total 1 instances are added
+30/08 12:46:16:563 orderId = 125407823 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 2000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+30/08 13:22:31:580 CRM started
+30/08 13:22:34:364 Testing connection ...
+30/08 13:22:34:364 Created provisioning instance for CRM
+30/08 13:22:34:370 Testing connection are success
+30/08 13:22:34:374 Starting process session
+30/08 13:22:34:475 Total 0 instances are started
+30/08 13:22:34:476 Total 1 instances are added
+30/08 13:23:08:536 orderId = 125407824 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 2000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+30/08 13:26:21:325 CRM started
+30/08 13:26:24:402 Testing connection ...
+30/08 13:26:24:403 Created provisioning instance for CRM
+30/08 13:26:24:404 Testing connection are success
+30/08 13:26:24:404 Starting process session
+30/08 13:26:24:508 Total 0 instances are started
+30/08 13:26:24:508 Total 1 instances are added
+30/08 13:27:01:326 orderId = 125407825 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 3000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+30/08 13:29:29:737 CRM started
+30/08 13:29:31:466 Testing connection ...
+30/08 13:29:31:467 Created provisioning instance for CRM
+30/08 13:29:31:467 Testing connection are success
+30/08 13:29:31:468 Starting process session
+30/08 13:29:31:741 Total 0 instances are started
+30/08 13:29:31:741 Total 1 instances are added
+30/08 13:30:07:872 orderId = 125407826 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 3000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+30/08 14:07:31:578 CRM started
+30/08 14:07:34:641 Testing connection ...
+30/08 14:07:34:642 Created provisioning instance for CRM
+30/08 14:07:34:643 Testing connection are success
+30/08 14:07:34:645 Starting process session
+30/08 14:07:34:746 Total 0 instances are started
+30/08 14:07:34:746 Total 1 instances are added
+30/08 14:08:07:489 orderId = 125407827 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 3000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+30/08 14:12:41:142 CRM started
+30/08 14:12:44:339 Testing connection ...
+30/08 14:12:44:341 Created provisioning instance for CRM
+30/08 14:12:44:343 Testing connection are success
+30/08 14:12:44:350 Starting process session
+30/08 14:12:44:456 Total 0 instances are started
+30/08 14:12:44:457 Total 1 instances are added
+30/08 14:13:02:113 orderId = 125407828 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 3000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+30/08 14:13:50:269 orderId = 125407828 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 3000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 304 | request =  | response =  | status = 4 | cause = error | description = null
+30/08 14:13:50:283 ORA-01008: not all variables bound
+
+30/08 14:13:50:414 Total 0 instances are started
+30/08 14:13:50:415 Total 1 instances are added
+30/08 14:15:46:037 CRM started
+30/08 14:15:49:210 Testing connection ...
+30/08 14:15:49:219 Created provisioning instance for CRM
+30/08 14:15:49:220 Testing connection are success
+30/08 14:15:49:223 Starting process session
+30/08 14:15:49:327 Total 0 instances are started
+30/08 14:15:49:327 Total 1 instances are added
+30/08 14:16:05:078 orderId = 125407829 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 3000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+30/08 14:22:44:179 CRM started
+30/08 14:22:47:226 Testing connection ...
+30/08 14:22:47:227 Created provisioning instance for CRM
+30/08 14:22:47:227 Testing connection are success
+30/08 14:22:47:228 Starting process session
+30/08 14:22:47:330 Total 0 instances are started
+30/08 14:22:47:331 Total 1 instances are added
+30/08 14:23:05:019 orderId = 125407830 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 3000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+30/08 14:25:17:828 CRM started
+30/08 14:25:20:856 Testing connection ...
+30/08 14:25:20:857 Created provisioning instance for CRM
+30/08 14:25:20:857 Testing connection are success
+30/08 14:25:20:858 Starting process session
+30/08 14:25:20:960 Total 0 instances are started
+30/08 14:25:20:960 Total 1 instances are added
+30/08 14:25:38:640 orderId = 125407831 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 3000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+30/08 14:28:05:722 CRM started
+30/08 14:28:08:580 Testing connection ...
+30/08 14:28:08:581 Created provisioning instance for CRM
+30/08 14:28:08:582 Testing connection are success
+30/08 14:28:08:582 Starting process session
+30/08 14:28:08:685 Total 0 instances are started
+30/08 14:28:08:686 Total 1 instances are added
+30/08 14:28:30:620 orderId = 125407832 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 3000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+30/08 14:30:41:237 CRM started
+30/08 14:31:09:886 Error occured: Connections could not be acquired from the underlying database!
+30/08 14:31:42:620 CRM started
+30/08 14:31:45:877 Testing connection ...
+30/08 14:31:45:882 Created provisioning instance for CRM
+30/08 14:31:45:894 Testing connection are success
+30/08 14:31:45:895 Starting process session
+30/08 14:31:45:997 Total 0 instances are started
+30/08 14:31:45:999 Total 1 instances are added
+30/08 14:31:48:328 orderId = 125407833 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 3000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+30/08 14:31:48:354 orderId = 125407834 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 3000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+30/08 14:32:49:748 CRM started
+30/08 14:32:53:232 Testing connection ...
+30/08 14:32:53:233 Created provisioning instance for CRM
+30/08 14:32:53:233 Testing connection are success
+30/08 14:32:53:234 Starting process session
+30/08 14:32:53:335 Total 0 instances are started
+30/08 14:32:53:335 Total 1 instances are added
+30/08 14:34:33:920 CRM started
+30/08 14:34:37:239 Testing connection ...
+30/08 14:34:37:246 Created provisioning instance for CRM
+30/08 14:34:37:247 Testing connection are success
+30/08 14:34:37:248 Starting process session
+30/08 14:34:37:350 Total 0 instances are started
+30/08 14:34:37:351 Total 1 instances are added
+30/08 14:34:40:132 orderId = 125407835 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 3000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+30/08 14:35:39:825 orderId = 125407835 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 3000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 304 | request =  | response =  | status = 0 | cause = success | description = 
+30/08 14:36:19:888 orderId = 125407836 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 3000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+30/08 14:36:38:975 orderId = 125407836 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 3000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 304 | request =  | response =  | status = 0 | cause = success | description = 
+30/08 14:50:28:759 CRM started
+30/08 14:50:31:763 Testing connection ...
+30/08 14:50:31:765 Created provisioning instance for CRM
+30/08 14:50:31:766 Testing connection are success
+30/08 14:50:31:767 Starting process session
+30/08 14:50:31:872 Total 0 instances are started
+30/08 14:50:31:873 Total 1 instances are added
+30/08 14:50:45:943 orderId = 125407837 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 3000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+30/08 14:50:47:098 orderId = 125407837 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 3000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 304 | request =  | response =  | status = 0 | cause = success | description = 
+30/08 16:02:29:075 CRM started
+30/08 16:02:32:096 java.lang.ClassNotFoundException: com.crm.provisioning.impl.vim.VIMCommandImpl
+30/08 16:02:32:097 End of process session
+30/08 16:04:12:151 java.lang.ClassNotFoundException: com.crm.provisioning.impl.vim.VIMCommandImpl
+30/08 16:04:12:152 End of process session
+30/08 16:05:18:753 CRM started
+30/08 16:05:21:689 java.lang.ClassNotFoundException: com.crm.provisioning.impl.vim.VIMCommandImpl
+30/08 16:05:21:689 End of process session
+30/08 16:11:36:394 CRM started
+30/08 16:11:39:278 Testing connection ...
+30/08 16:11:39:279 Created provisioning instance for CRM
+30/08 16:11:39:283 Testing connection are success
+30/08 16:11:39:283 Starting process session
+30/08 16:11:39:385 Total 0 instances are started
+30/08 16:11:39:385 Total 1 instances are added
+30/08 16:11:43:828 orderId = 125407838 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 3000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 4 | cause = error | description = null
+30/08 16:11:43:844 ORA-00904: "SUBBALANCEID": invalid identifier
+
+30/08 16:11:43:962 Total 0 instances are started
+30/08 16:11:43:962 Total 1 instances are added
+30/08 16:11:44:723 orderId = 125407839 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 3000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 4 | cause = error | description = null
+30/08 16:11:44:740 ORA-00904: "SUBBALANCEID": invalid identifier
+
+30/08 16:11:44:866 Total 0 instances are started
+30/08 16:11:44:867 Total 1 instances are added
+30/08 16:12:17:264 orderId = 125407840 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 3000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 4 | cause = error | description = null
+30/08 16:12:17:280 ORA-00904: "SUBBALANCEID": invalid identifier
+
+30/08 16:12:17:433 Total 0 instances are started
+30/08 16:12:17:434 Total 1 instances are added
+30/08 16:15:03:869 CRM started
+30/08 16:15:06:737 Testing connection ...
+30/08 16:15:06:738 Created provisioning instance for CRM
+30/08 16:15:06:738 Testing connection are success
+30/08 16:15:06:738 Starting process session
+30/08 16:15:06:841 Total 0 instances are started
+30/08 16:15:06:842 Total 1 instances are added
+30/08 16:15:29:774 orderId = 125407841 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 3000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 4 | cause = error | description = null
+30/08 16:15:29:783 null
+30/08 16:15:29:934 Total 0 instances are started
+30/08 16:15:29:936 Total 1 instances are added
+30/08 16:18:16:712 CRM started
+30/08 16:18:20:509 Testing connection ...
+30/08 16:18:20:513 Created provisioning instance for CRM
+30/08 16:18:20:513 Testing connection are success
+30/08 16:18:20:514 Starting process session
+30/08 16:18:20:615 Total 0 instances are started
+30/08 16:18:20:616 Total 1 instances are added
+30/08 16:20:13:449 orderId = 125407842 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 3000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 4 | cause = error | description = null
+30/08 16:20:13:460 null
+30/08 16:20:13:568 Total 0 instances are started
+30/08 16:20:13:571 Total 1 instances are added
+30/08 16:21:29:517 CRM started
+30/08 16:21:32:272 Testing connection ...
+30/08 16:21:32:273 Created provisioning instance for CRM
+30/08 16:21:32:274 Testing connection are success
+30/08 16:21:32:274 Starting process session
+30/08 16:21:32:375 Total 0 instances are started
+30/08 16:21:32:376 Total 1 instances are added
+30/08 16:22:54:072 orderId = 125407844 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 3000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 4 | cause = error | description = null
+30/08 16:22:54:079 null
+30/08 16:22:54:181 Total 0 instances are started
+30/08 16:22:54:182 Total 1 instances are added
+30/08 16:24:13:823 orderId = 125407845 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 3000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 4 | cause = error | description = null
+30/08 16:24:13:832 null
+30/08 16:24:13:966 Total 0 instances are started
+30/08 16:24:13:967 Total 1 instances are added
+30/08 16:28:56:606 orderId = 125407846 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 3000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 4 | cause = error | description = null
+30/08 16:28:56:612 null
+30/08 16:28:56:759 Total 0 instances are started
+30/08 16:28:56:761 Total 1 instances are added
+30/08 16:39:38:159 CRM started
+30/08 16:39:38:804 Testing connection ...
+30/08 16:39:38:805 Created provisioning instance for CRM
+30/08 16:39:38:815 Testing connection are success
+30/08 16:39:38:816 Starting process session
+30/08 16:39:38:984 Total 0 instances are started
+30/08 16:39:38:987 Total 1 instances are added
+30/08 16:42:34:586 CRM started
+30/08 16:42:37:569 Testing connection ...
+30/08 16:42:37:570 Created provisioning instance for CRM
+30/08 16:42:37:571 Testing connection are success
+30/08 16:42:37:571 Starting process session
+30/08 16:42:37:672 Total 0 instances are started
+30/08 16:42:37:672 Total 1 instances are added
+30/08 16:43:33:497 CRM started
+30/08 16:43:36:628 Testing connection ...
+30/08 16:43:36:634 Created provisioning instance for CRM
+30/08 16:43:36:635 Testing connection are success
+30/08 16:43:36:635 Starting process session
+30/08 16:43:36:737 Total 0 instances are started
+30/08 16:43:36:737 Total 1 instances are added
+30/08 16:44:06:475 orderId = 125407849 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 3000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+30/08 16:44:06:805 orderId = 125407850 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 3000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+30/08 16:44:08:480 orderId = 125407849 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 3000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 304 | request =  | response =  | status = 0 | cause = success | description = 
+30/08 16:44:08:626 orderId = 125407850 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 3000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 304 | request =  | response =  | status = 0 | cause = success | description = 
+30/08 16:46:07:521 CRM started
+30/08 16:46:09:867 Testing connection ...
+30/08 16:46:09:873 Created provisioning instance for CRM
+30/08 16:46:09:997 Testing connection are success
+30/08 16:46:09:997 Starting process session
+30/08 16:46:10:098 Total 0 instances are started
+30/08 16:46:10:098 Total 1 instances are added
+30/08 16:46:26:646 orderId = 125407852 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 3000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+30/08 16:51:37:491 CRM started
+30/08 16:51:40:276 Testing connection ...
+30/08 16:51:40:277 Created provisioning instance for CRM
+30/08 16:51:40:278 Testing connection are success
+30/08 16:51:40:278 Starting process session
+30/08 16:51:40:380 Total 0 instances are started
+30/08 16:51:40:381 Total 1 instances are added
+30/08 16:51:42:988 orderId = 125407853 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 5000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+30/08 16:54:50:821 CRM started
+30/08 16:54:53:974 Testing connection ...
+30/08 16:54:53:980 Created provisioning instance for CRM
+30/08 16:54:53:981 Testing connection are success
+30/08 16:54:53:981 Starting process session
+30/08 16:54:54:087 Total 0 instances are started
+30/08 16:54:54:087 Total 1 instances are added
+30/08 16:54:54:882 orderId = 125407854 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 5000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+30/08 16:56:10:561 CRM started
+30/08 16:56:13:369 Testing connection ...
+30/08 16:56:13:370 Created provisioning instance for CRM
+30/08 16:56:13:371 Testing connection are success
+30/08 16:56:13:372 Starting process session
+30/08 16:56:13:474 Total 0 instances are started
+30/08 16:56:13:474 Total 1 instances are added
+30/08 16:57:05:470 orderId = 125407855 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 3000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+30/08 16:57:44:742 orderId = 125407855 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 3000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 304 | request =  | response =  | status = 0 | cause = success | description = 
+30/08 18:12:53:981 CRM started
+30/08 18:12:57:132 Testing connection ...
+30/08 18:12:57:134 Created provisioning instance for CRM
+30/08 18:12:57:162 Testing connection are success
+30/08 18:12:57:163 Starting process session
+30/08 18:12:57:265 Total 0 instances are started
+30/08 18:12:57:266 Total 1 instances are added
+30/08 18:13:22:502 CRM started
+30/08 18:13:25:611 Testing connection ...
+30/08 18:13:25:614 Created provisioning instance for CRM
+30/08 18:13:25:614 Testing connection are success
+30/08 18:13:25:616 Starting process session
+30/08 18:13:25:718 Total 0 instances are started
+30/08 18:13:25:718 Total 1 instances are added
+30/08 18:14:11:571 sendNotify: 84922000512 - Tai khoan cua Quy khach khong du de dang ky su dung dich vu. Hay nap the va dang ky su dung dich vu. Tran trong!
+30/08 18:14:11:572 orderId = 125407856 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 3000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 4 | cause = not-enought-money | description = 
+30/08 18:16:27:083 CRM started
+30/08 18:16:29:569 Testing connection ...
+30/08 18:16:29:571 Created provisioning instance for CRM
+30/08 18:16:29:578 Testing connection are success
+30/08 18:16:29:578 Starting process session
+30/08 18:16:29:680 Total 0 instances are started
+30/08 18:16:29:683 Total 1 instances are added
+30/08 18:20:36:369 CRM started
+30/08 18:20:39:490 Testing connection ...
+30/08 18:20:39:493 Created provisioning instance for CRM
+30/08 18:20:39:507 Testing connection are success
+30/08 18:20:39:508 Starting process session
+30/08 18:20:39:610 Total 0 instances are started
+30/08 18:20:39:611 Total 1 instances are added
+30/08 18:27:01:981 CRM started
+30/08 18:27:04:992 Testing connection ...
+30/08 18:27:05:000 Created provisioning instance for CRM
+30/08 18:27:05:000 Testing connection are success
+30/08 18:27:05:001 Starting process session
+30/08 18:27:05:102 Total 0 instances are started
+30/08 18:27:05:102 Total 1 instances are added
+30/08 18:29:18:911 CRM started
+30/08 18:29:22:281 Testing connection ...
+30/08 18:29:22:281 Created provisioning instance for CRM
+30/08 18:29:22:282 Testing connection are success
+30/08 18:29:22:284 Starting process session
+30/08 18:29:22:387 Total 0 instances are started
+30/08 18:29:22:387 Total 1 instances are added

@@ -1,0 +1,34 @@
+09/10 09:42:01:446 Order Routing started
+09/10 09:42:01:470 Testing connection ...
+09/10 09:42:05:593 Created provisioning instance for CCWS
+09/10 09:42:05:595 Testing connection are success
+09/10 09:42:05:595 Starting process session
+09/10 09:42:10:330 Total 0 instances are started
+09/10 09:42:10:331 Total 1 instances are added
+09/10 09:43:32:049 Create order(84922000514) cost time: 210ms
+09/10 09:43:32:366 Update order(84922000514) cost time: 34ms
+09/10 09:43:32:375 84922000514: LOYALTY - LOYALTY.VALIDATE
+09/10 09:43:32:376 orderId = 125410811 | requestId = 0 | orderDate = 2013/10/09 09:43:31 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = TRA DIEM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+09/10 10:59:54:538 Order Routing started
+09/10 10:59:54:560 Testing connection ...
+09/10 10:59:54:564 Created provisioning instance for CCWS
+09/10 10:59:54:564 Testing connection are success
+09/10 10:59:54:565 Starting process session
+09/10 10:59:57:215 Total 0 instances are started
+09/10 10:59:57:216 Total 1 instances are added
+09/10 11:03:04:006 Create order(84922000514) cost time: 98ms
+09/10 11:03:04:146 SEND: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000514}. ID=295001
+09/10 11:03:06:343 RECEIVE:cosname=MAIN_COS,status=Active,active_date=05/09/2013 16:17:51,{84922000514}Core{59000.0;30/05/2015 23:59:59},VOICE_ONNET{12000.0;13/10/2013 23:59:59},CALLME{13800.0;18/10/2013 23:59:59},GPRS{1.6777216E8;30/10/2013 23:59:59},PROMOTION{100.0;03/09/2023 23:59:59},PROMOTION_60{9000.0;18/11/2013 23:59:59},. ID=295001. costTime=2196
+09/10 11:03:06:404 Update order(84922000514) cost time: 19ms
+09/10 11:03:06:433 84922000514: LOYALTY - CRM.LOYALTY.REGISTER
+09/10 11:03:06:434 orderId = 125410812 | requestId = 0 | orderDate = 2013/10/09 11:03:03 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = DK CAM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = register | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 521 | cause =  | status = 1 | description =  | balance = 
+09/10 11:08:09:883 Create order(84922000514) cost time: 28ms
+09/10 11:08:09:894 SEND: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000514}. ID=295003
+09/10 11:08:09:976 RECEIVE:cosname=MAIN_COS,status=Active,active_date=05/09/2013 16:17:51,{84922000514}Core{59000.0;30/05/2015 23:59:59},VOICE_ONNET{12000.0;13/10/2013 23:59:59},CALLME{13800.0;18/10/2013 23:59:59},GPRS{1.6777216E8;30/10/2013 23:59:59},PROMOTION{100.0;03/09/2023 23:59:59},PROMOTION_60{9000.0;18/11/2013 23:59:59},. ID=295003. costTime=81
+09/10 11:08:10:001 Update order(84922000514) cost time: 23ms
+09/10 11:08:10:002 84922000514: LOYALTY - CRM.LOYALTY.REGISTER
+09/10 11:08:10:002 orderId = 125410813 | requestId = 0 | orderDate = 2013/10/09 11:08:09 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = DK CAM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = register | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 521 | cause =  | status = 1 | description =  | balance = 
+09/10 11:54:57:896 Close pool
+09/10 11:54:58:086 Close queue connection pool.
+09/10 11:54:58:091 End of process session
+09/10 11:54:58:091 Order Routing stopped

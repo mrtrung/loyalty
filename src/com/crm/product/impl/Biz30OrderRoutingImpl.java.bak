@@ -1,0 +1,12 @@
+/**
+ * 
+ */
+package com.crm.product.impl;
+
+/**
+ * @author ThangPV
+ * 
+ */
+public class Biz30OrderRoutingImpl extends VNMOrderRoutingImpl
+{
+}

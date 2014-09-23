@@ -1,0 +1,397 @@
+31/08 10:38:06:942 Command Routing started
+31/08 10:38:07:126 Starting process session
+31/08 10:38:11:237 Total 0 instances are started
+31/08 10:38:11:237 Total 1 instances are added
+31/08 10:38:32:587 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.36:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+31/08 10:38:32:588 Consumer was closed, reconnect.
+31/08 10:38:32:707 Total 0 instances are started
+31/08 10:38:32:707 Total 1 instances are added
+31/08 10:38:53:722 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.36:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+31/08 10:38:53:723 Consumer was closed, reconnect.
+31/08 10:38:53:825 Total 0 instances are started
+31/08 10:38:53:826 Total 1 instances are added
+31/08 10:39:14:854 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.36:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+31/08 10:39:14:855 Consumer was closed, reconnect.
+31/08 10:39:14:964 Total 0 instances are started
+31/08 10:39:14:965 Total 1 instances are added
+31/08 10:40:17:433 Command Routing started
+31/08 10:40:17:479 Starting process session
+31/08 10:40:18:560 Total 0 instances are started
+31/08 10:40:18:560 Total 1 instances are added
+31/08 10:43:01:910 84922000512: SMSC - SMSC.SEND_SMS
+31/08 10:47:57:739 84922000514: CRM - CRM.SUBSCRIPTION_REGIST
+31/08 10:47:57:749 84922000514: SMSC - SMSC.SEND_SMS
+31/08 10:47:57:959 84922000514: SMSC - SMSC.SEND_SMS
+31/08 11:04:14:903 84922000514: CRM - LOYALTY.VALIDATE
+31/08 11:04:15:061 84922000514: SMSC - SMSC.SEND_SMS
+31/08 11:07:45:239 Command Routing started
+31/08 11:07:45:284 Starting process session
+31/08 11:07:46:844 Total 0 instances are started
+31/08 11:07:46:844 Total 1 instances are added
+31/08 11:08:15:323 84922000514: CRM - LOYALTY.VALIDATE
+31/08 11:10:35:798 Command Routing started
+31/08 11:10:35:865 Starting process session
+31/08 11:10:37:086 Total 0 instances are started
+31/08 11:10:37:087 Total 1 instances are added
+31/08 11:11:07:747 84922000514: CRM - LOYALTY.VALIDATE
+31/08 11:12:05:905 Command Routing started
+31/08 11:12:05:951 Starting process session
+31/08 11:12:08:883 Total 0 instances are started
+31/08 11:12:08:883 Total 1 instances are added
+31/08 11:13:18:824 84922000514: CRM - LOYALTY.VALIDATE
+31/08 11:13:18:860 84922000514: CCWS - LOYALTY.LOYATY_MODIFY_BALANCE
+31/08 11:13:21:259 84922000514: CRM - LOYALTY.UPDATE_DB
+31/08 11:17:36:934 84922000514: SMSC - SMSC.SEND_SMS
+31/08 11:19:17:058 84922000514: SMSC - SMSC.SEND_SMS
+31/08 11:25:33:081 84922000514: CRM - CRM.SUBSCRIPTION_UNREGIST
+31/08 11:26:18:150 84922000514: CRM - LOYALTY.VALIDATE
+31/08 11:31:12:611 Command Routing started
+31/08 11:31:12:702 Starting process session
+31/08 11:31:16:672 Total 0 instances are started
+31/08 11:31:16:673 Total 1 instances are added
+31/08 11:31:51:586 84922000514: CRM - LOYALTY.VALIDATE
+31/08 11:42:45:216 Command Routing started
+31/08 11:42:45:237 Starting process session
+31/08 11:42:49:126 Total 0 instances are started
+31/08 11:42:49:127 Total 1 instances are added
+31/08 11:43:06:112 84922000514: CRM - LOYALTY.VALIDATE
+31/08 11:44:01:908 Command Routing started
+31/08 11:44:01:971 Starting process session
+31/08 11:44:05:775 Total 0 instances are started
+31/08 11:44:05:776 Total 1 instances are added
+31/08 11:44:19:830 84922000514: CRM - LOYALTY.VALIDATE
+31/08 11:45:14:083 Command Routing started
+31/08 11:45:14:183 Starting process session
+31/08 11:45:18:185 Total 0 instances are started
+31/08 11:45:18:186 Total 1 instances are added
+31/08 11:45:54:275 84922000514: CRM - LOYALTY.VALIDATE
+31/08 11:49:29:489 Command Routing started
+31/08 11:49:29:551 Starting process session
+31/08 11:49:33:373 Total 0 instances are started
+31/08 11:49:33:373 Total 1 instances are added
+31/08 11:50:43:344 84922000514: CRM - LOYALTY.VALIDATE
+31/08 11:53:07:634 Command Routing started
+31/08 11:53:07:655 Starting process session
+31/08 11:53:11:666 Total 0 instances are started
+31/08 11:53:11:666 Total 1 instances are added
+31/08 11:54:54:826 Command Routing started
+31/08 11:54:54:869 Starting process session
+31/08 11:54:57:536 Total 0 instances are started
+31/08 11:54:57:542 Total 1 instances are added
+31/08 11:55:23:741 84922000514: CRM - LOYALTY.VALIDATE
+31/08 11:57:46:619 Command Routing started
+31/08 11:57:46:683 Starting process session
+31/08 11:57:50:691 Total 0 instances are started
+31/08 11:57:50:692 Total 1 instances are added
+31/08 11:58:37:082 Command Routing started
+31/08 11:58:37:147 Starting process session
+31/08 11:58:38:209 Total 0 instances are started
+31/08 11:58:38:210 Total 1 instances are added
+31/08 11:58:59:022 84922000514: CRM - LOYALTY.VALIDATE
+31/08 12:19:32:766 Command Routing started
+31/08 12:19:32:868 Starting process session
+31/08 12:19:36:799 Total 0 instances are started
+31/08 12:19:36:800 Total 1 instances are added
+31/08 12:20:34:933 84922000514: CRM - LOYALTY.VALIDATE
+31/08 12:21:02:830 84922000514: CRM - LOYALTY.VALIDATE
+31/08 12:23:01:377 Command Routing started
+31/08 12:23:01:420 Starting process session
+31/08 12:23:05:536 Total 0 instances are started
+31/08 12:23:05:537 Total 1 instances are added
+31/08 12:23:30:323 84922000514: CRM - LOYALTY.VALIDATE
+31/08 12:24:26:390 Command Routing started
+31/08 12:24:26:431 Starting process session
+31/08 12:24:30:229 Total 0 instances are started
+31/08 12:24:30:230 Total 1 instances are added
+31/08 12:24:39:456 84922000514: CRM - LOYALTY.VALIDATE
+31/08 12:27:49:088 Command Routing started
+31/08 12:27:49:108 Starting process session
+31/08 12:27:52:953 Total 0 instances are started
+31/08 12:27:52:954 Total 1 instances are added
+31/08 12:28:15:898 84922000514: CRM - LOYALTY.VALIDATE
+31/08 12:32:32:244 Command Routing started
+31/08 12:32:32:329 Starting process session
+31/08 12:32:33:388 Total 0 instances are started
+31/08 12:32:33:388 Total 1 instances are added
+31/08 12:33:14:414 Command Routing started
+31/08 12:33:14:433 Starting process session
+31/08 12:33:18:288 Total 0 instances are started
+31/08 12:33:18:289 Total 1 instances are added
+31/08 12:33:43:338 84922000514: CRM - LOYALTY.VALIDATE
+31/08 12:42:29:900 Command Routing started
+31/08 12:42:29:919 Starting process session
+31/08 12:42:59:657 java.sql.SQLException: Connections could not be acquired from the underlying database!
+31/08 12:42:59:657 End of process session
+31/08 12:43:09:659 Starting process session
+31/08 12:43:19:334 java.sql.SQLException: Connections could not be acquired from the underlying database!
+31/08 12:43:19:335 End of process session
+31/08 12:43:29:383 Starting process session
+31/08 12:43:29:528 Total 0 instances are started
+31/08 12:43:29:529 Total 1 instances are added
+31/08 12:43:29:567 84922000514: CRM - LOYALTY.VALIDATE
+31/08 12:43:42:019 84922000514: CRM - LOYALTY.VALIDATE
+31/08 12:44:06:961 84922000514: CRM - LOYALTY.VALIDATE
+31/08 12:44:22:406 Command Routing started
+31/08 12:44:22:451 Starting process session
+31/08 12:44:27:024 Total 0 instances are started
+31/08 12:44:27:025 Total 1 instances are added
+31/08 12:44:50:474 84922000514: CRM - LOYALTY.VALIDATE
+31/08 12:45:43:460 84922000514: CRM - LOYALTY.VALIDATE
+31/08 12:46:34:477 Command Routing started
+31/08 12:46:34:522 Starting process session
+31/08 12:46:38:411 Total 0 instances are started
+31/08 12:46:38:412 Total 1 instances are added
+31/08 12:47:18:373 Command Routing started
+31/08 12:47:18:420 Starting process session
+31/08 12:47:22:425 Total 0 instances are started
+31/08 12:47:22:427 Total 1 instances are added
+31/08 12:47:37:419 84922000514: CRM - LOYALTY.VALIDATE
+31/08 12:47:44:285 84922000514: CRM - LOYALTY.VALIDATE
+31/08 12:49:15:893 Command Routing started
+31/08 12:49:15:935 Starting process session
+31/08 12:49:19:733 Total 0 instances are started
+31/08 12:49:19:734 Total 1 instances are added
+31/08 12:49:48:662 Command Routing started
+31/08 12:49:48:759 Starting process session
+31/08 12:49:53:119 Total 0 instances are started
+31/08 12:49:53:120 Total 1 instances are added
+31/08 12:56:06:154 Command Routing started
+31/08 12:56:06:400 Starting process session
+31/08 12:56:09:385 Total 0 instances are started
+31/08 12:56:09:386 Total 1 instances are added
+31/08 12:56:13:018 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.39:7676]. - cause: java.net.ConnectException: Connection refused: connect
+31/08 12:56:13:019 Consumer was closed, reconnect.
+31/08 12:56:13:125 Total 0 instances are started
+31/08 12:56:13:126 Total 1 instances are added
+31/08 12:56:14:175 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.39:7676]. - cause: java.net.ConnectException: Connection refused: connect
+31/08 12:56:14:175 Consumer was closed, reconnect.
+31/08 12:56:14:278 Total 0 instances are started
+31/08 12:56:14:279 Total 1 instances are added
+31/08 12:56:15:375 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.39:7676]. - cause: java.net.ConnectException: Connection refused: connect
+31/08 12:56:15:375 Consumer was closed, reconnect.
+31/08 12:56:15:483 Total 0 instances are started
+31/08 12:56:15:484 Total 1 instances are added
+31/08 12:56:16:504 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.39:7676]. - cause: java.net.ConnectException: Connection refused: connect
+31/08 12:56:16:504 Consumer was closed, reconnect.
+31/08 12:56:16:607 Total 0 instances are started
+31/08 12:56:16:608 Total 1 instances are added
+31/08 12:56:17:685 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.39:7676]. - cause: java.net.ConnectException: Connection refused: connect
+31/08 12:56:17:686 Consumer was closed, reconnect.
+31/08 12:56:17:794 Total 0 instances are started
+31/08 12:56:17:794 Total 1 instances are added
+31/08 12:56:18:824 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.39:7676]. - cause: java.net.ConnectException: Connection refused: connect
+31/08 12:56:18:824 Consumer was closed, reconnect.
+31/08 12:56:18:933 Total 0 instances are started
+31/08 12:56:18:934 Total 1 instances are added
+31/08 12:56:19:963 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.39:7676]. - cause: java.net.ConnectException: Connection refused: connect
+31/08 12:56:19:964 Consumer was closed, reconnect.
+31/08 12:56:20:080 Total 0 instances are started
+31/08 12:56:20:081 Total 1 instances are added
+31/08 12:56:20:204 Total 0 instances are started
+31/08 12:56:20:204 Total 1 instances are added
+31/08 12:56:21:230 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.39:7676]. - cause: java.net.ConnectException: Connection refused: connect
+31/08 12:56:21:230 Consumer was closed, reconnect.
+31/08 12:56:21:334 Total 0 instances are started
+31/08 12:56:21:335 Total 1 instances are added
+31/08 12:56:22:800 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.39:7676]. - cause: java.net.ConnectException: Connection refused: connect
+31/08 12:56:22:801 Consumer was closed, reconnect.
+31/08 12:56:22:911 Total 0 instances are started
+31/08 12:56:22:911 Total 1 instances are added
+31/08 12:56:23:950 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.39:7676]. - cause: java.net.ConnectException: Connection refused: connect
+31/08 12:56:23:951 Consumer was closed, reconnect.
+31/08 12:56:24:055 Total 0 instances are started
+31/08 12:56:24:055 Total 1 instances are added
+31/08 12:56:25:094 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.39:7676]. - cause: java.net.ConnectException: Connection refused: connect
+31/08 12:56:25:095 Consumer was closed, reconnect.
+31/08 12:56:25:205 Total 0 instances are started
+31/08 12:56:25:206 Total 1 instances are added
+31/08 12:56:26:265 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.39:7676]. - cause: java.net.ConnectException: Connection refused: connect
+31/08 12:56:26:266 Consumer was closed, reconnect.
+31/08 12:56:26:368 Total 0 instances are started
+31/08 12:56:26:369 Total 1 instances are added
+31/08 12:56:27:402 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.39:7676]. - cause: java.net.ConnectException: Connection refused: connect
+31/08 12:56:27:403 Consumer was closed, reconnect.
+31/08 12:56:27:512 Total 0 instances are started
+31/08 12:56:27:512 Total 1 instances are added
+31/08 12:56:28:717 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.39:7676]. - cause: java.net.ConnectException: Connection refused: connect
+31/08 12:56:28:717 Consumer was closed, reconnect.
+31/08 12:56:28:826 Total 0 instances are started
+31/08 12:56:28:827 Total 1 instances are added
+31/08 12:56:29:845 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.39:7676]. - cause: java.net.ConnectException: Connection refused: connect
+31/08 12:56:29:846 Consumer was closed, reconnect.
+31/08 12:56:29:953 Total 0 instances are started
+31/08 12:56:29:954 Total 1 instances are added
+31/08 12:56:30:991 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.39:7676]. - cause: java.net.ConnectException: Connection refused: connect
+31/08 12:56:30:991 Consumer was closed, reconnect.
+31/08 12:56:31:100 Total 0 instances are started
+31/08 12:56:31:100 Total 1 instances are added
+31/08 12:56:32:118 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.39:7676]. - cause: java.net.ConnectException: Connection refused: connect
+31/08 12:56:32:119 Consumer was closed, reconnect.
+31/08 12:56:32:222 Total 0 instances are started
+31/08 12:56:32:222 Total 1 instances are added
+31/08 12:56:33:232 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.39:7676]. - cause: java.net.ConnectException: Connection refused: connect
+31/08 12:56:33:232 Consumer was closed, reconnect.
+31/08 12:56:33:334 Total 0 instances are started
+31/08 12:56:33:335 Total 1 instances are added
+31/08 12:56:34:405 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.39:7676]. - cause: java.net.ConnectException: Connection refused: connect
+31/08 12:56:34:405 Consumer was closed, reconnect.
+31/08 12:56:34:506 Total 0 instances are started
+31/08 12:56:34:506 Total 1 instances are added
+31/08 12:56:35:531 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.39:7676]. - cause: java.net.ConnectException: Connection refused: connect
+31/08 12:56:35:532 Consumer was closed, reconnect.
+31/08 12:56:35:638 Total 0 instances are started
+31/08 12:56:35:639 Total 1 instances are added
+31/08 12:56:36:660 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.39:7676]. - cause: java.net.ConnectException: Connection refused: connect
+31/08 12:56:36:661 Consumer was closed, reconnect.
+31/08 12:56:36:770 Total 0 instances are started
+31/08 12:56:36:771 Total 1 instances are added
+31/08 12:56:37:795 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.39:7676]. - cause: java.net.ConnectException: Connection refused: connect
+31/08 12:56:37:796 Consumer was closed, reconnect.
+31/08 12:56:37:903 Total 0 instances are started
+31/08 12:56:38:041 Total 1 instances are added
+31/08 12:56:38:982 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.39:7676]. - cause: java.net.ConnectException: Connection refused: connect
+31/08 12:56:38:982 Consumer was closed, reconnect.
+31/08 12:56:39:093 Total 0 instances are started
+31/08 12:56:39:093 Total 1 instances are added
+31/08 12:56:40:105 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.39:7676]. - cause: java.net.ConnectException: Connection refused: connect
+31/08 12:56:40:106 Consumer was closed, reconnect.
+31/08 12:56:40:214 Total 0 instances are started
+31/08 12:56:40:214 Total 1 instances are added
+31/08 12:56:41:280 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.39:7676]. - cause: java.net.ConnectException: Connection refused: connect
+31/08 12:56:41:280 Consumer was closed, reconnect.
+31/08 12:56:41:386 Total 0 instances are started
+31/08 12:56:41:386 Total 1 instances are added
+31/08 12:56:42:441 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.39:7676]. - cause: java.net.ConnectException: Connection refused: connect
+31/08 12:56:42:442 Consumer was closed, reconnect.
+31/08 12:56:42:547 Total 0 instances are started
+31/08 12:56:42:548 Total 1 instances are added
+31/08 12:56:43:578 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.39:7676]. - cause: java.net.ConnectException: Connection refused: connect
+31/08 12:56:43:579 Consumer was closed, reconnect.
+31/08 12:56:43:682 Total 0 instances are started
+31/08 12:56:43:683 Total 1 instances are added
+31/08 12:56:44:997 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.39:7676]. - cause: java.net.ConnectException: Connection refused: connect
+31/08 12:56:44:997 Consumer was closed, reconnect.
+31/08 12:56:45:102 Total 0 instances are started
+31/08 12:56:45:102 Total 1 instances are added
+31/08 12:56:46:148 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.39:7676]. - cause: java.net.ConnectException: Connection refused: connect
+31/08 12:56:46:149 Consumer was closed, reconnect.
+31/08 12:56:46:261 Total 0 instances are started
+31/08 12:56:46:262 Total 1 instances are added
+31/08 12:56:46:374 Total 0 instances are started
+31/08 12:56:46:374 Total 1 instances are added
+31/08 12:56:47:399 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.39:7676]. - cause: java.net.ConnectException: Connection refused: connect
+31/08 12:56:47:400 Consumer was closed, reconnect.
+31/08 12:56:47:509 Total 0 instances are started
+31/08 12:56:47:509 Total 1 instances are added
+31/08 12:56:48:589 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.39:7676]. - cause: java.net.ConnectException: Connection refused: connect
+31/08 12:56:48:590 Consumer was closed, reconnect.
+31/08 12:56:48:691 Total 0 instances are started
+31/08 12:56:48:691 Total 1 instances are added
+31/08 13:02:21:136 Command Routing started
+31/08 13:02:21:180 Starting process session
+31/08 13:02:22:879 Total 0 instances are started
+31/08 13:02:22:881 Total 1 instances are added
+31/08 13:03:19:787 84922000514: CRM - LOYALTY.VALIDATE
+31/08 13:04:20:590 84922000514: CRM - LOYALTY.VALIDATE
+31/08 13:04:27:548 84922000514: CRM - LOYALTY.VALIDATE
+31/08 13:04:34:560 84922000514: CRM - LOYALTY.VALIDATE
+31/08 13:04:53:995 Command Routing started
+31/08 13:04:54:130 Starting process session
+31/08 13:04:57:976 Total 0 instances are started
+31/08 13:04:57:978 Total 1 instances are added
+31/08 13:05:23:072 84922000514: CRM - LOYALTY.VALIDATE
+31/08 13:14:29:473 Command Routing started
+31/08 13:14:29:584 Starting process session
+31/08 13:14:34:061 Total 0 instances are started
+31/08 13:14:34:062 Total 1 instances are added
+31/08 13:14:54:329 84922000514: CRM - LOYALTY.VALIDATE
+31/08 13:15:36:161 Command Routing started
+31/08 13:15:36:225 Starting process session
+31/08 13:15:39:904 Total 0 instances are started
+31/08 13:15:39:905 Total 1 instances are added
+31/08 13:15:54:017 84922000514: CRM - LOYALTY.VALIDATE
+31/08 13:19:17:044 84922000514: CRM - LOYALTY.VALIDATE
+31/08 13:19:24:040 84922000514: CRM - LOYALTY.VALIDATE
+31/08 13:19:52:885 Command Routing started
+31/08 13:19:52:975 Starting process session
+31/08 13:19:57:205 Total 0 instances are started
+31/08 13:19:57:205 Total 1 instances are added
+31/08 13:20:41:039 84922000514: CRM - LOYALTY.VALIDATE
+31/08 13:21:23:497 Command Routing started
+31/08 13:21:23:584 Starting process session
+31/08 13:21:27:521 Total 0 instances are started
+31/08 13:21:27:522 Total 1 instances are added
+31/08 13:22:11:595 84922000514: CRM - LOYALTY.VALIDATE
+31/08 13:22:35:866 Command Routing started
+31/08 13:22:35:907 Starting process session
+31/08 13:22:38:995 Total 0 instances are started
+31/08 13:22:39:484 Total 1 instances are added
+31/08 13:22:50:900 84922000514: CRM - LOYALTY.VALIDATE
+31/08 13:27:59:205 84922000514: SMSC - SMSC.SEND_SMS
+31/08 13:28:43:955 84922000514: SMSC - SMSC.SEND_SMS
+31/08 13:30:35:967 84922000514: SMSC - SMSC.SEND_SMS
+31/08 13:30:50:925 84922000514: CRM - LOYALTY.VALIDATE
+31/08 13:33:38:578 Command Routing started
+31/08 13:33:38:694 Starting process session
+31/08 13:33:42:368 Total 0 instances are started
+31/08 13:33:42:368 Total 1 instances are added
+31/08 13:34:09:463 84922000514: CRM - LOYALTY.VALIDATE
+31/08 13:45:54:186 Command Routing started
+31/08 13:45:54:232 Starting process session
+31/08 13:45:57:955 Total 0 instances are started
+31/08 13:45:57:956 Total 1 instances are added
+31/08 13:46:22:066 84922000514: CRM - LOYALTY.VALIDATE
+31/08 13:47:08:899 84922000514: CRM - CRM.SUBSCRIPTION_REGIST
+31/08 13:47:08:904 84922000514: SMSC - SMSC.SEND_SMS
+31/08 13:47:09:070 84922000514: SMSC - SMSC.SEND_SMS
+31/08 13:47:38:935 84922000514: CRM - LOYALTY.VALIDATE
+31/08 13:49:41:277 Command Routing started
+31/08 13:49:41:327 Starting process session
+31/08 13:49:45:391 Total 0 instances are started
+31/08 13:49:45:391 Total 1 instances are added
+31/08 13:50:01:393 84922000514: CRM - LOYALTY.VALIDATE
+31/08 13:53:35:286 Command Routing started
+31/08 13:53:35:374 Starting process session
+31/08 13:53:39:190 Total 0 instances are started
+31/08 13:53:39:190 Total 1 instances are added
+31/08 13:53:56:538 84922000514: CRM - LOYALTY.VALIDATE
+31/08 13:53:56:634 84922000514: CRM - LOYALTY.BALANCE_QUERY
+31/08 13:56:45:227 Command Routing started
+31/08 13:56:45:317 Starting process session
+31/08 13:56:49:403 Total 0 instances are started
+31/08 13:56:49:403 Total 1 instances are added
+31/08 13:57:05:230 84922000514: CRM - LOYALTY.VALIDATE
+31/08 13:57:47:103 84922000514: CRM - LOYALTY.VALIDATE
+31/08 13:57:54:124 84922000514: CRM - LOYALTY.VALIDATE
+31/08 13:57:59:228 84922000514: CRM - LOYALTY.BALANCE_QUERY
+31/08 13:57:59:255 84922000514: CRM - LOYALTY.BALANCE_QUERY
+31/08 13:57:59:273 84922000514: CRM - LOYALTY.BALANCE_QUERY
+31/08 13:58:47:109 Command Routing started
+31/08 13:58:47:151 Starting process session
+31/08 13:58:51:181 Total 0 instances are started
+31/08 13:58:51:181 Total 1 instances are added
+31/08 13:59:12:689 Command Routing started
+31/08 13:59:12:729 Starting process session
+31/08 13:59:17:167 Total 0 instances are started
+31/08 13:59:17:168 Total 1 instances are added
+31/08 14:01:27:155 Command Routing started
+31/08 14:01:27:243 Starting process session
+31/08 14:01:31:089 Total 0 instances are started
+31/08 14:01:31:090 Total 1 instances are added
+31/08 14:01:55:045 84922000514: CRM - LOYALTY.VALIDATE
+31/08 14:01:55:123 84922000514: CRM - LOYALTY.BALANCE_QUERY
+31/08 14:08:10:495 Command Routing started
+31/08 14:08:10:516 Starting process session
+31/08 14:08:14:233 Total 0 instances are started
+31/08 14:08:14:233 Total 1 instances are added
+31/08 14:08:40:438 84922000514: CRM - LOYALTY.VALIDATE
+31/08 14:08:40:572 84922000514: CRM - LOYALTY.BALANCE_QUERY
+31/08 14:08:40:692 84922000514: SMSC - SMSC.SEND_SMS
+31/08 14:20:30:779 Command Routing started
+31/08 14:20:30:839 Starting process session
+31/08 14:20:31:871 Total 0 instances are started
+31/08 14:20:31:872 Total 1 instances are added
+31/08 14:46:45:092 Command Routing started
+31/08 14:46:45:111 Starting process session
+31/08 14:46:49:200 Total 0 instances are started
+31/08 14:46:49:200 Total 1 instances are added

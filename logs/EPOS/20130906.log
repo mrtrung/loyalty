@@ -1,0 +1,322 @@
+06/09 08:43:55:185 EPOS started
+06/09 08:43:56:970 Testing connection ...
+06/09 08:43:58:993 open connection is fail
+06/09 08:43:59:011 org.apache.axis.AxisFault: ; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+06/09 08:43:59:012 Starting process session
+06/09 08:43:59:614 Total 0 instances are started
+06/09 08:43:59:615 Total 6 instances are added
+06/09 09:00:12:411 EPOS started
+06/09 09:00:25:106 Testing connection ...
+06/09 09:00:30:511 open connection is fail
+06/09 09:00:30:548 org.apache.axis.AxisFault: ; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+06/09 09:00:30:549 Starting process session
+06/09 09:00:31:157 Total 0 instances are started
+06/09 09:00:31:158 Total 6 instances are added
+06/09 09:01:46:674 EPOS started
+06/09 09:01:48:556 Testing connection ...
+06/09 09:01:50:570 open connection is fail
+06/09 09:01:50:603 org.apache.axis.AxisFault: ; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+06/09 09:01:50:604 Starting process session
+06/09 09:01:51:210 Total 0 instances are started
+06/09 09:01:51:211 Total 6 instances are added
+06/09 09:03:57:604 EPOS started
+06/09 09:03:59:770 Testing connection ...
+06/09 09:04:01:684 open connection is fail
+06/09 09:04:01:703 org.apache.axis.AxisFault: ; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+06/09 09:04:01:704 Starting process session
+06/09 09:04:02:307 Total 0 instances are started
+06/09 09:04:02:308 Total 6 instances are added
+06/09 09:05:12:067 EPOS started
+06/09 09:05:13:860 Testing connection ...
+06/09 09:05:15:826 open connection is fail
+06/09 09:05:15:854 org.apache.axis.AxisFault: ; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+06/09 09:05:15:854 Starting process session
+06/09 09:05:16:458 Total 0 instances are started
+06/09 09:05:16:459 Total 6 instances are added
+06/09 09:15:19:534 EPOS started
+06/09 09:15:19:783 Testing connection ...
+06/09 09:15:22:835 open connection is fail
+06/09 09:15:22:863 org.apache.axis.AxisFault: ; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+06/09 09:15:22:864 Starting process session
+06/09 09:15:23:466 Total 0 instances are started
+06/09 09:15:23:467 Total 6 instances are added
+06/09 09:26:07:184 EPOS started
+06/09 09:26:09:288 Testing connection ...
+06/09 09:26:11:278 open connection is fail
+06/09 09:26:11:298 org.apache.axis.AxisFault: ; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+06/09 09:26:11:299 Starting process session
+06/09 09:26:11:901 Total 0 instances are started
+06/09 09:26:11:902 Total 6 instances are added
+06/09 09:29:48:906 EPOS started
+06/09 09:29:50:737 Testing connection ...
+06/09 09:29:52:502 open connection is fail
+06/09 09:29:52:527 org.apache.axis.AxisFault: ; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+06/09 09:29:52:528 Starting process session
+06/09 09:29:53:139 Total 0 instances are started
+06/09 09:29:53:140 Total 6 instances are added
+06/09 09:33:07:872 EPOS started
+06/09 09:33:09:487 Testing connection ...
+06/09 09:33:11:159 open connection is fail
+06/09 09:33:11:187 org.apache.axis.AxisFault: ; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+06/09 09:33:11:187 Starting process session
+06/09 09:33:11:882 Total 0 instances are started
+06/09 09:33:11:883 Total 6 instances are added
+06/09 09:34:16:397 EPOS started
+06/09 09:34:17:895 Testing connection ...
+06/09 09:34:19:889 open connection is fail
+06/09 09:34:19:914 org.apache.axis.AxisFault: ; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+06/09 09:34:19:914 Starting process session
+06/09 09:34:20:519 Total 0 instances are started
+06/09 09:34:20:521 Total 6 instances are added
+06/09 09:36:27:024 EPOS started
+06/09 09:36:28:824 Testing connection ...
+06/09 09:36:30:823 open connection is fail
+06/09 09:36:30:855 org.apache.axis.AxisFault: ; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+06/09 09:36:30:855 Starting process session
+06/09 09:36:31:458 Total 0 instances are started
+06/09 09:36:31:461 Total 6 instances are added
+06/09 09:37:04:822 EPOS started
+06/09 09:37:06:413 Testing connection ...
+06/09 09:37:08:099 open connection is fail
+06/09 09:37:08:122 org.apache.axis.AxisFault: ; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+06/09 09:37:08:122 Starting process session
+06/09 09:37:08:722 Total 0 instances are started
+06/09 09:37:08:723 Total 6 instances are added
+06/09 10:00:25:379 EPOS started
+06/09 10:00:26:997 Testing connection ...
+06/09 10:00:29:099 open connection is fail
+06/09 10:00:29:119 org.apache.axis.AxisFault: ; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+06/09 10:00:29:120 Starting process session
+06/09 10:00:29:721 Total 0 instances are started
+06/09 10:00:29:722 Total 6 instances are added
+06/09 10:06:28:181 EPOS started
+06/09 10:06:30:644 Testing connection ...
+06/09 10:06:32:555 open connection is fail
+06/09 10:06:32:579 org.apache.axis.AxisFault: ; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+06/09 10:06:32:579 Starting process session
+06/09 10:06:33:188 Total 0 instances are started
+06/09 10:06:33:189 Total 6 instances are added
+06/09 10:09:19:664 EPOS started
+06/09 10:09:21:953 Testing connection ...
+06/09 10:09:24:014 open connection is fail
+06/09 10:09:24:058 org.apache.axis.AxisFault: ; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+06/09 10:09:24:059 Starting process session
+06/09 10:09:24:668 Total 0 instances are started
+06/09 10:09:24:669 Total 6 instances are added
+06/09 10:15:40:772 EPOS started
+06/09 10:15:42:796 Testing connection ...
+06/09 10:15:44:553 open connection is fail
+06/09 10:15:44:583 org.apache.axis.AxisFault: ; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+06/09 10:15:44:583 Starting process session
+06/09 10:15:45:184 Total 0 instances are started
+06/09 10:15:45:184 Total 6 instances are added
+06/09 10:44:20:722 EPOS started
+06/09 10:44:22:912 Testing connection ...
+06/09 10:44:24:966 open connection is fail
+06/09 10:44:24:996 org.apache.axis.AxisFault: ; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+06/09 10:44:24:996 Starting process session
+06/09 10:44:25:600 Total 0 instances are started
+06/09 10:44:25:601 Total 6 instances are added
+06/09 10:56:31:731 EPOS started
+06/09 10:56:34:374 Testing connection ...
+06/09 10:56:35:317 Testing connection are success
+06/09 10:56:35:317 Starting process session
+06/09 10:56:35:917 Total 0 instances are started
+06/09 10:56:35:918 Total 6 instances are added
+06/09 11:01:22:057 EPOS started
+06/09 11:01:23:392 Testing connection ...
+06/09 11:01:24:657 Testing connection are success
+06/09 11:01:24:657 Starting process session
+06/09 11:01:25:258 Total 0 instances are started
+06/09 11:01:25:259 Total 6 instances are added
+06/09 11:12:24:420 EPOS started
+06/09 11:12:26:865 Testing connection ...
+06/09 11:12:27:860 Testing connection are success
+06/09 11:12:27:860 Starting process session
+06/09 11:12:28:460 Total 0 instances are started
+06/09 11:12:28:461 Total 6 instances are added
+06/09 11:16:56:658 EPOS started
+06/09 11:16:58:602 Testing connection ...
+06/09 11:16:59:515 Testing connection are success
+06/09 11:16:59:515 Starting process session
+06/09 11:17:00:119 Total 0 instances are started
+06/09 11:17:00:120 Total 6 instances are added
+06/09 11:30:49:861 EPOS started
+06/09 11:30:51:705 Testing connection ...
+06/09 11:30:52:698 Testing connection are success
+06/09 11:30:52:698 Starting process session
+06/09 11:30:53:299 Total 0 instances are started
+06/09 11:30:53:300 Total 6 instances are added
+06/09 11:39:48:972 EPOS started
+06/09 11:39:50:553 Testing connection ...
+06/09 11:39:51:273 Testing connection are success
+06/09 11:39:51:273 Starting process session
+06/09 11:39:51:919 Total 0 instances are started
+06/09 11:39:51:920 Total 6 instances are added
+06/09 11:42:45:531 EPOS started
+06/09 11:42:46:692 Testing connection ...
+06/09 11:42:47:606 Testing connection are success
+06/09 11:42:47:607 Starting process session
+06/09 11:42:48:207 Total 0 instances are started
+06/09 11:42:48:207 Total 6 instances are added
+06/09 11:45:00:496 EPOS started
+06/09 11:45:00:526 Testing connection ...
+06/09 11:45:02:929 Testing connection are success
+06/09 11:45:02:934 Starting process session
+06/09 11:45:03:534 Total 0 instances are started
+06/09 11:45:03:534 Total 6 instances are added
+06/09 14:04:56:969 EPOS started
+06/09 14:04:58:034 Testing connection ...
+06/09 14:04:59:066 Testing connection are success
+06/09 14:04:59:066 Starting process session
+06/09 14:04:59:693 Total 0 instances are started
+06/09 14:04:59:693 Total 6 instances are added
+06/09 14:16:41:943 EPOS started
+06/09 14:16:43:494 Testing connection ...
+06/09 14:16:44:508 Testing connection are success
+06/09 14:16:44:509 Starting process session
+06/09 14:16:45:110 Total 0 instances are started
+06/09 14:16:45:111 Total 6 instances are added
+06/09 14:21:06:546 EPOS started
+06/09 14:21:08:485 Testing connection ...
+06/09 14:21:09:608 Testing connection are success
+06/09 14:21:09:610 Starting process session
+06/09 14:21:10:210 Total 0 instances are started
+06/09 14:21:10:212 Total 6 instances are added
+06/09 14:22:12:861 EPOS started
+06/09 14:22:13:892 Testing connection ...
+06/09 14:22:14:657 Testing connection are success
+06/09 14:22:14:657 Starting process session
+06/09 14:22:15:317 Total 0 instances are started
+06/09 14:22:15:317 Total 6 instances are added
+06/09 15:16:45:597 EPOS started
+06/09 15:16:47:064 Testing connection ...
+06/09 15:16:48:012 Testing connection are success
+06/09 15:16:48:013 Starting process session
+06/09 15:16:48:613 Total 0 instances are started
+06/09 15:16:48:613 Total 6 instances are added
+06/09 15:23:56:339 EPOS started
+06/09 15:23:58:235 Testing connection ...
+06/09 15:23:59:311 Testing connection are success
+06/09 15:23:59:312 Starting process session
+06/09 15:23:59:913 Total 0 instances are started
+06/09 15:23:59:914 Total 6 instances are added
+06/09 15:34:17:131 EPOS started
+06/09 15:34:18:624 Testing connection ...
+06/09 15:34:19:550 Testing connection are success
+06/09 15:34:19:550 Starting process session
+06/09 15:34:20:151 Total 0 instances are started
+06/09 15:34:20:151 Total 6 instances are added
+06/09 15:42:29:538 EPOS started
+06/09 15:42:31:223 Testing connection ...
+06/09 15:42:32:203 Testing connection are success
+06/09 15:42:32:203 Starting process session
+06/09 15:42:32:803 Total 0 instances are started
+06/09 15:42:32:803 Total 6 instances are added
+06/09 15:45:34:623 EPOS started
+06/09 15:45:36:342 Testing connection ...
+06/09 15:45:37:319 Testing connection are success
+06/09 15:45:37:319 Starting process session
+06/09 15:45:37:939 Total 0 instances are started
+06/09 15:45:37:940 Total 6 instances are added
+06/09 16:32:23:089 EPOS started
+06/09 16:32:24:960 Testing connection ...
+06/09 16:32:25:909 Testing connection are success
+06/09 16:32:25:910 Starting process session
+06/09 16:32:26:512 Total 0 instances are started
+06/09 16:32:26:512 Total 6 instances are added
+06/09 16:40:37:423 EPOS started
+06/09 16:40:39:065 Testing connection ...
+06/09 16:40:40:040 Testing connection are success
+06/09 16:40:40:041 Starting process session
+06/09 16:40:40:646 Total 0 instances are started
+06/09 16:40:40:647 Total 6 instances are added
+06/09 16:42:38:746 EPOS started
+06/09 16:42:39:801 Testing connection ...
+06/09 16:42:40:622 Testing connection are success
+06/09 16:42:40:622 Starting process session
+06/09 16:42:41:350 Total 0 instances are started
+06/09 16:42:41:351 Total 6 instances are added
+06/09 16:57:25:423 EPOS started
+06/09 16:57:27:021 Testing connection ...
+06/09 16:57:28:745 Testing connection are success
+06/09 16:57:28:746 Starting process session
+06/09 16:57:29:354 Total 0 instances are started
+06/09 16:57:29:355 Total 6 instances are added
+06/09 17:04:38:222 EPOS started
+06/09 17:04:39:856 Testing connection ...
+06/09 17:04:40:843 Testing connection are success
+06/09 17:04:40:844 Starting process session
+06/09 17:04:41:445 Total 0 instances are started
+06/09 17:04:41:445 Total 6 instances are added
+06/09 17:15:53:543 EPOS started
+06/09 17:15:54:857 Testing connection ...
+06/09 17:15:56:061 Testing connection are success
+06/09 17:15:56:062 Starting process session
+06/09 17:15:56:663 Total 0 instances are started
+06/09 17:15:56:664 Total 6 instances are added
+06/09 17:17:08:126 EPOS started
+06/09 17:17:09:471 Testing connection ...
+06/09 17:17:10:235 Testing connection are success
+06/09 17:17:10:235 Starting process session
+06/09 17:17:10:945 Total 0 instances are started
+06/09 17:17:10:946 Total 6 instances are added
+06/09 17:30:17:286 EPOS started
+06/09 17:30:18:779 Testing connection ...
+06/09 17:30:19:772 Testing connection are success
+06/09 17:30:19:772 Starting process session
+06/09 17:30:20:372 Total 0 instances are started
+06/09 17:30:20:373 Total 6 instances are added
+06/09 17:33:05:320 EPOS started
+06/09 17:33:07:321 Testing connection ...
+06/09 17:33:08:371 Testing connection are success
+06/09 17:33:08:371 Starting process session
+06/09 17:33:08:973 Total 0 instances are started
+06/09 17:33:08:974 Total 6 instances are added
+06/09 17:34:00:895 EPOS started
+06/09 17:34:01:190 Testing connection ...
+06/09 17:34:02:926 Testing connection are success
+06/09 17:34:02:926 Starting process session
+06/09 17:34:03:529 Total 0 instances are started
+06/09 17:34:03:529 Total 6 instances are added
+06/09 17:38:24:918 EPOS started
+06/09 17:38:26:212 Testing connection ...
+06/09 17:38:27:041 Testing connection are success
+06/09 17:38:27:041 Starting process session
+06/09 17:38:27:644 Total 0 instances are started
+06/09 17:38:27:645 Total 6 instances are added
+06/09 17:58:22:660 EPOS started
+06/09 17:58:23:444 Testing connection ...
+06/09 17:58:25:399 Testing connection are success
+06/09 17:58:25:400 Starting process session
+06/09 17:58:26:006 Total 0 instances are started
+06/09 17:58:26:007 Total 6 instances are added
+06/09 18:04:38:080 EPOS started
+06/09 18:04:39:302 Testing connection ...
+06/09 18:04:40:069 Testing connection are success
+06/09 18:04:40:069 Starting process session
+06/09 18:04:40:697 Total 0 instances are started
+06/09 18:04:40:697 Total 6 instances are added
+06/09 18:10:09:258 EPOS started
+06/09 18:10:10:936 Testing connection ...
+06/09 18:10:11:897 Testing connection are success
+06/09 18:10:11:898 Starting process session
+06/09 18:10:12:498 Total 0 instances are started
+06/09 18:10:12:499 Total 6 instances are added

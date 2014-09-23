@@ -1,0 +1,105 @@
+02/01 09:40:08:494 Update DB Daily Test started
+02/01 09:40:08:526 Starting process session
+02/01 09:40:08:652 Starting InterestrateMonthly...
+02/01 09:40:08:741 Updated 491 records InterestrateMonthly to SubscriberBalance is successfully!!!
+02/01 09:40:08:749 Starting collect_topup...
+02/01 09:40:08:810 Updated 491 collect_topup to SubscriberBalance is successfully!!!
+02/01 09:40:08:819 Starting inout_network...
+02/01 09:40:08:836 Updated 0 records inout_network to SubscriberBalance is successfully!!!
+02/01 09:40:08:843 Number of Sleep: 1
+02/01 09:40:11:852 Starting inout_network...
+02/01 09:40:11:865 Updated 0 records inout_network to SubscriberBalance is successfully!!!
+02/01 09:40:11:916 Number of Sleep: 2
+02/01 09:40:14:925 Starting inout_network...
+02/01 09:40:14:937 Updated 0 records inout_network to SubscriberBalance is successfully!!!
+02/01 09:40:14:945 Number of Sleep: 3
+02/01 09:40:17:953 Starting inout_network...
+02/01 09:40:17:962 Updated 0 records inout_network to SubscriberBalance is successfully!!!
+02/01 09:40:17:965 finally...
+02/01 09:40:17:969 End of process session
+02/01 09:51:42:609 Update DB Daily Test started
+02/01 09:51:42:640 Starting process session
+02/01 09:51:43:316 Starting InterestrateMonthly...
+02/01 09:51:43:369 Updated 0 records InterestrateMonthly to SubscriberBalance is successfully!!!
+02/01 09:51:43:373 Number of Sleep: 2
+02/01 09:51:46:377 Starting InterestrateMonthly...
+02/01 09:51:46:388 Updated 0 records InterestrateMonthly to SubscriberBalance is successfully!!!
+02/01 09:51:46:395 Number of Sleep: 3
+02/01 09:51:49:404 Starting InterestrateMonthly...
+02/01 09:51:49:415 Updated 0 records InterestrateMonthly to SubscriberBalance is successfully!!!
+02/01 09:51:49:422 finally...
+02/01 09:51:49:432 End of process session
+02/01 10:25:15:322 Update DB Daily Test started
+02/01 10:25:15:354 Starting process session
+02/01 10:25:16:278 Starting InterestrateMonthly...
+02/01 10:25:16:330 Updated 0 records InterestrateMonthly to SubscriberBalance is successfully!!!
+02/01 10:25:16:334 Number of Sleep: 2
+02/01 10:25:19:338 finally...
+02/01 10:25:19:348 End of process session
+02/01 10:25:29:367 Update DB Daily Test stopped
+02/01 10:25:31:360 Update DB Daily Test started
+02/01 10:25:31:387 Starting process session
+02/01 10:25:31:391 Starting InterestrateMonthly...
+02/01 10:25:31:398 Updated 0 records InterestrateMonthly to SubscriberBalance is successfully!!!
+02/01 10:25:31:402 Number of Sleep: 2
+02/01 10:25:34:407 finally...
+02/01 10:25:34:415 End of process session
+02/01 10:27:37:534 Update DB Daily Test stopped
+02/01 10:27:39:508 Update DB Daily Test started
+02/01 10:27:39:538 Starting process session
+02/01 10:27:39:543 Starting InterestrateMonthly...
+02/01 10:27:39:550 Updated 0 records InterestrateMonthly to SubscriberBalance is successfully!!!
+02/01 10:27:39:554 Number of Sleep: 2
+02/01 10:27:42:560 finally...
+02/01 10:27:42:568 End of process session
+02/01 10:28:17:132 Thread destroyed
+02/01 10:28:20:583 Update DB Daily Test started
+02/01 10:28:20:613 Starting process session
+02/01 10:28:20:618 Starting InterestrateMonthly...
+02/01 10:28:20:656 Updated 491 records InterestrateMonthly to SubscriberBalance is successfully!!!
+02/01 10:28:20:660 finally...
+02/01 10:28:20:664 End of process session
+02/01 10:31:00:814 Update DB Daily Test stopped
+02/01 10:31:02:764 Update DB Daily Test started
+02/01 10:31:02:805 Starting process session
+02/01 10:31:02:810 Starting InterestrateMonthly...
+02/01 10:31:02:820 Updated 0 records InterestrateMonthly to SubscriberBalance is successfully!!!
+02/01 10:31:02:825 Number of Sleep: 2
+02/01 10:31:05:831 finally...
+02/01 10:31:05:840 End of process session
+02/01 10:31:13:856 Update DB Daily Test stopped
+02/01 10:31:15:802 Update DB Daily Test started
+02/01 10:31:15:833 Starting process session
+02/01 10:31:15:838 Starting InterestrateMonthly...
+02/01 10:31:15:846 Updated 0 records InterestrateMonthly to SubscriberBalance is successfully!!!
+02/01 10:31:15:852 Number of Sleep: 2
+02/01 10:31:18:858 finally...
+02/01 10:31:18:866 End of process session
+02/01 10:36:24:829 Update DB Daily Test started
+02/01 10:36:24:865 Starting process session
+02/01 10:36:55:863 finally...
+02/01 10:37:00:897 End of process session
+02/01 10:37:14:159 Update DB Daily Test stopped
+02/01 10:37:15:899 Update DB Daily Test started
+02/01 10:37:15:931 Starting process session
+02/01 10:41:24:869 finally...
+02/01 10:41:25:819 End of process session
+02/01 10:41:25:829 Update DB Daily Test stopped
+02/01 10:41:27:161 Update DB Daily Test started
+02/01 10:41:27:210 Starting process session
+02/01 10:51:27:130 Starting InterestrateMonthly...
+02/01 10:51:27:254 Exception!
+02/01 10:51:27:259 Number of Sleep: 2
+02/01 10:53:01:517 Update DB Daily Test started
+02/01 10:53:01:552 Starting process session
+02/01 10:53:26:946 Starting InterestrateMonthly...
+02/01 10:53:32:278 Updated 0 records InterestrateMonthly to SubscriberBalance is successfully!!!
+02/01 10:53:33:677 Number of Sleep: 2
+02/01 10:53:42:138 Starting InterestrateMonthly...
+02/01 10:53:42:153 Updated 0 records InterestrateMonthly to SubscriberBalance is successfully!!!
+02/01 10:53:42:163 Number of Sleep: 3
+02/01 10:53:45:173 Starting InterestrateMonthly...
+02/01 10:53:45:185 Updated 0 records InterestrateMonthly to SubscriberBalance is successfully!!!
+02/01 10:53:45:193 send Alarm
+02/01 10:53:45:201 finally...
+02/01 10:53:45:211 End of process session

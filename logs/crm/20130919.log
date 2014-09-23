@@ -1,0 +1,1061 @@
+19/09 09:15:16:376 CRM started
+19/09 09:15:21:301 Testing connection ...
+19/09 09:15:21:302 Created provisioning instance for CRM
+19/09 09:15:21:343 Testing connection are success
+19/09 09:15:21:344 Starting process session
+19/09 09:15:21:519 Total 0 instances are started
+19/09 09:15:21:520 Total 1 instances are added
+19/09 09:19:08:045 SEND: ID=264002: com.crm.provisioning.impl.CommandImpl.register{84922000514, 274}
+19/09 09:19:08:067 RECEIVE: ID=264002: success: costTime=21
+19/09 09:19:08:074 sendNotify: 84922000514 - Chuc mung Quy khach da ra nhap Cau lac bo CAM cua Vietnamobile. Hay tiep tuc su dung Vietnamobile de tich luy nhieu diem va nhan duoc nhieu uu dai cua chuong trinh. Chi tiet 789
+19/09 09:19:08:075 orderId = 125410015 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DK CAM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = register | productId = 274 | commandId = 13119 | request = ID=264002: com.crm.provisioning.impl.CommandImpl.register{84922000514, 274} | response = ID=264002: success: costTime=21 | status = 0 | cause = success | description = success
+19/09 09:19:46:638 Close pool
+19/09 09:19:46:740 Close queue connection pool.
+19/09 09:19:46:748 End of process session
+19/09 09:19:46:749 CRM stopped
+19/09 09:19:48:603 CRM started
+19/09 09:19:48:627 Close pool
+19/09 09:19:48:628 Close pool
+19/09 09:19:48:628 Testing connection ...
+19/09 09:19:48:629 Created provisioning instance for CRM
+19/09 09:19:48:629 Testing connection are success
+19/09 09:19:48:630 Starting process session
+19/09 09:19:48:730 Total 0 instances are started
+19/09 09:19:48:731 Total 1 instances are added
+19/09 09:19:51:009 orderId = 125410016 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+19/09 09:20:00:631 Close pool
+19/09 09:20:00:731 Close queue connection pool.
+19/09 09:20:00:740 End of process session
+19/09 09:20:00:741 CRM stopped
+19/09 09:20:57:671 CRM started
+19/09 09:20:57:694 Close pool
+19/09 09:20:57:695 Close pool
+19/09 09:20:57:696 Testing connection ...
+19/09 09:20:57:697 Created provisioning instance for CRM
+19/09 09:20:57:697 Testing connection are success
+19/09 09:20:57:697 Starting process session
+19/09 09:20:57:798 Total 0 instances are started
+19/09 09:20:57:799 Total 1 instances are added
+19/09 09:20:57:992 java.sql.SQLException: ORA-00942: table or view does not exist
+
+19/09 09:20:57:999 sendNotify: 84922000514 - He thong dang ban. Xin Quy khach vui long nhan tin lai sau!
+19/09 09:20:57:999 orderId = 125410016 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 384 | request =  | response =  | status = 4 | cause = error | description = 
+19/09 09:23:20:201 orderId = 125410017 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+19/09 09:23:34:724 Close pool
+19/09 09:23:34:824 Close queue connection pool.
+19/09 09:23:34:829 End of process session
+19/09 09:23:34:830 CRM stopped
+19/09 09:24:12:749 CRM started
+19/09 09:24:12:772 Close pool
+19/09 09:24:12:773 Close pool
+19/09 09:24:12:773 Testing connection ...
+19/09 09:24:12:774 Created provisioning instance for CRM
+19/09 09:24:12:774 Testing connection are success
+19/09 09:24:12:775 Starting process session
+19/09 09:24:12:875 Total 0 instances are started
+19/09 09:24:12:877 Total 1 instances are added
+19/09 09:24:13:016 java.sql.SQLException: ORA-00942: table or view does not exist
+
+19/09 09:24:13:033 sendNotify: 84922000514 - He thong dang ban. Xin Quy khach vui long nhan tin lai sau!
+19/09 09:24:13:033 orderId = 125410017 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 384 | request =  | response =  | status = 4 | cause = error | description = 
+19/09 09:26:30:412 CRM started
+19/09 09:26:30:523 Testing connection ...
+19/09 09:26:30:525 Created provisioning instance for CRM
+19/09 09:26:30:526 Testing connection are success
+19/09 09:26:30:527 Starting process session
+19/09 09:26:30:628 Total 0 instances are started
+19/09 09:26:30:629 Total 1 instances are added
+19/09 09:27:05:975 orderId = 125410018 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+19/09 09:27:10:509 Close pool
+19/09 09:27:10:610 Close queue connection pool.
+19/09 09:27:10:637 End of process session
+19/09 09:27:10:637 CRM stopped
+19/09 09:29:03:536 CRM started
+19/09 09:29:03:559 Close pool
+19/09 09:29:03:560 Close pool
+19/09 09:29:03:560 Testing connection ...
+19/09 09:29:03:561 Created provisioning instance for CRM
+19/09 09:29:03:561 Testing connection are success
+19/09 09:29:03:562 Starting process session
+19/09 09:29:03:662 Total 0 instances are started
+19/09 09:29:03:663 Total 1 instances are added
+19/09 09:29:03:814 sendNotify: 84922000514 - Quy khach da doi thanh cong 1000 diem thanh tien su dung dich vu. So tien tuong ung 1000 diem se duoc cong  vao tai khoan TKKM2, su dung goi va nhan tin lien mang, data.
+19/09 09:29:03:815 orderId = 125410018 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 384 | request =  | response =  | status = 0 | cause = success | description = 
+19/09 09:29:55:936 orderId = 125410019 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+19/09 09:30:02:676 Close pool
+19/09 09:30:02:776 Close queue connection pool.
+19/09 09:30:02:781 End of process session
+19/09 09:30:02:783 CRM stopped
+19/09 09:32:41:640 CRM started
+19/09 09:32:41:670 Close pool
+19/09 09:32:41:671 Close pool
+19/09 09:32:41:671 Testing connection ...
+19/09 09:32:41:672 Created provisioning instance for CRM
+19/09 09:32:41:672 Testing connection are success
+19/09 09:32:41:673 Starting process session
+19/09 09:32:41:773 Total 0 instances are started
+19/09 09:32:41:775 Total 1 instances are added
+19/09 09:32:42:004 java.sql.SQLException: ORA-00942: table or view does not exist
+
+19/09 09:32:42:044 sendNotify: 84922000514 - He thong dang ban. Xin Quy khach vui long nhan tin lai sau!
+19/09 09:32:42:045 orderId = 125410019 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 384 | request =  | response =  | status = 4 | cause = error | description = 
+19/09 09:38:43:081 CRM started
+19/09 09:38:43:113 Testing connection ...
+19/09 09:38:43:114 Created provisioning instance for CRM
+19/09 09:38:43:115 Testing connection are success
+19/09 09:38:43:116 Starting process session
+19/09 09:38:43:225 Total 0 instances are started
+19/09 09:38:43:226 Total 1 instances are added
+19/09 09:40:06:975 orderId = 125410020 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+19/09 09:40:29:243 sendNotify: 84922000514 - Quy khach da doi thanh cong 1000 diem thanh tien su dung dich vu. So tien tuong ung 1000 diem se duoc cong  vao tai khoan TKKM2, su dung goi va nhan tin lien mang, data.
+19/09 09:40:29:244 orderId = 125410020 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 384 | request =  | response =  | status = 0 | cause = success | description = 
+19/09 09:41:32:873 orderId = 125410021 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+19/09 09:41:45:534 Close pool
+19/09 09:41:45:635 Close queue connection pool.
+19/09 09:41:45:641 End of process session
+19/09 09:41:45:642 CRM stopped
+19/09 09:42:25:522 CRM started
+19/09 09:42:25:550 Close pool
+19/09 09:42:25:550 Close pool
+19/09 09:42:25:552 Testing connection ...
+19/09 09:42:25:552 Created provisioning instance for CRM
+19/09 09:42:25:553 Testing connection are success
+19/09 09:42:25:554 Starting process session
+19/09 09:42:25:654 Total 0 instances are started
+19/09 09:42:25:655 Total 1 instances are added
+19/09 09:42:30:556 Close pool
+19/09 09:42:30:657 Close queue connection pool.
+19/09 09:42:30:663 End of process session
+19/09 09:42:30:663 CRM stopped
+19/09 09:42:32:543 CRM started
+19/09 09:42:32:566 Close pool
+19/09 09:42:32:567 Close pool
+19/09 09:42:32:568 Testing connection ...
+19/09 09:42:32:568 Created provisioning instance for CRM
+19/09 09:42:32:569 Testing connection are success
+19/09 09:42:32:571 Starting process session
+19/09 09:42:32:672 Total 0 instances are started
+19/09 09:42:32:673 Total 1 instances are added
+19/09 09:42:34:945 java.sql.SQLException: ORA-00942: table or view does not exist
+
+19/09 09:42:34:955 sendNotify: 84922000514 - He thong dang ban. Xin Quy khach vui long nhan tin lai sau!
+19/09 09:42:34:957 orderId = 125410021 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 384 | request =  | response =  | status = 4 | cause = error | description = 
+19/09 09:45:33:408 CRM started
+19/09 09:45:34:453 Testing connection ...
+19/09 09:45:34:458 Created provisioning instance for CRM
+19/09 09:45:34:458 Testing connection are success
+19/09 09:45:34:459 Starting process session
+19/09 09:45:34:605 Total 0 instances are started
+19/09 09:45:34:609 Total 1 instances are added
+19/09 09:45:58:261 orderId = 125410022 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+19/09 09:46:10:687 Close pool
+19/09 09:46:10:789 Close queue connection pool.
+19/09 09:46:10:795 End of process session
+19/09 09:46:10:796 CRM stopped
+19/09 09:47:02:650 CRM started
+19/09 09:47:02:731 Close pool
+19/09 09:47:02:732 Close pool
+19/09 09:47:02:733 Testing connection ...
+19/09 09:47:02:734 Created provisioning instance for CRM
+19/09 09:47:02:734 Testing connection are success
+19/09 09:47:02:735 Starting process session
+19/09 09:47:02:835 Total 0 instances are started
+19/09 09:47:02:836 Total 1 instances are added
+19/09 09:47:03:005 sendNotify: 84922000514 - Quy khach da doi thanh cong 1000 diem thanh tien su dung dich vu. So tien tuong ung 1000 diem se duoc cong  vao tai khoan TKKM2, su dung goi va nhan tin lien mang, data.
+19/09 09:47:03:006 orderId = 125410022 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 384 | request =  | response =  | status = 0 | cause = success | description = 
+19/09 09:47:53:032 orderId = 125410023 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+19/09 09:48:02:743 Close pool
+19/09 09:48:02:844 Close queue connection pool.
+19/09 09:48:02:849 End of process session
+19/09 09:48:02:851 CRM stopped
+19/09 09:48:33:720 CRM started
+19/09 09:48:33:743 Close pool
+19/09 09:48:33:744 Close pool
+19/09 09:48:33:744 Testing connection ...
+19/09 09:48:33:744 Created provisioning instance for CRM
+19/09 09:48:33:745 Testing connection are success
+19/09 09:48:33:746 Starting process session
+19/09 09:48:33:846 Total 0 instances are started
+19/09 09:48:33:847 Total 1 instances are added
+19/09 09:48:34:005 java.sql.SQLException: ORA-00942: table or view does not exist
+
+19/09 09:48:34:019 sendNotify: 84922000514 - He thong dang ban. Xin Quy khach vui long nhan tin lai sau!
+19/09 09:48:34:020 orderId = 125410023 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 384 | request =  | response =  | status = 4 | cause = error | description = 
+19/09 09:54:03:886 CRM started
+19/09 09:54:03:924 Testing connection ...
+19/09 09:54:03:925 Created provisioning instance for CRM
+19/09 09:54:03:927 Testing connection are success
+19/09 09:54:03:928 Starting process session
+19/09 09:54:04:035 Total 0 instances are started
+19/09 09:54:04:036 Total 1 instances are added
+19/09 09:54:42:932 orderId = 125410024 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+19/09 09:54:53:469 Close pool
+19/09 09:54:53:571 Close queue connection pool.
+19/09 09:54:53:577 End of process session
+19/09 09:54:53:578 CRM stopped
+19/09 09:55:22:431 CRM started
+19/09 09:55:22:456 Close pool
+19/09 09:55:22:457 Close pool
+19/09 09:55:22:457 Testing connection ...
+19/09 09:55:22:458 Created provisioning instance for CRM
+19/09 09:55:22:458 Testing connection are success
+19/09 09:55:22:459 Starting process session
+19/09 09:55:22:559 Total 0 instances are started
+19/09 09:55:22:560 Total 1 instances are added
+19/09 09:55:22:721 java.sql.SQLException: ORA-00942: table or view does not exist
+
+19/09 09:55:22:733 sendNotify: 84922000514 - He thong dang ban. Xin Quy khach vui long nhan tin lai sau!
+19/09 09:55:22:734 orderId = 125410024 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 384 | request =  | response =  | status = 4 | cause = error | description = 
+19/09 09:59:10:196 CRM started
+19/09 09:59:10:249 Testing connection ...
+19/09 09:59:10:253 Created provisioning instance for CRM
+19/09 09:59:10:254 Testing connection are success
+19/09 09:59:10:255 Starting process session
+19/09 09:59:10:358 Total 0 instances are started
+19/09 09:59:10:359 Total 1 instances are added
+19/09 09:59:40:961 orderId = 125410025 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+19/09 09:59:53:400 Close pool
+19/09 09:59:53:502 Close queue connection pool.
+19/09 09:59:53:508 End of process session
+19/09 09:59:53:509 CRM stopped
+19/09 10:00:18:459 CRM started
+19/09 10:00:18:487 Close pool
+19/09 10:00:18:487 Close pool
+19/09 10:00:18:488 Testing connection ...
+19/09 10:00:18:489 Created provisioning instance for CRM
+19/09 10:00:18:489 Testing connection are success
+19/09 10:00:18:489 Starting process session
+19/09 10:00:18:590 Total 0 instances are started
+19/09 10:00:18:591 Total 1 instances are added
+19/09 10:00:18:752 java.sql.SQLException: ORA-00942: table or view does not exist
+
+19/09 10:00:18:762 sendNotify: 84922000514 - He thong dang ban. Xin Quy khach vui long nhan tin lai sau!
+19/09 10:00:18:763 orderId = 125410025 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 384 | request =  | response =  | status = 4 | cause = error | description = 
+19/09 10:01:29:930 orderId = 125410026 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 4 | cause = error | description = null
+19/09 10:01:29:943 ORA-00942: table or view does not exist
+
+19/09 10:01:30:101 Total 0 instances are started
+19/09 10:01:30:102 Total 1 instances are added
+19/09 10:01:52:930 orderId = 125410027 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+19/09 10:02:01:509 Close pool
+19/09 10:02:01:609 Close queue connection pool.
+19/09 10:02:01:614 End of process session
+19/09 10:02:01:615 CRM stopped
+19/09 10:02:21:552 CRM started
+19/09 10:02:21:574 Close pool
+19/09 10:02:21:575 Close pool
+19/09 10:02:21:576 Testing connection ...
+19/09 10:02:21:576 Created provisioning instance for CRM
+19/09 10:02:21:576 Testing connection are success
+19/09 10:02:21:577 Starting process session
+19/09 10:02:21:677 Total 0 instances are started
+19/09 10:02:21:678 Total 1 instances are added
+19/09 10:02:21:829 java.sql.SQLException: ORA-00942: table or view does not exist
+
+19/09 10:02:21:848 sendNotify: 84922000514 - He thong dang ban. Xin Quy khach vui long nhan tin lai sau!
+19/09 10:02:21:850 orderId = 125410027 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 384 | request =  | response =  | status = 4 | cause = error | description = 
+19/09 10:05:57:308 CRM started
+19/09 10:05:57:340 Testing connection ...
+19/09 10:05:57:341 Created provisioning instance for CRM
+19/09 10:05:57:343 Testing connection are success
+19/09 10:05:57:343 Starting process session
+19/09 10:05:57:451 Total 0 instances are started
+19/09 10:05:57:452 Total 1 instances are added
+19/09 10:06:39:160 orderId = 125410028 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+19/09 10:06:45:589 Close pool
+19/09 10:06:45:689 Close queue connection pool.
+19/09 10:06:45:695 End of process session
+19/09 10:06:45:696 CRM stopped
+19/09 10:07:02:609 CRM started
+19/09 10:07:02:632 Close pool
+19/09 10:07:02:633 Close pool
+19/09 10:07:02:633 Testing connection ...
+19/09 10:07:02:634 Created provisioning instance for CRM
+19/09 10:07:02:634 Testing connection are success
+19/09 10:07:02:634 Starting process session
+19/09 10:07:02:735 Total 0 instances are started
+19/09 10:07:02:736 Total 1 instances are added
+19/09 10:07:02:894 java.sql.SQLException: ORA-00942: table or view does not exist
+
+19/09 10:07:02:903 sendNotify: 84922000514 - He thong dang ban. Xin Quy khach vui long nhan tin lai sau!
+19/09 10:07:02:904 orderId = 125410028 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 384 | request =  | response =  | status = 4 | cause = error | description = 
+19/09 10:08:41:105 orderId = 125410029 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+19/09 10:08:46:674 Close pool
+19/09 10:08:46:774 Close queue connection pool.
+19/09 10:08:46:780 End of process session
+19/09 10:08:46:781 CRM stopped
+19/09 10:09:00:686 CRM started
+19/09 10:09:00:711 Close pool
+19/09 10:09:00:711 Close pool
+19/09 10:09:00:712 Testing connection ...
+19/09 10:09:00:712 Created provisioning instance for CRM
+19/09 10:09:00:712 Testing connection are success
+19/09 10:09:00:713 Starting process session
+19/09 10:09:00:813 Total 0 instances are started
+19/09 10:09:00:814 Total 1 instances are added
+19/09 10:09:01:018 java.sql.SQLException: ORA-00942: table or view does not exist
+
+19/09 10:09:01:037 sendNotify: 84922000514 - He thong dang ban. Xin Quy khach vui long nhan tin lai sau!
+19/09 10:09:01:038 orderId = 125410029 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 384 | request =  | response =  | status = 4 | cause = error | description = 
+19/09 10:12:20:927 CRM started
+19/09 10:12:20:970 Testing connection ...
+19/09 10:12:20:971 Created provisioning instance for CRM
+19/09 10:12:20:973 Testing connection are success
+19/09 10:12:20:974 Starting process session
+19/09 10:12:21:082 Total 0 instances are started
+19/09 10:12:21:083 Total 1 instances are added
+19/09 10:12:38:820 orderId = 125410030 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+19/09 10:12:50:143 Close pool
+19/09 10:12:50:244 Close queue connection pool.
+19/09 10:12:50:250 End of process session
+19/09 10:12:50:251 CRM stopped
+19/09 10:13:08:184 CRM started
+19/09 10:13:08:207 Close pool
+19/09 10:13:08:208 Close pool
+19/09 10:13:08:209 Testing connection ...
+19/09 10:13:08:209 Created provisioning instance for CRM
+19/09 10:13:08:210 Testing connection are success
+19/09 10:13:08:210 Starting process session
+19/09 10:13:08:311 Total 0 instances are started
+19/09 10:13:08:313 Total 1 instances are added
+19/09 10:13:08:479 java.sql.SQLException: ORA-00942: table or view does not exist
+
+19/09 10:13:08:490 sendNotify: 84922000514 - He thong dang ban. Xin Quy khach vui long nhan tin lai sau!
+19/09 10:13:08:492 orderId = 125410030 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 384 | request =  | response =  | status = 4 | cause = error | description = 
+19/09 10:13:58:465 CRM started
+19/09 10:13:58:497 Testing connection ...
+19/09 10:13:58:498 Created provisioning instance for CRM
+19/09 10:13:58:502 Testing connection are success
+19/09 10:13:58:502 Starting process session
+19/09 10:13:58:613 Total 0 instances are started
+19/09 10:13:58:614 Total 1 instances are added
+19/09 10:14:57:355 orderId = 125410031 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+19/09 10:15:04:776 Close pool
+19/09 10:15:04:877 Close queue connection pool.
+19/09 10:15:04:883 End of process session
+19/09 10:15:04:884 CRM stopped
+19/09 10:15:25:735 CRM started
+19/09 10:15:25:758 Close pool
+19/09 10:15:25:759 Close pool
+19/09 10:15:25:759 Testing connection ...
+19/09 10:15:25:760 Created provisioning instance for CRM
+19/09 10:15:25:760 Testing connection are success
+19/09 10:15:25:761 Starting process session
+19/09 10:15:25:861 Total 0 instances are started
+19/09 10:15:25:862 Total 1 instances are added
+19/09 10:15:26:028 java.sql.SQLException: ORA-00942: table or view does not exist
+
+19/09 10:15:26:048 sendNotify: 84922000514 - He thong dang ban. Xin Quy khach vui long nhan tin lai sau!
+19/09 10:15:26:049 orderId = 125410031 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 384 | request =  | response =  | status = 4 | cause = error | description = 
+19/09 10:22:24:288 orderId = 125410032 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+19/09 10:22:31:816 Close pool
+19/09 10:22:31:916 Close queue connection pool.
+19/09 10:22:31:921 End of process session
+19/09 10:22:31:922 CRM stopped
+19/09 10:23:12:824 CRM started
+19/09 10:23:12:846 Close pool
+19/09 10:23:12:847 Close pool
+19/09 10:23:12:847 Testing connection ...
+19/09 10:23:12:848 Created provisioning instance for CRM
+19/09 10:23:12:848 Testing connection are success
+19/09 10:23:12:849 Starting process session
+19/09 10:23:12:949 Total 0 instances are started
+19/09 10:23:12:950 Total 1 instances are added
+19/09 10:23:13:102 java.sql.SQLException: ORA-00942: table or view does not exist
+
+19/09 10:23:13:128 sendNotify: 84922000514 - He thong dang ban. Xin Quy khach vui long nhan tin lai sau!
+19/09 10:23:13:128 orderId = 125410032 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 384 | request =  | response =  | status = 4 | cause = error | description = 
+19/09 10:32:09:470 orderId = 125410033 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+19/09 10:32:17:000 Close pool
+19/09 10:32:17:100 Close queue connection pool.
+19/09 10:32:17:106 End of process session
+19/09 10:32:17:107 CRM stopped
+19/09 10:32:57:044 CRM started
+19/09 10:32:57:067 Close pool
+19/09 10:32:57:068 Close pool
+19/09 10:32:57:068 Testing connection ...
+19/09 10:32:57:069 Created provisioning instance for CRM
+19/09 10:32:57:069 Testing connection are success
+19/09 10:32:57:070 Starting process session
+19/09 10:32:57:170 Total 0 instances are started
+19/09 10:32:57:171 Total 1 instances are added
+19/09 10:32:57:352 java.sql.SQLException: ORA-00942: table or view does not exist
+
+19/09 10:32:57:378 sendNotify: 84922000514 - He thong dang ban. Xin Quy khach vui long nhan tin lai sau!
+19/09 10:32:57:379 orderId = 125410033 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 384 | request =  | response =  | status = 4 | cause = error | description = 
+19/09 10:38:46:638 orderId = 125410034 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+19/09 10:38:54:159 Close pool
+19/09 10:38:54:260 Close queue connection pool.
+19/09 10:38:54:265 End of process session
+19/09 10:38:54:266 CRM stopped
+19/09 10:39:28:185 CRM started
+19/09 10:39:28:207 Close pool
+19/09 10:39:28:208 Close pool
+19/09 10:39:28:208 Testing connection ...
+19/09 10:39:28:209 Created provisioning instance for CRM
+19/09 10:39:28:209 Testing connection are success
+19/09 10:39:28:210 Starting process session
+19/09 10:39:28:310 Total 0 instances are started
+19/09 10:39:28:311 Total 1 instances are added
+19/09 10:39:28:486 java.sql.SQLException: ORA-00942: table or view does not exist
+
+19/09 10:39:28:513 sendNotify: 84922000514 - He thong dang ban. Xin Quy khach vui long nhan tin lai sau!
+19/09 10:39:28:518 orderId = 125410034 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 384 | request =  | response =  | status = 4 | cause = error | description = 
+19/09 10:45:36:289 CRM started
+19/09 10:45:36:326 Testing connection ...
+19/09 10:45:36:329 Created provisioning instance for CRM
+19/09 10:45:36:334 Testing connection are success
+19/09 10:45:36:334 Starting process session
+19/09 10:45:36:444 Total 0 instances are started
+19/09 10:45:36:445 Total 1 instances are added
+19/09 10:46:08:258 orderId = 125410035 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+19/09 10:46:26:687 Close pool
+19/09 10:46:26:788 Close queue connection pool.
+19/09 10:46:26:795 End of process session
+19/09 10:46:26:796 CRM stopped
+19/09 10:46:43:735 CRM started
+19/09 10:46:43:760 Close pool
+19/09 10:46:43:760 Close pool
+19/09 10:46:43:761 Testing connection ...
+19/09 10:46:43:761 Created provisioning instance for CRM
+19/09 10:46:43:762 Testing connection are success
+19/09 10:46:43:762 Starting process session
+19/09 10:46:43:863 Total 0 instances are started
+19/09 10:46:43:864 Total 1 instances are added
+19/09 10:46:44:028 java.sql.SQLException: ORA-00942: table or view does not exist
+
+19/09 10:46:44:041 sendNotify: 84922000514 - He thong dang ban. Xin Quy khach vui long nhan tin lai sau!
+19/09 10:46:44:042 orderId = 125410035 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 384 | request =  | response =  | status = 4 | cause = error | description = 
+19/09 10:48:06:130 CRM started
+19/09 10:48:06:217 Testing connection ...
+19/09 10:48:06:218 Created provisioning instance for CRM
+19/09 10:48:06:220 Testing connection are success
+19/09 10:48:06:221 Starting process session
+19/09 10:48:06:336 Total 0 instances are started
+19/09 10:48:06:337 Total 1 instances are added
+19/09 10:49:14:884 orderId = 125410036 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+19/09 10:49:23:316 Close pool
+19/09 10:49:23:417 Close queue connection pool.
+19/09 10:49:23:424 End of process session
+19/09 10:49:23:425 CRM stopped
+19/09 10:49:42:351 CRM started
+19/09 10:49:42:373 Close pool
+19/09 10:49:42:373 Close pool
+19/09 10:49:42:374 Testing connection ...
+19/09 10:49:42:374 Created provisioning instance for CRM
+19/09 10:49:42:375 Testing connection are success
+19/09 10:49:42:375 Starting process session
+19/09 10:49:42:476 Total 0 instances are started
+19/09 10:49:42:477 Total 1 instances are added
+19/09 10:49:42:642 java.sql.SQLException: ORA-00942: table or view does not exist
+
+19/09 10:49:42:653 sendNotify: 84922000514 - He thong dang ban. Xin Quy khach vui long nhan tin lai sau!
+19/09 10:49:42:654 orderId = 125410036 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 384 | request =  | response =  | status = 4 | cause = error | description = 
+19/09 11:10:10:742 CRM started
+19/09 11:10:10:797 Testing connection ...
+19/09 11:10:10:801 Created provisioning instance for CRM
+19/09 11:10:10:803 Testing connection are success
+19/09 11:10:10:807 Starting process session
+19/09 11:10:10:912 Total 0 instances are started
+19/09 11:10:10:912 Total 1 instances are added
+19/09 11:10:53:804 orderId = 125410037 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+19/09 11:11:01:915 Close pool
+19/09 11:11:02:016 Close queue connection pool.
+19/09 11:11:02:023 End of process session
+19/09 11:11:02:024 CRM stopped
+19/09 11:11:32:884 CRM started
+19/09 11:11:32:906 Close pool
+19/09 11:11:32:907 Close pool
+19/09 11:11:32:907 Testing connection ...
+19/09 11:11:32:908 Created provisioning instance for CRM
+19/09 11:11:32:908 Testing connection are success
+19/09 11:11:32:909 Starting process session
+19/09 11:11:33:009 Total 0 instances are started
+19/09 11:11:33:010 Total 1 instances are added
+19/09 11:11:33:152 java.sql.SQLException: ORA-00942: table or view does not exist
+
+19/09 11:11:33:173 sendNotify: 84922000514 - He thong dang ban. Xin Quy khach vui long nhan tin lai sau!
+19/09 11:11:33:174 orderId = 125410037 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 384 | request =  | response =  | status = 4 | cause = error | description = 
+19/09 11:14:29:357 orderId = 125410038 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+19/09 11:14:30:279 sendNotify: 84922000514 - Quy khach da doi thanh cong 1000 diem thanh tien su dung dich vu. So tien tuong ung 1000 diem se duoc cong  vao tai khoan TKKM2, su dung goi va nhan tin lien mang, data.
+19/09 11:14:30:280 orderId = 125410038 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 384 | request =  | response =  | status = 0 | cause = success | description = 
+19/09 11:15:45:035 Close pool
+19/09 11:15:45:135 Close queue connection pool.
+19/09 11:15:45:141 End of process session
+19/09 11:15:45:141 CRM stopped
+19/09 11:15:46:983 CRM started
+19/09 11:15:47:005 Close pool
+19/09 11:15:47:006 Close pool
+19/09 11:15:47:006 Testing connection ...
+19/09 11:15:47:006 Created provisioning instance for CRM
+19/09 11:15:47:007 Testing connection are success
+19/09 11:15:47:007 Starting process session
+19/09 11:15:47:108 Total 0 instances are started
+19/09 11:15:47:109 Total 1 instances are added
+19/09 11:17:55:933 CRM started
+19/09 11:17:56:095 Testing connection ...
+19/09 11:17:56:098 Created provisioning instance for CRM
+19/09 11:17:56:101 Testing connection are success
+19/09 11:17:56:102 Starting process session
+19/09 11:17:56:220 Total 0 instances are started
+19/09 11:17:56:221 Total 1 instances are added
+19/09 11:18:39:030 sendNotify: 84922000514 - Quy khach da doi thanh cong 1000 diem thanh tien su dung dich vu. So tien tuong ung 1000 diem se duoc cong  vao tai khoan TKKM2, su dung goi va nhan tin lien mang, data.
+19/09 11:18:39:031 orderId = 125410041 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 384 | request =  | response =  | status = 0 | cause = success | description = 
+19/09 11:18:56:984 sendNotify: 84922000514 - Quy khach da doi thanh cong 1000 diem thanh tien su dung dich vu. So tien tuong ung 1000 diem se duoc cong  vao tai khoan TKKM2, su dung goi va nhan tin lien mang, data.
+19/09 11:18:56:985 orderId = 125410042 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 384 | request =  | response =  | status = 0 | cause = success | description = 
+19/09 11:19:08:797 SEND: ID=276003: com.crm.provisioning.impl.CommandImpl.register{84922000511, 274}
+19/09 11:19:08:821 RECEIVE: ID=276003: success: costTime=24
+19/09 11:19:08:825 sendNotify: 84922000511 - Chuc mung Quy khach da ra nhap Cau lac bo CAM cua Vietnamobile. Hay tiep tuc su dung Vietnamobile de tich luy nhieu diem va nhan duoc nhieu uu dai cua chuong trinh. Chi tiet 789
+19/09 11:19:08:826 orderId = 125410043 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DK CAM | isdn = 84922000511 | subscriberType = 1 | shipTo =  | actionType = register | productId = 274 | commandId = 13119 | request = ID=276003: com.crm.provisioning.impl.CommandImpl.register{84922000511, 274} | response = ID=276003: success: costTime=24 | status = 0 | cause = success | description = success
+19/09 11:19:24:275 Close pool
+19/09 11:19:24:377 Close queue connection pool.
+19/09 11:19:24:382 End of process session
+19/09 11:19:24:383 CRM stopped
+19/09 11:19:26:232 CRM started
+19/09 11:19:26:254 Close pool
+19/09 11:19:26:255 Close pool
+19/09 11:19:26:255 Testing connection ...
+19/09 11:19:26:256 Created provisioning instance for CRM
+19/09 11:19:26:256 Testing connection are success
+19/09 11:19:26:257 Starting process session
+19/09 11:19:26:357 Total 0 instances are started
+19/09 11:19:26:358 Total 1 instances are added
+19/09 12:10:44:959 CRM started
+19/09 12:10:46:615 Testing connection ...
+19/09 12:10:46:617 Created provisioning instance for CRM
+19/09 12:10:46:618 Testing connection are success
+19/09 12:10:46:620 Starting process session
+19/09 12:10:46:752 Total 0 instances are started
+19/09 12:10:46:753 Total 1 instances are added
+19/09 12:14:13:650 sendNotify: 84922000517 - Quy khach chua dang ky tham gia Cau lac bo CAM, vui long dang ky: DK CAM gui 268 de duoc tich luy va doi diem cua chuong trinh. Chi tiet 789
+19/09 12:14:13:651 orderId = 125410063 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000517 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 4 | cause = unknow-member | description = 
+19/09 13:07:09:705 CRM started
+19/09 13:07:14:294 Testing connection ...
+19/09 13:07:14:295 Created provisioning instance for CRM
+19/09 13:07:14:350 Testing connection are success
+19/09 13:07:14:351 Starting process session
+19/09 13:07:14:452 Total 0 instances are started
+19/09 13:07:14:453 Total 1 instances are added
+19/09 13:08:12:380 sendNotify: 84922000512 - Quy khach chua dang ky tham gia Cau lac bo CAM, vui long dang ky: DK CAM gui 268 de duoc tich luy va doi diem cua chuong trinh. Chi tiet 789
+19/09 13:08:12:381 orderId = 125410067 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = TRA DIEM | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | commandId = 300 | request =  | response =  | status = 4 | cause = unknow-member | description = 
+19/09 13:08:38:719 sendNotify: 84922000512 - Quy khach chua dang ky tham gia Cau lac bo CAM, vui long dang ky: DK CAM gui 268 de duoc tich luy va doi diem cua chuong trinh. Chi tiet 789
+19/09 13:08:38:720 orderId = 125410068 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 4 | cause = unknow-member | description = 
+19/09 13:10:53:139 SEND: ID=278002: com.crm.provisioning.impl.CommandImpl.unregister{84922000515, 274}
+19/09 13:10:53:148 RECEIVE: ID=278002: success: costTime=8
+19/09 13:10:53:150 sendNotify: 84922000515 - B?n ?ã h?y thành công d?ch v? LOYALTY
+19/09 13:10:53:150 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = HUY CAM | isdn = 84922000515 | subscriberType = 1 | shipTo =  | actionType = unregister | productId = 274 | commandId = 13121 | request = ID=278002: com.crm.provisioning.impl.CommandImpl.unregister{84922000515, 274} | response = ID=278002: success: costTime=8 | status = 0 | cause = success | description = success
+19/09 13:11:15:290 sendNotify: 84922000515 - Quy khach chua dang ky tham gia Cau lac bo CAM, vui long dang ky: DK CAM gui 268 de duoc tich luy va doi diem cua chuong trinh. Chi tiet 789
+19/09 13:11:15:291 orderId = 125410069 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000515 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 4 | cause = unknow-member | description = 
+19/09 13:11:43:214 sendNotify: 84922000515 - Quy khach chua dang ky tham gia Cau lac bo CAM, vui long dang ky: DK CAM gui 268 de duoc tich luy va doi diem cua chuong trinh. Chi tiet 789
+19/09 13:11:43:215 orderId = 125410070 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = TRA DIEM | isdn = 84922000515 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | commandId = 300 | request =  | response =  | status = 4 | cause = unknow-member | description = 
+19/09 13:12:19:342 sendNotify: 84922000515 - Quy khach chua dang ky tham gia Cau lac bo CAM, vui long dang ky: DK CAM gui 268 de duoc tich luy va doi diem cua chuong trinh. Chi tiet 789
+19/09 13:12:19:343 orderId = 125410071 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000515 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 4 | cause = unknow-member | description = 
+19/09 13:29:11:614 SEND: ID=278006: com.crm.provisioning.impl.CommandImpl.register{84922000512, 274}
+19/09 13:29:11:645 RECEIVE: ID=278006: success: costTime=27
+19/09 13:29:11:653 sendNotify: 84922000512 - Chuc mung Quy khach da ra nhap Cau lac bo CAM cua Vietnamobile. Hay tiep tuc su dung Vietnamobile de tich luy nhieu diem va nhan duoc nhieu uu dai cua chuong trinh. Chi tiet 789
+19/09 13:29:11:654 orderId = 125410072 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DK CAM | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = register | productId = 274 | commandId = 13119 | request = ID=278006: com.crm.provisioning.impl.CommandImpl.register{84922000512, 274} | response = ID=278006: success: costTime=27 | status = 0 | cause = success | description = success
+19/09 13:32:38:566 sendNotify: 84922000512 - Tai khoan cua Quy khach chua co diem. Hay tiep tuc su dung Vietnamobile de tich luy nhieu diem va nhan duoc nhieu uu dai cua chuong trinh. Chi tiet 789
+19/09 13:32:38:567 orderId = 125410073 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 4 | cause = unknow-balance | description = 
+19/09 13:35:09:633 orderId = 125410075 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+19/09 13:35:09:977 sendNotify: 84922000514 - Quy khach da doi thanh cong 1000 diem thanh tien su dung dich vu. So tien tuong ung 1000 diem se duoc cong  vao tai khoan TKKM2, su dung goi va nhan tin lien mang, data.
+19/09 13:35:09:979 orderId = 125410075 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 384 | request =  | response =  | status = 0 | cause = success | description = 
+19/09 13:35:48:616 orderId = 125410076 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+19/09 13:35:48:833 sendNotify: 84922000514 - Quy khach da doi thanh cong 1000 diem thanh tien su dung dich vu. So tien tuong ung 1000 diem se duoc cong  vao tai khoan TKKM2, su dung goi va nhan tin lien mang, data.
+19/09 13:35:48:833 orderId = 125410076 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 384 | request =  | response =  | status = 0 | cause = success | description = 
+19/09 13:45:04:833 orderId = 125410077 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+19/09 13:45:05:054 sendNotify: 84922000514 - Quy khach da doi thanh cong 1000 diem thanh tien su dung dich vu. So tien tuong ung 1000 diem se duoc cong  vao tai khoan TKKM2, su dung goi va nhan tin lien mang, data.
+19/09 13:45:05:055 orderId = 125410077 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 384 | request =  | response =  | status = 0 | cause = success | description = 
+19/09 13:47:43:795 orderId = 125410078 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+19/09 13:47:55:551 Close pool
+19/09 13:47:55:652 Close queue connection pool.
+19/09 13:47:55:658 End of process session
+19/09 13:47:55:659 CRM stopped
+19/09 13:47:57:480 CRM started
+19/09 13:47:57:502 Close pool
+19/09 13:47:57:503 Close pool
+19/09 13:47:57:503 Testing connection ...
+19/09 13:47:57:504 Created provisioning instance for CRM
+19/09 13:47:57:504 Testing connection are success
+19/09 13:47:57:505 Starting process session
+19/09 13:47:57:605 Total 0 instances are started
+19/09 13:47:57:606 Total 1 instances are added
+19/09 13:47:59:506 Close pool
+19/09 13:47:59:607 Close queue connection pool.
+19/09 13:47:59:613 End of process session
+19/09 13:47:59:614 CRM stopped
+19/09 13:48:23:524 CRM started
+19/09 13:48:23:547 Close pool
+19/09 13:48:23:548 Close pool
+19/09 13:48:23:549 Testing connection ...
+19/09 13:48:23:549 Created provisioning instance for CRM
+19/09 13:48:23:549 Testing connection are success
+19/09 13:48:23:550 Starting process session
+19/09 13:48:23:650 Total 0 instances are started
+19/09 13:48:23:651 Total 1 instances are added
+19/09 13:48:23:797 sendNotify: 84922000514 - Quy khach da doi thanh cong 1000 diem thanh tien su dung dich vu. So tien tuong ung 1000 diem se duoc cong  vao tai khoan TKKM2, su dung goi va nhan tin lien mang, data.
+19/09 13:48:23:798 orderId = 125410078 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 384 | request =  | response =  | status = 0 | cause = success | description = 
+19/09 13:49:13:954 orderId = 125410079 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+19/09 13:49:23:585 Close pool
+19/09 13:49:23:686 Close queue connection pool.
+19/09 13:49:23:692 End of process session
+19/09 13:49:23:693 CRM stopped
+19/09 13:49:57:597 CRM started
+19/09 13:49:57:619 Close pool
+19/09 13:49:57:620 Close pool
+19/09 13:49:57:621 Testing connection ...
+19/09 13:49:57:622 Created provisioning instance for CRM
+19/09 13:49:57:622 Testing connection are success
+19/09 13:49:57:622 Starting process session
+19/09 13:49:57:724 Total 0 instances are started
+19/09 13:49:57:725 Total 1 instances are added
+19/09 13:49:57:886 java.sql.SQLException: ORA-00942: table or view does not exist
+
+19/09 13:49:57:913 sendNotify: 84922000514 - He thong dang ban. Xin Quy khach vui long nhan tin lai sau!
+19/09 13:49:57:914 orderId = 125410079 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 384 | request =  | response =  | status = 4 | cause = error | description = 
+19/09 13:57:19:098 orderId = 125410080 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 10 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 4 | cause = 50 | description = 
+19/09 13:59:16:736 CRM started
+19/09 13:59:18:020 Testing connection ...
+19/09 13:59:18:022 Created provisioning instance for CRM
+19/09 13:59:18:024 Testing connection are success
+19/09 13:59:18:026 Starting process session
+19/09 13:59:18:163 Total 0 instances are started
+19/09 13:59:18:164 Total 1 instances are added
+19/09 13:59:56:930 sendNotify: 84922000514 - Chuong trinh DOI DIEM chi ap dung cho thue bao dang ky tham gia Cau lac bo CAM tu 03 thang tro len. Chi tiet 789
+19/09 13:59:56:931 orderId = 125410081 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 100 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 4 | cause = invalid-active-date | description = 
+19/09 14:02:09:281 sendNotify: 84922000514 - Tin nhan cua ban sai cu phap. Vui long kiem tra lai.
+19/09 14:02:09:282 orderId = 125410082 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = TRA DIEM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | commandId = 300 | request =  | response =  | status = 4 | cause = invalid-syntax | description = 
+19/09 14:05:49:656 CRM started
+19/09 14:05:49:966 Testing connection ...
+19/09 14:05:49:970 Created provisioning instance for CRM
+19/09 14:05:49:975 Testing connection are success
+19/09 14:05:49:978 Starting process session
+19/09 14:05:50:084 Total 0 instances are started
+19/09 14:05:50:086 Total 1 instances are added
+19/09 14:06:02:177 orderId = 125410083 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = TRA DIEM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+19/09 14:06:02:313 sendNotify: 84922000514 - Quy khach hien dang la khach hang Than Thiet cua Vietnamobile tu , da tich luy duoc  diem va con  diem. Chi tiet, lien he 789.
+19/09 14:06:02:314 orderId = 125410083 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = TRA DIEM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | commandId = 342 | request =  | response =  | status = 0 | cause = success | description = 
+19/09 14:12:56:329 CRM started
+19/09 14:12:56:356 Testing connection ...
+19/09 14:12:56:358 Created provisioning instance for CRM
+19/09 14:12:56:360 Testing connection are success
+19/09 14:12:56:362 Starting process session
+19/09 14:12:56:470 Total 0 instances are started
+19/09 14:12:56:471 Total 1 instances are added
+19/09 14:13:40:872 orderId = 125410085 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = TRA DIEM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+19/09 14:14:55:008 orderId = 125410086 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = TRA DIEM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+19/09 14:14:55:135 sendNotify: 84922000514 - Quy khach hien dang la khach hang Than Thiet cua Vietnamobile tu , da tich luy duoc 78000 diem va con 100000 diem. Chi tiet, lien he 789.
+19/09 14:14:55:136 orderId = 125410086 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = TRA DIEM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | commandId = 342 | request =  | response =  | status = 0 | cause = success | description = 
+19/09 14:16:37:653 Close pool
+19/09 14:16:37:754 Close queue connection pool.
+19/09 14:16:37:760 End of process session
+19/09 14:16:37:762 CRM stopped
+19/09 14:26:27:699 CRM started
+19/09 14:26:27:721 Close pool
+19/09 14:26:27:722 Close pool
+19/09 14:26:27:723 Testing connection ...
+19/09 14:26:27:725 Created provisioning instance for CRM
+19/09 14:26:27:726 Testing connection are success
+19/09 14:26:27:726 Starting process session
+19/09 14:26:27:827 Total 0 instances are started
+19/09 14:26:27:828 Total 1 instances are added
+19/09 14:26:27:982 orderId = 125410089 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = TRA DIEM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+19/09 14:26:28:124 sendNotify: 84922000514 - Quy khach hien dang la khach hang Than Thiet cua Vietnamobile tu , da tich luy duoc 78000 diem va con 100000 diem. Chi tiet, lien he 789.
+19/09 14:26:28:126 orderId = 125410089 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = TRA DIEM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | commandId = 342 | request =  | response =  | status = 0 | cause = success | description = 
+19/09 14:26:44:145 orderId = 125410090 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = TRA DIEM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+19/09 14:26:44:269 sendNotify: 84922000514 - Quy khach hien dang la khach hang Than Thiet cua Vietnamobile tu , da tich luy duoc 78000 diem va con 100000 diem. Chi tiet, lien he 789.
+19/09 14:26:44:271 orderId = 125410090 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = TRA DIEM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | commandId = 342 | request =  | response =  | status = 0 | cause = success | description = 
+19/09 14:30:31:394 CRM started
+19/09 14:30:31:430 Testing connection ...
+19/09 14:30:31:432 Created provisioning instance for CRM
+19/09 14:30:31:434 Testing connection are success
+19/09 14:30:31:435 Starting process session
+19/09 14:30:31:548 Total 0 instances are started
+19/09 14:30:31:548 Total 1 instances are added
+19/09 14:30:53:261 orderId = 125410091 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = TRA DIEM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+19/09 14:32:11:359 sendNotify: 84922000514 - Quy khach hien dang la khach hang Than Thiet cua Vietnamobile tu 19/09/13, da tich luy duoc 78000 diem va con 100000 diem. Chi tiet, lien he 789.
+19/09 14:32:11:359 orderId = 125410091 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = TRA DIEM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | commandId = 342 | request =  | response =  | status = 0 | cause = success | description = 
+19/09 14:32:48:867 CRM started
+19/09 14:32:50:552 Testing connection ...
+19/09 14:32:50:554 Created provisioning instance for CRM
+19/09 14:32:50:555 Testing connection are success
+19/09 14:32:50:556 Starting process session
+19/09 14:32:50:662 Total 0 instances are started
+19/09 14:32:50:663 Total 1 instances are added
+19/09 14:32:58:499 orderId = 125410092 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = TRA DIEM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+19/09 14:32:58:639 sendNotify: 84922000514 - Quy khach hien dang la khach hang Than Thiet cua Vietnamobile tu 19/09/2013, da tich luy duoc 78000 diem va con 100000 diem. Chi tiet, lien he 789.
+19/09 14:32:58:639 orderId = 125410092 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = TRA DIEM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | commandId = 342 | request =  | response =  | status = 0 | cause = success | description = 
+19/09 16:02:01:280 CRM started
+19/09 16:02:03:055 Testing connection ...
+19/09 16:02:03:057 Created provisioning instance for CRM
+19/09 16:02:03:059 Testing connection are success
+19/09 16:02:03:060 Starting process session
+19/09 16:02:03:238 Total 0 instances are started
+19/09 16:02:03:239 Total 1 instances are added
+19/09 16:04:16:750 sendNotify: 84922000514 - So diem con lai cua Quy khach hien khong du de quy doi thanh tien  su dung theo yeu cau cua Quy khach. Chi tiet lien he 789.
+19/09 16:04:16:750 orderId = 125410130 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 4 | cause = not-enought-money | description = 
+19/09 16:06:15:673 com.sun.messaging.jms.JMSException: [C4002]: Read packet failed. - cause: java.net.SocketException: Software caused connection abort: recv failed
+19/09 16:06:15:692 javax.jms.IllegalStateException: [C4062]: Cannot perform operation, connection is closed.
+19/09 16:06:15:831 Total 0 instances are started
+19/09 16:06:15:832 Total 1 instances are added
+19/09 16:06:15:886 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.98:7676]. - cause: java.net.NoRouteToHostException: No route to host: connect
+19/09 16:06:15:888 Consumer was closed, reconnect.
+19/09 16:06:16:032 Total 0 instances are started
+19/09 16:06:16:033 Total 1 instances are added
+19/09 16:06:16:064 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.98:7676]. - cause: java.net.NoRouteToHostException: No route to host: connect
+19/09 16:06:16:066 Consumer was closed, reconnect.
+19/09 16:06:16:233 Total 0 instances are started
+19/09 16:06:16:234 Total 1 instances are added
+19/09 16:06:16:266 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.98:7676]. - cause: java.net.NoRouteToHostException: No route to host: connect
+19/09 16:06:16:267 Consumer was closed, reconnect.
+19/09 16:06:16:435 Total 0 instances are started
+19/09 16:06:16:436 Total 1 instances are added
+19/09 16:06:16:458 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.98:7676]. - cause: java.net.NoRouteToHostException: No route to host: connect
+19/09 16:06:16:459 Consumer was closed, reconnect.
+19/09 16:06:16:636 Total 0 instances are started
+19/09 16:06:16:637 Total 1 instances are added
+19/09 16:06:16:661 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.98:7676]. - cause: java.net.NoRouteToHostException: No route to host: connect
+19/09 16:06:16:662 Consumer was closed, reconnect.
+19/09 16:06:16:837 Total 0 instances are started
+19/09 16:06:16:839 Total 1 instances are added
+19/09 16:06:16:858 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.98:7676]. - cause: java.net.NoRouteToHostException: No route to host: connect
+19/09 16:06:16:859 Consumer was closed, reconnect.
+19/09 16:06:17:040 Total 0 instances are started
+19/09 16:06:17:041 Total 1 instances are added
+19/09 16:06:17:060 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.98:7676]. - cause: java.net.NoRouteToHostException: No route to host: connect
+19/09 16:06:17:060 Consumer was closed, reconnect.
+19/09 16:06:17:241 Total 0 instances are started
+19/09 16:06:17:242 Total 1 instances are added
+19/09 16:06:17:259 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.98:7676]. - cause: java.net.NoRouteToHostException: No route to host: connect
+19/09 16:06:17:260 Consumer was closed, reconnect.
+19/09 16:06:17:443 Total 0 instances are started
+19/09 16:06:17:444 Total 1 instances are added
+19/09 16:06:17:462 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.98:7676]. - cause: java.net.NoRouteToHostException: No route to host: connect
+19/09 16:06:17:463 Consumer was closed, reconnect.
+19/09 16:06:17:644 Total 0 instances are started
+19/09 16:06:17:645 Total 1 instances are added
+19/09 16:06:17:675 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.98:7676]. - cause: java.net.NoRouteToHostException: No route to host: connect
+19/09 16:06:17:676 Consumer was closed, reconnect.
+19/09 16:06:17:849 Total 0 instances are started
+19/09 16:06:17:849 Total 1 instances are added
+19/09 16:06:17:868 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.98:7676]. - cause: java.net.NoRouteToHostException: No route to host: connect
+19/09 16:06:17:869 Consumer was closed, reconnect.
+19/09 16:06:18:050 Total 0 instances are started
+19/09 16:06:18:224 Total 1 instances are added
+19/09 16:06:18:252 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.98:7676]. - cause: java.net.NoRouteToHostException: No route to host: connect
+19/09 16:06:18:252 Consumer was closed, reconnect.
+19/09 16:06:18:424 Total 0 instances are started
+19/09 16:06:18:425 Total 1 instances are added
+19/09 16:06:18:443 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.98:7676]. - cause: java.net.NoRouteToHostException: No route to host: connect
+19/09 16:06:18:444 Consumer was closed, reconnect.
+19/09 16:06:18:628 Total 0 instances are started
+19/09 16:06:18:629 Total 1 instances are added
+19/09 16:06:18:649 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.98:7676]. - cause: java.net.NoRouteToHostException: No route to host: connect
+19/09 16:06:18:650 Consumer was closed, reconnect.
+19/09 16:06:18:833 Total 0 instances are started
+19/09 16:06:18:859 Total 1 instances are added
+19/09 16:06:18:914 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.98:7676]. - cause: java.net.NoRouteToHostException: No route to host: connect
+19/09 16:06:18:915 Consumer was closed, reconnect.
+19/09 16:06:19:060 Total 0 instances are started
+19/09 16:06:19:061 Total 1 instances are added
+19/09 16:06:19:081 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.98:7676]. - cause: java.net.NoRouteToHostException: No route to host: connect
+19/09 16:06:19:082 Consumer was closed, reconnect.
+19/09 16:06:19:262 Total 0 instances are started
+19/09 16:06:19:263 Total 1 instances are added
+19/09 16:06:19:296 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.98:7676]. - cause: java.net.NoRouteToHostException: No route to host: connect
+19/09 16:06:19:297 Consumer was closed, reconnect.
+19/09 16:06:19:466 Total 0 instances are started
+19/09 16:06:19:467 Total 1 instances are added
+19/09 16:06:19:484 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.98:7676]. - cause: java.net.NoRouteToHostException: No route to host: connect
+19/09 16:06:19:485 Consumer was closed, reconnect.
+19/09 16:06:19:668 Total 0 instances are started
+19/09 16:06:19:669 Total 1 instances are added
+19/09 16:06:19:703 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.98:7676]. - cause: java.net.NoRouteToHostException: No route to host: connect
+19/09 16:06:19:704 Consumer was closed, reconnect.
+19/09 16:06:19:870 Total 0 instances are started
+19/09 16:06:19:871 Total 1 instances are added
+19/09 16:06:19:906 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.98:7676]. - cause: java.net.NoRouteToHostException: No route to host: connect
+19/09 16:06:19:907 Consumer was closed, reconnect.
+19/09 16:06:20:072 Total 0 instances are started
+19/09 16:06:20:115 Total 1 instances are added
+19/09 16:06:20:132 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.98:7676]. - cause: java.net.NoRouteToHostException: No route to host: connect
+19/09 16:06:20:133 Consumer was closed, reconnect.
+19/09 16:06:20:316 Total 0 instances are started
+19/09 16:06:20:316 Total 1 instances are added
+19/09 16:06:20:346 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.98:7676]. - cause: java.net.NoRouteToHostException: No route to host: connect
+19/09 16:06:20:347 Consumer was closed, reconnect.
+19/09 16:06:20:517 Total 0 instances are started
+19/09 16:06:20:518 Total 1 instances are added
+19/09 16:06:20:536 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.98:7676]. - cause: java.net.NoRouteToHostException: No route to host: connect
+19/09 16:06:20:537 Consumer was closed, reconnect.
+19/09 16:06:20:718 Total 0 instances are started
+19/09 16:06:20:719 Total 1 instances are added
+19/09 16:06:20:737 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.98:7676]. - cause: java.net.NoRouteToHostException: No route to host: connect
+19/09 16:06:20:738 Consumer was closed, reconnect.
+19/09 16:06:20:921 Total 0 instances are started
+19/09 16:06:20:922 Total 1 instances are added
+19/09 16:06:20:940 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.98:7676]. - cause: java.net.NoRouteToHostException: No route to host: connect
+19/09 16:06:20:941 Consumer was closed, reconnect.
+19/09 16:06:21:123 Total 0 instances are started
+19/09 16:06:21:124 Total 1 instances are added
+19/09 16:06:21:142 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.98:7676]. - cause: java.net.NoRouteToHostException: No route to host: connect
+19/09 16:06:21:142 Consumer was closed, reconnect.
+19/09 16:06:21:325 Total 0 instances are started
+19/09 16:06:21:326 Total 1 instances are added
+19/09 16:06:21:364 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.98:7676]. - cause: java.net.NoRouteToHostException: No route to host: connect
+19/09 16:06:21:365 Consumer was closed, reconnect.
+19/09 16:06:21:527 Total 0 instances are started
+19/09 16:06:21:527 Total 1 instances are added
+19/09 16:06:21:550 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.98:7676]. - cause: java.net.NoRouteToHostException: No route to host: connect
+19/09 16:06:21:551 Consumer was closed, reconnect.
+19/09 16:06:21:728 Total 0 instances are started
+19/09 16:06:21:729 Total 1 instances are added
+19/09 16:06:21:750 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.98:7676]. - cause: java.net.NoRouteToHostException: No route to host: connect
+19/09 16:06:21:751 Consumer was closed, reconnect.
+19/09 16:06:21:931 Total 0 instances are started
+19/09 16:06:21:932 Total 1 instances are added
+19/09 16:06:21:949 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.98:7676]. - cause: java.net.NoRouteToHostException: No route to host: connect
+19/09 16:06:21:950 Consumer was closed, reconnect.
+19/09 16:06:22:139 Total 0 instances are started
+19/09 16:06:22:182 Total 1 instances are added
+19/09 16:06:43:179 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.98:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+19/09 16:06:43:179 Consumer was closed, reconnect.
+19/09 16:06:43:284 Total 0 instances are started
+19/09 16:06:43:285 Total 1 instances are added
+19/09 16:07:03:782 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.98:7676]. - cause: java.net.SocketException: Software caused connection abort: connect
+19/09 16:07:03:783 Consumer was closed, reconnect.
+19/09 16:07:03:886 Total 0 instances are started
+19/09 16:07:03:886 Total 1 instances are added
+19/09 16:07:03:905 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.98:7676]. - cause: java.net.SocketException: Network is unreachable: connect
+19/09 16:07:03:905 Consumer was closed, reconnect.
+19/09 16:07:04:087 Total 0 instances are started
+19/09 16:07:04:088 Total 1 instances are added
+19/09 16:07:04:106 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.98:7676]. - cause: java.net.SocketException: Network is unreachable: connect
+19/09 16:07:04:107 Consumer was closed, reconnect.
+19/09 16:07:04:288 Total 0 instances are started
+19/09 16:07:04:288 Total 1 instances are added
+19/09 16:07:04:325 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.98:7676]. - cause: java.net.SocketException: Network is unreachable: connect
+19/09 16:07:04:325 Consumer was closed, reconnect.
+19/09 16:07:04:489 Total 0 instances are started
+19/09 16:07:04:490 Total 1 instances are added
+19/09 16:07:04:508 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.98:7676]. - cause: java.net.SocketException: Network is unreachable: connect
+19/09 16:07:04:508 Consumer was closed, reconnect.
+19/09 16:07:04:690 Total 0 instances are started
+19/09 16:07:04:691 Total 1 instances are added
+19/09 16:07:04:709 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.98:7676]. - cause: java.net.SocketException: Network is unreachable: connect
+19/09 16:07:04:710 Consumer was closed, reconnect.
+19/09 16:07:04:891 Total 0 instances are started
+19/09 16:07:04:893 Total 1 instances are added
+19/09 16:07:04:927 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.98:7676]. - cause: java.net.SocketException: Network is unreachable: connect
+19/09 16:07:04:928 Consumer was closed, reconnect.
+19/09 16:07:05:094 Total 0 instances are started
+19/09 16:07:05:097 Total 1 instances are added
+19/09 16:07:05:122 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.98:7676]. - cause: java.net.SocketException: Network is unreachable: connect
+19/09 16:07:05:123 Consumer was closed, reconnect.
+19/09 16:07:05:298 Total 0 instances are started
+19/09 16:07:05:308 Total 1 instances are added
+19/09 16:07:05:344 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.98:7676]. - cause: java.net.SocketException: Network is unreachable: connect
+19/09 16:07:05:345 Consumer was closed, reconnect.
+19/09 16:07:05:514 Total 0 instances are started
+19/09 16:07:05:517 Total 1 instances are added
+19/09 16:07:05:543 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.98:7676]. - cause: java.net.SocketException: Network is unreachable: connect
+19/09 16:07:05:543 Consumer was closed, reconnect.
+19/09 16:07:05:718 Total 0 instances are started
+19/09 16:07:05:719 Total 1 instances are added
+19/09 16:07:05:763 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.98:7676]. - cause: java.net.SocketException: Network is unreachable: connect
+19/09 16:07:05:764 Consumer was closed, reconnect.
+19/09 16:07:05:919 Total 0 instances are started
+19/09 16:07:05:920 Total 1 instances are added
+19/09 16:07:05:938 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.98:7676]. - cause: java.net.SocketException: Network is unreachable: connect
+19/09 16:07:05:939 Consumer was closed, reconnect.
+19/09 16:07:06:120 Total 0 instances are started
+19/09 16:07:06:662 Total 1 instances are added
+19/09 16:07:06:683 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.98:7676]. - cause: java.net.SocketException: Network is unreachable: connect
+19/09 16:07:06:684 Consumer was closed, reconnect.
+19/09 16:07:06:862 Total 0 instances are started
+19/09 16:07:06:863 Total 1 instances are added
+19/09 16:07:06:898 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.98:7676]. - cause: java.net.SocketException: Network is unreachable: connect
+19/09 16:07:06:898 Consumer was closed, reconnect.
+19/09 16:07:07:063 Total 0 instances are started
+19/09 16:07:07:063 Total 1 instances are added
+19/09 16:07:07:105 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.98:7676]. - cause: java.net.SocketException: Network is unreachable: connect
+19/09 16:07:07:105 Consumer was closed, reconnect.
+19/09 16:07:07:264 Total 0 instances are started
+19/09 16:07:07:265 Total 1 instances are added
+19/09 16:07:07:293 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.98:7676]. - cause: java.net.SocketException: Network is unreachable: connect
+19/09 16:07:07:294 Consumer was closed, reconnect.
+19/09 16:07:07:466 Total 0 instances are started
+19/09 16:07:07:467 Total 1 instances are added
+19/09 16:07:07:509 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.98:7676]. - cause: java.net.SocketException: Network is unreachable: connect
+19/09 16:07:07:509 Consumer was closed, reconnect.
+19/09 16:07:07:667 Total 0 instances are started
+19/09 16:07:07:668 Total 1 instances are added
+19/09 16:07:07:686 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.98:7676]. - cause: java.net.SocketException: Network is unreachable: connect
+19/09 16:07:07:687 Consumer was closed, reconnect.
+19/09 16:07:07:868 Total 0 instances are started
+19/09 16:07:07:869 Total 1 instances are added
+19/09 16:07:07:898 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.98:7676]. - cause: java.net.SocketException: Network is unreachable: connect
+19/09 16:07:07:899 Consumer was closed, reconnect.
+19/09 16:07:08:069 Total 0 instances are started
+19/09 16:07:08:189 Total 1 instances are added
+19/09 16:07:08:243 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.98:7676]. - cause: java.net.SocketException: Network is unreachable: connect
+19/09 16:07:08:244 Consumer was closed, reconnect.
+19/09 16:07:08:389 Total 0 instances are started
+19/09 16:07:08:390 Total 1 instances are added
+19/09 16:07:08:419 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.98:7676]. - cause: java.net.SocketException: Network is unreachable: connect
+19/09 16:07:08:420 Consumer was closed, reconnect.
+19/09 16:07:08:591 Total 0 instances are started
+19/09 16:07:08:591 Total 1 instances are added
+19/09 16:07:08:623 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.98:7676]. - cause: java.net.SocketException: Network is unreachable: connect
+19/09 16:07:08:624 Consumer was closed, reconnect.
+19/09 16:07:08:792 Total 0 instances are started
+19/09 16:07:08:793 Total 1 instances are added
+19/09 16:07:08:811 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.98:7676]. - cause: java.net.SocketException: Network is unreachable: connect
+19/09 16:07:08:812 Consumer was closed, reconnect.
+19/09 16:07:08:993 Total 0 instances are started
+19/09 16:07:08:993 Total 1 instances are added
+19/09 16:07:09:013 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.98:7676]. - cause: java.net.SocketException: Network is unreachable: connect
+19/09 16:07:09:013 Consumer was closed, reconnect.
+19/09 16:07:09:194 Total 0 instances are started
+19/09 16:07:09:195 Total 1 instances are added
+19/09 16:07:09:215 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.98:7676]. - cause: java.net.SocketException: Network is unreachable: connect
+19/09 16:07:09:216 Consumer was closed, reconnect.
+19/09 16:07:09:395 Total 0 instances are started
+19/09 16:07:09:395 Total 1 instances are added
+19/09 16:07:09:414 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.98:7676]. - cause: java.net.SocketException: Network is unreachable: connect
+19/09 16:07:09:415 Consumer was closed, reconnect.
+19/09 16:07:09:596 Total 0 instances are started
+19/09 16:07:09:597 Total 1 instances are added
+19/09 16:07:09:625 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.98:7676]. - cause: java.net.SocketException: Network is unreachable: connect
+19/09 16:07:09:626 Consumer was closed, reconnect.
+19/09 16:07:09:798 Total 0 instances are started
+19/09 16:07:09:799 Total 1 instances are added
+19/09 16:07:09:820 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.98:7676]. - cause: java.net.SocketException: Network is unreachable: connect
+19/09 16:07:09:821 Consumer was closed, reconnect.
+19/09 16:07:09:999 Total 0 instances are started
+19/09 16:07:10:000 Total 1 instances are added
+19/09 16:07:10:019 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.98:7676]. - cause: java.net.SocketException: Network is unreachable: connect
+19/09 16:07:10:020 Consumer was closed, reconnect.
+19/09 16:07:10:201 Total 0 instances are started
+19/09 16:07:10:202 Total 1 instances are added
+19/09 16:07:10:223 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.98:7676]. - cause: java.net.SocketException: Network is unreachable: connect
+19/09 16:07:10:223 Consumer was closed, reconnect.
+19/09 16:07:10:402 Total 0 instances are started
+19/09 16:07:10:403 Total 1 instances are added
+19/09 16:07:10:421 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.98:7676]. - cause: java.net.SocketException: Network is unreachable: connect
+19/09 16:07:10:421 Consumer was closed, reconnect.
+19/09 16:07:10:603 Total 0 instances are started
+19/09 16:07:10:604 Total 1 instances are added
+19/09 16:07:10:631 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.98:7676]. - cause: java.net.SocketException: Network is unreachable: connect
+19/09 16:07:10:632 Consumer was closed, reconnect.
+19/09 16:07:10:806 Total 0 instances are started
+19/09 16:07:10:807 Total 1 instances are added
+19/09 16:07:10:827 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.98:7676]. - cause: java.net.SocketException: Network is unreachable: connect
+19/09 16:07:10:828 Consumer was closed, reconnect.
+19/09 16:07:11:008 Total 0 instances are started
+19/09 16:07:11:009 Total 1 instances are added
+19/09 16:07:11:040 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.98:7676]. - cause: java.net.SocketException: Network is unreachable: connect
+19/09 16:07:11:040 Consumer was closed, reconnect.
+19/09 16:07:11:210 Total 0 instances are started
+19/09 16:07:11:211 Total 1 instances are added
+19/09 16:07:11:231 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.98:7676]. - cause: java.net.SocketException: Network is unreachable: connect
+19/09 16:07:11:231 Consumer was closed, reconnect.
+19/09 16:07:11:411 Total 0 instances are started
+19/09 16:07:11:412 Total 1 instances are added
+19/09 16:07:11:429 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.98:7676]. - cause: java.net.SocketException: Network is unreachable: connect
+19/09 16:07:11:430 Consumer was closed, reconnect.
+19/09 16:07:11:614 Total 0 instances are started
+19/09 16:07:11:615 Total 1 instances are added
+19/09 16:07:11:676 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.98:7676]. - cause: java.net.SocketException: Network is unreachable: connect
+19/09 16:07:11:677 Consumer was closed, reconnect.
+19/09 16:07:11:815 Total 0 instances are started
+19/09 16:07:11:816 Total 1 instances are added
+19/09 16:07:11:845 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.98:7676]. - cause: java.net.SocketException: Network is unreachable: connect
+19/09 16:07:11:845 Consumer was closed, reconnect.
+19/09 16:07:12:017 Total 0 instances are started
+19/09 16:07:12:144 Total 1 instances are added
+19/09 16:07:12:172 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.98:7676]. - cause: java.net.SocketException: Network is unreachable: connect
+19/09 16:07:12:173 Consumer was closed, reconnect.
+19/09 16:07:12:344 Total 0 instances are started
+19/09 16:07:12:345 Total 1 instances are added
+19/09 16:07:12:368 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.98:7676]. - cause: java.net.SocketException: Network is unreachable: connect
+19/09 16:07:12:369 Consumer was closed, reconnect.
+19/09 16:07:12:546 Total 0 instances are started
+19/09 16:07:12:547 Total 1 instances are added
+19/09 16:07:33:562 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.98:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+19/09 16:07:33:562 Consumer was closed, reconnect.
+19/09 16:07:33:755 Total 0 instances are started
+19/09 16:07:33:756 Total 1 instances are added
+19/09 16:07:54:770 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.98:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+19/09 16:07:54:771 Consumer was closed, reconnect.
+19/09 16:07:54:959 Total 0 instances are started
+19/09 16:07:54:960 Total 1 instances are added
+19/09 16:08:15:973 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.98:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+19/09 16:08:15:974 Consumer was closed, reconnect.
+19/09 16:08:16:116 Total 0 instances are started
+19/09 16:08:16:117 Total 1 instances are added
+19/09 16:08:37:134 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.98:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+19/09 16:08:37:135 Consumer was closed, reconnect.
+19/09 16:08:37:320 Total 0 instances are started
+19/09 16:08:37:320 Total 1 instances are added
+19/09 16:08:58:340 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.98:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+19/09 16:08:58:341 Consumer was closed, reconnect.
+19/09 16:08:58:540 Total 0 instances are started
+19/09 16:08:58:541 Total 1 instances are added
+19/09 16:18:50:836 CRM started
+19/09 16:18:50:914 Testing connection ...
+19/09 16:18:50:914 Created provisioning instance for CRM
+19/09 16:18:50:914 Testing connection are success
+19/09 16:18:50:914 Starting process session
+19/09 16:18:51:024 Total 0 instances are started
+19/09 16:18:51:024 Total 1 instances are added
+19/09 16:19:17:934 orderId = 125410131 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+19/09 16:19:24:392 Close pool
+19/09 16:19:24:501 Close queue connection pool.
+19/09 16:19:24:501 End of process session
+19/09 16:19:24:501 CRM stopped
+19/09 16:20:22:724 CRM started
+19/09 16:20:22:749 Close pool
+19/09 16:20:22:750 Close pool
+19/09 16:20:22:750 Testing connection ...
+19/09 16:20:22:751 Created provisioning instance for CRM
+19/09 16:20:22:751 Testing connection are success
+19/09 16:20:22:752 Starting process session
+19/09 16:20:22:853 Total 0 instances are started
+19/09 16:20:22:854 Total 1 instances are added
+19/09 16:20:23:080 java.sql.SQLException: ORA-00942: table or view does not exist
+
+19/09 16:20:23:094 sendNotify: 84922000514 - He thong dang ban. Xin Quy khach vui long nhan tin lai sau!
+19/09 16:20:23:094 orderId = 125410131 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 384 | request =  | response =  | status = 4 | cause = error | description = 
+19/09 16:25:14:264 orderId = 125410132 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+19/09 16:25:27:888 Close pool
+19/09 16:25:27:989 Close queue connection pool.
+19/09 16:25:27:995 End of process session
+19/09 16:25:27:995 CRM stopped
+19/09 16:26:01:883 CRM started
+19/09 16:26:01:908 Close pool
+19/09 16:26:01:909 Close pool
+19/09 16:26:01:909 Testing connection ...
+19/09 16:26:01:910 Created provisioning instance for CRM
+19/09 16:26:01:910 Testing connection are success
+19/09 16:26:01:911 Starting process session
+19/09 16:26:02:011 Total 0 instances are started
+19/09 16:26:02:012 Total 1 instances are added
+19/09 16:26:02:177 java.sql.SQLException: ORA-00942: table or view does not exist
+
+19/09 16:26:02:200 sendNotify: 84922000514 - He thong dang ban. Xin Quy khach vui long nhan tin lai sau!
+19/09 16:26:02:201 orderId = 125410132 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 384 | request =  | response =  | status = 4 | cause = error | description = 
+19/09 16:42:43:052 CRM started
+19/09 16:42:43:095 Testing connection ...
+19/09 16:42:43:097 Created provisioning instance for CRM
+19/09 16:42:43:099 Testing connection are success
+19/09 16:42:43:099 Starting process session
+19/09 16:42:43:237 Total 0 instances are started
+19/09 16:42:43:238 Total 1 instances are added
+19/09 16:43:00:290 orderId = 125410133 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 4 | cause = error | description = null
+19/09 16:43:00:304 ORA-00942: table or view does not exist
+
+19/09 16:43:00:442 Total 0 instances are started
+19/09 16:43:00:443 Total 1 instances are added
+19/09 16:43:15:615 orderId = 125410134 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+19/09 16:43:15:842 sendNotify: 84922000514 - Quy khach da doi thanh cong 1000 diem thanh tien su dung dich vu. So tien tuong ung la 25000 se duoc cong  vao tai khoan TKKM2, su dung goi va nhan tin lien mang, data.
+19/09 16:43:15:843 orderId = 125410134 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 384 | request =  | response =  | status = 0 | cause = success | description = 

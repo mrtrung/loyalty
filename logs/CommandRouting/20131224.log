@@ -1,0 +1,25 @@
+24/12 16:08:05:178 Command Routing started
+24/12 16:08:05:243 Starting process session
+24/12 16:08:05:462 Total 0 instances are started
+24/12 16:08:05:466 Init queue connection pool 1387876085466
+24/12 16:08:05:467 Total 1 instances are added
+24/12 16:17:51:203 javax.naming.NamingException: Lookup failed for 'jms/VAS' in SerialContext[myEnv={org.omg.CORBA.ORBInitialPort=3700, java.naming.factory.initial=com.sun.enterprise.naming.SerialInitContextFactory, com.sun.corba.ee.transport.ORBTCPConnectTimeouts=5000, org.omg.CORBA.ORBInitialHost=10.32.62.52, java.naming.factory.state=com.sun.corba.ee.impl.presentation.rmi.JNDIStateFactoryImpl, java.naming.factory.url.pkgs=com.sun.enterprise.naming, com.sun.corba.ee.transport.ORBWaitForResponseTimeout=5000}
+24/12 16:17:51:309 Total 0 instances are started
+24/12 16:17:51:319 Total 1 instances are added
+24/12 16:27:24:721 queue-not-found
+Context: vas/CommandRoute : vas/CommandRoute
+24/12 16:27:24:832 Total 0 instances are started
+24/12 16:27:24:842 Total 1 instances are added
+24/12 16:35:38:725 Command Routing started
+24/12 16:35:38:782 Starting process session
+24/12 16:35:38:917 Total 0 instances are started
+24/12 16:35:38:920 Init queue connection pool 1387877738920
+24/12 16:35:38:923 Total 1 instances are added
+24/12 16:39:37:023 Command Routing started
+24/12 16:39:37:049 Starting process session
+24/12 16:39:37:177 Total 0 instances are started
+24/12 16:39:37:181 Init queue connection pool 1387877977181
+24/12 16:39:37:187 Total 1 instances are added
+24/12 16:49:14:894 javax.naming.NamingException: Lookup failed for 'jms/VAS' in SerialContext[myEnv={org.omg.CORBA.ORBInitialPort=3700, java.naming.factory.initial=com.sun.enterprise.naming.SerialInitContextFactory, com.sun.corba.ee.transport.ORBTCPConnectTimeouts=5000, org.omg.CORBA.ORBInitialHost=10.32.62.52, java.naming.factory.state=com.sun.corba.ee.impl.presentation.rmi.JNDIStateFactoryImpl, java.naming.factory.url.pkgs=com.sun.enterprise.naming, com.sun.corba.ee.transport.ORBWaitForResponseTimeout=5000}
+24/12 16:49:15:007 Total 0 instances are started
+24/12 16:49:15:016 Total 1 instances are added

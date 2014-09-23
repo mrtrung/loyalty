@@ -1,0 +1,35 @@
+12/12 14:37:05:948 Command Routing started
+12/12 14:37:05:977 Starting process session
+12/12 14:37:06:157 Total 0 instances are started
+12/12 14:37:06:157 Init queue connection pool 1386833826157
+12/12 14:37:06:160 Total 1 instances are added
+12/12 14:42:57:544 Close queue connection pool.
+12/12 14:42:57:549 End of process session
+12/12 14:42:57:556 Command Routing stopped
+12/12 14:42:59:467 Command Routing started
+12/12 14:42:59:493 Starting process session
+12/12 14:42:59:612 Total 0 instances are started
+12/12 14:42:59:618 Total 1 instances are added
+12/12 14:50:40:864 Command Routing started
+12/12 14:50:40:894 Starting process session
+12/12 14:50:41:811 Total 0 instances are started
+12/12 14:50:41:815 Init queue connection pool 1386834641815
+12/12 14:50:41:816 Total 1 instances are added
+12/12 14:58:56:507 Close queue connection pool.
+12/12 14:58:56:513 End of process session
+12/12 14:58:56:517 Command Routing stopped
+12/12 15:00:02:149 javax.naming.NamingException: Lookup failed for 'jms/VAS' in SerialContext[myEnv={org.omg.CORBA.ORBInitialPort=3700, java.naming.factory.initial=com.sun.enterprise.naming.SerialInitContextFactory, com.sun.corba.ee.transport.ORBTCPConnectTimeouts=5000, org.omg.CORBA.ORBInitialHost=10.32.62.52, java.naming.factory.state=com.sun.corba.ee.impl.presentation.rmi.JNDIStateFactoryImpl, java.naming.factory.url.pkgs=com.sun.enterprise.naming, com.sun.corba.ee.transport.ORBWaitForResponseTimeout=5000}
+12/12 15:03:29:140 Command Routing started
+12/12 15:03:29:167 Starting process session
+12/12 15:03:30:062 Total 0 instances are started
+12/12 15:03:30:065 Init queue connection pool 1386835410065
+12/12 15:03:30:065 Total 1 instances are added
+12/12 15:07:08:592 Close queue connection pool.
+12/12 15:07:08:598 End of process session
+12/12 15:07:08:602 Command Routing stopped
+12/12 15:07:10:525 Command Routing started
+12/12 15:07:10:556 Starting process session
+12/12 15:07:10:681 Total 0 instances are started
+12/12 15:07:10:685 Total 1 instances are added
+12/12 15:12:53:928 Init queue connection pool 1386835973928
+12/12 15:12:54:182 javax.naming.NamingException: Lookup failed for 'jms/VAS' in SerialContext[myEnv={org.omg.CORBA.ORBInitialPort=3700, java.naming.factory.initial=com.sun.enterprise.naming.SerialInitContextFactory, com.sun.corba.ee.transport.ORBTCPConnectTimeouts=5000, org.omg.CORBA.ORBInitialHost=10.32.62.52, java.naming.factory.state=com.sun.corba.ee.impl.presentation.rmi.JNDIStateFactoryImpl, java.naming.factory.url.pkgs=com.sun.enterprise.naming, com.sun.corba.ee.transport.ORBWaitForResponseTimeout=5000}

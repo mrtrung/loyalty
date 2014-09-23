@@ -1,0 +1,1096 @@
+15/05 09:41:25:473 Simulator0 started
+15/05 09:41:25:488 Starting process session
+15/05 09:41:46:514 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:41:46:515 End of process session
+15/05 09:41:47:244 Thread destroyed
+15/05 09:44:08:780 Simulator0 started
+15/05 09:44:08:794 Starting process session
+15/05 09:44:08:929 Begin to send message.
+15/05 09:44:09:025 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = cam | isdn = 84922000512 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 09:44:09:029 Begin to send message.
+15/05 09:44:09:129 Begin to send message.
+15/05 09:44:09:239 Begin to send message.
+15/05 09:44:09:335 Begin to send message.
+15/05 09:44:09:840 End of process session
+15/05 09:44:42:845 Simulator0 stopped
+15/05 09:44:44:793 Simulator0 started
+15/05 09:44:44:806 Starting process session
+15/05 09:44:44:917 Begin to send message.
+15/05 09:44:44:921 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = tra diem | isdn = 84922000512 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 09:44:45:017 Begin to send message.
+15/05 09:44:45:117 Begin to send message.
+15/05 09:44:45:217 Begin to send message.
+15/05 09:44:45:317 Begin to send message.
+15/05 09:44:45:828 End of process session
+15/05 09:46:31:838 Simulator0 stopped
+15/05 09:46:33:823 Simulator0 started
+15/05 09:46:33:838 Starting process session
+15/05 09:46:33:945 Begin to send message.
+15/05 09:46:33:948 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = tra diem | isdn = 84922000512 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 09:46:34:045 Begin to send message.
+15/05 09:46:34:145 Begin to send message.
+15/05 09:46:34:245 Begin to send message.
+15/05 09:46:34:345 Begin to send message.
+15/05 09:46:34:846 End of process session
+15/05 09:47:23:856 Simulator0 stopped
+15/05 09:47:25:842 Simulator0 started
+15/05 09:47:25:854 Starting process session
+15/05 09:47:25:969 Begin to send message.
+15/05 09:47:25:973 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000512 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 09:47:26:069 Begin to send message.
+15/05 09:47:26:169 Begin to send message.
+15/05 09:47:26:269 Begin to send message.
+15/05 09:47:26:369 Begin to send message.
+15/05 09:47:26:870 End of process session
+15/05 09:48:52:881 Simulator0 stopped
+15/05 09:48:54:878 Simulator0 started
+15/05 09:48:54:896 Starting process session
+15/05 09:48:55:003 Begin to send message.
+15/05 09:48:55:006 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000512 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 09:48:55:103 Begin to send message.
+15/05 09:48:55:203 Begin to send message.
+15/05 09:48:55:303 Begin to send message.
+15/05 09:48:55:403 Begin to send message.
+15/05 09:48:55:910 End of process session
+15/05 09:49:45:917 Simulator0 stopped
+15/05 09:49:47:895 Simulator0 started
+15/05 09:49:47:909 Starting process session
+15/05 09:49:48:017 Begin to send message.
+15/05 09:49:48:021 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000512 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 09:49:48:117 Begin to send message.
+15/05 09:49:48:217 Begin to send message.
+15/05 09:49:48:318 Begin to send message.
+15/05 09:49:48:417 Begin to send message.
+15/05 09:49:48:920 End of process session
+15/05 09:52:03:934 Simulator0 stopped
+15/05 09:52:05:926 Simulator0 started
+15/05 09:52:05:942 Starting process session
+15/05 09:52:06:049 Begin to send message.
+15/05 09:52:06:051 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000512 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 09:52:06:151 Begin to send message.
+15/05 09:52:06:250 Begin to send message.
+15/05 09:52:06:350 Begin to send message.
+15/05 09:52:06:450 Begin to send message.
+15/05 09:52:06:952 End of process session
+15/05 09:52:52:955 Simulator0 stopped
+15/05 09:52:54:947 Simulator0 started
+15/05 09:52:54:960 Starting process session
+15/05 09:52:55:071 Begin to send message.
+15/05 09:52:55:076 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = huy cam | isdn = 84922000512 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 09:52:55:168 Begin to send message.
+15/05 09:52:55:268 Begin to send message.
+15/05 09:52:55:368 Begin to send message.
+15/05 09:52:55:468 Begin to send message.
+15/05 09:52:55:973 End of process session
+15/05 09:54:18:979 Simulator0 stopped
+15/05 09:54:20:984 Simulator0 started
+15/05 09:54:20:997 Starting process session
+15/05 09:54:21:104 Begin to send message.
+15/05 09:54:21:108 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = cam | isdn = 84922000512 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 09:54:21:204 Begin to send message.
+15/05 09:54:21:304 Begin to send message.
+15/05 09:54:21:404 Begin to send message.
+15/05 09:54:21:504 Begin to send message.
+15/05 09:54:22:011 End of process session
+15/05 10:13:49:694 Simulator0 started
+15/05 10:13:49:707 Starting process session
+15/05 10:13:49:814 Begin to send message.
+15/05 10:13:49:832 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = cam | isdn = 84922000512 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:13:49:914 Begin to send message.
+15/05 10:13:50:014 Begin to send message.
+15/05 10:13:50:114 Begin to send message.
+15/05 10:13:50:214 Begin to send message.
+15/05 10:13:50:718 End of process session
+15/05 10:14:24:721 Simulator0 stopped
+15/05 10:14:26:708 Simulator0 started
+15/05 10:14:26:721 Starting process session
+15/05 10:14:26:833 Begin to send message.
+15/05 10:14:26:839 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = tra diem | isdn = 84922000512 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:14:26:933 Begin to send message.
+15/05 10:14:27:033 Begin to send message.
+15/05 10:14:27:133 Begin to send message.
+15/05 10:14:27:233 Begin to send message.
+15/05 10:14:27:736 End of process session
+15/05 10:14:49:739 Simulator0 stopped
+15/05 10:14:51:720 Simulator0 started
+15/05 10:14:51:733 Starting process session
+15/05 10:14:51:843 Begin to send message.
+15/05 10:14:51:846 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000512 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:14:51:943 Begin to send message.
+15/05 10:14:52:043 Begin to send message.
+15/05 10:14:52:145 Begin to send message.
+15/05 10:14:52:245 Begin to send message.
+15/05 10:14:52:746 End of process session
+15/05 10:31:32:860 Starting process session
+15/05 10:31:32:969 Begin to send message.
+15/05 10:31:32:971 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000512 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:31:33:069 Begin to send message.
+15/05 10:31:33:169 Begin to send message.
+15/05 10:31:33:272 Begin to send message.
+15/05 10:31:33:369 Begin to send message.
+15/05 10:31:33:872 End of process session
+15/05 10:34:59:911 Simulator0 stopped
+15/05 10:35:01:903 Simulator0 started
+15/05 10:35:01:917 Starting process session
+15/05 10:35:02:044 Begin to send message.
+15/05 10:35:02:047 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000512 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:050 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000513 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:052 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000514 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:054 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000515 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:056 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000516 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:057 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000517 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:059 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000518 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:061 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000519 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:062 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000520 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:063 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000521 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:066 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000522 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:067 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000523 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:068 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000524 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:069 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000525 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:069 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000526 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:070 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000527 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:071 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000528 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:129 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000529 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:131 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000530 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:132 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000531 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:133 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000532 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:134 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000533 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:136 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000534 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:137 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000535 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:138 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000536 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:139 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000537 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:140 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000538 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:140 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000539 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:141 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000540 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:143 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000541 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:143 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000542 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:144 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000543 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:146 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000544 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:146 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000545 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:147 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000546 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:148 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000547 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:148 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000548 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:149 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000549 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:150 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000550 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:150 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000551 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:151 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000552 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:152 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000553 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:153 Begin to send message.
+15/05 10:35:02:154 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000554 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:155 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000556 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:156 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000557 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:156 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000558 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:157 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000559 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:158 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000560 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:158 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000561 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:159 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000562 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:159 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000563 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:160 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000564 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:160 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000565 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:161 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000566 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:161 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000567 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:162 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000568 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:162 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000569 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:163 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000570 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:164 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000571 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:166 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000572 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:167 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000573 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:168 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000574 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:170 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000575 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:171 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000576 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:172 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000577 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:173 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000578 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:174 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000579 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:174 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000580 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:175 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000581 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:177 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000582 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:178 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000583 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:180 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000584 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:182 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000585 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:183 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000586 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:185 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000587 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:185 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000588 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:186 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000589 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:186 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000590 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:187 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000591 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:187 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000592 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:188 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000593 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:188 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000594 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:191 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000595 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:192 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000596 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:193 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000597 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:194 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000598 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:194 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000599 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:196 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000600 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:197 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000601 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:198 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000602 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:199 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000603 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:200 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000604 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:201 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000605 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:211 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000606 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:212 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000607 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:215 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000608 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:215 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000609 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:216 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000610 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:217 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000611 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:217 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000612 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:218 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000613 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:219 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000614 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:219 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000615 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:219 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000616 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:220 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000617 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:220 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000618 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:221 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000619 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:222 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000620 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:223 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000621 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:223 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000622 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:224 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000623 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:225 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000624 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:226 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000625 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:227 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000626 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:228 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000627 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:229 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000628 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:230 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000629 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:231 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000630 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:232 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000631 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:235 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000632 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:235 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000633 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:237 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000634 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:238 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000635 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:239 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000636 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:240 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000637 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:240 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000638 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:241 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000639 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:242 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000640 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:247 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000641 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:248 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000642 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:249 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000643 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:249 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000644 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:250 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000645 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:251 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000646 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:252 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000647 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:253 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000648 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:254 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000649 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:255 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000650 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:256 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000651 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:265 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000652 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:271 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000654 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:272 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000655 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:273 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000656 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:274 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000657 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:275 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000658 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:275 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000659 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:276 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000660 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:277 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000661 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:278 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000662 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:278 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000663 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:279 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000664 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:280 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000665 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:281 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000666 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:282 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000667 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:283 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000668 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:261 Begin to send message.
+15/05 10:35:02:285 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000669 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:286 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000670 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:286 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000671 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:287 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000672 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:289 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000673 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:290 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000674 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:290 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000675 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:291 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000676 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:292 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000677 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:293 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000678 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:296 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000679 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:297 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000680 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:299 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000681 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:300 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000682 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:301 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000683 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:301 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000684 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:302 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000685 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:304 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000686 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:307 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000687 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:309 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000688 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:310 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000689 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:310 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000690 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:311 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000691 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:312 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000692 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:313 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000693 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:314 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000694 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:314 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000695 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:315 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000696 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:317 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000697 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:318 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000698 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:319 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000699 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:323 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000700 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:324 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000701 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:325 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000702 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:326 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000703 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:326 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000704 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:327 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000705 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:328 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000706 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:334 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000707 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:335 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000708 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:336 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000709 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:336 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000710 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:337 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000711 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:338 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000712 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:339 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000713 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:339 message count: 200
+15/05 10:35:02:359 Begin to send message.
+15/05 10:35:02:440 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000714 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:441 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000716 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:442 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000717 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:442 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000718 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:443 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000719 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:444 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000720 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:444 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000721 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:445 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000722 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:446 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000723 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:447 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000724 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:447 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000725 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:448 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000726 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:449 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000727 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:450 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000728 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:450 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000729 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:451 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000730 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:452 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000731 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:452 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000732 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:453 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000733 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:454 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000734 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:454 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000735 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:455 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000736 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:456 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000737 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:456 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000738 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:457 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000739 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:458 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000740 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:458 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000741 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:459 Begin to send message.
+15/05 10:35:02:459 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000743 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:460 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000744 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:460 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000745 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:461 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000746 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:462 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000747 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:462 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000748 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:463 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000749 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:464 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000750 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:465 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000751 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:466 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000752 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:467 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000753 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:467 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000754 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:468 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000755 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:469 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000756 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:469 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000757 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:470 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000758 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:471 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000759 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:472 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000760 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:472 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000761 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:473 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000762 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:474 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000763 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:474 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000764 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:475 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000765 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:476 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000766 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:477 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000767 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:478 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000768 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:478 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000769 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:480 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000770 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:481 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000771 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:482 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000772 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:482 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000773 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:484 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000774 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:486 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000775 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:487 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000776 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:488 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000777 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:488 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000778 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:489 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000779 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:490 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000780 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:490 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000781 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:490 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000782 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:491 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000783 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:491 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000784 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:492 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000785 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:492 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000786 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:492 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000787 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:493 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000788 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:572 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000789 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:573 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000790 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:574 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000791 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:577 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000792 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:577 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000793 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:578 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000794 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:578 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000795 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:579 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000796 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:579 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000797 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:580 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000798 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:580 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000799 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:581 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000800 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:581 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000801 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:581 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000802 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:582 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000803 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:582 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000804 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:583 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000805 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:583 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000806 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:584 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000807 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:584 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000808 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:585 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000809 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:585 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000810 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:586 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000811 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:587 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000812 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:587 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000813 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:588 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000814 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:589 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000815 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:589 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000816 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:590 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000817 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:590 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000818 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:591 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000819 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:591 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000820 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:691 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000821 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:692 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000822 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:693 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000823 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:695 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000824 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:698 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000825 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:699 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000826 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:700 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000827 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:701 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000828 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:702 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000829 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:704 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000830 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:704 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000831 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:705 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000832 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:706 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000833 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:706 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000834 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:707 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000835 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:708 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000836 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:709 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000837 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:710 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000838 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:710 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000839 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:711 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000840 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:712 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000841 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:712 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000842 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:713 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000843 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:713 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000844 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:714 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000845 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:714 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000846 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:715 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000847 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:715 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000848 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:716 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000849 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:716 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000850 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:717 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000851 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:718 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000852 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:718 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000853 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:719 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000854 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:720 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000855 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:720 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000856 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:721 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000857 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:721 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000858 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:722 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000859 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:723 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000860 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:726 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000861 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:727 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000862 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:727 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000863 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:728 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000864 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:729 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000865 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:730 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000866 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:731 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000867 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:731 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000868 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:732 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000869 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:732 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000870 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:733 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000871 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:734 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000872 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:734 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000873 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:735 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000874 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:735 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000875 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:736 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000876 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:737 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000877 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:738 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000878 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:738 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000879 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:741 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000880 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:743 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000881 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:745 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000882 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:746 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000883 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:748 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000884 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:749 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000885 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:750 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000886 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:752 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000887 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:753 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000888 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:754 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000889 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:755 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000890 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:756 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000891 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:757 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000892 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:757 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000893 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:759 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000894 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:760 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000895 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:761 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000896 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:762 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000897 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:763 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000898 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:765 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000899 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:766 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000900 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:767 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000901 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:768 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000902 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:769 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000903 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:770 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000904 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:772 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000905 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:772 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000906 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:773 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000907 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:774 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000908 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:775 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000909 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:776 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000910 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:777 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000911 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:778 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000912 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:783 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000555 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:798 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000653 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:803 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000715 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:02:809 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = doi diem 100 | isdn = 84922000742 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:35:03:559 Begin to send message.
+15/05 10:35:03:659 Begin to send message.
+15/05 10:35:03:759 Begin to send message.
+15/05 10:35:03:859 Begin to send message.
+15/05 10:35:03:959 Begin to send message.
+15/05 10:35:04:494 End of process session
+15/05 10:37:57:512 Simulator0 stopped
+15/05 10:37:58:964 Simulator0 started
+15/05 10:37:58:976 Starting process session
+15/05 10:37:59:083 Begin to send message.
+15/05 10:37:59:086 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = cam | isdn = 84922000512 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:37:59:183 Begin to send message.
+15/05 10:37:59:283 Begin to send message.
+15/05 10:37:59:383 Begin to send message.
+15/05 10:37:59:483 Begin to send message.
+15/05 10:38:00:086 Begin to send message.
+15/05 10:38:00:184 Begin to send message.
+15/05 10:38:00:284 Begin to send message.
+15/05 10:38:00:384 Begin to send message.
+15/05 10:38:00:483 Begin to send message.
+15/05 10:38:00:583 Begin to send message.
+15/05 10:38:00:683 Begin to send message.
+15/05 10:38:00:783 Begin to send message.
+15/05 10:38:00:883 Begin to send message.
+15/05 10:38:00:983 Begin to send message.
+15/05 10:38:01:584 Begin to send message.
+15/05 10:38:01:684 Begin to send message.
+15/05 10:38:01:784 Begin to send message.
+15/05 10:38:01:884 Begin to send message.
+15/05 10:38:01:984 Begin to send message.
+15/05 10:38:02:083 Begin to send message.
+15/05 10:38:02:183 Begin to send message.
+15/05 10:38:02:283 Begin to send message.
+15/05 10:38:02:383 Begin to send message.
+15/05 10:38:02:483 Begin to send message.
+15/05 10:38:03:084 Begin to send message.
+15/05 10:38:03:184 Begin to send message.
+15/05 10:38:03:284 Begin to send message.
+15/05 10:38:03:384 Begin to send message.
+15/05 10:38:03:484 Begin to send message.
+15/05 10:38:03:583 Begin to send message.
+15/05 10:38:03:683 Begin to send message.
+15/05 10:38:03:783 Begin to send message.
+15/05 10:38:03:884 Begin to send message.
+15/05 10:38:03:983 Begin to send message.
+15/05 10:38:04:584 Begin to send message.
+15/05 10:38:04:684 Begin to send message.
+15/05 10:38:04:784 Begin to send message.
+15/05 10:38:04:884 Begin to send message.
+15/05 10:38:04:984 Begin to send message.
+15/05 10:38:05:083 Begin to send message.
+15/05 10:38:05:183 Begin to send message.
+15/05 10:38:05:283 Begin to send message.
+15/05 10:38:05:383 Begin to send message.
+15/05 10:38:05:484 Begin to send message.
+15/05 10:38:06:084 Begin to send message.
+15/05 10:38:06:184 Begin to send message.
+15/05 10:38:06:284 Begin to send message.
+15/05 10:38:06:384 Begin to send message.
+15/05 10:38:06:484 Begin to send message.
+15/05 10:38:06:585 Begin to send message.
+15/05 10:38:06:685 Begin to send message.
+15/05 10:38:06:785 Begin to send message.
+15/05 10:38:06:885 Begin to send message.
+15/05 10:38:06:985 Begin to send message.
+15/05 10:38:07:586 Begin to send message.
+15/05 10:38:07:686 Begin to send message.
+15/05 10:38:07:786 Begin to send message.
+15/05 10:38:07:887 Begin to send message.
+15/05 10:38:07:987 Begin to send message.
+15/05 10:38:08:086 Begin to send message.
+15/05 10:38:08:186 Begin to send message.
+15/05 10:38:08:286 Begin to send message.
+15/05 10:38:08:388 Begin to send message.
+15/05 10:38:08:489 Begin to send message.
+15/05 10:38:09:087 Begin to send message.
+15/05 10:38:09:187 Begin to send message.
+15/05 10:38:09:287 Begin to send message.
+15/05 10:38:09:389 Begin to send message.
+15/05 10:38:09:490 Begin to send message.
+15/05 10:38:09:587 Begin to send message.
+15/05 10:38:09:687 Begin to send message.
+15/05 10:38:09:787 Begin to send message.
+15/05 10:38:09:887 Begin to send message.
+15/05 10:38:09:987 Begin to send message.
+15/05 10:38:10:588 Begin to send message.
+15/05 10:38:10:688 Begin to send message.
+15/05 10:38:10:788 Begin to send message.
+15/05 10:38:10:888 Begin to send message.
+15/05 10:38:10:988 Begin to send message.
+15/05 10:38:11:087 Begin to send message.
+15/05 10:38:11:187 Begin to send message.
+15/05 10:38:11:287 Begin to send message.
+15/05 10:38:11:387 Begin to send message.
+15/05 10:38:11:490 Begin to send message.
+15/05 10:38:12:088 Begin to send message.
+15/05 10:38:12:188 Begin to send message.
+15/05 10:38:12:288 Begin to send message.
+15/05 10:38:12:388 Begin to send message.
+15/05 10:38:12:491 Begin to send message.
+15/05 10:38:12:592 Begin to send message.
+15/05 10:38:12:692 Begin to send message.
+15/05 10:38:12:792 Begin to send message.
+15/05 10:38:12:892 Begin to send message.
+15/05 10:38:12:992 Begin to send message.
+15/05 10:38:13:593 Begin to send message.
+15/05 10:38:13:693 Begin to send message.
+15/05 10:38:13:793 Begin to send message.
+15/05 10:38:13:893 Begin to send message.
+15/05 10:38:13:993 Begin to send message.
+15/05 10:38:14:092 Begin to send message.
+15/05 10:38:14:192 Begin to send message.
+15/05 10:38:14:292 Begin to send message.
+15/05 10:38:14:392 Begin to send message.
+15/05 10:38:14:493 Begin to send message.
+15/05 10:38:15:093 Begin to send message.
+15/05 10:38:15:193 Begin to send message.
+15/05 10:38:15:293 Begin to send message.
+15/05 10:38:15:393 Begin to send message.
+15/05 10:38:15:494 Begin to send message.
+15/05 10:38:15:593 Begin to send message.
+15/05 10:38:15:693 Begin to send message.
+15/05 10:38:15:793 Begin to send message.
+15/05 10:38:15:893 Begin to send message.
+15/05 10:38:15:993 Begin to send message.
+15/05 10:38:16:594 Begin to send message.
+15/05 10:38:16:694 Begin to send message.
+15/05 10:38:16:794 Begin to send message.
+15/05 10:38:16:894 Begin to send message.
+15/05 10:38:16:994 Begin to send message.
+15/05 10:38:17:093 Begin to send message.
+15/05 10:38:17:193 Begin to send message.
+15/05 10:38:17:293 Begin to send message.
+15/05 10:38:17:393 Begin to send message.
+15/05 10:38:17:493 Begin to send message.
+15/05 10:38:18:094 Begin to send message.
+15/05 10:38:18:194 Begin to send message.
+15/05 10:38:18:294 Begin to send message.
+15/05 10:38:18:394 Begin to send message.
+15/05 10:38:18:494 Begin to send message.
+15/05 10:38:18:593 Begin to send message.
+15/05 10:38:18:693 Begin to send message.
+15/05 10:38:18:793 Begin to send message.
+15/05 10:38:18:893 Begin to send message.
+15/05 10:38:18:993 Begin to send message.
+15/05 10:38:19:593 Begin to send message.
+15/05 10:38:19:694 Begin to send message.
+15/05 10:38:19:794 Begin to send message.
+15/05 10:38:19:894 Begin to send message.
+15/05 10:38:19:994 Begin to send message.
+15/05 10:38:20:093 Begin to send message.
+15/05 10:38:20:193 Begin to send message.
+15/05 10:38:20:293 Begin to send message.
+15/05 10:38:20:393 Begin to send message.
+15/05 10:38:20:493 Begin to send message.
+15/05 10:38:21:094 Begin to send message.
+15/05 10:38:21:194 Begin to send message.
+15/05 10:38:21:294 Begin to send message.
+15/05 10:38:21:394 Begin to send message.
+15/05 10:38:21:494 Begin to send message.
+15/05 10:38:21:593 Begin to send message.
+15/05 10:38:21:693 Begin to send message.
+15/05 10:38:21:793 Begin to send message.
+15/05 10:38:21:893 Begin to send message.
+15/05 10:38:21:993 Begin to send message.
+15/05 10:38:22:109 Thread destroyed
+15/05 10:38:22:600 End of process session
+15/05 10:38:50:980 Simulator0 started
+15/05 10:38:50:993 Starting process session
+15/05 10:38:51:100 Begin to send message.
+15/05 10:38:51:103 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = cam | isdn = 84922000512 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 10:38:51:200 Begin to send message.
+15/05 10:38:51:301 Begin to send message.
+15/05 10:38:51:401 Begin to send message.
+15/05 10:38:51:501 Begin to send message.
+15/05 10:38:52:104 Begin to send message.
+15/05 10:38:52:200 Begin to send message.
+15/05 10:38:52:303 Begin to send message.
+15/05 10:38:52:402 Begin to send message.
+15/05 10:38:52:502 Begin to send message.
+15/05 10:38:52:601 Begin to send message.
+15/05 10:38:52:701 Begin to send message.
+15/05 10:38:52:801 Begin to send message.
+15/05 10:38:52:901 Begin to send message.
+15/05 10:38:53:002 Begin to send message.
+15/05 10:38:53:602 Begin to send message.
+15/05 10:38:53:702 Begin to send message.
+15/05 10:38:53:801 Begin to send message.
+15/05 10:38:53:901 Begin to send message.
+15/05 10:38:54:003 Begin to send message.
+15/05 10:38:54:102 Begin to send message.
+15/05 10:38:54:202 Begin to send message.
+15/05 10:38:54:302 Begin to send message.
+15/05 10:38:54:402 Begin to send message.
+15/05 10:38:54:502 Begin to send message.
+15/05 10:38:55:102 Begin to send message.
+15/05 10:38:55:203 Begin to send message.
+15/05 10:38:55:303 Begin to send message.
+15/05 10:38:55:403 Begin to send message.
+15/05 10:38:55:503 Begin to send message.
+15/05 10:38:55:602 Begin to send message.
+15/05 10:38:55:702 Begin to send message.
+15/05 10:38:55:802 Begin to send message.
+15/05 10:38:55:902 Begin to send message.
+15/05 10:38:56:002 Begin to send message.
+15/05 10:38:56:603 Begin to send message.
+15/05 10:38:56:703 Begin to send message.
+15/05 10:38:56:803 Begin to send message.
+15/05 10:38:56:903 Begin to send message.
+15/05 10:38:57:003 Begin to send message.
+15/05 10:38:57:102 Begin to send message.
+15/05 10:38:57:202 Begin to send message.
+15/05 10:38:57:302 Begin to send message.
+15/05 10:38:57:402 Begin to send message.
+15/05 10:38:57:502 Begin to send message.
+15/05 10:38:58:102 Begin to send message.
+15/05 10:38:58:202 Begin to send message.
+15/05 10:38:58:303 Begin to send message.
+15/05 10:38:58:403 Begin to send message.
+15/05 10:38:58:503 Begin to send message.
+15/05 10:38:58:602 Begin to send message.
+15/05 10:38:58:702 Begin to send message.
+15/05 10:38:58:802 Begin to send message.
+15/05 10:38:58:902 Begin to send message.
+15/05 10:38:59:002 Begin to send message.
+15/05 10:38:59:603 Begin to send message.
+15/05 10:38:59:703 Begin to send message.
+15/05 10:38:59:803 Begin to send message.
+15/05 10:38:59:903 Begin to send message.
+15/05 10:39:00:003 Begin to send message.
+15/05 10:39:00:103 Begin to send message.
+15/05 10:39:00:202 Begin to send message.
+15/05 10:39:00:303 Begin to send message.
+15/05 10:39:00:403 Begin to send message.
+15/05 10:39:00:503 Begin to send message.
+15/05 10:39:01:105 Begin to send message.
+15/05 10:39:01:204 Begin to send message.
+15/05 10:39:01:304 Begin to send message.
+15/05 10:39:01:404 Begin to send message.
+15/05 10:39:01:504 Begin to send message.
+15/05 10:39:01:603 Begin to send message.
+15/05 10:39:01:705 Begin to send message.
+15/05 10:39:01:805 Begin to send message.
+15/05 10:39:01:905 Begin to send message.
+15/05 10:39:02:005 Begin to send message.
+15/05 10:39:02:604 Begin to send message.
+15/05 10:39:02:706 Begin to send message.
+15/05 10:39:02:806 Begin to send message.
+15/05 10:39:02:906 Begin to send message.
+15/05 10:39:03:006 Begin to send message.
+15/05 10:39:03:105 Begin to send message.
+15/05 10:39:03:205 Begin to send message.
+15/05 10:39:03:305 Begin to send message.
+15/05 10:39:03:405 Begin to send message.
+15/05 10:39:03:505 Begin to send message.
+15/05 10:39:04:106 Begin to send message.
+15/05 10:39:04:206 Begin to send message.
+15/05 10:39:04:306 Begin to send message.
+15/05 10:39:04:406 Begin to send message.
+15/05 10:39:04:506 Begin to send message.
+15/05 10:39:04:605 Begin to send message.
+15/05 10:39:04:705 Begin to send message.
+15/05 10:39:04:805 Begin to send message.
+15/05 10:39:04:905 Begin to send message.
+15/05 10:39:05:005 Begin to send message.
+15/05 10:39:05:606 Begin to send message.
+15/05 10:39:05:706 Begin to send message.
+15/05 10:39:05:806 Begin to send message.
+15/05 10:39:05:906 Begin to send message.
+15/05 10:39:06:006 Begin to send message.
+15/05 10:39:06:105 Begin to send message.
+15/05 10:39:06:205 Begin to send message.
+15/05 10:39:06:305 Begin to send message.
+15/05 10:39:06:405 Begin to send message.
+15/05 10:39:06:505 Begin to send message.
+15/05 10:39:07:106 Begin to send message.
+15/05 10:39:07:206 Begin to send message.
+15/05 10:39:07:306 Begin to send message.
+15/05 10:39:07:406 Begin to send message.
+15/05 10:39:07:506 Begin to send message.
+15/05 10:39:07:605 Begin to send message.
+15/05 10:39:07:705 Begin to send message.
+15/05 10:39:07:805 Begin to send message.
+15/05 10:39:07:905 Begin to send message.
+15/05 10:39:08:005 Begin to send message.
+15/05 10:39:08:136 Thread destroyed
+15/05 10:39:08:628 End of process session
+15/05 13:49:10:681 Simulator0 started
+15/05 13:49:10:695 Starting process session
+15/05 13:49:10:807 Begin to send message.
+15/05 13:49:10:834 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = tra diem | isdn = 84922000512 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 13:49:10:918 Begin to send message.
+15/05 13:49:11:017 Begin to send message.
+15/05 13:49:11:117 Begin to send message.
+15/05 13:49:11:217 Begin to send message.
+15/05 13:49:11:721 End of process session
+15/05 14:05:51:785 Starting process session
+15/05 14:05:51:906 Begin to send message.
+15/05 14:05:51:911 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = tra diem | isdn = 84922000512 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 14:05:52:006 Begin to send message.
+15/05 14:05:52:106 Begin to send message.
+15/05 14:05:52:206 Begin to send message.
+15/05 14:05:52:306 Begin to send message.
+15/05 14:05:52:808 End of process session
+15/05 14:22:32:887 Starting process session
+15/05 14:22:32:999 Begin to send message.
+15/05 14:22:33:003 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = tra diem | isdn = 84922000512 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 14:22:33:099 Begin to send message.
+15/05 14:22:33:199 Begin to send message.
+15/05 14:22:33:299 Begin to send message.
+15/05 14:22:33:399 Begin to send message.
+15/05 14:22:33:902 End of process session
+15/05 14:39:13:977 Starting process session
+15/05 14:39:14:087 Begin to send message.
+15/05 14:39:14:091 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = tra diem | isdn = 84922000512 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 14:39:14:187 Begin to send message.
+15/05 14:39:14:287 Begin to send message.
+15/05 14:39:14:387 Begin to send message.
+15/05 14:39:14:487 Begin to send message.
+15/05 14:39:14:990 End of process session
+15/05 14:55:55:063 Starting process session
+15/05 14:55:55:172 Begin to send message.
+15/05 14:55:55:176 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = tra diem | isdn = 84922000512 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 14:55:55:272 Begin to send message.
+15/05 14:55:55:372 Begin to send message.
+15/05 14:55:55:472 Begin to send message.
+15/05 14:55:55:572 Begin to send message.
+15/05 14:55:56:076 End of process session
+15/05 15:08:23:126 Simulator0 stopped
+15/05 15:08:25:043 Simulator0 started
+15/05 15:08:25:057 Starting process session
+15/05 15:08:25:165 Begin to send message.
+15/05 15:08:25:169 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = tra diem | isdn = 84922000512 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 15:08:25:272 Begin to send message.
+15/05 15:08:25:368 Begin to send message.
+15/05 15:08:25:468 Begin to send message.
+15/05 15:08:25:568 Begin to send message.
+15/05 15:08:26:071 End of process session
+15/05 15:25:06:159 Starting process session
+15/05 15:25:06:268 Begin to send message.
+15/05 15:25:06:272 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = tra diem | isdn = 84922000512 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 15:25:06:368 Begin to send message.
+15/05 15:25:06:468 Begin to send message.
+15/05 15:25:06:568 Begin to send message.
+15/05 15:25:06:668 Begin to send message.
+15/05 15:25:07:169 End of process session
+15/05 16:44:54:802 Simulator0 started
+15/05 16:44:54:822 Starting process session
+15/05 16:44:54:932 Begin to send message.
+15/05 16:44:54:972 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = cam | isdn = 84922000512 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 16:44:55:032 Begin to send message.
+15/05 16:44:55:132 Begin to send message.
+15/05 16:44:55:232 Begin to send message.
+15/05 16:44:55:332 Begin to send message.
+15/05 16:44:55:842 End of process session
+15/05 17:01:35:857 Starting process session
+15/05 17:01:35:968 Begin to send message.
+15/05 17:01:35:974 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = cam | isdn = 84922000512 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 17:01:36:068 Begin to send message.
+15/05 17:01:36:168 Begin to send message.
+15/05 17:01:36:268 Begin to send message.
+15/05 17:01:36:368 Begin to send message.
+15/05 17:01:36:871 End of process session
+15/05 17:18:16:987 Starting process session
+15/05 17:18:17:098 Begin to send message.
+15/05 17:18:17:101 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = cam | isdn = 84922000512 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 17:18:17:197 Begin to send message.
+15/05 17:18:17:297 Begin to send message.
+15/05 17:18:17:397 Begin to send message.
+15/05 17:18:17:497 Begin to send message.
+15/05 17:18:18:000 End of process session
+15/05 17:34:58:090 Starting process session
+15/05 17:34:58:202 Begin to send message.
+15/05 17:34:58:207 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = cam | isdn = 84922000512 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 17:34:58:302 Begin to send message.
+15/05 17:34:58:402 Begin to send message.
+15/05 17:34:58:502 Begin to send message.
+15/05 17:34:58:602 Begin to send message.
+15/05 17:34:59:106 End of process session
+15/05 17:51:39:234 Starting process session
+15/05 17:51:39:334 Begin to send message.
+15/05 17:51:39:334 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = cam | isdn = 84922000512 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 17:51:39:434 Begin to send message.
+15/05 17:51:39:534 Begin to send message.
+15/05 17:51:39:634 Begin to send message.
+15/05 17:51:39:734 Begin to send message.
+15/05 17:51:40:234 End of process session
+15/05 18:08:20:286 Starting process session
+15/05 18:08:20:397 Begin to send message.
+15/05 18:08:20:402 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = cam | isdn = 84922000512 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 18:08:20:497 Begin to send message.
+15/05 18:08:20:597 Begin to send message.
+15/05 18:08:20:697 Begin to send message.
+15/05 18:08:20:797 Begin to send message.
+15/05 18:08:21:302 End of process session
+15/05 18:25:01:426 Starting process session
+15/05 18:25:01:537 Begin to send message.
+15/05 18:25:01:542 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = cam | isdn = 84922000512 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 18:25:01:637 Begin to send message.
+15/05 18:25:01:737 Begin to send message.
+15/05 18:25:01:837 Begin to send message.
+15/05 18:25:01:937 Begin to send message.
+15/05 18:25:02:440 End of process session
+15/05 18:41:52:964 Starting process session
+15/05 18:41:53:073 Begin to send message.
+15/05 18:41:53:073 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = cam | isdn = 84922000512 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 18:41:53:182 Begin to send message.
+15/05 18:41:53:292 Begin to send message.
+15/05 18:41:53:401 Begin to send message.
+15/05 18:41:53:510 Begin to send message.
+15/05 18:41:54:056 End of process session
+15/05 18:58:48:058 Starting process session
+15/05 18:58:48:167 Begin to send message.
+15/05 18:58:48:167 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = cam | isdn = 84922000512 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 18:58:48:276 Begin to send message.
+15/05 18:58:48:385 Begin to send message.
+15/05 18:58:48:495 Begin to send message.
+15/05 18:58:48:604 Begin to send message.
+15/05 18:58:49:150 End of process session
+15/05 19:15:43:136 Starting process session
+15/05 19:15:43:245 Begin to send message.
+15/05 19:15:43:245 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = cam | isdn = 84922000512 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 19:15:43:354 Begin to send message.
+15/05 19:15:43:463 Begin to send message.
+15/05 19:15:43:572 Begin to send message.
+15/05 19:15:43:682 Begin to send message.
+15/05 19:15:44:228 End of process session
+15/05 19:32:38:292 Starting process session
+15/05 19:32:38:401 Begin to send message.
+15/05 19:32:38:401 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = cam | isdn = 84922000512 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 19:32:38:510 Begin to send message.
+15/05 19:32:38:619 Begin to send message.
+15/05 19:32:38:729 Begin to send message.
+15/05 19:32:38:838 Begin to send message.
+15/05 19:32:39:384 End of process session
+15/05 19:49:33:386 Starting process session
+15/05 19:49:33:495 Begin to send message.
+15/05 19:49:33:495 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = cam | isdn = 84922000512 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 19:49:33:604 Begin to send message.
+15/05 19:49:33:713 Begin to send message.
+15/05 19:49:33:822 Begin to send message.
+15/05 19:49:33:932 Begin to send message.
+15/05 19:49:34:478 End of process session
+15/05 20:06:28:479 Starting process session
+15/05 20:06:28:589 Begin to send message.
+15/05 20:06:28:589 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = cam | isdn = 84922000512 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 20:06:28:698 Begin to send message.
+15/05 20:06:28:807 Begin to send message.
+15/05 20:06:28:916 Begin to send message.
+15/05 20:06:29:025 Begin to send message.
+15/05 20:06:29:571 End of process session
+15/05 20:23:23:573 Starting process session
+15/05 20:23:23:682 Begin to send message.
+15/05 20:23:23:682 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = cam | isdn = 84922000512 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 20:23:23:792 Begin to send message.
+15/05 20:23:23:901 Begin to send message.
+15/05 20:23:24:010 Begin to send message.
+15/05 20:23:24:119 Begin to send message.
+15/05 20:23:24:665 End of process session
+15/05 20:40:18:667 Starting process session
+15/05 20:40:18:776 Begin to send message.
+15/05 20:40:18:792 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = cam | isdn = 84922000512 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 20:40:18:885 Begin to send message.
+15/05 20:40:18:995 Begin to send message.
+15/05 20:40:19:104 Begin to send message.
+15/05 20:40:19:213 Begin to send message.
+15/05 20:40:19:759 End of process session
+15/05 20:57:13:761 Starting process session
+15/05 20:57:13:870 Begin to send message.
+15/05 20:57:13:870 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = cam | isdn = 84922000512 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 20:57:13:979 Begin to send message.
+15/05 20:57:14:088 Begin to send message.
+15/05 20:57:14:198 Begin to send message.
+15/05 20:57:14:307 Begin to send message.
+15/05 20:57:14:853 End of process session
+15/05 21:14:08:855 Starting process session
+15/05 21:14:08:964 Begin to send message.
+15/05 21:14:08:964 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = cam | isdn = 84922000512 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 21:14:09:073 Begin to send message.
+15/05 21:14:09:182 Begin to send message.
+15/05 21:14:09:291 Begin to send message.
+15/05 21:14:09:401 Begin to send message.
+15/05 21:14:09:947 End of process session
+15/05 21:30:58:838 Starting process session
+15/05 21:30:58:938 Begin to send message.
+15/05 21:30:58:938 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = cam | isdn = 84922000512 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 21:30:59:038 Begin to send message.
+15/05 21:30:59:138 Begin to send message.
+15/05 21:30:59:238 Begin to send message.
+15/05 21:30:59:338 Begin to send message.
+15/05 21:30:59:838 End of process session
+15/05 21:47:39:879 Starting process session
+15/05 21:47:39:989 Begin to send message.
+15/05 21:47:39:989 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = cam | isdn = 84922000512 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 21:47:40:089 Begin to send message.
+15/05 21:47:40:189 Begin to send message.
+15/05 21:47:40:289 Begin to send message.
+15/05 21:47:40:389 Begin to send message.
+15/05 21:47:40:889 End of process session
+15/05 22:04:20:927 Starting process session
+15/05 22:04:21:036 Begin to send message.
+15/05 22:04:21:039 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = cam | isdn = 84922000512 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 22:04:21:136 Begin to send message.
+15/05 22:04:21:236 Begin to send message.
+15/05 22:04:21:336 Begin to send message.
+15/05 22:04:21:436 Begin to send message.
+15/05 22:04:21:938 End of process session
+15/05 22:21:02:008 Starting process session
+15/05 22:21:02:117 Begin to send message.
+15/05 22:21:02:123 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = cam | isdn = 84922000512 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 22:21:02:218 Begin to send message.
+15/05 22:21:02:319 Begin to send message.
+15/05 22:21:02:428 Begin to send message.
+15/05 22:21:02:524 Begin to send message.
+15/05 22:21:03:026 End of process session
+15/05 22:37:43:103 Starting process session
+15/05 22:37:43:233 Begin to send message.
+15/05 22:37:43:233 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = cam | isdn = 84922000512 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 22:37:43:333 Begin to send message.
+15/05 22:37:43:433 Begin to send message.
+15/05 22:37:43:533 Begin to send message.
+15/05 22:37:43:633 Begin to send message.
+15/05 22:37:44:133 End of process session
+15/05 22:54:24:134 Starting process session
+15/05 22:54:24:244 Begin to send message.
+15/05 22:54:24:244 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = cam | isdn = 84922000512 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 22:54:24:344 Begin to send message.
+15/05 22:54:24:444 Begin to send message.
+15/05 22:54:24:544 Begin to send message.
+15/05 22:54:24:644 Begin to send message.
+15/05 22:54:25:144 End of process session
+15/05 23:11:05:156 Starting process session
+15/05 23:11:05:266 Begin to send message.
+15/05 23:11:05:266 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = cam | isdn = 84922000512 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 23:11:05:366 Begin to send message.
+15/05 23:11:05:466 Begin to send message.
+15/05 23:11:05:566 Begin to send message.
+15/05 23:11:05:666 Begin to send message.
+15/05 23:11:06:166 End of process session
+15/05 23:27:46:175 Starting process session
+15/05 23:27:46:291 Begin to send message.
+15/05 23:27:46:295 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = cam | isdn = 84922000512 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 23:27:46:391 Begin to send message.
+15/05 23:27:46:491 Begin to send message.
+15/05 23:27:46:591 Begin to send message.
+15/05 23:27:46:691 Begin to send message.
+15/05 23:27:47:193 End of process session
+15/05 23:44:27:263 Starting process session
+15/05 23:44:27:373 Begin to send message.
+15/05 23:44:27:376 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = cam | isdn = 84922000512 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | commandId = 0 | request =  | response =  | status = 1 | cause =  | description = 
+15/05 23:44:27:473 Begin to send message.
+15/05 23:44:27:573 Begin to send message.
+15/05 23:44:27:673 Begin to send message.
+15/05 23:44:27:773 Begin to send message.
+15/05 23:44:28:275 End of process session

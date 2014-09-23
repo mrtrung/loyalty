@@ -1,0 +1,1034 @@
+04/12 13:40:38:323 Testing connection ...
+
+04/12 13:40:38:324 Connecting to SMSC 
+
+04/12 13:40:38:324 Bind request (bindreq: (pdu: 0 1 0 [2]) PPV ppv@321 SMPP 52 (addrrang: 0 0 345) ) 
+
+04/12 13:40:38:330 Bind response (bindresp: (pdu: 36 80000001 0 2) ANAM_ESME_LINK 52) 
+
+04/12 13:40:38:330 SMSC connection is established 
+
+04/12 13:40:38:331 Created provisioning instance for SMSC
+
+04/12 13:40:38:331 Testing connection are success
+
+04/12 13:40:38:331 Starting process session
+
+04/12 13:40:38:433 Total 0 instances are started
+
+04/12 13:40:38:433 Init queue connection pool 1386139238433
+
+04/12 13:40:38:434 Total 1 instances are added
+
+04/12 13:40:39:324 Enquirelink request: (enquirelink: (pdu: 0 15 0 [3]) ) 
+
+04/12 13:40:39:325 Local queue size: 0
+
+04/12 13:40:39:329 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 3) ) 
+
+04/12 13:40:40:325 Enquirelink request: (enquirelink: (pdu: 0 15 0 [4]) ) 
+
+04/12 13:40:40:325 Local queue size: 0
+
+04/12 13:40:40:327 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 4) ) 
+
+04/12 13:40:41:326 Enquirelink request: (enquirelink: (pdu: 0 15 0 [5]) ) 
+
+04/12 13:40:41:326 Local queue size: 0
+
+04/12 13:40:41:356 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 5) ) 
+
+04/12 13:40:42:327 Enquirelink request: (enquirelink: (pdu: 0 15 0 [6]) ) 
+
+04/12 13:40:42:327 Local queue size: 0
+
+04/12 13:40:42:329 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 6) ) 
+
+04/12 13:40:43:328 Enquirelink request: (enquirelink: (pdu: 0 15 0 [7]) ) 
+
+04/12 13:40:43:328 Local queue size: 0
+
+04/12 13:40:43:331 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 7) ) 
+
+04/12 13:40:44:072 Close pool
+
+04/12 13:40:44:072 It can take a while to stop.
+
+04/12 13:40:44:086 Unbind response (unbind_resp: (pdu: 16 80000006 0 8) ) 
+
+04/12 13:40:44:090 Thread destroyed
+
+04/12 13:40:44:187 Close queue connection pool.
+
+04/12 13:40:44:191 End of process session
+
+04/12 15:11:52:224 Testing connection ...
+
+04/12 15:11:52:234 Connecting to SMSC 
+
+04/12 15:11:52:261 Bind request (bindreq: (pdu: 0 1 0 [1]) PPV ppv@321 SMPP 52 (addrrang: 0 0 345) ) 
+
+04/12 15:11:52:272 Bind response (bindresp: (pdu: 36 80000001 0 1) ANAM_ESME_LINK 52) 
+
+04/12 15:11:52:273 SMSC connection is established 
+
+04/12 15:11:52:273 Created provisioning instance for SMSC
+
+04/12 15:11:52:273 Testing connection are success
+
+04/12 15:11:52:274 Starting process session
+
+04/12 15:11:52:374 Total 0 instances are started
+
+04/12 15:11:52:374 Init queue connection pool 1386144712374
+
+04/12 15:11:52:375 Total 1 instances are added
+
+04/12 15:11:53:230 Enquirelink request: (enquirelink: (pdu: 0 15 0 [2]) ) 
+
+04/12 15:11:53:231 Local queue size: 0
+
+04/12 15:11:53:237 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 2) ) 
+
+04/12 15:11:54:226 Enquirelink request: (enquirelink: (pdu: 0 15 0 [3]) ) 
+
+04/12 15:11:54:227 Local queue size: 0
+
+04/12 15:11:54:232 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 3) ) 
+
+04/12 15:11:55:227 Enquirelink request: (enquirelink: (pdu: 0 15 0 [4]) ) 
+
+04/12 15:11:55:228 Local queue size: 0
+
+04/12 15:11:55:231 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 4) ) 
+
+04/12 15:11:56:228 Enquirelink request: (enquirelink: (pdu: 0 15 0 [5]) ) 
+
+04/12 15:11:56:229 Local queue size: 0
+
+04/12 15:11:56:232 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 5) ) 
+
+04/12 15:11:57:229 Enquirelink request: (enquirelink: (pdu: 0 15 0 [6]) ) 
+
+04/12 15:11:57:230 Local queue size: 0
+
+04/12 15:11:57:233 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 6) ) 
+
+04/12 15:11:58:230 Enquirelink request: (enquirelink: (pdu: 0 15 0 [7]) ) 
+
+04/12 15:11:58:231 Local queue size: 0
+
+04/12 15:11:58:234 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 7) ) 
+
+04/12 15:11:59:231 Enquirelink request: (enquirelink: (pdu: 0 15 0 [9]) ) 
+
+04/12 15:11:59:231 Local queue size: 0
+
+04/12 15:11:59:234 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 9) ) 
+
+04/12 15:12:00:232 Enquirelink request: (enquirelink: (pdu: 0 15 0 [10]) ) 
+
+04/12 15:12:00:233 Local queue size: 0
+
+04/12 15:12:00:235 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 10) ) 
+
+04/12 15:12:01:233 Enquirelink request: (enquirelink: (pdu: 0 15 0 [11]) ) 
+
+04/12 15:12:01:234 Local queue size: 0
+
+04/12 15:12:01:236 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 11) ) 
+
+04/12 15:12:02:234 Enquirelink request: (enquirelink: (pdu: 0 15 0 [12]) ) 
+
+04/12 15:12:02:235 Local queue size: 0
+
+04/12 15:12:02:237 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 12) ) 
+
+04/12 15:12:03:235 Enquirelink request: (enquirelink: (pdu: 0 15 0 [13]) ) 
+
+04/12 15:12:03:236 Local queue size: 0
+
+04/12 15:12:03:238 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 13) ) 
+
+04/12 15:12:04:236 Enquirelink request: (enquirelink: (pdu: 0 15 0 [14]) ) 
+
+04/12 15:12:04:237 Local queue size: 0
+
+04/12 15:12:04:239 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 14) ) 
+
+04/12 15:12:05:237 Enquirelink request: (enquirelink: (pdu: 0 15 0 [15]) ) 
+
+04/12 15:12:05:238 Local queue size: 0
+
+04/12 15:12:05:240 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 15) ) 
+
+04/12 15:12:06:238 Enquirelink request: (enquirelink: (pdu: 0 15 0 [16]) ) 
+
+04/12 15:12:06:238 Local queue size: 0
+
+04/12 15:12:06:241 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 16) ) 
+
+04/12 15:12:07:239 Enquirelink request: (enquirelink: (pdu: 0 15 0 [17]) ) 
+
+04/12 15:12:07:240 Local queue size: 0
+
+04/12 15:12:07:242 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 17) ) 
+
+04/12 15:12:08:240 Enquirelink request: (enquirelink: (pdu: 0 15 0 [18]) ) 
+
+04/12 15:12:08:241 Local queue size: 0
+
+04/12 15:12:08:243 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 18) ) 
+
+04/12 15:12:09:241 Enquirelink request: (enquirelink: (pdu: 0 15 0 [19]) ) 
+
+04/12 15:12:09:241 Local queue size: 0
+
+04/12 15:12:09:243 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 19) ) 
+
+04/12 15:12:10:242 Enquirelink request: (enquirelink: (pdu: 0 15 0 [20]) ) 
+
+04/12 15:12:10:243 Local queue size: 0
+
+04/12 15:12:10:245 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 20) ) 
+
+04/12 15:12:11:243 Enquirelink request: (enquirelink: (pdu: 0 15 0 [21]) ) 
+
+04/12 15:12:11:244 Local queue size: 0
+
+04/12 15:12:11:247 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 21) ) 
+
+04/12 15:12:12:244 Enquirelink request: (enquirelink: (pdu: 0 15 0 [22]) ) 
+
+04/12 15:12:12:245 Local queue size: 0
+
+04/12 15:12:12:247 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 22) ) 
+
+04/12 15:12:13:245 Enquirelink request: (enquirelink: (pdu: 0 15 0 [23]) ) 
+
+04/12 15:12:13:246 Local queue size: 0
+
+04/12 15:12:13:247 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 23) ) 
+
+04/12 15:12:14:246 Enquirelink request: (enquirelink: (pdu: 0 15 0 [24]) ) 
+
+04/12 15:12:14:247 Local queue size: 0
+
+04/12 15:12:14:250 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 24) ) 
+
+04/12 15:12:15:247 Enquirelink request: (enquirelink: (pdu: 0 15 0 [25]) ) 
+
+04/12 15:12:15:247 Local queue size: 0
+
+04/12 15:12:15:250 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 25) ) 
+
+04/12 15:12:16:248 Enquirelink request: (enquirelink: (pdu: 0 15 0 [26]) ) 
+
+04/12 15:12:16:248 Local queue size: 0
+
+04/12 15:12:16:250 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 26) ) 
+
+04/12 15:12:17:249 Enquirelink request: (enquirelink: (pdu: 0 15 0 [27]) ) 
+
+04/12 15:12:17:249 Local queue size: 0
+
+04/12 15:12:17:251 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 27) ) 
+
+04/12 15:12:18:250 Enquirelink request: (enquirelink: (pdu: 0 15 0 [28]) ) 
+
+04/12 15:12:18:250 Local queue size: 0
+
+04/12 15:12:18:256 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 28) ) 
+
+04/12 15:12:19:251 Enquirelink request: (enquirelink: (pdu: 0 15 0 [29]) ) 
+
+04/12 15:12:19:251 Local queue size: 0
+
+04/12 15:12:19:253 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 29) ) 
+
+04/12 15:12:20:252 Enquirelink request: (enquirelink: (pdu: 0 15 0 [30]) ) 
+
+04/12 15:12:20:253 Local queue size: 0
+
+04/12 15:12:20:263 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 30) ) 
+
+04/12 15:12:21:253 Enquirelink request: (enquirelink: (pdu: 0 15 0 [31]) ) 
+
+04/12 15:12:21:254 Local queue size: 0
+
+04/12 15:12:21:262 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 31) ) 
+
+04/12 15:12:22:254 Enquirelink request: (enquirelink: (pdu: 0 15 0 [32]) ) 
+
+04/12 15:12:22:255 Local queue size: 0
+
+04/12 15:12:22:257 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 32) ) 
+
+04/12 15:12:23:255 Enquirelink request: (enquirelink: (pdu: 0 15 0 [33]) ) 
+
+04/12 15:12:23:255 Local queue size: 0
+
+04/12 15:12:23:258 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 33) ) 
+
+04/12 15:12:24:256 Enquirelink request: (enquirelink: (pdu: 0 15 0 [34]) ) 
+
+04/12 15:12:24:256 Local queue size: 0
+
+04/12 15:12:24:261 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 34) ) 
+
+04/12 15:12:25:257 Enquirelink request: (enquirelink: (pdu: 0 15 0 [35]) ) 
+
+04/12 15:12:25:258 Local queue size: 0
+
+04/12 15:12:25:260 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 35) ) 
+
+04/12 15:12:26:258 Enquirelink request: (enquirelink: (pdu: 0 15 0 [36]) ) 
+
+04/12 15:12:26:259 Local queue size: 0
+
+04/12 15:12:26:261 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 36) ) 
+
+04/12 15:12:27:259 Enquirelink request: (enquirelink: (pdu: 0 15 0 [37]) ) 
+
+04/12 15:12:27:260 Local queue size: 0
+
+04/12 15:12:27:262 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 37) ) 
+
+04/12 15:12:28:260 Enquirelink request: (enquirelink: (pdu: 0 15 0 [38]) ) 
+
+04/12 15:12:28:260 Local queue size: 0
+
+04/12 15:12:28:262 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 38) ) 
+
+04/12 15:12:29:261 Enquirelink request: (enquirelink: (pdu: 0 15 0 [40]) ) 
+
+04/12 15:12:29:261 Local queue size: 0
+
+04/12 15:12:29:262 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 40) ) 
+
+04/12 15:12:30:262 Enquirelink request: (enquirelink: (pdu: 0 15 0 [41]) ) 
+
+04/12 15:12:30:262 Local queue size: 0
+
+04/12 15:12:30:265 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 41) ) 
+
+04/12 15:12:31:263 Enquirelink request: (enquirelink: (pdu: 0 15 0 [42]) ) 
+
+04/12 15:12:31:264 Local queue size: 0
+
+04/12 15:12:31:269 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 42) ) 
+
+04/12 15:12:32:264 Enquirelink request: (enquirelink: (pdu: 0 15 0 [43]) ) 
+
+04/12 15:12:32:265 Local queue size: 0
+
+04/12 15:12:32:267 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 43) ) 
+
+04/12 15:12:33:265 Enquirelink request: (enquirelink: (pdu: 0 15 0 [44]) ) 
+
+04/12 15:12:33:266 Local queue size: 0
+
+04/12 15:12:33:268 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 44) ) 
+
+04/12 15:12:34:266 Enquirelink request: (enquirelink: (pdu: 0 15 0 [45]) ) 
+
+04/12 15:12:34:267 Local queue size: 0
+
+04/12 15:12:34:268 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 45) ) 
+
+04/12 15:12:35:267 Enquirelink request: (enquirelink: (pdu: 0 15 0 [46]) ) 
+
+04/12 15:12:35:267 Local queue size: 0
+
+04/12 15:12:35:269 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 46) ) 
+
+04/12 15:12:36:268 Enquirelink request: (enquirelink: (pdu: 0 15 0 [47]) ) 
+
+04/12 15:12:36:268 Local queue size: 0
+
+04/12 15:12:36:271 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 47) ) 
+
+04/12 15:12:37:269 Enquirelink request: (enquirelink: (pdu: 0 15 0 [48]) ) 
+
+04/12 15:12:37:272 Local queue size: 0
+
+04/12 15:12:37:274 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 48) ) 
+
+04/12 15:12:38:270 Enquirelink request: (enquirelink: (pdu: 0 15 0 [49]) ) 
+
+04/12 15:12:38:271 Local queue size: 0
+
+04/12 15:12:38:273 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 49) ) 
+
+04/12 15:12:39:270 Enquirelink request: (enquirelink: (pdu: 0 15 0 [50]) ) 
+
+04/12 15:12:39:270 Local queue size: 0
+
+04/12 15:12:39:272 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 50) ) 
+
+04/12 15:12:40:271 Enquirelink request: (enquirelink: (pdu: 0 15 0 [51]) ) 
+
+04/12 15:12:40:271 Local queue size: 0
+
+04/12 15:12:40:274 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 51) ) 
+
+04/12 15:12:41:272 Enquirelink request: (enquirelink: (pdu: 0 15 0 [52]) ) 
+
+04/12 15:12:41:272 Local queue size: 0
+
+04/12 15:12:41:274 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 52) ) 
+
+04/12 15:12:42:273 Enquirelink request: (enquirelink: (pdu: 0 15 0 [53]) ) 
+
+04/12 15:12:42:274 Local queue size: 0
+
+04/12 15:12:42:276 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 53) ) 
+
+04/12 15:12:43:274 Enquirelink request: (enquirelink: (pdu: 0 15 0 [54]) ) 
+
+04/12 15:12:43:275 Local queue size: 0
+
+04/12 15:12:43:277 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 54) ) 
+
+04/12 15:12:44:275 Enquirelink request: (enquirelink: (pdu: 0 15 0 [55]) ) 
+
+04/12 15:12:44:276 Local queue size: 0
+
+04/12 15:12:44:278 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 55) ) 
+
+04/12 15:12:45:276 Enquirelink request: (enquirelink: (pdu: 0 15 0 [56]) ) 
+
+04/12 15:12:45:276 Local queue size: 0
+
+04/12 15:12:45:278 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 56) ) 
+
+04/12 15:12:46:277 Enquirelink request: (enquirelink: (pdu: 0 15 0 [57]) ) 
+
+04/12 15:12:46:278 Local queue size: 0
+
+04/12 15:12:46:280 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 57) ) 
+
+04/12 15:12:47:278 Enquirelink request: (enquirelink: (pdu: 0 15 0 [58]) ) 
+
+04/12 15:12:47:278 Local queue size: 0
+
+04/12 15:12:47:281 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 58) ) 
+
+04/12 15:12:48:279 Enquirelink request: (enquirelink: (pdu: 0 15 0 [59]) ) 
+
+04/12 15:12:48:280 Local queue size: 0
+
+04/12 15:12:48:282 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 59) ) 
+
+04/12 15:12:49:279 Enquirelink request: (enquirelink: (pdu: 0 15 0 [60]) ) 
+
+04/12 15:12:49:279 Local queue size: 0
+
+04/12 15:12:49:281 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 60) ) 
+
+04/12 15:12:50:280 Enquirelink request: (enquirelink: (pdu: 0 15 0 [61]) ) 
+
+04/12 15:12:50:280 Local queue size: 0
+
+04/12 15:12:50:283 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 61) ) 
+
+04/12 15:12:51:281 Enquirelink request: (enquirelink: (pdu: 0 15 0 [62]) ) 
+
+04/12 15:12:51:282 Local queue size: 0
+
+04/12 15:12:51:284 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 62) ) 
+
+04/12 15:12:52:282 Enquirelink request: (enquirelink: (pdu: 0 15 0 [63]) ) 
+
+04/12 15:12:52:282 Local queue size: 0
+
+04/12 15:12:52:284 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 63) ) 
+
+04/12 15:12:53:283 Enquirelink request: (enquirelink: (pdu: 0 15 0 [64]) ) 
+
+04/12 15:12:53:284 Local queue size: 0
+
+04/12 15:12:53:286 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 64) ) 
+
+04/12 15:12:54:284 Enquirelink request: (enquirelink: (pdu: 0 15 0 [65]) ) 
+
+04/12 15:12:54:285 Local queue size: 0
+
+04/12 15:12:54:287 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 65) ) 
+
+04/12 15:12:55:285 Enquirelink request: (enquirelink: (pdu: 0 15 0 [66]) ) 
+
+04/12 15:12:55:285 Local queue size: 0
+
+04/12 15:12:55:288 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 66) ) 
+
+04/12 15:12:56:286 Enquirelink request: (enquirelink: (pdu: 0 15 0 [67]) ) 
+
+04/12 15:12:56:287 Local queue size: 0
+
+04/12 15:12:56:289 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 67) ) 
+
+04/12 15:12:57:287 Enquirelink request: (enquirelink: (pdu: 0 15 0 [68]) ) 
+
+04/12 15:12:57:287 Local queue size: 0
+
+04/12 15:12:57:290 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 68) ) 
+
+04/12 15:12:58:288 Enquirelink request: (enquirelink: (pdu: 0 15 0 [69]) ) 
+
+04/12 15:12:58:291 Local queue size: 0
+
+04/12 15:12:58:294 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 69) ) 
+
+04/12 15:12:59:288 Enquirelink request: (enquirelink: (pdu: 0 15 0 [71]) ) 
+
+04/12 15:12:59:288 Local queue size: 0
+
+04/12 15:12:59:290 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 71) ) 
+
+04/12 15:13:00:289 Enquirelink request: (enquirelink: (pdu: 0 15 0 [72]) ) 
+
+04/12 15:13:00:289 Local queue size: 0
+
+04/12 15:13:00:292 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 72) ) 
+
+04/12 15:13:01:290 Enquirelink request: (enquirelink: (pdu: 0 15 0 [73]) ) 
+
+04/12 15:13:01:290 Local queue size: 0
+
+04/12 15:13:01:295 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 73) ) 
+
+04/12 15:13:02:291 Enquirelink request: (enquirelink: (pdu: 0 15 0 [74]) ) 
+
+04/12 15:13:02:291 Local queue size: 0
+
+04/12 15:13:02:294 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 74) ) 
+
+04/12 15:13:03:292 Enquirelink request: (enquirelink: (pdu: 0 15 0 [75]) ) 
+
+04/12 15:13:03:293 Local queue size: 0
+
+04/12 15:13:03:295 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 75) ) 
+
+04/12 15:13:04:293 Enquirelink request: (enquirelink: (pdu: 0 15 0 [76]) ) 
+
+04/12 15:13:04:293 Local queue size: 0
+
+04/12 15:13:04:295 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 76) ) 
+
+04/12 15:13:05:294 Enquirelink request: (enquirelink: (pdu: 0 15 0 [77]) ) 
+
+04/12 15:13:05:294 Local queue size: 0
+
+04/12 15:13:05:296 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 77) ) 
+
+04/12 15:13:06:295 Enquirelink request: (enquirelink: (pdu: 0 15 0 [78]) ) 
+
+04/12 15:13:06:295 Local queue size: 0
+
+04/12 15:13:06:297 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 78) ) 
+
+04/12 15:13:07:296 Enquirelink request: (enquirelink: (pdu: 0 15 0 [79]) ) 
+
+04/12 15:13:07:296 Local queue size: 0
+
+04/12 15:13:07:298 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 79) ) 
+
+04/12 15:13:08:297 Enquirelink request: (enquirelink: (pdu: 0 15 0 [80]) ) 
+
+04/12 15:13:08:298 Local queue size: 0
+
+04/12 15:13:08:300 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 80) ) 
+
+04/12 15:13:09:297 Enquirelink request: (enquirelink: (pdu: 0 15 0 [81]) ) 
+
+04/12 15:13:09:297 Local queue size: 0
+
+04/12 15:13:09:299 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 81) ) 
+
+04/12 15:13:10:298 Enquirelink request: (enquirelink: (pdu: 0 15 0 [82]) ) 
+
+04/12 15:13:10:298 Local queue size: 0
+
+04/12 15:13:10:300 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 82) ) 
+
+04/12 15:13:11:299 Enquirelink request: (enquirelink: (pdu: 0 15 0 [83]) ) 
+
+04/12 15:13:11:299 Local queue size: 0
+
+04/12 15:13:11:301 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 83) ) 
+
+04/12 15:13:12:300 Enquirelink request: (enquirelink: (pdu: 0 15 0 [84]) ) 
+
+04/12 15:13:12:300 Local queue size: 0
+
+04/12 15:13:12:303 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 84) ) 
+
+04/12 15:13:13:301 Enquirelink request: (enquirelink: (pdu: 0 15 0 [85]) ) 
+
+04/12 15:13:13:302 Local queue size: 0
+
+04/12 15:13:13:304 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 85) ) 
+
+04/12 15:13:14:302 Enquirelink request: (enquirelink: (pdu: 0 15 0 [86]) ) 
+
+04/12 15:13:14:303 Local queue size: 0
+
+04/12 15:13:14:305 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 86) ) 
+
+04/12 15:13:15:303 Enquirelink request: (enquirelink: (pdu: 0 15 0 [87]) ) 
+
+04/12 15:13:15:303 Local queue size: 0
+
+04/12 15:13:15:305 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 87) ) 
+
+04/12 15:13:16:304 Enquirelink request: (enquirelink: (pdu: 0 15 0 [88]) ) 
+
+04/12 15:13:16:304 Local queue size: 0
+
+04/12 15:13:16:307 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 88) ) 
+
+04/12 15:13:17:305 Enquirelink request: (enquirelink: (pdu: 0 15 0 [89]) ) 
+
+04/12 15:13:17:305 Local queue size: 0
+
+04/12 15:13:17:307 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 89) ) 
+
+04/12 15:13:18:306 Enquirelink request: (enquirelink: (pdu: 0 15 0 [90]) ) 
+
+04/12 15:13:18:306 Local queue size: 0
+
+04/12 15:13:18:309 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 90) ) 
+
+04/12 15:13:19:306 Enquirelink request: (enquirelink: (pdu: 0 15 0 [91]) ) 
+
+04/12 15:13:19:306 Local queue size: 0
+
+04/12 15:13:19:308 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 91) ) 
+
+04/12 15:13:20:307 Enquirelink request: (enquirelink: (pdu: 0 15 0 [92]) ) 
+
+04/12 15:13:20:307 Local queue size: 0
+
+04/12 15:13:20:309 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 92) ) 
+
+04/12 15:13:21:308 Enquirelink request: (enquirelink: (pdu: 0 15 0 [93]) ) 
+
+04/12 15:13:21:308 Local queue size: 0
+
+04/12 15:13:21:311 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 93) ) 
+
+04/12 15:13:22:309 Enquirelink request: (enquirelink: (pdu: 0 15 0 [94]) ) 
+
+04/12 15:13:22:309 Local queue size: 0
+
+04/12 15:13:22:312 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 94) ) 
+
+04/12 15:13:23:310 Enquirelink request: (enquirelink: (pdu: 0 15 0 [95]) ) 
+
+04/12 15:13:23:310 Local queue size: 0
+
+04/12 15:13:23:312 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 95) ) 
+
+04/12 15:13:24:311 Enquirelink request: (enquirelink: (pdu: 0 15 0 [96]) ) 
+
+04/12 15:13:24:311 Local queue size: 0
+
+04/12 15:13:24:314 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 96) ) 
+
+04/12 15:13:25:312 Enquirelink request: (enquirelink: (pdu: 0 15 0 [97]) ) 
+
+04/12 15:13:25:313 Local queue size: 0
+
+04/12 15:13:25:315 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 97) ) 
+
+04/12 15:13:26:313 Enquirelink request: (enquirelink: (pdu: 0 15 0 [98]) ) 
+
+04/12 15:13:26:313 Local queue size: 0
+
+04/12 15:13:26:315 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 98) ) 
+
+04/12 15:13:27:314 Enquirelink request: (enquirelink: (pdu: 0 15 0 [99]) ) 
+
+04/12 15:13:27:314 Local queue size: 0
+
+04/12 15:13:27:316 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 99) ) 
+
+04/12 15:13:28:315 Enquirelink request: (enquirelink: (pdu: 0 15 0 [101]) ) 
+
+04/12 15:13:28:318 Local queue size: 0
+
+04/12 15:13:28:320 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 101) ) 
+
+04/12 15:13:29:315 Enquirelink request: (enquirelink: (pdu: 0 15 0 [102]) ) 
+
+04/12 15:13:29:315 Local queue size: 0
+
+04/12 15:13:29:318 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 102) ) 
+
+04/12 15:13:30:316 Enquirelink request: (enquirelink: (pdu: 0 15 0 [103]) ) 
+
+04/12 15:13:30:317 Local queue size: 0
+
+04/12 15:13:30:319 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 103) ) 
+
+04/12 15:13:31:317 Enquirelink request: (enquirelink: (pdu: 0 15 0 [104]) ) 
+
+04/12 15:13:31:317 Local queue size: 0
+
+04/12 15:13:31:319 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 104) ) 
+
+04/12 15:13:32:318 Enquirelink request: (enquirelink: (pdu: 0 15 0 [105]) ) 
+
+04/12 15:13:32:319 Local queue size: 0
+
+04/12 15:13:32:322 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 105) ) 
+
+04/12 15:13:33:319 Enquirelink request: (enquirelink: (pdu: 0 15 0 [106]) ) 
+
+04/12 15:13:33:319 Local queue size: 0
+
+04/12 15:13:33:321 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 106) ) 
+
+04/12 15:13:34:320 Enquirelink request: (enquirelink: (pdu: 0 15 0 [107]) ) 
+
+04/12 15:13:34:321 Local queue size: 0
+
+04/12 15:13:34:323 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 107) ) 
+
+04/12 15:13:35:321 Enquirelink request: (enquirelink: (pdu: 0 15 0 [108]) ) 
+
+04/12 15:13:35:321 Local queue size: 0
+
+04/12 15:13:35:323 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 108) ) 
+
+04/12 15:13:36:322 Enquirelink request: (enquirelink: (pdu: 0 15 0 [109]) ) 
+
+04/12 15:13:36:322 Local queue size: 0
+
+04/12 15:13:36:324 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 109) ) 
+
+04/12 15:13:37:323 Enquirelink request: (enquirelink: (pdu: 0 15 0 [110]) ) 
+
+04/12 15:13:37:323 Local queue size: 0
+
+04/12 15:13:37:325 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 110) ) 
+
+04/12 15:13:38:324 Enquirelink request: (enquirelink: (pdu: 0 15 0 [111]) ) 
+
+04/12 15:13:38:324 Local queue size: 0
+
+04/12 15:13:38:327 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 111) ) 
+
+04/12 15:13:39:325 Enquirelink request: (enquirelink: (pdu: 0 15 0 [112]) ) 
+
+04/12 15:13:39:325 Local queue size: 0
+
+04/12 15:13:39:327 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 112) ) 
+
+04/12 15:13:40:326 Enquirelink request: (enquirelink: (pdu: 0 15 0 [113]) ) 
+
+04/12 15:13:40:327 Local queue size: 0
+
+04/12 15:13:40:329 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 113) ) 
+
+04/12 15:13:41:327 Enquirelink request: (enquirelink: (pdu: 0 15 0 [114]) ) 
+
+04/12 15:13:41:327 Local queue size: 0
+
+04/12 15:13:41:331 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 114) ) 
+
+04/12 15:13:42:328 Enquirelink request: (enquirelink: (pdu: 0 15 0 [115]) ) 
+
+04/12 15:13:42:328 Local queue size: 0
+
+04/12 15:13:42:330 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 115) ) 
+
+04/12 15:13:43:329 Enquirelink request: (enquirelink: (pdu: 0 15 0 [116]) ) 
+
+04/12 15:13:43:329 Local queue size: 0
+
+04/12 15:13:43:333 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 116) ) 
+
+04/12 15:13:44:330 Enquirelink request: (enquirelink: (pdu: 0 15 0 [117]) ) 
+
+04/12 15:13:44:330 Local queue size: 0
+
+04/12 15:13:44:332 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 117) ) 
+
+04/12 15:13:45:331 Enquirelink request: (enquirelink: (pdu: 0 15 0 [118]) ) 
+
+04/12 15:13:45:332 Local queue size: 0
+
+04/12 15:13:45:334 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 118) ) 
+
+04/12 15:13:46:332 Enquirelink request: (enquirelink: (pdu: 0 15 0 [119]) ) 
+
+04/12 15:13:46:333 Local queue size: 0
+
+04/12 15:13:46:335 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 119) ) 
+
+04/12 15:13:47:333 Enquirelink request: (enquirelink: (pdu: 0 15 0 [120]) ) 
+
+04/12 15:13:47:334 Local queue size: 0
+
+04/12 15:13:47:335 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 120) ) 
+
+04/12 15:13:48:334 Enquirelink request: (enquirelink: (pdu: 0 15 0 [121]) ) 
+
+04/12 15:13:48:334 Local queue size: 0
+
+04/12 15:13:48:337 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 121) ) 
+
+04/12 15:13:49:335 Enquirelink request: (enquirelink: (pdu: 0 15 0 [122]) ) 
+
+04/12 15:13:49:335 Local queue size: 0
+
+04/12 15:13:49:337 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 122) ) 
+
+04/12 15:13:50:336 Enquirelink request: (enquirelink: (pdu: 0 15 0 [123]) ) 
+
+04/12 15:13:50:337 Local queue size: 0
+
+04/12 15:13:50:339 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 123) ) 
+
+04/12 15:13:51:337 Enquirelink request: (enquirelink: (pdu: 0 15 0 [124]) ) 
+
+04/12 15:13:51:337 Local queue size: 0
+
+04/12 15:13:51:342 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 124) ) 
+
+04/12 15:13:52:338 Enquirelink request: (enquirelink: (pdu: 0 15 0 [125]) ) 
+
+04/12 15:13:52:338 Local queue size: 0
+
+04/12 15:13:52:340 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 125) ) 
+
+04/12 15:13:53:339 Enquirelink request: (enquirelink: (pdu: 0 15 0 [126]) ) 
+
+04/12 15:13:53:339 Local queue size: 0
+
+04/12 15:13:53:341 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 126) ) 
+
+04/12 15:13:54:340 Enquirelink request: (enquirelink: (pdu: 0 15 0 [127]) ) 
+
+04/12 15:13:54:340 Local queue size: 0
+
+04/12 15:13:54:342 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 127) ) 
+
+04/12 15:13:55:341 Enquirelink request: (enquirelink: (pdu: 0 15 0 [128]) ) 
+
+04/12 15:13:55:341 Local queue size: 0
+
+04/12 15:13:55:344 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 128) ) 
+
+04/12 15:13:56:342 Enquirelink request: (enquirelink: (pdu: 0 15 0 [129]) ) 
+
+04/12 15:13:56:343 Local queue size: 0
+
+04/12 15:13:56:344 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 129) ) 
+
+04/12 15:13:57:343 Enquirelink request: (enquirelink: (pdu: 0 15 0 [130]) ) 
+
+04/12 15:13:57:344 Local queue size: 0
+
+04/12 15:13:57:346 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 130) ) 
+
+04/12 15:13:58:343 Enquirelink request: (enquirelink: (pdu: 0 15 0 [132]) ) 
+
+04/12 15:13:58:344 Local queue size: 0
+
+04/12 15:13:58:349 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 132) ) 
+
+04/12 15:13:59:344 Enquirelink request: (enquirelink: (pdu: 0 15 0 [133]) ) 
+
+04/12 15:13:59:344 Local queue size: 0
+
+04/12 15:13:59:346 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 133) ) 
+
+04/12 15:14:00:345 Enquirelink request: (enquirelink: (pdu: 0 15 0 [134]) ) 
+
+04/12 15:14:00:346 Local queue size: 0
+
+04/12 15:14:00:348 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 134) ) 
+
+04/12 15:14:01:346 Enquirelink request: (enquirelink: (pdu: 0 15 0 [135]) ) 
+
+04/12 15:14:01:346 Local queue size: 0
+
+04/12 15:14:01:349 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 135) ) 
+
+04/12 15:14:02:347 Enquirelink request: (enquirelink: (pdu: 0 15 0 [136]) ) 
+
+04/12 15:14:02:347 Local queue size: 0
+
+04/12 15:14:02:349 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 136) ) 
+
+04/12 15:14:03:348 Enquirelink request: (enquirelink: (pdu: 0 15 0 [137]) ) 
+
+04/12 15:14:03:349 Local queue size: 0
+
+04/12 15:14:03:351 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 137) ) 
+
+04/12 15:14:04:349 Enquirelink request: (enquirelink: (pdu: 0 15 0 [138]) ) 
+
+04/12 15:14:04:349 Local queue size: 0
+
+04/12 15:14:04:352 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 138) ) 
+
+04/12 15:14:05:350 Enquirelink request: (enquirelink: (pdu: 0 15 0 [139]) ) 
+
+04/12 15:14:05:351 Local queue size: 0
+
+04/12 15:14:05:353 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 139) ) 
+
+04/12 15:14:06:351 Enquirelink request: (enquirelink: (pdu: 0 15 0 [140]) ) 
+
+04/12 15:14:06:351 Local queue size: 0
+
+04/12 15:14:06:354 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 140) ) 
+
+04/12 15:14:07:352 Enquirelink request: (enquirelink: (pdu: 0 15 0 [141]) ) 
+
+04/12 15:14:07:352 Local queue size: 0
+
+04/12 15:14:07:354 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 141) ) 
+
+04/12 15:14:08:353 Enquirelink request: (enquirelink: (pdu: 0 15 0 [142]) ) 
+
+04/12 15:14:08:353 Local queue size: 0
+
+04/12 15:14:08:355 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 142) ) 
+
+04/12 15:14:09:354 Enquirelink request: (enquirelink: (pdu: 0 15 0 [143]) ) 
+
+04/12 15:14:09:355 Local queue size: 0
+
+04/12 15:14:09:356 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 143) ) 
+
+04/12 15:14:10:355 Enquirelink request: (enquirelink: (pdu: 0 15 0 [144]) ) 
+
+04/12 15:14:10:355 Local queue size: 0
+
+04/12 15:14:10:357 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 144) ) 
+
+04/12 15:14:11:356 Enquirelink request: (enquirelink: (pdu: 0 15 0 [145]) ) 
+
+04/12 15:14:11:356 Local queue size: 0
+
+04/12 15:14:11:358 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 145) ) 
+
+04/12 15:14:12:357 Enquirelink request: (enquirelink: (pdu: 0 15 0 [146]) ) 
+
+04/12 15:14:12:357 Local queue size: 0
+
+04/12 15:14:12:360 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 146) ) 
+
+04/12 15:14:13:358 Enquirelink request: (enquirelink: (pdu: 0 15 0 [147]) ) 
+
+04/12 15:14:13:358 Local queue size: 0
+
+04/12 15:14:13:362 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 147) ) 
+
+04/12 15:14:14:359 Enquirelink request: (enquirelink: (pdu: 0 15 0 [148]) ) 
+
+04/12 15:14:14:359 Local queue size: 0
+
+04/12 15:14:14:361 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 148) ) 
+
+04/12 15:14:15:360 Enquirelink request: (enquirelink: (pdu: 0 15 0 [149]) ) 
+
+04/12 15:14:15:361 Local queue size: 0
+
+04/12 15:14:15:362 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 149) ) 
+
+04/12 15:14:16:361 Enquirelink request: (enquirelink: (pdu: 0 15 0 [150]) ) 
+
+04/12 15:14:16:361 Local queue size: 0
+
+04/12 15:14:16:371 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 150) ) 
+
+04/12 15:14:17:362 Enquirelink request: (enquirelink: (pdu: 0 15 0 [151]) ) 
+
+04/12 15:14:17:362 Local queue size: 0
+
+04/12 15:14:17:364 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 151) ) 
+
+04/12 15:14:18:363 Enquirelink request: (enquirelink: (pdu: 0 15 0 [152]) ) 
+
+04/12 15:14:18:363 Local queue size: 0
+
+04/12 15:14:18:365 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 152) ) 
+
+04/12 15:14:19:364 Enquirelink request: (enquirelink: (pdu: 0 15 0 [153]) ) 
+
+04/12 15:14:19:364 Local queue size: 0
+
+04/12 15:14:19:366 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 153) ) 
+
+04/12 15:14:20:365 Enquirelink request: (enquirelink: (pdu: 0 15 0 [154]) ) 
+
+04/12 15:14:20:366 Local queue size: 0
+
+04/12 15:14:20:367 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 154) ) 
+
+04/12 15:14:21:366 Enquirelink request: (enquirelink: (pdu: 0 15 0 [155]) ) 
+
+04/12 15:14:21:366 Local queue size: 0
+
+04/12 15:14:21:373 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 155) ) 
+
+04/12 15:14:22:367 Enquirelink request: (enquirelink: (pdu: 0 15 0 [156]) ) 
+
+04/12 15:14:22:367 Local queue size: 0
+
+04/12 15:14:22:369 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 156) ) 
+
+04/12 15:14:23:368 Enquirelink request: (enquirelink: (pdu: 0 15 0 [157]) ) 
+
+04/12 15:14:23:368 Local queue size: 0
+
+04/12 15:14:23:370 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 157) ) 
+
+04/12 15:14:24:369 Enquirelink request: (enquirelink: (pdu: 0 15 0 [158]) ) 
+
+04/12 15:14:24:369 Local queue size: 0
+
+04/12 15:14:24:371 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 158) ) 
+
+04/12 15:14:25:370 Enquirelink request: (enquirelink: (pdu: 0 15 0 [159]) ) 
+
+04/12 15:14:25:371 Local queue size: 0
+
+04/12 15:14:25:373 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 159) ) 
+
+04/12 15:14:26:371 Enquirelink request: (enquirelink: (pdu: 0 15 0 [160]) ) 
+
+04/12 15:14:26:372 Local queue size: 0
+
+04/12 15:14:26:374 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 160) ) 
+
+04/12 15:14:27:372 Enquirelink request: (enquirelink: (pdu: 0 15 0 [161]) ) 
+
+04/12 15:14:27:372 Local queue size: 0
+
+04/12 15:14:27:374 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 161) ) 
+
+04/12 15:14:28:373 Enquirelink request: (enquirelink: (pdu: 0 15 0 [163]) ) 
+
+04/12 15:14:28:373 Local queue size: 0
+
+04/12 15:14:28:375 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 163) ) 
+
+04/12 15:14:29:374 Enquirelink request: (enquirelink: (pdu: 0 15 0 [164]) ) 
+
+04/12 15:14:29:374 Local queue size: 0
+
+04/12 15:14:29:379 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 164) ) 
+
+04/12 15:14:30:375 Enquirelink request: (enquirelink: (pdu: 0 15 0 [165]) ) 
+
+04/12 15:14:30:375 Local queue size: 0
+
+04/12 15:14:30:378 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 165) ) 
+

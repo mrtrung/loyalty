@@ -1,0 +1,1398 @@
+15/05 09:25:16:260 Command Routing started
+15/05 09:25:16:267 Starting process session
+15/05 09:25:16:499 Init queue connection pool 1400120716499
+15/05 09:25:16:863 Total 0 instances are started
+15/05 09:25:16:864 Total 5 instances are added
+15/05 09:25:40:696 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:25:40:697 Consumer was closed, reconnect.
+15/05 09:25:40:805 Total 4 instances are started
+15/05 09:25:40:806 Total 1 instances are added
+15/05 09:26:01:728 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:26:01:729 Consumer was closed, reconnect.
+15/05 09:26:01:745 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:26:01:745 Consumer was closed, reconnect.
+15/05 09:26:01:757 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:26:01:757 Consumer was closed, reconnect.
+15/05 09:26:01:771 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:26:01:771 Consumer was closed, reconnect.
+15/05 09:26:01:816 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:26:01:817 Consumer was closed, reconnect.
+15/05 09:26:02:130 Total 1 instances are started
+15/05 09:26:02:131 Total 4 instances are added
+15/05 09:26:02:242 Total 4 instances are started
+15/05 09:26:02:243 Total 1 instances are added
+15/05 09:26:22:858 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:26:22:874 Consumer was closed, reconnect.
+15/05 09:26:22:955 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:26:22:956 Consumer was closed, reconnect.
+15/05 09:26:23:056 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:26:23:057 Consumer was closed, reconnect.
+15/05 09:26:23:155 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:26:23:156 Consumer was closed, reconnect.
+15/05 09:26:23:262 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:26:23:262 Consumer was closed, reconnect.
+15/05 09:26:23:282 Total 1 instances are started
+15/05 09:26:23:283 Total 4 instances are added
+15/05 09:26:23:394 Total 4 instances are started
+15/05 09:26:23:395 Total 1 instances are added
+15/05 09:26:44:000 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:26:44:001 Consumer was closed, reconnect.
+15/05 09:26:44:108 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:26:44:110 Consumer was closed, reconnect.
+15/05 09:26:44:108 Total 4 instances are started
+15/05 09:26:44:110 Total 1 instances are added
+15/05 09:26:44:208 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:26:44:209 Consumer was closed, reconnect.
+15/05 09:26:44:319 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:26:44:320 Consumer was closed, reconnect.
+15/05 09:26:44:422 Total 2 instances are started
+15/05 09:26:44:423 Total 3 instances are added
+15/05 09:26:44:430 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:26:44:430 Consumer was closed, reconnect.
+15/05 09:26:44:533 Total 4 instances are started
+15/05 09:26:44:533 Total 1 instances are added
+15/05 09:27:05:136 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:27:05:137 Consumer was closed, reconnect.
+15/05 09:27:05:235 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:27:05:236 Consumer was closed, reconnect.
+15/05 09:27:05:341 Total 3 instances are started
+15/05 09:27:05:341 Total 2 instances are added
+15/05 09:27:05:345 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:27:05:345 Consumer was closed, reconnect.
+15/05 09:27:05:443 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:27:05:443 Consumer was closed, reconnect.
+15/05 09:27:05:545 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:27:05:545 Consumer was closed, reconnect.
+15/05 09:27:05:552 Total 3 instances are started
+15/05 09:27:05:553 Total 2 instances are added
+15/05 09:27:05:663 Total 4 instances are started
+15/05 09:27:05:664 Total 1 instances are added
+15/05 09:27:26:278 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:27:26:279 Consumer was closed, reconnect.
+15/05 09:27:26:368 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:27:26:369 Consumer was closed, reconnect.
+15/05 09:27:26:481 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:27:26:481 Consumer was closed, reconnect.
+15/05 09:27:26:581 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:27:26:581 Consumer was closed, reconnect.
+15/05 09:27:26:686 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:27:26:686 Consumer was closed, reconnect.
+15/05 09:27:26:687 Total 1 instances are started
+15/05 09:27:26:688 Total 4 instances are added
+15/05 09:27:26:800 Total 4 instances are started
+15/05 09:27:26:801 Total 1 instances are added
+15/05 09:27:47:403 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:27:47:404 Consumer was closed, reconnect.
+15/05 09:27:47:506 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:27:47:506 Consumer was closed, reconnect.
+15/05 09:27:47:612 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:27:47:613 Consumer was closed, reconnect.
+15/05 09:27:47:612 Total 3 instances are started
+15/05 09:27:47:614 Total 2 instances are added
+15/05 09:27:47:705 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:27:47:705 Consumer was closed, reconnect.
+15/05 09:27:47:824 Total 3 instances are started
+15/05 09:27:47:825 Total 2 instances are added
+15/05 09:27:47:827 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:27:47:827 Consumer was closed, reconnect.
+15/05 09:27:47:935 Total 4 instances are started
+15/05 09:27:47:936 Total 1 instances are added
+15/05 09:28:08:530 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:28:08:531 Consumer was closed, reconnect.
+15/05 09:28:08:631 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:28:08:632 Consumer was closed, reconnect.
+15/05 09:28:08:738 Total 3 instances are started
+15/05 09:28:08:738 Total 2 instances are added
+15/05 09:28:08:749 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:28:08:750 Consumer was closed, reconnect.
+15/05 09:28:08:844 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:28:08:844 Consumer was closed, reconnect.
+15/05 09:28:08:959 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:28:08:960 Consumer was closed, reconnect.
+15/05 09:28:08:959 Total 3 instances are started
+15/05 09:28:08:961 Total 2 instances are added
+15/05 09:28:09:072 Total 4 instances are started
+15/05 09:28:09:073 Total 1 instances are added
+15/05 09:28:29:663 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:28:29:663 Consumer was closed, reconnect.
+15/05 09:28:29:759 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:28:29:759 Consumer was closed, reconnect.
+15/05 09:28:29:865 Total 3 instances are started
+15/05 09:28:29:866 Total 2 instances are added
+15/05 09:28:29:880 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:28:29:880 Consumer was closed, reconnect.
+15/05 09:28:29:986 Total 4 instances are started
+15/05 09:28:29:987 Total 1 instances are added
+15/05 09:28:29:997 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:28:29:998 Consumer was closed, reconnect.
+15/05 09:28:30:105 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:28:30:107 Total 4 instances are started
+15/05 09:28:30:107 Total 1 instances are added
+15/05 09:28:30:106 Consumer was closed, reconnect.
+15/05 09:28:30:218 Total 4 instances are started
+15/05 09:28:30:218 Total 1 instances are added
+15/05 09:28:50:782 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:28:50:783 Consumer was closed, reconnect.
+15/05 09:28:50:882 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:28:50:882 Consumer was closed, reconnect.
+15/05 09:28:50:985 Total 3 instances are started
+15/05 09:28:50:985 Total 2 instances are added
+15/05 09:28:51:000 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:28:51:000 Consumer was closed, reconnect.
+15/05 09:28:51:106 Total 4 instances are started
+15/05 09:28:51:106 Total 1 instances are added
+15/05 09:28:51:134 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:28:51:135 Consumer was closed, reconnect.
+15/05 09:28:51:234 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:28:51:234 Consumer was closed, reconnect.
+15/05 09:28:51:237 Total 4 instances are started
+15/05 09:28:51:237 Total 1 instances are added
+15/05 09:28:51:347 Total 4 instances are started
+15/05 09:28:51:348 Total 1 instances are added
+15/05 09:29:11:906 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:29:11:907 Consumer was closed, reconnect.
+15/05 09:29:11:994 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:29:11:995 Consumer was closed, reconnect.
+15/05 09:29:12:120 Total 3 instances are started
+15/05 09:29:12:120 Total 2 instances are added
+15/05 09:29:12:126 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:29:12:126 Consumer was closed, reconnect.
+15/05 09:29:12:231 Total 4 instances are started
+15/05 09:29:12:232 Total 1 instances are added
+15/05 09:29:12:258 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:29:12:259 Consumer was closed, reconnect.
+15/05 09:29:12:362 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:29:12:363 Consumer was closed, reconnect.
+15/05 09:29:12:365 Total 4 instances are started
+15/05 09:29:12:365 Total 1 instances are added
+15/05 09:29:12:475 Total 4 instances are started
+15/05 09:29:12:476 Total 1 instances are added
+15/05 09:29:33:035 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:29:33:036 Consumer was closed, reconnect.
+15/05 09:29:33:137 Total 4 instances are started
+15/05 09:29:33:137 Total 1 instances are added
+15/05 09:29:33:149 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:29:33:149 Consumer was closed, reconnect.
+15/05 09:29:33:258 Total 4 instances are started
+15/05 09:29:33:259 Total 1 instances are added
+15/05 09:29:33:260 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:29:33:261 Consumer was closed, reconnect.
+15/05 09:29:33:369 Total 4 instances are started
+15/05 09:29:33:370 Total 1 instances are added
+15/05 09:29:33:389 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:29:33:390 Consumer was closed, reconnect.
+15/05 09:29:33:491 Total 4 instances are started
+15/05 09:29:33:492 Total 1 instances are added
+15/05 09:29:33:499 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:29:33:500 Consumer was closed, reconnect.
+15/05 09:29:33:602 Total 4 instances are started
+15/05 09:29:33:602 Total 1 instances are added
+15/05 09:29:54:166 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:29:54:166 Consumer was closed, reconnect.
+15/05 09:29:54:269 Total 4 instances are started
+15/05 09:29:54:270 Total 1 instances are added
+15/05 09:29:54:287 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:29:54:288 Consumer was closed, reconnect.
+15/05 09:29:54:387 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:29:54:387 Consumer was closed, reconnect.
+15/05 09:29:54:490 Total 3 instances are started
+15/05 09:29:54:491 Total 2 instances are added
+15/05 09:29:54:529 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:29:54:530 Consumer was closed, reconnect.
+15/05 09:29:54:630 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:29:54:630 Consumer was closed, reconnect.
+15/05 09:29:54:631 Total 4 instances are started
+15/05 09:29:54:631 Total 1 instances are added
+15/05 09:29:54:742 Total 4 instances are started
+15/05 09:29:54:743 Total 1 instances are added
+15/05 09:30:15:283 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:30:15:283 Consumer was closed, reconnect.
+15/05 09:30:15:385 Total 4 instances are started
+15/05 09:30:15:385 Total 1 instances are added
+15/05 09:30:15:396 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:30:15:397 Consumer was closed, reconnect.
+15/05 09:30:15:505 Total 4 instances are started
+15/05 09:30:15:506 Total 1 instances are added
+15/05 09:30:15:508 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:30:15:509 Consumer was closed, reconnect.
+15/05 09:30:15:616 Total 4 instances are started
+15/05 09:30:15:617 Total 1 instances are added
+15/05 09:30:15:648 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:30:15:649 Consumer was closed, reconnect.
+15/05 09:30:15:757 Total 4 instances are started
+15/05 09:30:15:758 Total 1 instances are added
+15/05 09:30:15:777 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:30:15:777 Consumer was closed, reconnect.
+15/05 09:30:15:879 Total 4 instances are started
+15/05 09:30:15:880 Total 1 instances are added
+15/05 09:30:36:411 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:30:36:412 Consumer was closed, reconnect.
+15/05 09:30:36:527 Total 4 instances are started
+15/05 09:30:36:528 Total 1 instances are added
+15/05 09:30:36:531 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:30:36:532 Consumer was closed, reconnect.
+15/05 09:30:36:638 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:30:36:638 Total 4 instances are started
+15/05 09:30:36:638 Consumer was closed, reconnect.
+15/05 09:30:36:639 Total 1 instances are added
+15/05 09:30:36:750 Total 4 instances are started
+15/05 09:30:36:751 Total 1 instances are added
+15/05 09:30:36:779 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:30:36:779 Consumer was closed, reconnect.
+15/05 09:30:36:881 Total 4 instances are started
+15/05 09:30:36:882 Total 1 instances are added
+15/05 09:30:36:899 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:30:36:900 Consumer was closed, reconnect.
+15/05 09:30:37:002 Total 4 instances are started
+15/05 09:30:37:002 Total 1 instances are added
+15/05 09:30:57:562 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:30:57:563 Consumer was closed, reconnect.
+15/05 09:30:57:660 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:30:57:661 Consumer was closed, reconnect.
+15/05 09:30:57:766 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:30:57:766 Consumer was closed, reconnect.
+15/05 09:30:57:892 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:30:57:893 Consumer was closed, reconnect.
+15/05 09:30:57:892 Total 2 instances are started
+15/05 09:30:57:895 Total 3 instances are added
+15/05 09:30:58:006 Total 4 instances are started
+15/05 09:30:58:007 Total 1 instances are added
+15/05 09:30:58:021 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:30:58:022 Consumer was closed, reconnect.
+15/05 09:30:58:128 Total 4 instances are started
+15/05 09:30:58:129 Total 1 instances are added
+15/05 09:31:18:691 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:31:18:692 Consumer was closed, reconnect.
+15/05 09:31:18:800 Total 4 instances are started
+15/05 09:31:18:800 Total 1 instances are added
+15/05 09:31:18:809 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:31:18:809 Consumer was closed, reconnect.
+15/05 09:31:18:911 Total 4 instances are started
+15/05 09:31:18:911 Total 1 instances are added
+15/05 09:31:18:919 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:31:18:920 Consumer was closed, reconnect.
+15/05 09:31:19:022 Total 4 instances are started
+15/05 09:31:19:023 Total 1 instances are added
+15/05 09:31:19:031 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:31:19:032 Consumer was closed, reconnect.
+15/05 09:31:19:143 Total 4 instances are started
+15/05 09:31:19:143 Total 1 instances are added
+15/05 09:31:19:152 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:31:19:152 Consumer was closed, reconnect.
+15/05 09:31:19:254 Total 4 instances are started
+15/05 09:31:19:255 Total 1 instances are added
+15/05 09:31:39:833 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:31:39:834 Consumer was closed, reconnect.
+15/05 09:31:39:927 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:31:39:928 Consumer was closed, reconnect.
+15/05 09:31:40:037 Total 3 instances are started
+15/05 09:31:40:038 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:31:40:038 Total 2 instances are added
+15/05 09:31:40:038 Consumer was closed, reconnect.
+15/05 09:31:40:149 Total 4 instances are started
+15/05 09:31:40:149 Total 1 instances are added
+15/05 09:31:40:167 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:31:40:168 Consumer was closed, reconnect.
+15/05 09:31:40:278 Total 4 instances are started
+15/05 09:31:40:278 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:31:40:279 Consumer was closed, reconnect.
+15/05 09:31:40:279 Total 1 instances are added
+15/05 09:31:40:391 Total 4 instances are started
+15/05 09:31:40:392 Total 1 instances are added
+15/05 09:32:00:955 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:32:00:956 Consumer was closed, reconnect.
+15/05 09:32:01:063 Total 4 instances are started
+15/05 09:32:01:064 Total 1 instances are added
+15/05 09:32:01:076 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:32:01:077 Consumer was closed, reconnect.
+15/05 09:32:01:182 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:32:01:182 Consumer was closed, reconnect.
+15/05 09:32:01:285 Total 3 instances are started
+15/05 09:32:01:286 Total 2 instances are added
+15/05 09:32:01:305 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:32:01:306 Consumer was closed, reconnect.
+15/05 09:32:01:405 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:32:01:405 Consumer was closed, reconnect.
+15/05 09:32:01:407 Total 4 instances are started
+15/05 09:32:01:407 Total 1 instances are added
+15/05 09:32:01:517 Total 4 instances are started
+15/05 09:32:01:518 Total 1 instances are added
+15/05 09:32:22:094 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:32:22:095 Consumer was closed, reconnect.
+15/05 09:32:22:204 Total 4 instances are started
+15/05 09:32:22:205 Total 1 instances are added
+15/05 09:32:22:208 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:32:22:208 Consumer was closed, reconnect.
+15/05 09:32:22:314 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:32:22:315 Consumer was closed, reconnect.
+15/05 09:32:22:315 Total 4 instances are started
+15/05 09:32:22:315 Total 1 instances are added
+15/05 09:32:22:426 Total 4 instances are started
+15/05 09:32:22:430 Total 1 instances are added
+15/05 09:32:22:445 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:32:22:445 Consumer was closed, reconnect.
+15/05 09:32:22:545 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:32:22:546 Consumer was closed, reconnect.
+15/05 09:32:22:641 Total 3 instances are started
+15/05 09:32:22:642 Total 2 instances are added
+15/05 09:32:22:752 Total 4 instances are started
+15/05 09:32:22:753 Total 1 instances are added
+15/05 09:32:43:224 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:32:43:225 Consumer was closed, reconnect.
+15/05 09:32:43:332 Total 4 instances are started
+15/05 09:32:43:333 Total 1 instances are added
+15/05 09:32:43:337 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:32:43:338 Consumer was closed, reconnect.
+15/05 09:32:43:443 Total 4 instances are started
+15/05 09:32:43:444 Total 1 instances are added
+15/05 09:32:43:557 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:32:43:557 Consumer was closed, reconnect.
+15/05 09:32:43:659 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:32:43:660 Consumer was closed, reconnect.
+15/05 09:32:43:764 Total 3 instances are started
+15/05 09:32:43:764 Total 2 instances are added
+15/05 09:32:43:783 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:32:43:783 Consumer was closed, reconnect.
+15/05 09:32:43:885 Total 4 instances are started
+15/05 09:32:43:886 Total 1 instances are added
+15/05 09:33:04:348 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:33:04:348 Consumer was closed, reconnect.
+15/05 09:33:04:453 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:33:04:453 Consumer was closed, reconnect.
+15/05 09:33:04:555 Total 3 instances are started
+15/05 09:33:04:556 Total 2 instances are added
+15/05 09:33:04:665 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:33:04:666 Consumer was closed, reconnect.
+15/05 09:33:04:774 Total 4 instances are started
+15/05 09:33:04:775 Total 1 instances are added
+15/05 09:33:04:784 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:33:04:785 Consumer was closed, reconnect.
+15/05 09:33:04:895 Total 4 instances are started
+15/05 09:33:04:896 Total 1 instances are added
+15/05 09:33:04:911 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:33:04:911 Consumer was closed, reconnect.
+15/05 09:33:05:016 Total 4 instances are started
+15/05 09:33:05:017 Total 1 instances are added
+15/05 09:33:25:465 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:33:25:466 Consumer was closed, reconnect.
+15/05 09:33:25:569 Total 4 instances are started
+15/05 09:33:25:570 Total 1 instances are added
+15/05 09:33:25:584 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:33:25:585 Consumer was closed, reconnect.
+15/05 09:33:25:690 Total 4 instances are started
+15/05 09:33:25:691 Total 1 instances are added
+15/05 09:33:25:794 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:33:25:794 Consumer was closed, reconnect.
+15/05 09:33:25:903 Total 4 instances are started
+15/05 09:33:25:904 Total 1 instances are added
+15/05 09:33:25:921 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:33:25:921 Consumer was closed, reconnect.
+15/05 09:33:26:023 Total 4 instances are started
+15/05 09:33:26:024 Total 1 instances are added
+15/05 09:33:26:066 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:33:26:066 Consumer was closed, reconnect.
+15/05 09:33:26:176 Total 4 instances are started
+15/05 09:33:26:177 Total 1 instances are added
+15/05 09:33:46:581 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:33:46:581 Consumer was closed, reconnect.
+15/05 09:33:46:685 Total 4 instances are started
+15/05 09:33:46:685 Total 1 instances are added
+15/05 09:33:46:707 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:33:46:707 Consumer was closed, reconnect.
+15/05 09:33:46:815 Total 4 instances are started
+15/05 09:33:46:815 Total 1 instances are added
+15/05 09:33:46:936 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:33:46:937 Consumer was closed, reconnect.
+15/05 09:33:47:037 Total 4 instances are started
+15/05 09:33:47:037 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:33:47:037 Total 1 instances are added
+15/05 09:33:47:037 Consumer was closed, reconnect.
+15/05 09:33:47:148 Total 4 instances are started
+15/05 09:33:47:148 Total 1 instances are added
+15/05 09:33:47:188 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:33:47:188 Consumer was closed, reconnect.
+15/05 09:33:47:291 Total 4 instances are started
+15/05 09:33:47:291 Total 1 instances are added
+15/05 09:34:07:702 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:34:07:702 Consumer was closed, reconnect.
+15/05 09:34:07:806 Total 4 instances are started
+15/05 09:34:07:807 Total 1 instances are added
+15/05 09:34:07:832 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:34:07:833 Consumer was closed, reconnect.
+15/05 09:34:07:937 Total 4 instances are started
+15/05 09:34:07:938 Total 1 instances are added
+15/05 09:34:08:058 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:34:08:059 Consumer was closed, reconnect.
+15/05 09:34:08:168 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:34:08:169 Total 4 instances are started
+
+15/05 09:34:08:170 Total 1 instances are added
+15/05 09:34:08:280 Total 4 instances are started
+15/05 09:34:08:281 Total 1 instances are added
+15/05 09:34:08:312 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:34:08:313 Consumer was closed, reconnect.
+15/05 09:34:08:422 Total 4 instances are started
+15/05 09:34:08:423 Total 1 instances are added
+15/05 09:34:28:829 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:34:28:829 Consumer was closed, reconnect.
+15/05 09:34:28:930 Total 4 instances are started
+15/05 09:34:28:931 Total 1 instances are added
+15/05 09:34:28:967 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:34:28:968 Consumer was closed, reconnect.
+15/05 09:34:29:072 Total 4 instances are started
+15/05 09:34:29:072 Total 1 instances are added
+15/05 09:34:29:200 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:34:29:201 Consumer was closed, reconnect.
+15/05 09:34:29:304 Total 4 instances are started
+15/05 09:34:29:304 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:34:29:305 Consumer was closed, reconnect.
+15/05 09:34:29:304 Total 1 instances are added
+15/05 09:34:29:416 Total 4 instances are started
+15/05 09:34:29:417 Total 1 instances are added
+15/05 09:34:29:446 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:34:29:446 Consumer was closed, reconnect.
+15/05 09:34:29:547 Total 4 instances are started
+15/05 09:34:29:547 Total 1 instances are added
+15/05 09:34:49:951 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:34:49:952 Consumer was closed, reconnect.
+15/05 09:34:50:060 Total 4 instances are started
+15/05 09:34:50:061 Total 1 instances are added
+15/05 09:34:50:098 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:34:50:099 Consumer was closed, reconnect.
+15/05 09:34:50:207 Total 4 instances are started
+15/05 09:34:50:208 Total 1 instances are added
+15/05 09:34:50:326 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:34:50:327 Consumer was closed, reconnect.
+15/05 09:34:50:429 Total 4 instances are started
+15/05 09:34:50:429 Total 1 instances are added
+15/05 09:34:50:444 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:34:50:444 Consumer was closed, reconnect.
+15/05 09:34:50:564 Total 4 instances are started
+15/05 09:34:50:565 Total 1 instances are added
+15/05 09:34:50:571 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:34:50:572 Consumer was closed, reconnect.
+15/05 09:34:50:675 Total 4 instances are started
+15/05 09:34:50:676 Total 1 instances are added
+15/05 09:35:11:074 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:35:11:075 Consumer was closed, reconnect.
+15/05 09:35:11:183 Total 4 instances are started
+15/05 09:35:11:184 Total 1 instances are added
+15/05 09:35:11:234 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:35:11:234 Consumer was closed, reconnect.
+15/05 09:35:11:345 Total 4 instances are started
+15/05 09:35:11:346 Total 1 instances are added
+15/05 09:35:11:454 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:35:11:456 Consumer was closed, reconnect.
+15/05 09:35:11:565 Total 4 instances are started
+15/05 09:35:11:566 Total 1 instances are added
+15/05 09:35:11:599 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:35:11:600 Consumer was closed, reconnect.
+15/05 09:35:11:706 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:35:11:707 Consumer was closed, reconnect.
+15/05 09:35:11:708 Total 4 instances are started
+15/05 09:35:11:708 Total 1 instances are added
+15/05 09:35:11:819 Total 4 instances are started
+15/05 09:35:11:820 Total 1 instances are added
+15/05 09:35:32:199 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:35:32:200 Consumer was closed, reconnect.
+15/05 09:35:32:309 Total 4 instances are started
+15/05 09:35:32:310 Total 1 instances are added
+15/05 09:35:32:359 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:35:32:359 Consumer was closed, reconnect.
+15/05 09:35:32:470 Total 4 instances are started
+15/05 09:35:32:471 Total 1 instances are added
+15/05 09:35:32:580 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:35:32:581 Consumer was closed, reconnect.
+15/05 09:35:32:691 Total 4 instances are started
+15/05 09:35:32:692 Total 1 instances are added
+15/05 09:35:32:730 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:35:32:731 Consumer was closed, reconnect.
+15/05 09:35:32:834 Total 4 instances are started
+15/05 09:35:32:835 Total 1 instances are added
+15/05 09:35:32:843 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:35:32:844 Consumer was closed, reconnect.
+15/05 09:35:32:945 Total 4 instances are started
+15/05 09:35:32:946 Total 1 instances are added
+15/05 09:35:53:329 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:35:53:330 Consumer was closed, reconnect.
+15/05 09:35:53:438 Total 4 instances are started
+15/05 09:35:53:439 Total 1 instances are added
+15/05 09:35:53:498 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:35:53:498 Consumer was closed, reconnect.
+15/05 09:35:53:609 Total 4 instances are started
+15/05 09:35:53:610 Total 1 instances are added
+15/05 09:35:53:718 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:35:53:718 Consumer was closed, reconnect.
+15/05 09:35:53:820 Total 4 instances are started
+15/05 09:35:53:820 Total 1 instances are added
+15/05 09:35:53:852 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:35:53:852 Consumer was closed, reconnect.
+15/05 09:35:53:952 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:35:53:952 Consumer was closed, reconnect.
+15/05 09:35:53:953 Total 4 instances are started
+15/05 09:35:53:953 Total 1 instances are added
+15/05 09:35:54:063 Total 4 instances are started
+15/05 09:35:54:064 Total 1 instances are added
+15/05 09:36:14:446 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:36:14:447 Consumer was closed, reconnect.
+15/05 09:36:14:550 Total 4 instances are started
+15/05 09:36:14:551 Total 1 instances are added
+15/05 09:36:14:636 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:36:14:637 Consumer was closed, reconnect.
+15/05 09:36:14:744 Total 4 instances are started
+15/05 09:36:14:745 Total 1 instances are added
+15/05 09:36:14:835 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:36:14:836 Consumer was closed, reconnect.
+15/05 09:36:14:946 Total 4 instances are started
+15/05 09:36:14:947 Total 1 instances are added
+15/05 09:36:14:966 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:36:14:966 Consumer was closed, reconnect.
+15/05 09:36:15:077 Total 4 instances are started
+15/05 09:36:15:078 Total 1 instances are added
+15/05 09:36:15:090 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:36:15:090 Consumer was closed, reconnect.
+15/05 09:36:15:199 Total 4 instances are started
+15/05 09:36:15:199 Total 1 instances are added
+15/05 09:36:35:573 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:36:35:573 Consumer was closed, reconnect.
+15/05 09:36:35:679 Total 4 instances are started
+15/05 09:36:35:680 Total 1 instances are added
+15/05 09:36:35:769 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:36:35:770 Consumer was closed, reconnect.
+15/05 09:36:35:880 Total 4 instances are started
+15/05 09:36:35:881 Total 1 instances are added
+15/05 09:36:35:971 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:36:35:971 Consumer was closed, reconnect.
+15/05 09:36:36:081 Total 4 instances are started
+15/05 09:36:36:081 Total 1 instances are added
+15/05 09:36:36:091 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:36:36:092 Consumer was closed, reconnect.
+15/05 09:36:36:202 Total 4 instances are started
+15/05 09:36:36:203 Total 1 instances are added
+15/05 09:36:36:223 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:36:36:223 Consumer was closed, reconnect.
+15/05 09:36:36:334 Total 4 instances are started
+15/05 09:36:36:335 Total 1 instances are added
+15/05 09:36:56:719 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:36:56:720 Consumer was closed, reconnect.
+15/05 09:36:56:822 Total 4 instances are started
+15/05 09:36:56:823 Total 1 instances are added
+15/05 09:36:56:920 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:36:56:920 Consumer was closed, reconnect.
+15/05 09:36:57:023 Total 4 instances are started
+15/05 09:36:57:024 Total 1 instances are added
+15/05 09:36:57:104 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:36:57:105 Consumer was closed, reconnect.
+15/05 09:36:57:214 Total 4 instances are started
+15/05 09:36:57:214 Total 1 instances are added
+15/05 09:36:57:234 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:36:57:235 Consumer was closed, reconnect.
+15/05 09:36:57:338 Total 4 instances are started
+15/05 09:36:57:339 Total 1 instances are added
+15/05 09:36:57:355 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:36:57:356 Consumer was closed, reconnect.
+15/05 09:36:57:459 Total 4 instances are started
+15/05 09:36:57:460 Total 1 instances are added
+15/05 09:37:17:833 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:37:17:833 Consumer was closed, reconnect.
+15/05 09:37:17:937 Total 4 instances are started
+15/05 09:37:17:938 Total 1 instances are added
+15/05 09:37:18:047 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:37:18:048 Consumer was closed, reconnect.
+15/05 09:37:18:158 Total 4 instances are started
+15/05 09:37:18:160 Total 1 instances are added
+15/05 09:37:18:236 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:37:18:236 Consumer was closed, reconnect.
+15/05 09:37:18:340 Total 4 instances are started
+15/05 09:37:18:341 Total 1 instances are added
+15/05 09:37:18:366 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:37:18:367 Consumer was closed, reconnect.
+15/05 09:37:18:472 Total 4 instances are started
+15/05 09:37:18:472 Total 1 instances are added
+15/05 09:37:18:482 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:37:18:483 Consumer was closed, reconnect.
+15/05 09:37:18:593 Total 4 instances are started
+15/05 09:37:18:594 Total 1 instances are added
+15/05 09:37:38:952 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:37:38:953 Consumer was closed, reconnect.
+15/05 09:37:39:063 Total 4 instances are started
+15/05 09:37:39:064 Total 1 instances are added
+15/05 09:37:39:172 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:37:39:173 Consumer was closed, reconnect.
+15/05 09:37:39:274 Total 4 instances are started
+15/05 09:37:39:275 Total 1 instances are added
+15/05 09:37:39:372 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:37:39:373 Consumer was closed, reconnect.
+15/05 09:37:39:476 Total 4 instances are started
+15/05 09:37:39:477 Total 1 instances are added
+15/05 09:37:39:491 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:37:39:492 Consumer was closed, reconnect.
+15/05 09:37:39:597 Total 4 instances are started
+15/05 09:37:39:597 Total 1 instances are added
+15/05 09:37:39:612 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:37:39:613 Consumer was closed, reconnect.
+15/05 09:37:39:718 Total 4 instances are started
+15/05 09:37:39:719 Total 1 instances are added
+15/05 09:38:00:088 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:38:00:089 Consumer was closed, reconnect.
+15/05 09:38:00:199 Total 4 instances are started
+15/05 09:38:00:200 Total 1 instances are added
+15/05 09:38:00:299 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:38:00:299 Consumer was closed, reconnect.
+15/05 09:38:00:410 Total 4 instances are started
+15/05 09:38:00:411 Total 1 instances are added
+15/05 09:38:00:498 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:38:00:499 Consumer was closed, reconnect.
+15/05 09:38:00:601 Total 4 instances are started
+15/05 09:38:00:602 Total 1 instances are added
+15/05 09:38:00:628 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:38:00:628 Consumer was closed, reconnect.
+15/05 09:38:00:732 Total 4 instances are started
+15/05 09:38:00:733 Total 1 instances are added
+15/05 09:38:00:741 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:38:00:742 Consumer was closed, reconnect.
+15/05 09:38:00:843 Total 4 instances are started
+15/05 09:38:00:844 Total 1 instances are added
+15/05 09:38:21:229 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:38:21:230 Consumer was closed, reconnect.
+15/05 09:38:21:332 Total 4 instances are started
+15/05 09:38:21:332 Total 1 instances are added
+15/05 09:38:21:442 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:38:21:443 Consumer was closed, reconnect.
+15/05 09:38:21:549 Total 4 instances are started
+15/05 09:38:21:550 Total 1 instances are added
+15/05 09:38:21:622 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:38:21:622 Consumer was closed, reconnect.
+15/05 09:38:21:730 Total 4 instances are started
+15/05 09:38:21:731 Total 1 instances are added
+15/05 09:38:21:760 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:38:21:760 Consumer was closed, reconnect.
+15/05 09:38:21:873 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:38:21:873 Consumer was closed, reconnect.
+15/05 09:38:21:875 Total 4 instances are started
+15/05 09:38:21:876 Total 1 instances are added
+15/05 09:38:21:986 Total 4 instances are started
+15/05 09:38:21:987 Total 1 instances are added
+15/05 09:38:42:368 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:38:42:369 Consumer was closed, reconnect.
+15/05 09:38:42:470 Total 4 instances are started
+15/05 09:38:42:471 Total 1 instances are added
+15/05 09:38:42:566 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:38:42:566 Consumer was closed, reconnect.
+15/05 09:38:42:671 Total 4 instances are started
+15/05 09:38:42:672 Total 1 instances are added
+15/05 09:38:42:752 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:38:42:753 Consumer was closed, reconnect.
+15/05 09:38:42:863 Total 4 instances are started
+15/05 09:38:42:864 Total 1 instances are added
+15/05 09:38:42:902 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:38:42:902 Consumer was closed, reconnect.
+15/05 09:38:43:007 Total 4 instances are started
+15/05 09:38:43:008 Total 1 instances are added
+15/05 09:38:43:008 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:38:43:009 Consumer was closed, reconnect.
+15/05 09:38:43:119 Total 4 instances are started
+15/05 09:38:43:120 Total 1 instances are added
+15/05 09:39:03:481 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:39:03:482 Consumer was closed, reconnect.
+15/05 09:39:03:584 Total 4 instances are started
+15/05 09:39:03:585 Total 1 instances are added
+15/05 09:39:03:694 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:39:03:694 Consumer was closed, reconnect.
+15/05 09:39:03:805 Total 4 instances are started
+15/05 09:39:03:806 Total 1 instances are added
+15/05 09:39:03:883 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:39:03:885 Consumer was closed, reconnect.
+15/05 09:39:03:986 Total 4 instances are started
+15/05 09:39:03:987 Total 1 instances are added
+15/05 09:39:04:036 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:39:04:037 Consumer was closed, reconnect.
+15/05 09:39:04:128 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:39:04:128 Consumer was closed, reconnect.
+15/05 09:39:04:147 Total 4 instances are started
+15/05 09:39:04:147 Total 1 instances are added
+15/05 09:39:04:257 Total 4 instances are started
+15/05 09:39:04:258 Total 1 instances are added
+15/05 09:39:24:610 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:39:24:611 Consumer was closed, reconnect.
+15/05 09:39:24:721 Total 4 instances are started
+15/05 09:39:24:722 Total 1 instances are added
+15/05 09:39:24:827 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:39:24:827 Consumer was closed, reconnect.
+15/05 09:39:24:935 Total 4 instances are started
+15/05 09:39:24:936 Total 1 instances are added
+15/05 09:39:25:017 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:39:25:018 Consumer was closed, reconnect.
+15/05 09:39:25:127 Total 4 instances are started
+15/05 09:39:25:127 Total 1 instances are added
+15/05 09:39:25:181 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:39:25:182 Consumer was closed, reconnect.
+15/05 09:39:25:277 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:39:25:278 Consumer was closed, reconnect.
+15/05 09:39:25:288 Total 4 instances are started
+15/05 09:39:25:289 Total 1 instances are added
+15/05 09:39:25:399 Total 4 instances are started
+15/05 09:39:25:400 Total 1 instances are added
+15/05 09:39:45:737 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:39:45:738 Consumer was closed, reconnect.
+15/05 09:39:45:848 Total 4 instances are started
+15/05 09:39:45:849 Total 1 instances are added
+15/05 09:39:45:956 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:39:45:957 Consumer was closed, reconnect.
+15/05 09:39:46:059 Total 4 instances are started
+15/05 09:39:46:060 Total 1 instances are added
+15/05 09:39:46:146 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:39:46:147 Consumer was closed, reconnect.
+15/05 09:39:46:256 Total 4 instances are started
+15/05 09:39:46:257 Total 1 instances are added
+15/05 09:39:46:307 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:39:46:307 Consumer was closed, reconnect.
+15/05 09:39:46:417 Total 4 instances are started
+15/05 09:39:46:417 Total 1 instances are added
+15/05 09:39:46:418 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:39:46:419 Consumer was closed, reconnect.
+15/05 09:39:46:530 Total 4 instances are started
+15/05 09:39:46:530 Total 1 instances are added
+15/05 09:40:06:870 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:40:06:871 Consumer was closed, reconnect.
+15/05 09:40:06:981 Total 4 instances are started
+15/05 09:40:06:982 Total 1 instances are added
+15/05 09:40:07:076 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:40:07:076 Consumer was closed, reconnect.
+15/05 09:40:07:182 Total 4 instances are started
+15/05 09:40:07:183 Total 1 instances are added
+15/05 09:40:07:276 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:40:07:276 Consumer was closed, reconnect.
+15/05 09:40:07:383 Total 4 instances are started
+15/05 09:40:07:384 Total 1 instances are added
+15/05 09:40:07:441 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:40:07:442 Consumer was closed, reconnect.
+15/05 09:40:07:545 Total 4 instances are started
+15/05 09:40:07:545 Total 1 instances are added
+15/05 09:40:07:564 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:40:07:565 Consumer was closed, reconnect.
+15/05 09:40:07:670 Total 4 instances are started
+15/05 09:40:07:671 Total 1 instances are added
+15/05 09:40:27:998 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:40:27:999 Consumer was closed, reconnect.
+15/05 09:40:28:100 Total 4 instances are started
+15/05 09:40:28:101 Total 1 instances are added
+15/05 09:40:28:209 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:40:28:210 Consumer was closed, reconnect.
+15/05 09:40:28:311 Total 4 instances are started
+15/05 09:40:28:312 Total 1 instances are added
+15/05 09:40:28:410 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:40:28:411 Consumer was closed, reconnect.
+15/05 09:40:28:512 Total 4 instances are started
+15/05 09:40:28:513 Total 1 instances are added
+15/05 09:40:28:571 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:40:28:572 Consumer was closed, reconnect.
+15/05 09:40:28:683 Total 4 instances are started
+15/05 09:40:28:684 Total 1 instances are added
+15/05 09:40:28:690 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:40:28:691 Consumer was closed, reconnect.
+15/05 09:40:28:795 Total 4 instances are started
+15/05 09:40:28:796 Total 1 instances are added
+15/05 09:40:49:119 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:40:49:120 Consumer was closed, reconnect.
+15/05 09:40:49:223 Total 4 instances are started
+15/05 09:40:49:224 Total 1 instances are added
+15/05 09:40:49:337 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:40:49:338 Consumer was closed, reconnect.
+15/05 09:40:49:444 Total 4 instances are started
+15/05 09:40:49:445 Total 1 instances are added
+15/05 09:40:49:535 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:40:49:536 Consumer was closed, reconnect.
+15/05 09:40:49:645 Total 4 instances are started
+15/05 09:40:49:646 Total 1 instances are added
+15/05 09:40:49:715 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:40:49:716 Consumer was closed, reconnect.
+15/05 09:40:49:816 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:40:49:817 Consumer was closed, reconnect.
+15/05 09:40:49:827 Total 4 instances are started
+15/05 09:40:49:828 Total 1 instances are added
+15/05 09:40:49:938 Total 4 instances are started
+15/05 09:40:49:939 Total 1 instances are added
+15/05 09:41:10:247 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:41:10:248 Consumer was closed, reconnect.
+15/05 09:41:10:356 Total 4 instances are started
+15/05 09:41:10:357 Total 1 instances are added
+15/05 09:41:10:467 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:41:10:467 Consumer was closed, reconnect.
+15/05 09:41:10:568 Total 4 instances are started
+15/05 09:41:10:569 Total 1 instances are added
+15/05 09:41:10:667 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:41:10:667 Consumer was closed, reconnect.
+15/05 09:41:10:772 Total 4 instances are started
+15/05 09:41:10:773 Total 1 instances are added
+15/05 09:41:10:858 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:41:10:858 Consumer was closed, reconnect.
+15/05 09:41:10:964 Total 4 instances are started
+15/05 09:41:10:965 Total 1 instances are added
+15/05 09:41:10:967 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:41:10:968 Consumer was closed, reconnect.
+15/05 09:41:11:075 Total 4 instances are started
+15/05 09:41:11:076 Total 1 instances are added
+15/05 09:41:31:383 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:41:31:383 Consumer was closed, reconnect.
+15/05 09:41:31:486 Total 4 instances are started
+15/05 09:41:31:486 Total 1 instances are added
+15/05 09:41:31:604 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:41:31:605 Consumer was closed, reconnect.
+15/05 09:41:31:707 Total 4 instances are started
+15/05 09:41:31:708 Total 1 instances are added
+15/05 09:41:31:804 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:41:31:805 Consumer was closed, reconnect.
+15/05 09:41:31:908 Total 4 instances are started
+15/05 09:41:31:909 Total 1 instances are added
+15/05 09:41:31:988 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:41:31:989 Consumer was closed, reconnect.
+15/05 09:41:32:090 Total 4 instances are started
+15/05 09:41:32:091 Total 1 instances are added
+15/05 09:41:32:099 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:41:32:100 Consumer was closed, reconnect.
+15/05 09:41:32:204 Total 4 instances are started
+15/05 09:41:32:205 Total 1 instances are added
+15/05 09:41:52:514 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:41:52:515 Consumer was closed, reconnect.
+15/05 09:41:52:618 Total 4 instances are started
+15/05 09:41:52:619 Total 1 instances are added
+15/05 09:41:52:736 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:41:52:737 Consumer was closed, reconnect.
+15/05 09:41:52:839 Total 4 instances are started
+15/05 09:41:52:840 Total 1 instances are added
+15/05 09:41:52:931 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:41:52:931 Consumer was closed, reconnect.
+15/05 09:41:53:040 Total 4 instances are started
+15/05 09:41:53:040 Total 1 instances are added
+15/05 09:41:53:111 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:41:53:112 Consumer was closed, reconnect.
+15/05 09:41:53:221 Total 4 instances are started
+15/05 09:41:53:222 Total 1 instances are added
+15/05 09:41:53:242 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:41:53:243 Consumer was closed, reconnect.
+15/05 09:41:53:352 Total 4 instances are started
+15/05 09:41:53:353 Total 1 instances are added
+15/05 09:42:13:638 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:42:13:638 Consumer was closed, reconnect.
+15/05 09:42:13:743 Total 4 instances are started
+15/05 09:42:13:744 Total 1 instances are added
+15/05 09:42:13:856 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:42:13:857 Consumer was closed, reconnect.
+15/05 09:42:13:964 Total 4 instances are started
+15/05 09:42:13:965 Total 1 instances are added
+15/05 09:42:14:060 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:42:14:060 Consumer was closed, reconnect.
+15/05 09:42:14:166 Total 4 instances are started
+15/05 09:42:14:167 Total 1 instances are added
+15/05 09:42:14:245 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:42:14:245 Consumer was closed, reconnect.
+15/05 09:42:14:347 Total 4 instances are started
+15/05 09:42:14:347 Total 1 instances are added
+15/05 09:42:14:366 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:42:14:367 Consumer was closed, reconnect.
+15/05 09:42:14:468 Total 4 instances are started
+15/05 09:42:14:469 Total 1 instances are added
+15/05 09:43:46:721 Command Routing started
+15/05 09:43:46:734 Starting process session
+15/05 09:43:46:862 Init queue connection pool 1400121826862
+15/05 09:43:47:261 Total 0 instances are started
+15/05 09:43:47:262 Total 5 instances are added
+15/05 09:44:09:346 84922000512: SMSC - SMSC.SEND_SMS
+15/05 09:44:45:876 84922000512: CRM - LOYALTY.VALIDATE
+15/05 09:44:45:939 84922000512: SMSC - SMSC.SEND_SMS
+15/05 09:46:34:810 84922000512: CRM - LOYALTY.VALIDATE
+15/05 09:46:34:872 84922000512: CRM - LOYALTY.BALANCE_QUERY
+15/05 09:46:34:953 84922000512: SMSC - SMSC.SEND_SMS
+15/05 09:47:27:774 84922000512: CRM - LOYALTY.VALIDATE
+15/05 09:47:27:855 84922000512: SMSC - SMSC.SEND_SMS
+15/05 09:48:55:290 84922000512: CRM - LOYALTY.VALIDATE
+15/05 09:48:55:360 84922000512: SMSC - SMSC.SEND_SMS
+15/05 09:49:48:320 84922000512: CRM - LOYALTY.VALIDATE
+15/05 09:49:48:416 84922000512: CCWS - LOYALTY.LOYATY_MODIFY_BALANCE
+15/05 09:49:48:822 84922000512: CRM - LOYALTY.UPDATE_DB
+15/05 09:49:48:901 84922000512: SMSC - SMSC.SEND_SMS
+15/05 09:52:06:320 84922000512: CRM - LOYALTY.VALIDATE
+15/05 09:52:06:455 84922000512: CCWS - LOYALTY.LOYATY_MODIFY_BALANCE
+15/05 09:52:06:589 84922000512: CRM - LOYALTY.UPDATE_DB
+15/05 09:52:06:639 84922000512: SMSC - SMSC.SEND_SMS
+15/05 09:52:55:964 84922000512: CRM - CRM.LOYALTY.UNREGISTER
+15/05 09:52:56:022 84922000512: SMSC - SMSC.SEND_SMS
+15/05 09:54:22:288 84922000512: CRM - CRM.LOYALTY.REGISTER
+15/05 09:54:22:412 84922000512: SMSC - SMSC.SEND_SMS
+15/05 10:13:15:599 Command Routing started
+15/05 10:13:15:609 Starting process session
+15/05 10:13:15:739 Init queue connection pool 1400123595738
+15/05 10:13:16:139 Total 0 instances are started
+15/05 10:13:16:139 Total 5 instances are added
+15/05 10:13:50:108 84922000512: SMSC - SMSC.SEND_SMS
+15/05 10:14:27:784 84922000512: CRM - LOYALTY.VALIDATE
+15/05 10:14:27:835 84922000512: CRM - LOYALTY.BALANCE_QUERY
+15/05 10:14:27:898 84922000512: SMSC - SMSC.SEND_SMS
+15/05 10:14:53:044 84922000512: CRM - LOYALTY.VALIDATE
+15/05 10:14:53:188 84922000512: SMSC - SMSC.SEND_SMS
+15/05 10:31:33:269 84922000512: CRM - LOYALTY.VALIDATE
+15/05 10:31:33:323 84922000512: SMSC - SMSC.SEND_SMS
+15/05 10:35:02:563 84922000513: SMSC - SMSC.SEND_SMS
+15/05 10:35:02:584 84922000512: CRM - LOYALTY.VALIDATE
+15/05 10:35:02:588 84922000514: CRM - LOYALTY.VALIDATE
+15/05 10:35:02:690 84922000519: SMSC - SMSC.SEND_SMS
+15/05 10:35:02:831 84922000514: SMSC - SMSC.SEND_SMS
+15/05 10:35:02:836 84922000512: SMSC - SMSC.SEND_SMS
+15/05 10:35:03:415 84922000516: SMSC - SMSC.SEND_SMS
+15/05 10:35:03:424 84922000515: CRM - LOYALTY.VALIDATE
+15/05 10:35:03:446 84922000515: SMSC - SMSC.SEND_SMS
+15/05 10:35:03:499 84922000520: SMSC - SMSC.SEND_SMS
+15/05 10:35:03:500 84922000535: SMSC - SMSC.SEND_SMS
+15/05 10:35:03:640 84922000530: SMSC - SMSC.SEND_SMS
+15/05 10:35:04:232 84922000517: SMSC - SMSC.SEND_SMS
+15/05 10:35:04:243 84922000570: SMSC - SMSC.SEND_SMS
+15/05 10:35:04:342 84922000521: SMSC - SMSC.SEND_SMS
+15/05 10:35:04:374 84922000531: SMSC - SMSC.SEND_SMS
+15/05 10:35:04:489 84922000522: CRM - LOYALTY.VALIDATE
+15/05 10:35:04:544 84922000522: SMSC - SMSC.SEND_SMS
+15/05 10:35:04:583 84922000518: SMSC - SMSC.SEND_SMS
+15/05 10:35:04:903 84922000571: SMSC - SMSC.SEND_SMS
+15/05 10:35:04:959 84922000532: SMSC - SMSC.SEND_SMS
+15/05 10:35:05:080 84922000533: SMSC - SMSC.SEND_SMS
+15/05 10:35:05:279 84922000544: SMSC - SMSC.SEND_SMS
+15/05 10:35:05:292 84922000575: SMSC - SMSC.SEND_SMS
+15/05 10:35:05:587 84922000543: SMSC - SMSC.SEND_SMS
+15/05 10:35:05:597 84922000523: SMSC - SMSC.SEND_SMS
+15/05 10:35:05:793 84922000576: SMSC - SMSC.SEND_SMS
+15/05 10:35:05:975 84922000524: SMSC - SMSC.SEND_SMS
+15/05 10:35:06:057 84922000545: SMSC - SMSC.SEND_SMS
+15/05 10:35:06:272 84922000557: SMSC - SMSC.SEND_SMS
+15/05 10:35:06:380 84922000577: SMSC - SMSC.SEND_SMS
+15/05 10:35:06:529 84922000546: SMSC - SMSC.SEND_SMS
+15/05 10:35:06:681 84922000558: SMSC - SMSC.SEND_SMS
+15/05 10:35:06:681 84922000525: SMSC - SMSC.SEND_SMS
+15/05 10:35:06:937 84922000578: SMSC - SMSC.SEND_SMS
+15/05 10:35:07:043 84922000547: SMSC - SMSC.SEND_SMS
+15/05 10:35:07:279 84922000559: SMSC - SMSC.SEND_SMS
+15/05 10:35:07:280 84922000526: SMSC - SMSC.SEND_SMS
+15/05 10:35:07:413 84922000579: SMSC - SMSC.SEND_SMS
+15/05 10:35:07:605 84922000548: SMSC - SMSC.SEND_SMS
+15/05 10:35:07:772 84922000527: SMSC - SMSC.SEND_SMS
+15/05 10:35:07:948 84922000580: SMSC - SMSC.SEND_SMS
+15/05 10:35:08:041 84922000572: SMSC - SMSC.SEND_SMS
+15/05 10:35:08:156 84922000549: SMSC - SMSC.SEND_SMS
+15/05 10:35:08:244 84922000528: SMSC - SMSC.SEND_SMS
+15/05 10:35:08:452 84922000573: SMSC - SMSC.SEND_SMS
+15/05 10:35:08:679 84922000581: SMSC - SMSC.SEND_SMS
+15/05 10:35:08:679 84922000550: SMSC - SMSC.SEND_SMS
+15/05 10:35:08:940 84922000529: SMSC - SMSC.SEND_SMS
+15/05 10:35:09:022 84922000574: SMSC - SMSC.SEND_SMS
+15/05 10:35:09:262 84922000589: SMSC - SMSC.SEND_SMS
+15/05 10:35:09:323 84922000551: SMSC - SMSC.SEND_SMS
+15/05 10:35:09:329 84922000536: SMSC - SMSC.SEND_SMS
+15/05 10:35:09:814 84922000591: SMSC - SMSC.SEND_SMS
+15/05 10:35:09:838 84922000583: SMSC - SMSC.SEND_SMS
+15/05 10:35:09:991 84922000552: SMSC - SMSC.SEND_SMS
+15/05 10:35:10:052 84922000537: SMSC - SMSC.SEND_SMS
+15/05 10:35:10:061 84922000584: SMSC - SMSC.SEND_SMS
+15/05 10:35:10:552 84922000678: SMSC - SMSC.SEND_SMS
+15/05 10:35:10:573 84922000538: SMSC - SMSC.SEND_SMS
+15/05 10:35:10:702 84922000590: SMSC - SMSC.SEND_SMS
+15/05 10:35:10:702 84922000553: SMSC - SMSC.SEND_SMS
+15/05 10:35:10:888 84922000688: SMSC - SMSC.SEND_SMS
+15/05 10:35:11:212 84922000539: SMSC - SMSC.SEND_SMS
+15/05 10:35:11:212 84922000554: SMSC - SMSC.SEND_SMS
+15/05 10:35:11:411 84922000689: SMSC - SMSC.SEND_SMS
+15/05 10:35:11:476 84922000592: SMSC - SMSC.SEND_SMS
+15/05 10:35:11:756 84922000540: SMSC - SMSC.SEND_SMS
+15/05 10:35:11:799 84922000556: SMSC - SMSC.SEND_SMS
+15/05 10:35:11:800 84922000593: SMSC - SMSC.SEND_SMS
+15/05 10:35:11:920 84922000541: SMSC - SMSC.SEND_SMS
+15/05 10:35:11:921 84922000690: SMSC - SMSC.SEND_SMS
+15/05 10:35:12:123 84922000588: SMSC - SMSC.SEND_SMS
+15/05 10:35:12:185 84922000594: SMSC - SMSC.SEND_SMS
+15/05 10:35:12:215 84922000691: SMSC - SMSC.SEND_SMS
+15/05 10:35:12:328 84922000542: SMSC - SMSC.SEND_SMS
+15/05 10:35:12:342 84922000609: SMSC - SMSC.SEND_SMS
+15/05 10:35:12:453 84922000595: SMSC - SMSC.SEND_SMS
+15/05 10:35:12:512 84922000692: SMSC - SMSC.SEND_SMS
+15/05 10:35:12:652 84922000619: SMSC - SMSC.SEND_SMS
+15/05 10:35:12:654 84922000582: SMSC - SMSC.SEND_SMS
+15/05 10:35:12:716 84922000597: SMSC - SMSC.SEND_SMS
+15/05 10:35:12:867 84922000693: SMSC - SMSC.SEND_SMS
+15/05 10:35:13:037 84922000596: SMSC - SMSC.SEND_SMS
+15/05 10:35:13:275 84922000598: SMSC - SMSC.SEND_SMS
+15/05 10:35:13:299 84922000671: SMSC - SMSC.SEND_SMS
+15/05 10:35:13:392 84922000694: SMSC - SMSC.SEND_SMS
+15/05 10:35:13:554 84922000599: SMSC - SMSC.SEND_SMS
+15/05 10:35:13:849 84922000672: SMSC - SMSC.SEND_SMS
+15/05 10:35:13:998 84922000695: SMSC - SMSC.SEND_SMS
+15/05 10:35:13:999 84922000601: SMSC - SMSC.SEND_SMS
+15/05 10:35:14:090 84922000600: SMSC - SMSC.SEND_SMS
+15/05 10:35:14:210 84922000676: SMSC - SMSC.SEND_SMS
+15/05 10:35:14:491 84922000603: SMSC - SMSC.SEND_SMS
+15/05 10:35:14:701 84922000696: SMSC - SMSC.SEND_SMS
+15/05 10:35:14:743 84922000677: SMSC - SMSC.SEND_SMS
+15/05 10:35:14:745 84922000602: SMSC - SMSC.SEND_SMS
+15/05 10:35:14:969 84922000605: SMSC - SMSC.SEND_SMS
+15/05 10:35:15:248 84922000711: SMSC - SMSC.SEND_SMS
+15/05 10:35:15:415 84922000608: SMSC - SMSC.SEND_SMS
+15/05 10:35:15:438 84922000604: SMSC - SMSC.SEND_SMS
+15/05 10:35:15:459 84922000682: SMSC - SMSC.SEND_SMS
+15/05 10:35:15:629 84922000716: SMSC - SMSC.SEND_SMS
+15/05 10:35:15:940 84922000606: SMSC - SMSC.SEND_SMS
+15/05 10:35:16:051 84922000610: SMSC - SMSC.SEND_SMS
+15/05 10:35:16:139 84922000683: SMSC - SMSC.SEND_SMS
+15/05 10:35:16:176 84922000722: SMSC - SMSC.SEND_SMS
+15/05 10:35:16:419 84922000607: SMSC - SMSC.SEND_SMS
+15/05 10:35:16:616 84922000698: SMSC - SMSC.SEND_SMS
+15/05 10:35:16:766 84922000611: SMSC - SMSC.SEND_SMS
+15/05 10:35:16:779 84922000727: SMSC - SMSC.SEND_SMS
+15/05 10:35:16:864 84922000634: SMSC - SMSC.SEND_SMS
+15/05 10:35:17:127 84922000721: SMSC - SMSC.SEND_SMS
+15/05 10:35:17:356 84922000612: SMSC - SMSC.SEND_SMS
+15/05 10:35:17:420 84922000731: SMSC - SMSC.SEND_SMS
+15/05 10:35:17:442 84922000673: SMSC - SMSC.SEND_SMS
+15/05 10:35:17:665 84922000726: SMSC - SMSC.SEND_SMS
+15/05 10:35:17:919 84922000613: SMSC - SMSC.SEND_SMS
+15/05 10:35:18:090 84922000732: SMSC - SMSC.SEND_SMS
+15/05 10:35:18:107 84922000674: SMSC - SMSC.SEND_SMS
+15/05 10:35:18:159 84922000736: SMSC - SMSC.SEND_SMS
+15/05 10:35:18:415 84922000614: SMSC - SMSC.SEND_SMS
+15/05 10:35:18:640 84922000737: SMSC - SMSC.SEND_SMS
+15/05 10:35:18:721 84922000675: SMSC - SMSC.SEND_SMS
+15/05 10:35:18:881 84922000741: SMSC - SMSC.SEND_SMS
+15/05 10:35:18:893 84922000615: SMSC - SMSC.SEND_SMS
+15/05 10:35:19:248 84922000743: SMSC - SMSC.SEND_SMS
+15/05 10:35:19:309 84922000684: SMSC - SMSC.SEND_SMS
+15/05 10:35:19:351 84922000747: SMSC - SMSC.SEND_SMS
+15/05 10:35:19:611 84922000616: SMSC - SMSC.SEND_SMS
+15/05 10:35:19:641 84922000748: SMSC - SMSC.SEND_SMS
+15/05 10:35:20:014 84922000685: SMSC - SMSC.SEND_SMS
+15/05 10:35:20:015 84922000617: SMSC - SMSC.SEND_SMS
+15/05 10:35:20:078 84922000766: SMSC - SMSC.SEND_SMS
+15/05 10:35:20:306 84922000699: SMSC - SMSC.SEND_SMS
+15/05 10:35:20:429 84922000752: SMSC - SMSC.SEND_SMS
+15/05 10:35:20:636 84922000767: SMSC - SMSC.SEND_SMS
+15/05 10:35:20:771 84922000753: SMSC - SMSC.SEND_SMS
+15/05 10:35:20:774 84922000618: SMSC - SMSC.SEND_SMS
+15/05 10:35:21:010 84922000708: SMSC - SMSC.SEND_SMS
+15/05 10:35:21:207 84922000771: SMSC - SMSC.SEND_SMS
+15/05 10:35:21:439 84922000620: SMSC - SMSC.SEND_SMS
+15/05 10:35:21:674 84922000757: SMSC - SMSC.SEND_SMS
+15/05 10:35:21:677 84922000772: SMSC - SMSC.SEND_SMS
+15/05 10:35:21:717 84922000709: SMSC - SMSC.SEND_SMS
+15/05 10:35:21:849 84922000621: SMSC - SMSC.SEND_SMS
+15/05 10:35:22:203 84922000758: SMSC - SMSC.SEND_SMS
+15/05 10:35:22:414 84922000773: SMSC - SMSC.SEND_SMS
+15/05 10:35:22:435 84922000710: SMSC - SMSC.SEND_SMS
+15/05 10:35:22:457 84922000762: SMSC - SMSC.SEND_SMS
+15/05 10:35:22:458 84922000622: SMSC - SMSC.SEND_SMS
+15/05 10:35:22:865 84922000713: SMSC - SMSC.SEND_SMS
+15/05 10:35:23:032 84922000774: SMSC - SMSC.SEND_SMS
+15/05 10:35:23:138 84922000717: SMSC - SMSC.SEND_SMS
+15/05 10:35:23:170 84922000763: SMSC - SMSC.SEND_SMS
+15/05 10:35:23:274 84922000623: SMSC - SMSC.SEND_SMS
+15/05 10:35:23:527 84922000775: SMSC - SMSC.SEND_SMS
+15/05 10:35:23:798 84922000768: SMSC - SMSC.SEND_SMS
+15/05 10:35:23:836 84922000718: SMSC - SMSC.SEND_SMS
+15/05 10:35:23:837 84922000624: SMSC - SMSC.SEND_SMS
+15/05 10:35:24:038 84922000776: SMSC - SMSC.SEND_SMS
+15/05 10:35:24:198 84922000625: SMSC - SMSC.SEND_SMS
+15/05 10:35:24:491 84922000777: SMSC - SMSC.SEND_SMS
+15/05 10:35:24:541 84922000719: SMSC - SMSC.SEND_SMS
+15/05 10:35:24:582 84922000895: SMSC - SMSC.SEND_SMS
+15/05 10:35:24:726 84922000626: SMSC - SMSC.SEND_SMS
+15/05 10:35:24:998 84922000723: SMSC - SMSC.SEND_SMS
+15/05 10:35:25:157 84922000897: SMSC - SMSC.SEND_SMS
+15/05 10:35:25:247 84922000627: SMSC - SMSC.SEND_SMS
+15/05 10:35:25:271 84922000778: SMSC - SMSC.SEND_SMS
+15/05 10:35:25:544 84922000728: SMSC - SMSC.SEND_SMS
+15/05 10:35:25:650 84922000899: SMSC - SMSC.SEND_SMS
+15/05 10:35:25:817 84922000779: SMSC - SMSC.SEND_SMS
+15/05 10:35:25:909 84922000628: SMSC - SMSC.SEND_SMS
+15/05 10:35:25:991 84922000729: SMSC - SMSC.SEND_SMS
+15/05 10:35:26:333 84922000780: SMSC - SMSC.SEND_SMS
+15/05 10:35:26:371 84922000903: SMSC - SMSC.SEND_SMS
+15/05 10:35:26:496 84922000629: SMSC - SMSC.SEND_SMS
+15/05 10:35:26:575 84922000733: SMSC - SMSC.SEND_SMS
+15/05 10:35:26:646 84922000904: SMSC - SMSC.SEND_SMS
+15/05 10:35:26:995 84922000630: SMSC - SMSC.SEND_SMS
+15/05 10:35:27:088 84922000781: SMSC - SMSC.SEND_SMS
+15/05 10:35:27:239 84922000905: SMSC - SMSC.SEND_SMS
+15/05 10:35:27:338 84922000782: SMSC - SMSC.SEND_SMS
+15/05 10:35:27:680 84922000631: SMSC - SMSC.SEND_SMS
+15/05 10:35:27:833 84922000739: SMSC - SMSC.SEND_SMS
+15/05 10:35:27:857 84922000906: SMSC - SMSC.SEND_SMS
+15/05 10:35:27:975 84922000783: SMSC - SMSC.SEND_SMS
+15/05 10:35:28:089 84922000632: SMSC - SMSC.SEND_SMS
+15/05 10:35:28:384 84922000744: SMSC - SMSC.SEND_SMS
+15/05 10:35:28:506 84922000784: SMSC - SMSC.SEND_SMS
+15/05 10:35:28:576 84922000907: SMSC - SMSC.SEND_SMS
+15/05 10:35:28:697 84922000633: SMSC - SMSC.SEND_SMS
+15/05 10:35:28:857 84922000745: SMSC - SMSC.SEND_SMS
+15/05 10:35:29:057 84922000908: SMSC - SMSC.SEND_SMS
+15/05 10:35:29:190 84922000785: SMSC - SMSC.SEND_SMS
+15/05 10:35:29:238 84922000635: SMSC - SMSC.SEND_SMS
+15/05 10:35:29:422 84922000749: SMSC - SMSC.SEND_SMS
+15/05 10:35:29:625 84922000909: SMSC - SMSC.SEND_SMS
+15/05 10:35:29:805 84922000786: SMSC - SMSC.SEND_SMS
+15/05 10:35:29:876 84922000750: SMSC - SMSC.SEND_SMS
+15/05 10:35:29:878 84922000636: SMSC - SMSC.SEND_SMS
+15/05 10:35:30:067 84922000910: SMSC - SMSC.SEND_SMS
+15/05 10:35:30:267 84922000787: SMSC - SMSC.SEND_SMS
+15/05 10:35:30:471 84922000637: SMSC - SMSC.SEND_SMS
+15/05 10:35:30:524 84922000911: SMSC - SMSC.SEND_SMS
+15/05 10:35:30:589 84922000754: SMSC - SMSC.SEND_SMS
+15/05 10:35:30:761 84922000788: SMSC - SMSC.SEND_SMS
+15/05 10:35:30:902 84922000638: SMSC - SMSC.SEND_SMS
+15/05 10:35:31:153 84922000755: SMSC - SMSC.SEND_SMS
+15/05 10:35:31:197 84922000912: SMSC - SMSC.SEND_SMS
+15/05 10:35:31:248 84922000789: SMSC - SMSC.SEND_SMS
+15/05 10:35:31:455 84922000639: SMSC - SMSC.SEND_SMS
+15/05 10:35:31:609 84922000764: SMSC - SMSC.SEND_SMS
+15/05 10:35:31:808 84922000555: SMSC - SMSC.SEND_SMS
+15/05 10:35:31:848 84922000790: SMSC - SMSC.SEND_SMS
+15/05 10:35:31:948 84922000640: SMSC - SMSC.SEND_SMS
+15/05 10:35:32:210 84922000765: SMSC - SMSC.SEND_SMS
+15/05 10:35:32:392 84922000534: SMSC - SMSC.SEND_SMS
+15/05 10:35:32:472 84922000791: SMSC - SMSC.SEND_SMS
+15/05 10:35:32:480 84922000641: SMSC - SMSC.SEND_SMS
+15/05 10:35:32:741 84922000769: SMSC - SMSC.SEND_SMS
+15/05 10:35:32:924 84922000560: SMSC - SMSC.SEND_SMS
+15/05 10:35:33:122 84922000770: SMSC - SMSC.SEND_SMS
+15/05 10:35:33:190 84922000792: SMSC - SMSC.SEND_SMS
+15/05 10:35:33:280 84922000642: SMSC - SMSC.SEND_SMS
+15/05 10:35:33:472 84922000561: SMSC - SMSC.SEND_SMS
+15/05 10:35:33:603 84922000793: SMSC - SMSC.SEND_SMS
+15/05 10:35:33:803 84922000643: SMSC - SMSC.SEND_SMS
+15/05 10:35:33:863 84922000841: SMSC - SMSC.SEND_SMS
+15/05 10:35:34:243 84922000644: SMSC - SMSC.SEND_SMS
+15/05 10:35:34:274 84922000562: SMSC - SMSC.SEND_SMS
+15/05 10:35:34:316 84922000794: SMSC - SMSC.SEND_SMS
+15/05 10:35:34:454 84922000842: SMSC - SMSC.SEND_SMS
+15/05 10:35:34:535 84922000563: SMSC - SMSC.SEND_SMS
+15/05 10:35:34:986 84922000843: SMSC - SMSC.SEND_SMS
+15/05 10:35:35:138 84922000645: SMSC - SMSC.SEND_SMS
+15/05 10:35:35:138 84922000795: SMSC - SMSC.SEND_SMS
+15/05 10:35:35:158 84922000564: SMSC - SMSC.SEND_SMS
+15/05 10:35:35:360 84922000796: SMSC - SMSC.SEND_SMS
+15/05 10:35:35:673 84922000646: SMSC - SMSC.SEND_SMS
+15/05 10:35:35:793 84922000844: SMSC - SMSC.SEND_SMS
+15/05 10:35:35:834 84922000565: SMSC - SMSC.SEND_SMS
+15/05 10:35:35:875 84922000797: SMSC - SMSC.SEND_SMS
+15/05 10:35:36:085 84922000647: SMSC - SMSC.SEND_SMS
+15/05 10:35:36:336 84922000845: SMSC - SMSC.SEND_SMS
+15/05 10:35:36:465 84922000566: SMSC - SMSC.SEND_SMS
+15/05 10:35:36:553 84922000798: SMSC - SMSC.SEND_SMS
+15/05 10:35:36:614 84922000648: SMSC - SMSC.SEND_SMS
+15/05 10:35:36:755 84922000846: SMSC - SMSC.SEND_SMS
+15/05 10:35:36:975 84922000567: SMSC - SMSC.SEND_SMS
+15/05 10:35:37:125 84922000799: SMSC - SMSC.SEND_SMS
+15/05 10:35:37:278 84922000649: SMSC - SMSC.SEND_SMS
+15/05 10:35:37:347 84922000847: SMSC - SMSC.SEND_SMS
+15/05 10:35:37:438 84922000568: SMSC - SMSC.SEND_SMS
+15/05 10:35:37:616 84922000800: SMSC - SMSC.SEND_SMS
+15/05 10:35:37:882 84922000650: SMSC - SMSC.SEND_SMS
+15/05 10:35:37:992 84922000569: SMSC - SMSC.SEND_SMS
+15/05 10:35:38:026 84922000848: SMSC - SMSC.SEND_SMS
+15/05 10:35:38:166 84922000801: SMSC - SMSC.SEND_SMS
+15/05 10:35:38:327 84922000651: SMSC - SMSC.SEND_SMS
+15/05 10:35:38:556 84922000849: SMSC - SMSC.SEND_SMS
+15/05 10:35:38:617 84922000585: SMSC - SMSC.SEND_SMS
+15/05 10:35:38:775 84922000802: SMSC - SMSC.SEND_SMS
+15/05 10:35:38:834 84922000652: SMSC - SMSC.SEND_SMS
+15/05 10:35:39:235 84922000850: SMSC - SMSC.SEND_SMS
+15/05 10:35:39:365 84922000586: SMSC - SMSC.SEND_SMS
+15/05 10:35:39:397 84922000654: SMSC - SMSC.SEND_SMS
+15/05 10:35:39:507 84922000803: SMSC - SMSC.SEND_SMS
+15/05 10:35:39:510 84922000851: SMSC - SMSC.SEND_SMS
+15/05 10:35:40:012 84922000587: SMSC - SMSC.SEND_SMS
+15/05 10:35:40:023 84922000655: SMSC - SMSC.SEND_SMS
+15/05 10:35:40:093 84922000804: SMSC - SMSC.SEND_SMS
+15/05 10:35:40:215 84922000852: SMSC - SMSC.SEND_SMS
+15/05 10:35:40:246 84922000679: SMSC - SMSC.SEND_SMS
+15/05 10:35:40:706 84922000805: SMSC - SMSC.SEND_SMS
+15/05 10:35:40:725 84922000656: SMSC - SMSC.SEND_SMS
+15/05 10:35:40:807 84922000853: SMSC - SMSC.SEND_SMS
+15/05 10:35:40:909 84922000680: SMSC - SMSC.SEND_SMS
+15/05 10:35:41:041 84922000808: SMSC - SMSC.SEND_SMS
+15/05 10:35:41:344 84922000657: SMSC - SMSC.SEND_SMS
+15/05 10:35:41:402 84922000854: SMSC - SMSC.SEND_SMS
+15/05 10:35:41:544 84922000681: SMSC - SMSC.SEND_SMS
+15/05 10:35:41:694 84922000809: SMSC - SMSC.SEND_SMS
+15/05 10:35:41:695 84922000658: SMSC - SMSC.SEND_SMS
+15/05 10:35:42:075 84922000855: SMSC - SMSC.SEND_SMS
+15/05 10:35:42:105 84922000704: SMSC - SMSC.SEND_SMS
+15/05 10:35:42:336 84922000659: SMSC - SMSC.SEND_SMS
+15/05 10:35:42:347 84922000810: SMSC - SMSC.SEND_SMS
+15/05 10:35:42:358 84922000856: SMSC - SMSC.SEND_SMS
+15/05 10:35:42:842 84922000712: SMSC - SMSC.SEND_SMS
+15/05 10:35:43:012 84922000811: SMSC - SMSC.SEND_SMS
+15/05 10:35:43:042 84922000857: SMSC - SMSC.SEND_SMS
+15/05 10:35:43:067 84922000714: SMSC - SMSC.SEND_SMS
+15/05 10:35:43:129 84922000660: SMSC - SMSC.SEND_SMS
+15/05 10:35:43:527 84922000812: SMSC - SMSC.SEND_SMS
+15/05 10:35:43:707 84922000661: SMSC - SMSC.SEND_SMS
+15/05 10:35:43:747 84922000720: SMSC - SMSC.SEND_SMS
+15/05 10:35:43:857 84922000813: SMSC - SMSC.SEND_SMS
+15/05 10:35:43:889 84922000858: SMSC - SMSC.SEND_SMS
+15/05 10:35:44:350 84922000662: SMSC - SMSC.SEND_SMS
+15/05 10:35:44:422 84922000724: SMSC - SMSC.SEND_SMS
+15/05 10:35:44:424 84922000859: SMSC - SMSC.SEND_SMS
+15/05 10:35:44:586 84922000663: SMSC - SMSC.SEND_SMS
+15/05 10:35:44:651 84922000814: SMSC - SMSC.SEND_SMS
+15/05 10:35:45:103 84922000860: SMSC - SMSC.SEND_SMS
+15/05 10:35:45:122 84922000815: SMSC - SMSC.SEND_SMS
+15/05 10:35:45:163 84922000725: SMSC - SMSC.SEND_SMS
+15/05 10:35:45:314 84922000664: SMSC - SMSC.SEND_SMS
+15/05 10:35:45:553 84922000861: SMSC - SMSC.SEND_SMS
+15/05 10:35:45:796 84922000730: SMSC - SMSC.SEND_SMS
+15/05 10:35:45:865 84922000665: SMSC - SMSC.SEND_SMS
+15/05 10:35:45:876 84922000816: SMSC - SMSC.SEND_SMS
+15/05 10:35:45:972 84922000862: SMSC - SMSC.SEND_SMS
+15/05 10:35:46:398 84922000735: SMSC - SMSC.SEND_SMS
+15/05 10:35:46:450 84922000817: SMSC - SMSC.SEND_SMS
+15/05 10:35:46:534 84922000863: SMSC - SMSC.SEND_SMS
+15/05 10:35:46:536 84922000666: SMSC - SMSC.SEND_SMS
+15/05 10:35:46:716 84922000738: SMSC - SMSC.SEND_SMS
+15/05 10:35:47:124 84922000818: SMSC - SMSC.SEND_SMS
+15/05 10:35:47:217 84922000864: SMSC - SMSC.SEND_SMS
+15/05 10:35:47:219 84922000667: SMSC - SMSC.SEND_SMS
+15/05 10:35:47:220 84922000740: SMSC - SMSC.SEND_SMS
+15/05 10:35:47:474 84922000819: SMSC - SMSC.SEND_SMS
+15/05 10:35:47:736 84922000668: SMSC - SMSC.SEND_SMS
+15/05 10:35:47:970 84922000865: SMSC - SMSC.SEND_SMS
+15/05 10:35:48:003 84922000746: SMSC - SMSC.SEND_SMS
+15/05 10:35:48:073 84922000820: SMSC - SMSC.SEND_SMS
+15/05 10:35:48:219 84922000669: SMSC - SMSC.SEND_SMS
+15/05 10:35:48:409 84922000866: SMSC - SMSC.SEND_SMS
+15/05 10:35:48:619 84922000821: SMSC - SMSC.SEND_SMS
+15/05 10:35:48:643 84922000751: SMSC - SMSC.SEND_SMS
+15/05 10:35:48:844 84922000670: SMSC - SMSC.SEND_SMS
+15/05 10:35:48:921 84922000867: SMSC - SMSC.SEND_SMS
+15/05 10:35:49:080 84922000756: SMSC - SMSC.SEND_SMS
+15/05 10:35:49:369 84922000686: SMSC - SMSC.SEND_SMS
+15/05 10:35:49:393 84922000822: SMSC - SMSC.SEND_SMS
+15/05 10:35:49:495 84922000868: SMSC - SMSC.SEND_SMS
+15/05 10:35:49:747 84922000759: SMSC - SMSC.SEND_SMS
+15/05 10:35:49:795 84922000823: SMSC - SMSC.SEND_SMS
+15/05 10:35:50:068 84922000687: SMSC - SMSC.SEND_SMS
+15/05 10:35:50:128 84922000760: SMSC - SMSC.SEND_SMS
+15/05 10:35:50:151 84922000869: SMSC - SMSC.SEND_SMS
+15/05 10:35:50:391 84922000824: SMSC - SMSC.SEND_SMS
+15/05 10:35:50:566 84922000697: SMSC - SMSC.SEND_SMS
+15/05 10:35:50:776 84922000761: SMSC - SMSC.SEND_SMS
+15/05 10:35:50:797 84922000870: SMSC - SMSC.SEND_SMS
+15/05 10:35:50:798 84922000825: SMSC - SMSC.SEND_SMS
+15/05 10:35:51:072 84922000700: SMSC - SMSC.SEND_SMS
+15/05 10:35:51:221 84922000871: SMSC - SMSC.SEND_SMS
+15/05 10:35:51:509 84922000701: SMSC - SMSC.SEND_SMS
+15/05 10:35:51:518 84922000826: SMSC - SMSC.SEND_SMS
+15/05 10:35:51:543 84922000806: SMSC - SMSC.SEND_SMS
+15/05 10:35:51:811 84922000872: SMSC - SMSC.SEND_SMS
+15/05 10:35:51:975 84922000807: SMSC - SMSC.SEND_SMS
+15/05 10:35:52:199 84922000873: SMSC - SMSC.SEND_SMS
+15/05 10:35:52:209 84922000827: SMSC - SMSC.SEND_SMS
+15/05 10:35:52:260 84922000702: SMSC - SMSC.SEND_SMS
+15/05 10:35:52:500 84922000889: SMSC - SMSC.SEND_SMS
+15/05 10:35:52:674 84922000828: SMSC - SMSC.SEND_SMS
+15/05 10:35:52:890 84922000703: SMSC - SMSC.SEND_SMS
+15/05 10:35:52:962 84922000874: SMSC - SMSC.SEND_SMS
+15/05 10:35:53:055 84922000890: SMSC - SMSC.SEND_SMS
+15/05 10:35:53:147 84922000829: SMSC - SMSC.SEND_SMS
+15/05 10:35:53:520 84922000705: SMSC - SMSC.SEND_SMS
+15/05 10:35:53:534 84922000875: SMSC - SMSC.SEND_SMS
+15/05 10:35:53:583 84922000891: SMSC - SMSC.SEND_SMS
+15/05 10:35:53:795 84922000830: SMSC - SMSC.SEND_SMS
+15/05 10:35:53:974 84922000706: SMSC - SMSC.SEND_SMS
+15/05 10:35:54:152 84922000892: SMSC - SMSC.SEND_SMS
+15/05 10:35:54:174 84922000876: SMSC - SMSC.SEND_SMS
+15/05 10:35:54:286 84922000831: SMSC - SMSC.SEND_SMS
+15/05 10:35:54:517 84922000707: SMSC - SMSC.SEND_SMS
+15/05 10:35:54:667 84922000877: SMSC - SMSC.SEND_SMS
+15/05 10:35:54:794 84922000893: SMSC - SMSC.SEND_SMS
+15/05 10:35:54:908 84922000832: SMSC - SMSC.SEND_SMS
+15/05 10:35:54:909 84922000878: SMSC - SMSC.SEND_SMS
+15/05 10:35:55:246 84922000894: SMSC - SMSC.SEND_SMS
+15/05 10:35:55:323 84922000833: SMSC - SMSC.SEND_SMS
+15/05 10:35:55:463 84922000879: SMSC - SMSC.SEND_SMS
+15/05 10:35:55:650 84922000834: SMSC - SMSC.SEND_SMS
+15/05 10:35:55:840 84922000896: SMSC - SMSC.SEND_SMS
+15/05 10:35:55:940 84922000898: SMSC - SMSC.SEND_SMS
+15/05 10:35:56:082 84922000880: SMSC - SMSC.SEND_SMS
+15/05 10:35:56:124 84922000835: SMSC - SMSC.SEND_SMS
+15/05 10:35:56:266 84922000881: SMSC - SMSC.SEND_SMS
+15/05 10:35:56:587 84922000900: SMSC - SMSC.SEND_SMS
+15/05 10:35:56:621 84922000836: SMSC - SMSC.SEND_SMS
+15/05 10:35:56:711 84922000882: SMSC - SMSC.SEND_SMS
+15/05 10:35:56:773 84922000901: SMSC - SMSC.SEND_SMS
+15/05 10:35:57:264 84922000902: SMSC - SMSC.SEND_SMS
+15/05 10:35:57:265 84922000837: SMSC - SMSC.SEND_SMS
+15/05 10:35:57:362 84922000883: SMSC - SMSC.SEND_SMS
+15/05 10:35:57:402 84922000838: SMSC - SMSC.SEND_SMS
+15/05 10:35:57:594 84922000884: SMSC - SMSC.SEND_SMS
+15/05 10:35:57:980 84922000653: SMSC - SMSC.SEND_SMS
+15/05 10:35:57:987 84922000839: SMSC - SMSC.SEND_SMS
+15/05 10:35:58:083 84922000715: SMSC - SMSC.SEND_SMS
+15/05 10:35:58:094 84922000885: SMSC - SMSC.SEND_SMS
+15/05 10:35:58:365 84922000840: SMSC - SMSC.SEND_SMS
+15/05 10:35:58:645 84922000742: SMSC - SMSC.SEND_SMS
+15/05 10:35:58:646 84922000886: SMSC - SMSC.SEND_SMS
+15/05 10:35:58:708 84922000887: SMSC - SMSC.SEND_SMS
+15/05 10:35:58:796 84922000888: SMSC - SMSC.SEND_SMS
+15/05 10:37:59:313 84922000512: SMSC - SMSC.SEND_SMS
+15/05 10:38:51:344 84922000512: SMSC - SMSC.SEND_SMS
+15/05 13:48:49:655 Command Routing started
+15/05 13:48:49:671 Starting process session
+15/05 13:48:49:792 Init queue connection pool 1400136529792
+15/05 13:48:50:192 Total 0 instances are started
+15/05 13:48:50:193 Total 5 instances are added
+15/05 13:49:11:703 84922000512: CRM - LOYALTY.VALIDATE
+15/05 13:49:11:788 84922000512: CRM - LOYALTY.BALANCE_QUERY
+15/05 13:49:11:872 84922000512: SMSC - SMSC.SEND_SMS
+15/05 14:05:52:789 84922000512: CRM - LOYALTY.VALIDATE
+15/05 14:05:52:864 84922000512: CRM - LOYALTY.BALANCE_QUERY
+15/05 14:05:52:946 84922000512: SMSC - SMSC.SEND_SMS
+15/05 14:22:33:895 84922000512: CRM - LOYALTY.VALIDATE
+15/05 14:22:33:937 84922000512: CRM - LOYALTY.BALANCE_QUERY
+15/05 14:22:33:977 84922000512: SMSC - SMSC.SEND_SMS
+15/05 14:39:14:969 84922000512: CRM - LOYALTY.VALIDATE
+15/05 14:39:15:068 84922000512: CRM - LOYALTY.BALANCE_QUERY
+15/05 14:39:15:145 84922000512: SMSC - SMSC.SEND_SMS
+15/05 14:55:56:961 84922000512: CRM - LOYALTY.VALIDATE
+15/05 14:55:57:005 84922000512: CRM - LOYALTY.BALANCE_QUERY
+15/05 14:55:57:050 84922000512: SMSC - SMSC.SEND_SMS
+15/05 15:08:26:042 84922000512: CRM - LOYALTY.VALIDATE
+15/05 15:08:26:094 84922000512: CRM - LOYALTY.BALANCE_QUERY
+15/05 15:08:26:176 84922000512: SMSC - SMSC.SEND_SMS
+15/05 15:25:07:153 84922000512: CRM - LOYALTY.VALIDATE
+15/05 15:25:07:210 84922000512: CRM - LOYALTY.BALANCE_QUERY
+15/05 15:25:07:245 84922000512: SMSC - SMSC.SEND_SMS
+15/05 16:44:30:722 Command Routing started
+15/05 16:44:30:782 Starting process session
+15/05 16:44:30:992 Init queue connection pool 1400147070992
+15/05 16:44:31:432 Total 0 instances are started
+15/05 16:44:31:432 Total 5 instances are added
+15/05 16:44:55:232 84922000512: SMSC - SMSC.SEND_SMS
+15/05 17:01:36:215 84922000512: SMSC - SMSC.SEND_SMS
+15/05 17:18:17:351 84922000512: SMSC - SMSC.SEND_SMS
+15/05 17:34:58:439 84922000512: SMSC - SMSC.SEND_SMS
+15/05 17:51:40:474 84922000512: SMSC - SMSC.SEND_SMS
+15/05 18:08:20:649 84922000512: SMSC - SMSC.SEND_SMS
+15/05 18:25:01:785 84922000512: SMSC - SMSC.SEND_SMS
+15/05 18:41:53:307 84922000512: SMSC - SMSC.SEND_SMS
+15/05 18:58:49:384 84922000512: SMSC - SMSC.SEND_SMS
+15/05 19:15:43:494 84922000512: SMSC - SMSC.SEND_SMS
+15/05 19:32:38:651 84922000512: SMSC - SMSC.SEND_SMS
+15/05 19:49:33:744 84922000512: SMSC - SMSC.SEND_SMS
+15/05 20:06:29:821 84922000512: SMSC - SMSC.SEND_SMS
+15/05 20:23:23:932 84922000512: SMSC - SMSC.SEND_SMS
+15/05 20:40:19:041 84922000512: SMSC - SMSC.SEND_SMS
+15/05 20:57:14:120 84922000512: SMSC - SMSC.SEND_SMS
+15/05 21:14:10:196 84922000512: SMSC - SMSC.SEND_SMS
+15/05 21:30:59:178 84922000512: SMSC - SMSC.SEND_SMS
+15/05 21:47:40:229 84922000512: SMSC - SMSC.SEND_SMS
+15/05 22:04:21:274 84922000512: SMSC - SMSC.SEND_SMS
+15/05 22:21:02:352 84922000512: SMSC - SMSC.SEND_SMS
+15/05 22:37:43:463 84922000512: SMSC - SMSC.SEND_SMS
+15/05 22:54:25:394 84922000512: SMSC - SMSC.SEND_SMS
+15/05 23:11:05:496 84922000512: SMSC - SMSC.SEND_SMS
+15/05 23:27:46:542 84922000512: SMSC - SMSC.SEND_SMS
+15/05 23:44:27:601 84922000512: SMSC - SMSC.SEND_SMS

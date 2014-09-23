@@ -1,0 +1,28 @@
+09/10 09:41:59:422 CRM started
+09/10 09:41:59:479 Testing connection ...
+09/10 09:41:59:480 Created provisioning instance for CRM
+09/10 09:41:59:503 Testing connection are success
+09/10 09:41:59:504 Starting process session
+09/10 09:41:59:716 Total 0 instances are started
+09/10 09:41:59:717 Total 1 instances are added
+09/10 09:43:32:541 sendNotify: 84922000514 - Quy khach chua dang ky tham gia Cau lac bo CAM, vui long dang ky: DK CAM gui 268 de duoc tich luy va doi diem cua chuong trinh. Chi tiet 789
+09/10 09:43:32:542 orderId = 125410811 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = TRA DIEM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | commandId = 300 | request =  | response =  | status = 4 | cause = unknow-member | description = 
+09/10 10:59:51:516 CRM started
+09/10 10:59:51:641 Testing connection ...
+09/10 10:59:51:643 Created provisioning instance for CRM
+09/10 10:59:51:647 Testing connection are success
+09/10 10:59:51:650 Starting process session
+09/10 10:59:51:816 Total 0 instances are started
+09/10 10:59:51:821 Total 1 instances are added
+09/10 11:03:06:619 SEND: ID=295002: com.crm.provisioning.impl.CommandImpl.register{84922000514, 274}
+09/10 11:03:06:658 RECEIVE: ID=295002: success: costTime=38
+09/10 11:03:06:683 sendNotify: 84922000514 - Chuc mung Quy khach da ra nhap Cau lac bo CAM cua Vietnamobile. Hay tiep tuc su dung Vietnamobile de tich luy nhieu diem va nhan duoc nhieu uu dai cua chuong trinh. Chi tiet 789
+09/10 11:03:06:685 orderId = 125410812 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DK CAM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = register | productId = 274 | commandId = 521 | request = ID=295002: com.crm.provisioning.impl.CommandImpl.register{84922000514, 274} | response = ID=295002: success: costTime=38 | status = 0 | cause = success | description = success
+09/10 11:08:10:066 SEND: ID=295004: com.crm.provisioning.impl.CommandImpl.register{84922000514, 274}
+09/10 11:08:10:103 RECEIVE: ID=295004: success: costTime=36
+09/10 11:08:10:132 sendNotify: 84922000514 - Chuc mung Quy khach da ra nhap Cau lac bo CAM cua Vietnamobile. Hay tiep tuc su dung Vietnamobile de tich luy nhieu diem va nhan duoc nhieu uu dai cua chuong trinh. Chi tiet 789
+09/10 11:08:10:133 orderId = 125410813 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DK CAM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = register | productId = 274 | commandId = 521 | request = ID=295004: com.crm.provisioning.impl.CommandImpl.register{84922000514, 274} | response = ID=295004: success: costTime=36 | status = 0 | cause = success | description = success
+09/10 11:55:00:955 Close pool
+09/10 11:55:01:095 Close queue connection pool.
+09/10 11:55:01:137 End of process session
+09/10 11:55:01:138 CRM stopped

@@ -1,0 +1,77 @@
+23/08 15:24:49:120 OSA started
+23/08 15:24:54:235 java.lang.ClassNotFoundException: com.crm.provisioning.impl.vas.VASCommandImpl
+23/08 15:24:54:236 End of process session
+23/08 15:29:54:292 java.lang.ClassNotFoundException: com.crm.provisioning.impl.vas.VASCommandImpl
+23/08 15:29:54:294 End of process session
+23/08 15:34:54:362 java.lang.ClassNotFoundException: com.crm.provisioning.impl.vas.VASCommandImpl
+23/08 15:34:54:363 End of process session
+23/08 15:39:54:417 java.lang.ClassNotFoundException: com.crm.provisioning.impl.vas.VASCommandImpl
+23/08 15:39:54:418 End of process session
+23/08 15:52:59:972 OSA started
+23/08 15:53:00:088 Testing connection ...
+23/08 15:53:06:734 Created provisioning instance for OSA
+23/08 15:53:06:735 Testing connection are success
+23/08 15:53:06:735 Starting process session
+23/08 15:53:08:242 java.sql.SQLException: ORA-00936: missing expression
+
+23/08 15:53:08:242 Close pool
+23/08 15:53:08:242 End of process session
+23/08 15:58:08:389 Close pool
+23/08 15:58:08:415 Close pool
+23/08 15:58:08:417 Testing connection ...
+23/08 15:58:08:422 Created provisioning instance for OSA
+23/08 15:58:08:424 Testing connection are success
+23/08 15:58:08:425 Starting process session
+23/08 15:58:09:169 java.sql.SQLException: ORA-00936: missing expression
+
+23/08 15:58:09:169 Close pool
+23/08 15:58:09:170 End of process session
+23/08 16:01:45:302 OSA started
+23/08 16:01:45:532 Testing connection ...
+23/08 16:01:47:740 Created provisioning instance for OSA
+23/08 16:01:47:742 Testing connection are success
+23/08 16:01:47:742 Starting process session
+23/08 16:01:48:854 java.lang.NullPointerException: null
+23/08 16:01:48:855 Close pool
+23/08 16:01:48:856 End of process session
+23/08 16:05:33:218 OSA started
+23/08 16:05:33:396 Testing connection ...
+23/08 16:05:35:390 Created provisioning instance for OSA
+23/08 16:05:35:391 Testing connection are success
+23/08 16:05:35:392 Starting process session
+23/08 16:05:36:511 java.lang.NullPointerException: null
+23/08 16:05:36:512 Close pool
+23/08 16:05:36:513 End of process session
+23/08 16:10:36:543 Close pool
+23/08 16:10:36:544 Close pool
+23/08 16:10:36:545 Testing connection ...
+23/08 16:10:36:549 Created provisioning instance for OSA
+23/08 16:10:36:550 Testing connection are success
+23/08 16:10:36:550 Starting process session
+23/08 16:10:37:112 java.lang.NullPointerException: null
+23/08 16:10:37:113 Close pool
+23/08 16:10:37:113 End of process session
+23/08 16:15:37:133 Close pool
+23/08 16:15:37:134 Close pool
+23/08 16:15:37:135 Testing connection ...
+23/08 16:15:37:139 Created provisioning instance for OSA
+23/08 16:15:37:140 Testing connection are success
+23/08 16:15:37:141 Starting process session
+23/08 16:15:37:820 Total 0 instances are started
+23/08 16:15:37:821 Total 1 instances are added
+23/08 16:39:11:163 OSA started
+23/08 16:39:11:861 java.lang.ClassNotFoundException: com.crm.provisioning.impl.LoyaltyImpl
+23/08 16:39:11:862 End of process session
+23/08 16:41:35:135 OSA started
+23/08 16:41:35:514 java.lang.ClassNotFoundException: com.crm.provisioning.impl.LoyaltyImpl
+23/08 16:41:35:515 End of process session
+23/08 16:45:26:160 OSA started
+23/08 16:45:26:812 java.lang.ClassNotFoundException: com.crm.provisioning.impl.LoyaltyImpl
+23/08 16:45:26:813 End of process session
+23/08 16:49:03:490 OSA started
+23/08 16:49:03:999 Testing connection ...
+23/08 16:49:06:359 Created provisioning instance for OSA
+23/08 16:49:06:363 Testing connection are success
+23/08 16:49:06:364 Starting process session
+23/08 16:49:07:556 Total 0 instances are started
+23/08 16:49:07:557 Total 1 instances are added

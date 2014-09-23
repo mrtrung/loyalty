@@ -1,0 +1,150 @@
+#
+# An unexpected error has been detected by Java Runtime Environment:
+#
+#  EXCEPTION_ACCESS_VIOLATION (0xc0000005) at pc=0x6d937e6f, pid=5836, tid=5872
+#
+# Java VM: Java HotSpot(TM) Client VM (1.6.0-b105 mixed mode)
+# Problematic frame:
+# V  [jvm.dll+0x177e6f]
+#
+# If you would like to submit a bug report, please visit:
+#   http://java.sun.com/webapps/bugreport/crash.jsp
+#
+
+---------------  T H R E A D  ---------------
+
+Current thread (0x01988c00):  VMThread [id=5872]
+
+siginfo: ExceptionCode=0xc0000005, reading address 0x00000110
+
+Registers:
+EAX=0x08e3bd38, EBX=0x01913064, ECX=0x01913028, EDX=0x00000104
+ESP=0x0babf5fc, EBP=0x019102a8, ESI=0x08485190, EDI=0x08485190
+EIP=0x6d937e6f, EFLAGS=0x00010293
+
+Top of Stack: (sp=0x0babf5fc)
+0x0babf5fc:   08485190 6d7db7cb 08485190 0babf64c
+0x0babf60c:   0babf64c 00000002 0190f9f0 6d861d41
+0x0babf61c:   08485308 01910100 6d861b11 01913028
+0x0babf62c:   6d832873 0babf64c 00000000 0190fa48
+0x0babf63c:   08485308 6d861957 0babf64c 00000000
+0x0babf64c:   6d99cd24 08485308 00000000 6d85c623
+0x0babf65c:   08485308 08485308 00000000 0babf77c
+0x0babf66c:   00000000 6d8fc563 08485308 6d7dbe74 
+
+Instructions: (pc=0x6d937e6f)
+0x6d937e5f:   cc 8b 41 34 56 8b 74 24 08 3b f0 73 38 8b 56 04
+0x6d937e6f:   8b 42 0c 83 c2 08 85 c0 7f 33 7d 1d 83 c9 ff 2b 
+
+
+Stack: [0x0ba70000,0x0bac0000),  sp=0x0babf5fc,  free space=317k
+Native frames: (J=compiled Java code, j=interpreted, Vv=VM code, C=native code)
+V  [jvm.dll+0x177e6f]
+
+VM_Operation (0x0e6ff900): generation collection for allocation, mode: safepoint, requested by thread 0x0caf4800
+
+
+---------------  P R O C E S S  ---------------
+
+Java Threads: ( => current thread )
+  0x0c086800 JavaThread "ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÀ€À€À€À€À€À€À€À€À€À€À€À€À€À€À€À€À€À€À€À€À€À€À€À€À€À€À€À€À€À€À€À€À€À€À€À€À€À€À€À€À€À€À€À€À€À€À€À€À€À€À€À€À€À€À€À€À€À€À€À€À€À€À€À€À€À€À€À€À€À€À€À€À€À€À€À€À€À€À€À€À€À€À€À€À€À€À€À€À€À€À€À€À€À€À€À€À€À€À€À€À€À€À€À€À€À€À€À€À€À€À€À€À€À€À€À€À€À€À€À€À€À€À€À€À€À€À€À€À€À€À€À€À€À€À€À€À€À€À€À€À€À€À€À€À€À€À€âŒ€à®¼ê …ê¸ë¼‡î €à¬—í€…à±§è …à¬—î …à±§à±¨á …à±¨ã€…à±¨ä …à±¨â …à¬—é …à¬”ì …à¬´ê …à¬˜ä …à¬˜å …à¬µí …à¬³â …à¬µå€…à¬´à …à¬™ä€…à¬µà°€æ …à¬™â€…à¬´é …à¬´è€…à¬´ë€…à¬´à …à¬´è …à¬šâ …à¬šæ€…à±¨ì …à¬™ï …à¬´ï …à¬œá€…à¬ç …à±¨é€…à±¨é …à±–ë€…à±–ê …à±¨ì€…à±¨å€…à±–æ …à±–â€…à±–ã …à±–í …à±¨ï€…à±¨í …à±•ï€…à±•à …à±©â€…à±©é€…à±•ê …à±•æ€…à±•ç …à±•ã …à±©å€…à±©á …à±•ã€…à±•ì …à¬œî€…à¬œæ …à±©è€…à±©í€…à±”î …à±”ê€…à±”ë …à±”ç€…à±”è …à±”é …à±©ë€…à±©â …à±”ä€…à±”ï …à±“á€…à±”ì …à±©î€…à±©ë€…à±“ì …à±“è€…à±“é …à±“å€…à±“æ …à±“ï …à¬–á€…à¬—â …à¬ä€…à¬ï …à±©á€…à±ªà …à±“â€…à±“í …à±’ï€…à±’ê …à±’ì€…à±’ç …à±’é€…à±’ä …à±’æ€…à±’á …à±’ã€…à±’î …à±‘à±’â …à±ªä€…à±ªê€…à±‘ë …à±‘å …à±ªç€…à±ªå …à±‘ç€…à±‘è …à±ªê€…à±ªá€…à±‘â …à±‘î€…à±ï …à±î€…à¬´ë …à±ªí€…à±ªæ …à¬´ã …à¬´ê …à¬›î …à±ªà±«á …à±«ã€…à±«ä …à±«æ€…à±«ç …à±«é€…à±«ê …à±«ì€…à±«í …à±«ï€…à±«à …à±¬â€…à±¬ã …à±¬ä …à¬›å€…à±¬æ …à±¬è€…à±¬î …à¬šæ …à¬µà®©æ …à¬œé …à±¬ë€…à±¬ì …à±¬î€…à±¬ï …à±¬á€…à±­â …à±­à …à¬œä€…à±­å …à±­á …à®©è …à°€ë …à°€ç€…à°€ê€…à°€à°î …à°€ä€…à°€í€…à°€å …à°€ã …à°ƒã€…à°à …à©±ã€…Ë¥ç€…à±­æ …à©±ä …à°„ì …à©±â …à©²é€…à±Ÿè …à±­è …à©²ê€…à©²à©³æ€…à©³ç …à©³é€…à©³ê …à©³á …à©´ç …à©´ì …à©´â …à©µä …à©µê …à©µì€…à©µâ€…à©¶é€…à©¶ê …à©¶à …à©·â€…à©·ã …à©·é …à©·ì …à¬–ë€…à©·ì …à©·ï …à©·å …à©¸ì€…à±Ÿã€…à©¾ä …à©¾æ€…à©¾í€…à©¾â€…à©¿ä€…à©¿ë€…à©¿ï€…à±Ÿì …à©¿î€…à©¿ï …à©¿æ …àª€ë …àª€í …àª€ä …àªâ€…à± æ€…àªç …àªé€…àªàª‚å€…àª‚ç€ daemon [_thread_blocked, id=2520]
+  0x0c086c00 
+[error occurred during error reporting, step 170, id 0xc0000005]
+
+VM state:at safepoint (normal execution)
+
+VM Mutex/Monitor currently owned by a thread:  ([mutex/lock_event])
+[0x0190d998/0x000000e8] Threads_lock - owner thread: 0x01988c00
+[0x0190e630/0x00000128] Heap_lock - owner thread: 0x0caf4800
+
+Heap
+ def new generation   total 3840K, used 383K [0x03a70000, 0x03e90000, 0x03f50000)
+  eden space 3456K,   0% used [0x03a70000, 0x03a70000, 0x03dd0000)
+  from space 384K,  99% used [0x03e30000, 0x03e8fff8, 0x03e90000)
+  to   space 384K,   0% used [0x03dd0000, 0x03dd0000, 0x03e30000)
+ tenured generation   total 45220K, used 45096K [0x03f50000, 0x06b79000, 0x07a70000)
+   the space 45220K,  99% used [0x03f50000, 0x06b5a148, 0x0574bc00, 0x06b79000)
+ compacting perm gen  total 20480K, used 20271K [0x07a70000, 0x08e70000, 0x0ba70000)
+   the space 20480K,  98% used [0x07a70000, 0x08e3bd38, 0x08e36e00, 0x08e70000)
+No shared spaces configured.
+
+Dynamic libraries:
+0x00400000 - 0x00423000 	C:\Program Files\Java\jre1.6.0\bin\javaw.exe
+0x77440000 - 0x7757c000 	C:\Windows\SYSTEM32\ntdll.dll
+0x75ea0000 - 0x75f74000 	C:\Windows\system32\kernel32.dll
+0x75640000 - 0x7568a000 	C:\Windows\system32\KERNELBASE.dll
+0x75f80000 - 0x76020000 	C:\Windows\system32\ADVAPI32.dll
+0x75ac0000 - 0x75b6c000 	C:\Windows\system32\msvcrt.dll
+0x75b70000 - 0x75b89000 	C:\Windows\SYSTEM32\sechost.dll
+0x75890000 - 0x75931000 	C:\Windows\system32\RPCRT4.dll
+0x75cc0000 - 0x75d89000 	C:\Windows\system32\USER32.dll
+0x77620000 - 0x7766e000 	C:\Windows\system32\GDI32.dll
+0x75a10000 - 0x75a1a000 	C:\Windows\system32\LPK.dll
+0x75b90000 - 0x75c2d000 	C:\Windows\system32\USP10.dll
+0x77600000 - 0x7761f000 	C:\Windows\system32\IMM32.DLL
+0x75940000 - 0x75a0c000 	C:\Windows\system32\MSCTF.dll
+0x7c340000 - 0x7c396000 	C:\Program Files\Java\jre1.6.0\bin\msvcr71.dll
+0x6d7c0000 - 0x6da07000 	C:\Program Files\Java\jre1.6.0\bin\client\jvm.dll
+0x73d50000 - 0x73d82000 	C:\Windows\system32\WINMM.dll
+0x754c0000 - 0x7550b000 	C:\Windows\system32\apphelp.dll
+0x6d310000 - 0x6d318000 	C:\Program Files\Java\jre1.6.0\bin\hpi.dll
+0x775e0000 - 0x775e5000 	C:\Windows\system32\PSAPI.DLL
+0x6d400000 - 0x6d429000 	C:\Program Files\Java\jre1.6.0\bin\jdwp.dll
+0x6d6c0000 - 0x6d6c6000 	C:\Program Files\Java\jre1.6.0\bin\npt.dll
+0x6d770000 - 0x6d77c000 	C:\Program Files\Java\jre1.6.0\bin\verify.dll
+0x6d3b0000 - 0x6d3cf000 	C:\Program Files\Java\jre1.6.0\bin\java.dll
+0x6d7b0000 - 0x6d7bf000 	C:\Program Files\Java\jre1.6.0\bin\zip.dll
+0x6d280000 - 0x6d287000 	C:\Program Files\Java\jre1.6.0\bin\dt_socket.dll
+0x75c30000 - 0x75c65000 	C:\Windows\system32\WS2_32.dll
+0x775f0000 - 0x775f6000 	C:\Windows\system32\NSI.dll
+0x73cb0000 - 0x73cc0000 	C:\Windows\system32\NLAapi.dll
+0x75000000 - 0x7503c000 	C:\Windows\System32\mswsock.dll
+0x74ec0000 - 0x74f04000 	C:\Windows\system32\DNSAPI.dll
+0x6ef90000 - 0x6ef98000 	C:\Windows\System32\winrnr.dll
+0x6ef80000 - 0x6ef90000 	C:\Windows\system32\napinsp.dll
+0x6ef60000 - 0x6ef72000 	C:\Windows\system32\pnrpnsp.dll
+0x6ef50000 - 0x6ef5d000 	C:\Windows\system32\wshbth.dll
+0x6ef20000 - 0x6ef41000 	C:\Program Files\Bonjour\mdnsNSP.dll
+0x739d0000 - 0x739ec000 	C:\Windows\system32\Iphlpapi.DLL
+0x739c0000 - 0x739c7000 	C:\Windows\system32\WINNSI.DLL
+0x732f0000 - 0x73328000 	C:\Windows\System32\fwpuclnt.dll
+0x6ef10000 - 0x6ef16000 	C:\Windows\system32\rasadhlp.dll
+0x74b20000 - 0x74b25000 	C:\Windows\System32\wshtcpip.dll
+0x6d570000 - 0x6d583000 	C:\Program Files\Java\jre1.6.0\bin\net.dll
+0x74ff0000 - 0x74ff6000 	C:\Windows\System32\wship6.dll
+0x75040000 - 0x75056000 	C:\Windows\system32\CRYPTSP.dll
+0x74de0000 - 0x74e1b000 	C:\Windows\system32\rsaenh.dll
+0x74bf0000 - 0x74c07000 	C:\Windows\system32\USERENV.dll
+0x75590000 - 0x7559b000 	C:\Windows\system32\profapi.dll
+0x75510000 - 0x7551c000 	C:\Windows\system32\CRYPTBASE.dll
+0x6d560000 - 0x6d569000 	C:\Program Files\Java\jre1.6.0\bin\management.dll
+0x6d590000 - 0x6d599000 	C:\Program Files\Java\jre1.6.0\bin\nio.dll
+0x6d750000 - 0x6d758000 	C:\Program Files\Java\jre1.6.0\bin\sunmscapi.dll
+0x75770000 - 0x7588c000 	C:\Windows\system32\CRYPT32.dll
+0x75600000 - 0x7560c000 	C:\Windows\system32\MSASN1.dll
+
+VM Arguments:
+jvm_args: -agentlib:jdwp=transport=dt_socket,suspend=y,address=localhost:61247 -Dfile.encoding=Cp1252
+java_command: com.crm.thread.ServiceManager
+Launcher Type: SUN_STANDARD
+
+Environment Variables:
+JAVA_HOME=C:\Program Files\Java\jdk1.7.0_21; C:\Program Files\Java\jdk1.6.0;D:\NMS\glassfish3\glassfish;
+CLASSPATH=.;C:\Program Files\Java\jre7\lib\ext\QTJava.zip
+PATH=C:/Program Files/Java/jre7/bin/client;C:/Program Files/Java/jre7/bin;C:/Program Files/Java/jre7/lib/i386;D:\app\QUANGTRUNG\product\11.2.0\client_1\bin;D:\app\QUANGTRUNG\product\11.2.0\client_1;C:\Program Files\Common Files\NetSarang;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;D:\NMS\axis2.1.4\axis2-1.4\bin;C:\Program Files\Java\jdk1.7.0_21\bin;C:\Program Files\Java\jdk1.6.0\bin;D:\NMS\glassfish3\glassfish\bin;C:\Program Files\QuickTime\QTSystem\;D:\Java Learning\eclipse;
+USERNAME=QUANGTRUNG
+OS=Windows_NT
+PROCESSOR_IDENTIFIER=x86 Family 6 Model 37 Stepping 5, GenuineIntel
+
+
+
+---------------  S Y S T E M  ---------------
+
+OS: Windows NT 6.1 Build 7600 
+
+CPU:total 4 family 6, cmov, cx8, fxsr, mmx, sse, sse2
+
+Memory: 4k page, physical 1954228k(311160k free), swap 3908456k(1760680k free)
+
+vm_info: Java HotSpot(TM) Client VM (1.6.0-b105) for windows-x86, built on Nov 29 2006 00:48:48 by "java_re" with unknown MS VC++:1310
+

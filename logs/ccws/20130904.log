@@ -1,0 +1,758 @@
+04/09 08:51:02:220 CCWS started
+04/09 08:51:06:706 Testing connection ...
+04/09 08:51:07:801 Created provisioning instance for CCWS
+04/09 08:51:07:802 Testing connection are success
+04/09 08:51:07:804 Starting process session
+04/09 08:51:07:906 Total 0 instances are started
+04/09 08:51:07:906 Total 1 instances are added
+04/09 08:55:50:539 Created provisioning instance for CCWS
+04/09 08:55:50:600 SEND: ID=98001: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000514}
+04/09 08:55:55:953 RECEIVE: ID=98001: cosname=MAIN_COS,status=Active,active_date=22/08/2013 00:38:45,{84922000514}Core{70000.0;05/12/2013 08:59:59},VOICE_ONNET{9000.0;08/09/2013 09:59:59},GPRS{2.5165824E8;24/11/2013 08:59:59},PROMOTION{1000.0;20/08/2023 09:59:59},VM18{10800.0;04/09/2013 09:59:59},PROMOTION_60{300.0;22/10/2013 09:59:59},VB600_M{299000.0;20/09/2013 09:59:59},: costTime=5351
+04/09 08:56:48:887 orderId = 125407994 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 309 | request = ID=98001: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000514} | response = ID=98001: cosname=MAIN_COS,status=Active,active_date=22/08/2013 00:38:45,{84922000514}Core{70000.0;05/12/2013 08:59:59},VOICE_ONNET{9000.0;08/09/2013 09:59:59},GPRS{2.5165824E8;24/11/2013 08:59:59},PROMOTION{1000.0;20/08/2023 09:59:59},VM18{10800.0;04/09/2013 09:59:59},PROMOTION_60{300.0;22/10/2013 09:59:59},VB600_M{299000.0;20/09/2013 09:59:59},: costTime=5351 | status = 4 | cause = CCWS unknown: java.lang.NullPointerException | description = cosname=MAIN_COS,status=Active,active_date=22/08/2013 00:38:45,{84922000514}Core{70000.0;05/12/2013 08:59:59},VOICE_ONNET{9000.0;08/09/2013 09:59:59},GPRS{2.5165824E8;24/11/2013 08:59:59},PROMOTION{1000.0;20/08/2023 09:59:59},VM18{10800.0;04/09/2013 09:59:59},PROMOTION_60{300.0;22/10/2013 09:59:59},VB600_M{299000.0;20/09/2013 09:59:59},
+04/09 08:57:22:652 CCWS started
+04/09 08:57:25:035 Testing connection ...
+04/09 08:57:27:692 Created provisioning instance for CCWS
+04/09 08:57:27:692 Testing connection are success
+04/09 08:57:27:693 Starting process session
+04/09 08:57:27:798 Total 0 instances are started
+04/09 08:57:27:802 Total 1 instances are added
+04/09 08:57:40:096 SEND: ID=99001: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000514}
+04/09 08:57:40:970 RECEIVE: ID=99001: cosname=MAIN_COS,status=Active,active_date=22/08/2013 00:38:45,{84922000514}Core{70000.0;05/12/2013 08:59:59},VOICE_ONNET{9000.0;08/09/2013 09:59:59},GPRS{2.5165824E8;24/11/2013 08:59:59},PROMOTION{1000.0;20/08/2023 09:59:59},VM18{10800.0;04/09/2013 09:59:59},PROMOTION_60{300.0;22/10/2013 09:59:59},VB600_M{299000.0;20/09/2013 09:59:59},: costTime=873
+04/09 08:57:40:994 orderId = 125407995 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 309 | request = ID=99001: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000514} | response = ID=99001: cosname=MAIN_COS,status=Active,active_date=22/08/2013 00:38:45,{84922000514}Core{70000.0;05/12/2013 08:59:59},VOICE_ONNET{9000.0;08/09/2013 09:59:59},GPRS{2.5165824E8;24/11/2013 08:59:59},PROMOTION{1000.0;20/08/2023 09:59:59},VM18{10800.0;04/09/2013 09:59:59},PROMOTION_60{300.0;22/10/2013 09:59:59},VB600_M{299000.0;20/09/2013 09:59:59},: costTime=873 | status = 4 | cause = CCWS unknown: java.lang.NullPointerException | description = cosname=MAIN_COS,status=Active,active_date=22/08/2013 00:38:45,{84922000514}Core{70000.0;05/12/2013 08:59:59},VOICE_ONNET{9000.0;08/09/2013 09:59:59},GPRS{2.5165824E8;24/11/2013 08:59:59},PROMOTION{1000.0;20/08/2023 09:59:59},VM18{10800.0;04/09/2013 09:59:59},PROMOTION_60{300.0;22/10/2013 09:59:59},VB600_M{299000.0;20/09/2013 09:59:59},
+04/09 09:00:32:391 CCWS started
+04/09 09:00:36:969 Testing connection ...
+04/09 09:00:37:877 Created provisioning instance for CCWS
+04/09 09:00:37:877 Testing connection are success
+04/09 09:00:37:878 Starting process session
+04/09 09:00:37:978 Total 0 instances are started
+04/09 09:00:37:980 Total 1 instances are added
+04/09 09:01:23:634 Created provisioning instance for CCWS
+04/09 09:01:23:647 SEND: ID=100001: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000514}
+04/09 09:01:27:409 RECEIVE: ID=100001: cosname=MAIN_COS,status=Active,active_date=22/08/2013 00:38:45,{84922000514}Core{70000.0;05/12/2013 08:59:59},VOICE_ONNET{9000.0;08/09/2013 09:59:59},GPRS{2.5165824E8;24/11/2013 08:59:59},PROMOTION{1000.0;20/08/2023 09:59:59},VM18{10800.0;04/09/2013 09:59:59},PROMOTION_60{300.0;22/10/2013 09:59:59},VB600_M{299000.0;20/09/2013 09:59:59},: costTime=3760
+04/09 09:07:27:539 CCWS started
+04/09 09:07:31:952 Testing connection ...
+04/09 09:07:32:911 Created provisioning instance for CCWS
+04/09 09:07:32:911 Testing connection are success
+04/09 09:07:32:912 Starting process session
+04/09 09:07:33:016 Total 0 instances are started
+04/09 09:07:33:016 Total 1 instances are added
+04/09 09:07:34:720 SEND: ID=101001: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000514}
+04/09 09:07:36:077 RECEIVE: ID=101001: cosname=MAIN_COS,status=Active,active_date=22/08/2013 00:38:45,{84922000514}Core{70000.0;05/12/2013 08:59:59},VOICE_ONNET{9000.0;08/09/2013 09:59:59},GPRS{2.5165824E8;24/11/2013 08:59:59},PROMOTION{1000.0;20/08/2023 09:59:59},VM18{10800.0;04/09/2013 09:59:59},PROMOTION_60{300.0;22/10/2013 09:59:59},VB600_M{299000.0;20/09/2013 09:59:59},: costTime=1357
+04/09 09:07:36:117 orderId = 125407997 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 309 | request = ID=101001: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000514} | response = ID=101001: cosname=MAIN_COS,status=Active,active_date=22/08/2013 00:38:45,{84922000514}Core{70000.0;05/12/2013 08:59:59},VOICE_ONNET{9000.0;08/09/2013 09:59:59},GPRS{2.5165824E8;24/11/2013 08:59:59},PROMOTION{1000.0;20/08/2023 09:59:59},VM18{10800.0;04/09/2013 09:59:59},PROMOTION_60{300.0;22/10/2013 09:59:59},VB600_M{299000.0;20/09/2013 09:59:59},: costTime=1357 | status = 4 | cause = CCWS unknown: java.lang.NullPointerException | description = cosname=MAIN_COS,status=Active,active_date=22/08/2013 00:38:45,{84922000514}Core{70000.0;05/12/2013 08:59:59},VOICE_ONNET{9000.0;08/09/2013 09:59:59},GPRS{2.5165824E8;24/11/2013 08:59:59},PROMOTION{1000.0;20/08/2023 09:59:59},VM18{10800.0;04/09/2013 09:59:59},PROMOTION_60{300.0;22/10/2013 09:59:59},VB600_M{299000.0;20/09/2013 09:59:59},
+04/09 09:07:55:635 SEND: ID=101002: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000514}
+04/09 09:07:55:759 RECEIVE: ID=101002: cosname=MAIN_COS,status=Active,active_date=22/08/2013 00:38:45,{84922000514}Core{70000.0;05/12/2013 08:59:59},VOICE_ONNET{9000.0;08/09/2013 09:59:59},GPRS{2.5165824E8;24/11/2013 08:59:59},PROMOTION{1000.0;20/08/2023 09:59:59},VM18{10800.0;04/09/2013 09:59:59},PROMOTION_60{300.0;22/10/2013 09:59:59},VB600_M{299000.0;20/09/2013 09:59:59},: costTime=123
+04/09 09:07:55:776 orderId = 125407998 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 309 | request = ID=101002: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000514} | response = ID=101002: cosname=MAIN_COS,status=Active,active_date=22/08/2013 00:38:45,{84922000514}Core{70000.0;05/12/2013 08:59:59},VOICE_ONNET{9000.0;08/09/2013 09:59:59},GPRS{2.5165824E8;24/11/2013 08:59:59},PROMOTION{1000.0;20/08/2023 09:59:59},VM18{10800.0;04/09/2013 09:59:59},PROMOTION_60{300.0;22/10/2013 09:59:59},VB600_M{299000.0;20/09/2013 09:59:59},: costTime=123 | status = 4 | cause = CCWS unknown: java.lang.NullPointerException | description = cosname=MAIN_COS,status=Active,active_date=22/08/2013 00:38:45,{84922000514}Core{70000.0;05/12/2013 08:59:59},VOICE_ONNET{9000.0;08/09/2013 09:59:59},GPRS{2.5165824E8;24/11/2013 08:59:59},PROMOTION{1000.0;20/08/2023 09:59:59},VM18{10800.0;04/09/2013 09:59:59},PROMOTION_60{300.0;22/10/2013 09:59:59},VB600_M{299000.0;20/09/2013 09:59:59},
+04/09 09:08:02:580 SEND: ID=101003: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000514}
+04/09 09:08:02:694 RECEIVE: ID=101003: cosname=MAIN_COS,status=Active,active_date=22/08/2013 00:38:45,{84922000514}Core{70000.0;05/12/2013 08:59:59},VOICE_ONNET{9000.0;08/09/2013 09:59:59},GPRS{2.5165824E8;24/11/2013 08:59:59},PROMOTION{1000.0;20/08/2023 09:59:59},VM18{10800.0;04/09/2013 09:59:59},PROMOTION_60{300.0;22/10/2013 09:59:59},VB600_M{299000.0;20/09/2013 09:59:59},: costTime=112
+04/09 09:08:02:710 orderId = 125407999 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 309 | request = ID=101003: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000514} | response = ID=101003: cosname=MAIN_COS,status=Active,active_date=22/08/2013 00:38:45,{84922000514}Core{70000.0;05/12/2013 08:59:59},VOICE_ONNET{9000.0;08/09/2013 09:59:59},GPRS{2.5165824E8;24/11/2013 08:59:59},PROMOTION{1000.0;20/08/2023 09:59:59},VM18{10800.0;04/09/2013 09:59:59},PROMOTION_60{300.0;22/10/2013 09:59:59},VB600_M{299000.0;20/09/2013 09:59:59},: costTime=112 | status = 4 | cause = CCWS unknown: java.lang.NullPointerException | description = cosname=MAIN_COS,status=Active,active_date=22/08/2013 00:38:45,{84922000514}Core{70000.0;05/12/2013 08:59:59},VOICE_ONNET{9000.0;08/09/2013 09:59:59},GPRS{2.5165824E8;24/11/2013 08:59:59},PROMOTION{1000.0;20/08/2023 09:59:59},VM18{10800.0;04/09/2013 09:59:59},PROMOTION_60{300.0;22/10/2013 09:59:59},VB600_M{299000.0;20/09/2013 09:59:59},
+04/09 09:08:17:563 Created provisioning instance for CCWS
+04/09 09:08:17:563 SEND: ID=101004: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000514}
+04/09 09:08:17:713 RECEIVE: ID=101004: cosname=MAIN_COS,status=Active,active_date=22/08/2013 00:38:45,{84922000514}Core{70000.0;05/12/2013 08:59:59},VOICE_ONNET{9000.0;08/09/2013 09:59:59},GPRS{2.5165824E8;24/11/2013 08:59:59},PROMOTION{1000.0;20/08/2023 09:59:59},VM18{10800.0;04/09/2013 09:59:59},PROMOTION_60{300.0;22/10/2013 09:59:59},VB600_M{299000.0;20/09/2013 09:59:59},: costTime=149
+04/09 09:08:17:724 orderId = 125408000 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 309 | request = ID=101004: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000514} | response = ID=101004: cosname=MAIN_COS,status=Active,active_date=22/08/2013 00:38:45,{84922000514}Core{70000.0;05/12/2013 08:59:59},VOICE_ONNET{9000.0;08/09/2013 09:59:59},GPRS{2.5165824E8;24/11/2013 08:59:59},PROMOTION{1000.0;20/08/2023 09:59:59},VM18{10800.0;04/09/2013 09:59:59},PROMOTION_60{300.0;22/10/2013 09:59:59},VB600_M{299000.0;20/09/2013 09:59:59},: costTime=149 | status = 4 | cause = CCWS unknown: java.lang.NullPointerException | description = cosname=MAIN_COS,status=Active,active_date=22/08/2013 00:38:45,{84922000514}Core{70000.0;05/12/2013 08:59:59},VOICE_ONNET{9000.0;08/09/2013 09:59:59},GPRS{2.5165824E8;24/11/2013 08:59:59},PROMOTION{1000.0;20/08/2023 09:59:59},VM18{10800.0;04/09/2013 09:59:59},PROMOTION_60{300.0;22/10/2013 09:59:59},VB600_M{299000.0;20/09/2013 09:59:59},
+04/09 09:08:24:529 SEND: ID=101005: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000514}
+04/09 09:08:24:641 RECEIVE: ID=101005: cosname=MAIN_COS,status=Active,active_date=22/08/2013 00:38:45,{84922000514}Core{70000.0;05/12/2013 08:59:59},VOICE_ONNET{9000.0;08/09/2013 09:59:59},GPRS{2.5165824E8;24/11/2013 08:59:59},PROMOTION{1000.0;20/08/2023 09:59:59},VM18{10800.0;04/09/2013 09:59:59},PROMOTION_60{300.0;22/10/2013 09:59:59},VB600_M{299000.0;20/09/2013 09:59:59},: costTime=111
+04/09 09:08:24:651 orderId = 125408001 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 309 | request = ID=101005: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000514} | response = ID=101005: cosname=MAIN_COS,status=Active,active_date=22/08/2013 00:38:45,{84922000514}Core{70000.0;05/12/2013 08:59:59},VOICE_ONNET{9000.0;08/09/2013 09:59:59},GPRS{2.5165824E8;24/11/2013 08:59:59},PROMOTION{1000.0;20/08/2023 09:59:59},VM18{10800.0;04/09/2013 09:59:59},PROMOTION_60{300.0;22/10/2013 09:59:59},VB600_M{299000.0;20/09/2013 09:59:59},: costTime=111 | status = 4 | cause = CCWS unknown: java.lang.NullPointerException | description = cosname=MAIN_COS,status=Active,active_date=22/08/2013 00:38:45,{84922000514}Core{70000.0;05/12/2013 08:59:59},VOICE_ONNET{9000.0;08/09/2013 09:59:59},GPRS{2.5165824E8;24/11/2013 08:59:59},PROMOTION{1000.0;20/08/2023 09:59:59},VM18{10800.0;04/09/2013 09:59:59},PROMOTION_60{300.0;22/10/2013 09:59:59},VB600_M{299000.0;20/09/2013 09:59:59},
+04/09 09:08:39:702 CCWS started
+04/09 09:08:44:322 Testing connection ...
+04/09 09:08:45:324 Created provisioning instance for CCWS
+04/09 09:08:45:325 Testing connection are success
+04/09 09:08:45:325 Starting process session
+04/09 09:08:45:426 Total 0 instances are started
+04/09 09:08:45:428 Total 1 instances are added
+04/09 09:08:59:031 SEND: ID=102001: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000514}
+04/09 09:09:00:110 RECEIVE: ID=102001: cosname=MAIN_COS,status=Active,active_date=22/08/2013 00:38:45,{84922000514}Core{70000.0;05/12/2013 08:59:59},VOICE_ONNET{9000.0;08/09/2013 09:59:59},GPRS{2.5165824E8;24/11/2013 08:59:59},PROMOTION{1000.0;20/08/2023 09:59:59},VM18{10800.0;04/09/2013 09:59:59},PROMOTION_60{300.0;22/10/2013 09:59:59},VB600_M{299000.0;20/09/2013 09:59:59},: costTime=1077
+04/09 09:09:00:125 orderId = 125408002 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 309 | request = ID=102001: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000514} | response = ID=102001: cosname=MAIN_COS,status=Active,active_date=22/08/2013 00:38:45,{84922000514}Core{70000.0;05/12/2013 08:59:59},VOICE_ONNET{9000.0;08/09/2013 09:59:59},GPRS{2.5165824E8;24/11/2013 08:59:59},PROMOTION{1000.0;20/08/2023 09:59:59},VM18{10800.0;04/09/2013 09:59:59},PROMOTION_60{300.0;22/10/2013 09:59:59},VB600_M{299000.0;20/09/2013 09:59:59},: costTime=1077 | status = 4 | cause = CCWS unknown: java.lang.NullPointerException | description = cosname=MAIN_COS,status=Active,active_date=22/08/2013 00:38:45,{84922000514}Core{70000.0;05/12/2013 08:59:59},VOICE_ONNET{9000.0;08/09/2013 09:59:59},GPRS{2.5165824E8;24/11/2013 08:59:59},PROMOTION{1000.0;20/08/2023 09:59:59},VM18{10800.0;04/09/2013 09:59:59},PROMOTION_60{300.0;22/10/2013 09:59:59},VB600_M{299000.0;20/09/2013 09:59:59},
+04/09 09:09:10:938 SEND: ID=102002: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000514}
+04/09 09:09:11:070 RECEIVE: ID=102002: cosname=MAIN_COS,status=Active,active_date=22/08/2013 00:38:45,{84922000514}Core{70000.0;05/12/2013 08:59:59},VOICE_ONNET{9000.0;08/09/2013 09:59:59},GPRS{2.5165824E8;24/11/2013 08:59:59},PROMOTION{1000.0;20/08/2023 09:59:59},VM18{10800.0;04/09/2013 09:59:59},PROMOTION_60{300.0;22/10/2013 09:59:59},VB600_M{299000.0;20/09/2013 09:59:59},: costTime=131
+04/09 09:09:11:082 orderId = 125408003 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 309 | request = ID=102002: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000514} | response = ID=102002: cosname=MAIN_COS,status=Active,active_date=22/08/2013 00:38:45,{84922000514}Core{70000.0;05/12/2013 08:59:59},VOICE_ONNET{9000.0;08/09/2013 09:59:59},GPRS{2.5165824E8;24/11/2013 08:59:59},PROMOTION{1000.0;20/08/2023 09:59:59},VM18{10800.0;04/09/2013 09:59:59},PROMOTION_60{300.0;22/10/2013 09:59:59},VB600_M{299000.0;20/09/2013 09:59:59},: costTime=131 | status = 4 | cause = CCWS unknown: java.lang.NullPointerException | description = cosname=MAIN_COS,status=Active,active_date=22/08/2013 00:38:45,{84922000514}Core{70000.0;05/12/2013 08:59:59},VOICE_ONNET{9000.0;08/09/2013 09:59:59},GPRS{2.5165824E8;24/11/2013 08:59:59},PROMOTION{1000.0;20/08/2023 09:59:59},VM18{10800.0;04/09/2013 09:59:59},PROMOTION_60{300.0;22/10/2013 09:59:59},VB600_M{299000.0;20/09/2013 09:59:59},
+04/09 09:09:39:959 CCWS started
+04/09 09:09:44:349 Testing connection ...
+04/09 09:09:45:384 Created provisioning instance for CCWS
+04/09 09:09:45:385 Testing connection are success
+04/09 09:09:45:385 Starting process session
+04/09 09:09:45:485 Total 0 instances are started
+04/09 09:09:45:486 Total 1 instances are added
+04/09 09:10:26:305 Created provisioning instance for CCWS
+04/09 09:10:26:314 SEND: ID=103001: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000514}
+04/09 09:10:27:340 RECEIVE: ID=103001: cosname=MAIN_COS,status=Active,active_date=22/08/2013 00:38:45,{84922000514}Core{70000.0;05/12/2013 08:59:59},VOICE_ONNET{9000.0;08/09/2013 09:59:59},GPRS{2.5165824E8;24/11/2013 08:59:59},PROMOTION{1000.0;20/08/2023 09:59:59},VM18{10800.0;04/09/2013 09:59:59},PROMOTION_60{300.0;22/10/2013 09:59:59},VB600_M{299000.0;20/09/2013 09:59:59},: costTime=1026
+04/09 09:10:27:354 orderId = 125408004 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 309 | request = ID=103001: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000514} | response = ID=103001: cosname=MAIN_COS,status=Active,active_date=22/08/2013 00:38:45,{84922000514}Core{70000.0;05/12/2013 08:59:59},VOICE_ONNET{9000.0;08/09/2013 09:59:59},GPRS{2.5165824E8;24/11/2013 08:59:59},PROMOTION{1000.0;20/08/2023 09:59:59},VM18{10800.0;04/09/2013 09:59:59},PROMOTION_60{300.0;22/10/2013 09:59:59},VB600_M{299000.0;20/09/2013 09:59:59},: costTime=1026 | status = 4 | cause = CCWS unknown: java.lang.NullPointerException | description = cosname=MAIN_COS,status=Active,active_date=22/08/2013 00:38:45,{84922000514}Core{70000.0;05/12/2013 08:59:59},VOICE_ONNET{9000.0;08/09/2013 09:59:59},GPRS{2.5165824E8;24/11/2013 08:59:59},PROMOTION{1000.0;20/08/2023 09:59:59},VM18{10800.0;04/09/2013 09:59:59},PROMOTION_60{300.0;22/10/2013 09:59:59},VB600_M{299000.0;20/09/2013 09:59:59},
+04/09 09:11:13:574 Created provisioning instance for CCWS
+04/09 09:11:13:578 SEND: ID=103002: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000514}
+04/09 09:11:14:244 RECEIVE: ID=103002: cosname=MAIN_COS,status=Active,active_date=22/08/2013 00:38:45,{84922000514}Core{70000.0;05/12/2013 08:59:59},VOICE_ONNET{9000.0;08/09/2013 09:59:59},GPRS{2.5165824E8;24/11/2013 08:59:59},PROMOTION{1000.0;20/08/2023 09:59:59},VM18{10800.0;04/09/2013 09:59:59},PROMOTION_60{300.0;22/10/2013 09:59:59},VB600_M{299000.0;20/09/2013 09:59:59},: costTime=662
+04/09 09:18:21:920 CCWS started
+04/09 09:18:26:367 Testing connection ...
+04/09 09:18:27:410 Created provisioning instance for CCWS
+04/09 09:18:27:410 Testing connection are success
+04/09 09:18:27:411 Starting process session
+04/09 09:18:27:511 Total 0 instances are started
+04/09 09:18:27:513 Total 1 instances are added
+04/09 09:18:47:643 CCWS started
+04/09 09:18:52:020 Testing connection ...
+04/09 09:18:53:078 Created provisioning instance for CCWS
+04/09 09:18:53:079 Testing connection are success
+04/09 09:18:53:081 Starting process session
+04/09 09:18:53:183 Total 0 instances are started
+04/09 09:18:53:184 Total 1 instances are added
+04/09 09:18:58:200 SEND: ID=104001: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000514}
+04/09 09:18:59:418 RECEIVE: ID=104001: cosname=MAIN_COS,status=Active,active_date=22/08/2013 00:38:45,{84922000514}Core{70000.0;05/12/2013 08:59:59},VOICE_ONNET{9000.0;08/09/2013 09:59:59},GPRS{2.5165824E8;24/11/2013 08:59:59},PROMOTION{1000.0;20/08/2023 09:59:59},VM18{10800.0;04/09/2013 09:59:59},PROMOTION_60{300.0;22/10/2013 09:59:59},VB600_M{299000.0;20/09/2013 09:59:59},: costTime=1218
+04/09 09:18:59:452 orderId = 125408007 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 309 | request = ID=104001: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000514} | response = ID=104001: cosname=MAIN_COS,status=Active,active_date=22/08/2013 00:38:45,{84922000514}Core{70000.0;05/12/2013 08:59:59},VOICE_ONNET{9000.0;08/09/2013 09:59:59},GPRS{2.5165824E8;24/11/2013 08:59:59},PROMOTION{1000.0;20/08/2023 09:59:59},VM18{10800.0;04/09/2013 09:59:59},PROMOTION_60{300.0;22/10/2013 09:59:59},VB600_M{299000.0;20/09/2013 09:59:59},: costTime=1218 | status = 4 | cause = CCWS unknown: java.lang.NullPointerException | description = cosname=MAIN_COS,status=Active,active_date=22/08/2013 00:38:45,{84922000514}Core{70000.0;05/12/2013 08:59:59},VOICE_ONNET{9000.0;08/09/2013 09:59:59},GPRS{2.5165824E8;24/11/2013 08:59:59},PROMOTION{1000.0;20/08/2023 09:59:59},VM18{10800.0;04/09/2013 09:59:59},PROMOTION_60{300.0;22/10/2013 09:59:59},VB600_M{299000.0;20/09/2013 09:59:59},
+04/09 09:20:13:975 CCWS started
+04/09 09:20:18:283 Testing connection ...
+04/09 09:20:19:322 Created provisioning instance for CCWS
+04/09 09:20:19:322 Testing connection are success
+04/09 09:20:19:323 Starting process session
+04/09 09:20:19:425 Total 0 instances are started
+04/09 09:20:19:426 Total 1 instances are added
+04/09 09:21:11:757 Created provisioning instance for CCWS
+04/09 09:21:11:767 SEND: ID=105001: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000514}
+04/09 09:21:15:336 RECEIVE: ID=105001: cosname=MAIN_COS,status=Active,active_date=22/08/2013 00:38:45,{84922000514}Core{70000.0;05/12/2013 08:59:59},VOICE_ONNET{9000.0;08/09/2013 09:59:59},GPRS{2.5165824E8;24/11/2013 08:59:59},PROMOTION{1000.0;20/08/2023 09:59:59},VM18{10800.0;04/09/2013 09:59:59},PROMOTION_60{300.0;22/10/2013 09:59:59},VB600_M{299000.0;20/09/2013 09:59:59},: costTime=3566
+04/09 09:22:33:114 CCWS started
+04/09 09:22:37:495 Testing connection ...
+04/09 09:22:38:536 Created provisioning instance for CCWS
+04/09 09:22:38:536 Testing connection are success
+04/09 09:22:38:536 Starting process session
+04/09 09:22:38:639 Total 0 instances are started
+04/09 09:22:38:640 Total 1 instances are added
+04/09 09:23:06:386 SEND: ID=106001: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000514}
+04/09 09:23:07:560 RECEIVE: ID=106001: cosname=MAIN_COS,status=Active,active_date=22/08/2013 00:38:45,{84922000514}Core{70000.0;05/12/2013 08:59:59},VOICE_ONNET{9000.0;08/09/2013 09:59:59},GPRS{2.5165824E8;24/11/2013 08:59:59},PROMOTION{1000.0;20/08/2023 09:59:59},VM18{10800.0;04/09/2013 09:59:59},PROMOTION_60{300.0;22/10/2013 09:59:59},VB600_M{299000.0;20/09/2013 09:59:59},: costTime=1174
+04/09 09:23:32:972 orderId = 125408009 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 309 | request = ID=106001: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000514} | response = ID=106001: cosname=MAIN_COS,status=Active,active_date=22/08/2013 00:38:45,{84922000514}Core{70000.0;05/12/2013 08:59:59},VOICE_ONNET{9000.0;08/09/2013 09:59:59},GPRS{2.5165824E8;24/11/2013 08:59:59},PROMOTION{1000.0;20/08/2023 09:59:59},VM18{10800.0;04/09/2013 09:59:59},PROMOTION_60{300.0;22/10/2013 09:59:59},VB600_M{299000.0;20/09/2013 09:59:59},: costTime=1174 | status = 4 | cause = CCWS unknown: java.lang.NullPointerException | description = cosname=MAIN_COS,status=Active,active_date=22/08/2013 00:38:45,{84922000514}Core{70000.0;05/12/2013 08:59:59},VOICE_ONNET{9000.0;08/09/2013 09:59:59},GPRS{2.5165824E8;24/11/2013 08:59:59},PROMOTION{1000.0;20/08/2023 09:59:59},VM18{10800.0;04/09/2013 09:59:59},PROMOTION_60{300.0;22/10/2013 09:59:59},VB600_M{299000.0;20/09/2013 09:59:59},
+04/09 09:23:56:070 CCWS started
+04/09 09:24:00:117 Testing connection ...
+04/09 09:24:01:440 Created provisioning instance for CCWS
+04/09 09:24:01:441 Testing connection are success
+04/09 09:24:01:441 Starting process session
+04/09 09:24:01:545 Total 0 instances are started
+04/09 09:24:01:546 Total 1 instances are added
+04/09 09:24:16:103 SEND: ID=107001: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000514}
+04/09 09:24:17:189 RECEIVE: ID=107001: cosname=MAIN_COS,status=Active,active_date=22/08/2013 00:38:45,{84922000514}Core{70000.0;05/12/2013 08:59:59},VOICE_ONNET{9000.0;08/09/2013 09:59:59},GPRS{2.5165824E8;24/11/2013 08:59:59},PROMOTION{1000.0;20/08/2023 09:59:59},VM18{10800.0;04/09/2013 09:59:59},PROMOTION_60{300.0;22/10/2013 09:59:59},VB600_M{299000.0;20/09/2013 09:59:59},: costTime=1085
+04/09 09:30:32:233 CCWS started
+04/09 09:30:36:627 Testing connection ...
+04/09 09:30:37:555 Created provisioning instance for CCWS
+04/09 09:30:37:555 Testing connection are success
+04/09 09:30:37:556 Starting process session
+04/09 09:30:37:657 Total 0 instances are started
+04/09 09:30:37:658 Total 1 instances are added
+04/09 09:33:03:688 CCWS started
+04/09 09:33:08:138 Testing connection ...
+04/09 09:33:09:196 Created provisioning instance for CCWS
+04/09 09:33:09:197 Testing connection are success
+04/09 09:33:09:199 Starting process session
+04/09 09:33:09:299 Total 0 instances are started
+04/09 09:33:09:299 Total 1 instances are added
+04/09 09:38:02:658 CCWS started
+04/09 09:38:06:999 Testing connection ...
+04/09 09:38:08:098 Created provisioning instance for CCWS
+04/09 09:38:08:098 Testing connection are success
+04/09 09:38:08:098 Starting process session
+04/09 09:38:08:201 Total 0 instances are started
+04/09 09:38:08:202 Total 1 instances are added
+04/09 09:39:35:009 Created provisioning instance for CCWS
+04/09 09:39:35:017 SEND: ID=108001: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000514}
+04/09 09:39:36:177 RECEIVE: ID=108001: cosname=MAIN_COS,status=Active,active_date=22/08/2013 00:38:45,{84922000514}Core{70000.0;05/12/2013 08:59:59},VOICE_ONNET{9000.0;08/09/2013 09:59:59},GPRS{2.5165824E8;24/11/2013 08:59:59},PROMOTION{1000.0;20/08/2023 09:59:59},VM18{10800.0;04/09/2013 09:59:59},PROMOTION_60{300.0;22/10/2013 09:59:59},VB600_M{299000.0;20/09/2013 09:59:59},: costTime=1159
+04/09 09:39:36:421 SEND: ID=108002: com.comverse_in.prepaid.ccws.ServiceSoapStub.modifySubscriber:84922000514:PROMOTION_60{100.0;22/10/2013 23:59:59},
+04/09 09:39:36:638 RECEIVE: ID=108002: success: costTime=215
+04/09 09:39:36:639 orderId = 125408013 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 309 | request = ID=108002: com.comverse_in.prepaid.ccws.ServiceSoapStub.modifySubscriber:84922000514:PROMOTION_60{100.0;22/10/2013 23:59:59}, | response = ID=108002: success: costTime=215 | status = 1 | cause = success | description = success
+04/09 10:04:43:373 CCWS started
+04/09 10:04:45:449 Testing connection ...
+04/09 10:04:48:378 Created provisioning instance for CCWS
+04/09 10:04:48:379 Testing connection are success
+04/09 10:04:48:379 Starting process session
+04/09 10:04:48:480 Total 0 instances are started
+04/09 10:04:48:480 Total 1 instances are added
+04/09 10:13:26:406 CCWS started
+04/09 10:13:30:373 Testing connection ...
+04/09 10:13:31:281 Created provisioning instance for CCWS
+04/09 10:13:31:281 Testing connection are success
+04/09 10:13:31:282 Starting process session
+04/09 10:13:31:383 Total 0 instances are started
+04/09 10:13:31:383 Total 1 instances are added
+04/09 10:21:01:052 CCWS started
+04/09 10:21:05:097 Testing connection ...
+04/09 10:21:05:787 Created provisioning instance for CCWS
+04/09 10:21:05:789 Testing connection are success
+04/09 10:21:05:789 Starting process session
+04/09 10:21:05:890 Total 0 instances are started
+04/09 10:21:05:893 Total 1 instances are added
+04/09 11:02:28:061 CCWS started
+04/09 11:02:32:281 Testing connection ...
+04/09 11:02:33:091 Created provisioning instance for CCWS
+04/09 11:02:33:092 Testing connection are success
+04/09 11:02:33:092 Starting process session
+04/09 11:02:33:195 Total 0 instances are started
+04/09 11:02:33:197 Total 1 instances are added
+04/09 11:07:21:251 CCWS started
+04/09 11:07:25:209 Testing connection ...
+04/09 11:07:26:077 Created provisioning instance for CCWS
+04/09 11:07:26:078 Testing connection are success
+04/09 11:07:26:078 Starting process session
+04/09 11:07:26:179 Total 0 instances are started
+04/09 11:07:26:180 Total 1 instances are added
+04/09 11:10:33:896 CCWS started
+04/09 11:10:37:825 Testing connection ...
+04/09 11:10:38:843 Created provisioning instance for CCWS
+04/09 11:10:38:844 Testing connection are success
+04/09 11:10:38:844 Starting process session
+04/09 11:10:39:021 Total 0 instances are started
+04/09 11:10:39:021 Total 1 instances are added
+04/09 11:15:42:451 CCWS started
+04/09 11:15:46:613 Testing connection ...
+04/09 11:15:47:439 Created provisioning instance for CCWS
+04/09 11:15:47:440 Testing connection are success
+04/09 11:15:47:440 Starting process session
+04/09 11:15:47:541 Total 0 instances are started
+04/09 11:15:47:541 Total 1 instances are added
+04/09 11:17:25:331 CCWS started
+04/09 11:17:29:591 Testing connection ...
+04/09 11:17:30:602 Created provisioning instance for CCWS
+04/09 11:17:30:606 Testing connection are success
+04/09 11:17:30:607 Starting process session
+04/09 11:17:30:709 Total 0 instances are started
+04/09 11:17:30:710 Total 1 instances are added
+04/09 11:19:58:735 CCWS started
+04/09 11:20:03:011 Testing connection ...
+04/09 11:20:04:038 Created provisioning instance for CCWS
+04/09 11:20:04:038 Testing connection are success
+04/09 11:20:04:039 Starting process session
+04/09 11:20:04:142 Total 0 instances are started
+04/09 11:20:04:143 Total 1 instances are added
+04/09 11:23:30:550 CCWS started
+04/09 11:23:34:800 Testing connection ...
+04/09 11:23:35:464 Created provisioning instance for CCWS
+04/09 11:23:35:465 Testing connection are success
+04/09 11:23:35:465 Starting process session
+04/09 11:23:35:565 Total 0 instances are started
+04/09 11:23:35:565 Total 1 instances are added
+04/09 11:27:09:824 CCWS started
+04/09 11:27:14:195 Testing connection ...
+04/09 11:27:15:191 Created provisioning instance for CCWS
+04/09 11:27:15:191 Testing connection are success
+04/09 11:27:15:191 Starting process session
+04/09 11:27:15:293 Total 0 instances are started
+04/09 11:27:15:294 Total 1 instances are added
+04/09 11:28:39:236 CCWS started
+04/09 11:28:43:689 Testing connection ...
+04/09 11:28:44:665 Created provisioning instance for CCWS
+04/09 11:28:44:666 Testing connection are success
+04/09 11:28:44:667 Starting process session
+04/09 11:28:44:767 Total 0 instances are started
+04/09 11:28:44:769 Total 1 instances are added
+04/09 11:30:36:219 CCWS started
+04/09 11:30:40:574 Testing connection ...
+04/09 11:30:41:672 Created provisioning instance for CCWS
+04/09 11:30:41:672 Testing connection are success
+04/09 11:30:41:673 Starting process session
+04/09 11:30:41:773 Total 0 instances are started
+04/09 11:30:41:774 Total 1 instances are added
+04/09 11:33:22:571 CCWS started
+04/09 11:33:27:000 Testing connection ...
+04/09 11:33:27:959 Created provisioning instance for CCWS
+04/09 11:33:27:959 Testing connection are success
+04/09 11:33:27:960 Starting process session
+04/09 11:33:28:060 Total 0 instances are started
+04/09 11:33:28:061 Total 1 instances are added
+04/09 11:35:49:864 CCWS started
+04/09 11:35:54:194 Testing connection ...
+04/09 11:35:55:147 Created provisioning instance for CCWS
+04/09 11:35:55:148 Testing connection are success
+04/09 11:35:55:149 Starting process session
+04/09 11:35:55:249 Total 0 instances are started
+04/09 11:35:55:252 Total 1 instances are added
+04/09 11:38:03:730 CCWS started
+04/09 11:38:08:026 Testing connection ...
+04/09 11:38:09:024 Created provisioning instance for CCWS
+04/09 11:38:09:025 Testing connection are success
+04/09 11:38:09:026 Starting process session
+04/09 11:38:09:126 Total 0 instances are started
+04/09 11:38:09:127 Total 1 instances are added
+04/09 11:46:57:306 CCWS started
+04/09 11:47:02:010 Testing connection ...
+04/09 11:47:02:974 Created provisioning instance for CCWS
+04/09 11:47:02:975 Testing connection are success
+04/09 11:47:02:975 Starting process session
+04/09 11:47:03:075 Total 0 instances are started
+04/09 11:47:03:075 Total 1 instances are added
+04/09 11:48:28:091 CCWS started
+04/09 11:48:32:083 Testing connection ...
+04/09 11:48:33:297 Created provisioning instance for CCWS
+04/09 11:48:33:298 Testing connection are success
+04/09 11:48:33:298 Starting process session
+04/09 11:48:33:398 Total 0 instances are started
+04/09 11:48:33:399 Total 1 instances are added
+04/09 11:48:51:272 CCWS started
+04/09 11:48:55:557 Testing connection ...
+04/09 11:48:56:618 Created provisioning instance for CCWS
+04/09 11:48:56:619 Testing connection are success
+04/09 11:48:56:620 Starting process session
+04/09 11:48:56:723 Total 0 instances are started
+04/09 11:48:56:723 Total 1 instances are added
+04/09 11:49:11:499 CCWS started
+04/09 11:49:15:860 Testing connection ...
+04/09 11:49:16:890 Created provisioning instance for CCWS
+04/09 11:49:16:891 Testing connection are success
+04/09 11:49:16:891 Starting process session
+04/09 11:49:16:994 Total 0 instances are started
+04/09 11:49:16:994 Total 1 instances are added
+04/09 11:52:14:126 CCWS started
+04/09 11:52:18:512 Testing connection ...
+04/09 11:52:19:417 Created provisioning instance for CCWS
+04/09 11:52:19:422 Testing connection are success
+04/09 11:52:19:422 Starting process session
+04/09 11:52:19:522 Total 0 instances are started
+04/09 11:52:19:523 Total 1 instances are added
+04/09 11:54:15:750 CCWS started
+04/09 11:54:20:291 Testing connection ...
+04/09 11:54:21:282 Created provisioning instance for CCWS
+04/09 11:54:21:285 Testing connection are success
+04/09 11:54:21:286 Starting process session
+04/09 11:54:21:386 Total 0 instances are started
+04/09 11:54:21:390 Total 1 instances are added
+04/09 12:18:01:805 CCWS started
+04/09 12:18:06:188 Testing connection ...
+04/09 12:18:07:341 Created provisioning instance for CCWS
+04/09 12:18:07:341 Testing connection are success
+04/09 12:18:07:342 Starting process session
+04/09 12:18:07:442 Total 0 instances are started
+04/09 12:18:07:443 Total 1 instances are added
+04/09 12:20:48:686 CCWS started
+04/09 12:20:53:389 Testing connection ...
+04/09 12:20:54:486 Created provisioning instance for CCWS
+04/09 12:20:54:486 Testing connection are success
+04/09 12:20:54:487 Starting process session
+04/09 12:20:54:588 Total 0 instances are started
+04/09 12:20:54:589 Total 1 instances are added
+04/09 12:22:16:017 CCWS started
+04/09 12:22:20:217 Testing connection ...
+04/09 12:22:20:983 Created provisioning instance for CCWS
+04/09 12:22:20:983 Testing connection are success
+04/09 12:22:20:983 Starting process session
+04/09 12:22:21:084 Total 0 instances are started
+04/09 12:22:21:085 Total 1 instances are added
+04/09 12:26:01:430 CCWS started
+04/09 12:26:05:852 Testing connection ...
+04/09 12:26:06:828 Created provisioning instance for CCWS
+04/09 12:26:06:828 Testing connection are success
+04/09 12:26:06:829 Starting process session
+04/09 12:26:06:929 Total 0 instances are started
+04/09 12:26:06:929 Total 1 instances are added
+04/09 12:31:01:845 CCWS started
+04/09 12:31:05:753 Testing connection ...
+04/09 12:31:07:087 Created provisioning instance for CCWS
+04/09 12:31:07:087 Testing connection are success
+04/09 12:31:07:087 Starting process session
+04/09 12:31:07:188 Total 0 instances are started
+04/09 12:31:07:189 Total 1 instances are added
+04/09 12:34:46:946 CCWS started
+04/09 12:34:51:481 Testing connection ...
+04/09 12:34:52:495 Created provisioning instance for CCWS
+04/09 12:34:52:495 Testing connection are success
+04/09 12:34:52:495 Starting process session
+04/09 12:34:52:596 Total 0 instances are started
+04/09 12:34:52:596 Total 1 instances are added
+04/09 12:40:20:349 CCWS started
+04/09 12:40:24:740 Testing connection ...
+04/09 12:40:25:687 Created provisioning instance for CCWS
+04/09 12:40:25:689 Testing connection are success
+04/09 12:40:25:690 Starting process session
+04/09 12:40:25:790 Total 0 instances are started
+04/09 12:40:25:791 Total 1 instances are added
+04/09 13:40:26:188 CCWS started
+04/09 13:40:30:364 Testing connection ...
+04/09 13:40:31:326 Created provisioning instance for CCWS
+04/09 13:40:31:327 Testing connection are success
+04/09 13:40:31:327 Starting process session
+04/09 13:40:31:428 Total 0 instances are started
+04/09 13:40:31:429 Total 1 instances are added
+04/09 13:55:39:306 CCWS started
+04/09 13:55:43:566 Testing connection ...
+04/09 13:55:44:656 Created provisioning instance for CCWS
+04/09 13:55:44:657 Testing connection are success
+04/09 13:55:44:657 Starting process session
+04/09 13:55:44:759 Total 0 instances are started
+04/09 13:55:44:763 Total 1 instances are added
+04/09 13:57:06:860 CCWS started
+04/09 13:57:11:076 Testing connection ...
+04/09 13:57:11:871 Created provisioning instance for CCWS
+04/09 13:57:11:871 Testing connection are success
+04/09 13:57:11:871 Starting process session
+04/09 13:57:11:972 Total 0 instances are started
+04/09 13:57:11:973 Total 1 instances are added
+04/09 13:59:21:626 CCWS started
+04/09 13:59:25:843 Testing connection ...
+04/09 13:59:26:702 Created provisioning instance for CCWS
+04/09 13:59:26:703 Testing connection are success
+04/09 13:59:26:703 Starting process session
+04/09 13:59:26:806 Total 0 instances are started
+04/09 13:59:26:806 Total 1 instances are added
+04/09 14:01:56:891 CCWS started
+04/09 14:02:00:716 Testing connection ...
+04/09 14:02:01:891 Created provisioning instance for CCWS
+04/09 14:02:01:892 Testing connection are success
+04/09 14:02:01:892 Starting process session
+04/09 14:02:01:993 Total 0 instances are started
+04/09 14:02:01:994 Total 1 instances are added
+04/09 14:04:26:239 CCWS started
+04/09 14:04:30:768 Testing connection ...
+04/09 14:04:31:932 Created provisioning instance for CCWS
+04/09 14:04:31:933 Testing connection are success
+04/09 14:04:31:933 Starting process session
+04/09 14:04:32:035 Total 0 instances are started
+04/09 14:04:32:036 Total 1 instances are added
+04/09 14:05:52:376 CCWS started
+04/09 14:05:56:299 Testing connection ...
+04/09 14:05:57:591 Created provisioning instance for CCWS
+04/09 14:05:57:591 Testing connection are success
+04/09 14:05:57:592 Starting process session
+04/09 14:05:57:693 Total 0 instances are started
+04/09 14:05:57:693 Total 1 instances are added
+04/09 14:07:29:430 CCWS started
+04/09 14:07:33:762 Testing connection ...
+04/09 14:07:34:662 Created provisioning instance for CCWS
+04/09 14:07:34:662 Testing connection are success
+04/09 14:07:34:662 Starting process session
+04/09 14:07:34:763 Total 0 instances are started
+04/09 14:07:34:763 Total 1 instances are added
+04/09 14:16:47:728 CCWS started
+04/09 14:16:50:145 Testing connection ...
+04/09 14:16:53:005 Created provisioning instance for CCWS
+04/09 14:16:53:005 Testing connection are success
+04/09 14:16:53:005 Starting process session
+04/09 14:16:53:106 Total 0 instances are started
+04/09 14:16:53:107 Total 1 instances are added
+04/09 14:31:02:536 CCWS started
+04/09 14:31:08:704 Testing connection ...
+04/09 14:31:09:665 Created provisioning instance for CCWS
+04/09 14:31:09:666 Testing connection are success
+04/09 14:31:09:666 Starting process session
+04/09 14:31:09:767 Total 0 instances are started
+04/09 14:31:09:767 Total 1 instances are added
+04/09 14:33:54:290 CCWS started
+04/09 14:33:58:455 Testing connection ...
+04/09 14:33:59:184 Created provisioning instance for CCWS
+04/09 14:33:59:185 Testing connection are success
+04/09 14:33:59:185 Starting process session
+04/09 14:33:59:285 Total 0 instances are started
+04/09 14:33:59:285 Total 1 instances are added
+04/09 14:57:59:291 Created provisioning instance for CCWS
+04/09 14:57:59:292 SEND: ID=112002: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000514}
+04/09 14:58:01:348 RECEIVE: ID=112002: cosname=MAIN_COS,status=Suspended(S1),active_date=22/08/2013 00:38:45,{84922000514}Core{70000.0;05/12/2013 08:59:59},VOICE_ONNET{9000.0;08/09/2013 09:59:59},GPRS{2.5165824E8;24/11/2013 08:59:59},PROMOTION{1000.0;20/08/2023 09:59:59},VM18{10800.0;04/09/2013 09:59:59},PROMOTION_60{100.0;23/10/2013 09:59:59},VB600_M{299000.0;20/09/2013 09:59:59},: costTime=2055
+04/09 14:58:01:361 orderId = 125408070 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 2000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 309 | request = ID=112002: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000514} | response = ID=112002: cosname=MAIN_COS,status=Suspended(S1),active_date=22/08/2013 00:38:45,{84922000514}Core{70000.0;05/12/2013 08:59:59},VOICE_ONNET{9000.0;08/09/2013 09:59:59},GPRS{2.5165824E8;24/11/2013 08:59:59},PROMOTION{1000.0;20/08/2023 09:59:59},VM18{10800.0;04/09/2013 09:59:59},PROMOTION_60{100.0;23/10/2013 09:59:59},VB600_M{299000.0;20/09/2013 09:59:59},: costTime=2055 | status = 4 | cause = CCWS unknown: java.lang.NullPointerException | description = cosname=MAIN_COS,status=Suspended(S1),active_date=22/08/2013 00:38:45,{84922000514}Core{70000.0;05/12/2013 08:59:59},VOICE_ONNET{9000.0;08/09/2013 09:59:59},GPRS{2.5165824E8;24/11/2013 08:59:59},PROMOTION{1000.0;20/08/2023 09:59:59},VM18{10800.0;04/09/2013 09:59:59},PROMOTION_60{100.0;23/10/2013 09:59:59},VB600_M{299000.0;20/09/2013 09:59:59},
+04/09 15:10:52:172 CCWS started
+04/09 15:10:56:407 Testing connection ...
+04/09 15:10:57:329 Created provisioning instance for CCWS
+04/09 15:10:57:330 Testing connection are success
+04/09 15:10:57:330 Starting process session
+04/09 15:10:57:430 Total 0 instances are started
+04/09 15:10:57:430 Total 1 instances are added
+04/09 15:11:40:612 Created provisioning instance for CCWS
+04/09 15:11:40:623 SEND: ID=113001: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000514}
+04/09 15:11:41:659 RECEIVE: ID=113001: cosname=MAIN_COS,status=Suspended(S1),active_date=22/08/2013 00:38:45,{84922000514}Core{70000.0;05/12/2013 08:59:59},VOICE_ONNET{9000.0;08/09/2013 09:59:59},GPRS{2.5165824E8;24/11/2013 08:59:59},PROMOTION{1000.0;20/08/2023 09:59:59},VM18{10800.0;04/09/2013 09:59:59},PROMOTION_60{100.0;23/10/2013 09:59:59},VB600_M{299000.0;20/09/2013 09:59:59},: costTime=1034
+04/09 15:11:41:668 orderId = 125408071 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 2000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 309 | request = ID=113001: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000514} | response = ID=113001: cosname=MAIN_COS,status=Suspended(S1),active_date=22/08/2013 00:38:45,{84922000514}Core{70000.0;05/12/2013 08:59:59},VOICE_ONNET{9000.0;08/09/2013 09:59:59},GPRS{2.5165824E8;24/11/2013 08:59:59},PROMOTION{1000.0;20/08/2023 09:59:59},VM18{10800.0;04/09/2013 09:59:59},PROMOTION_60{100.0;23/10/2013 09:59:59},VB600_M{299000.0;20/09/2013 09:59:59},: costTime=1034 | status = 4 | cause = CCWS unknown: java.lang.NullPointerException | description = cosname=MAIN_COS,status=Suspended(S1),active_date=22/08/2013 00:38:45,{84922000514}Core{70000.0;05/12/2013 08:59:59},VOICE_ONNET{9000.0;08/09/2013 09:59:59},GPRS{2.5165824E8;24/11/2013 08:59:59},PROMOTION{1000.0;20/08/2023 09:59:59},VM18{10800.0;04/09/2013 09:59:59},PROMOTION_60{100.0;23/10/2013 09:59:59},VB600_M{299000.0;20/09/2013 09:59:59},
+04/09 15:14:48:155 CCWS started
+04/09 15:14:52:495 Testing connection ...
+04/09 15:14:53:727 Created provisioning instance for CCWS
+04/09 15:14:53:728 Testing connection are success
+04/09 15:14:53:728 Starting process session
+04/09 15:14:53:828 Total 0 instances are started
+04/09 15:14:53:829 Total 1 instances are added
+04/09 15:15:17:458 SEND: ID=114001: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000514}
+04/09 15:15:18:455 RECEIVE: ID=114001: cosname=MAIN_COS,status=Suspended(S1),active_date=22/08/2013 00:38:45,{84922000514}Core{70000.0;05/12/2013 08:59:59},VOICE_ONNET{9000.0;08/09/2013 09:59:59},GPRS{2.5165824E8;24/11/2013 08:59:59},PROMOTION{1000.0;20/08/2023 09:59:59},VM18{10800.0;04/09/2013 09:59:59},PROMOTION_60{100.0;23/10/2013 09:59:59},VB600_M{299000.0;20/09/2013 09:59:59},: costTime=996
+04/09 15:15:18:471 orderId = 125408072 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 2000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 309 | request = ID=114001: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000514} | response = ID=114001: cosname=MAIN_COS,status=Suspended(S1),active_date=22/08/2013 00:38:45,{84922000514}Core{70000.0;05/12/2013 08:59:59},VOICE_ONNET{9000.0;08/09/2013 09:59:59},GPRS{2.5165824E8;24/11/2013 08:59:59},PROMOTION{1000.0;20/08/2023 09:59:59},VM18{10800.0;04/09/2013 09:59:59},PROMOTION_60{100.0;23/10/2013 09:59:59},VB600_M{299000.0;20/09/2013 09:59:59},: costTime=996 | status = 4 | cause = CCWS unknown: java.lang.NullPointerException | description = cosname=MAIN_COS,status=Suspended(S1),active_date=22/08/2013 00:38:45,{84922000514}Core{70000.0;05/12/2013 08:59:59},VOICE_ONNET{9000.0;08/09/2013 09:59:59},GPRS{2.5165824E8;24/11/2013 08:59:59},PROMOTION{1000.0;20/08/2023 09:59:59},VM18{10800.0;04/09/2013 09:59:59},PROMOTION_60{100.0;23/10/2013 09:59:59},VB600_M{299000.0;20/09/2013 09:59:59},
+04/09 15:15:51:394 Created provisioning instance for CCWS
+04/09 15:15:51:395 SEND: ID=114002: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000514}
+04/09 15:15:51:527 RECEIVE: ID=114002: cosname=MAIN_COS,status=Suspended(S1),active_date=22/08/2013 00:38:45,{84922000514}Core{70000.0;05/12/2013 08:59:59},VOICE_ONNET{9000.0;08/09/2013 09:59:59},GPRS{2.5165824E8;24/11/2013 08:59:59},PROMOTION{1000.0;20/08/2023 09:59:59},VM18{10800.0;04/09/2013 09:59:59},PROMOTION_60{100.0;23/10/2013 09:59:59},VB600_M{299000.0;20/09/2013 09:59:59},: costTime=131
+04/09 15:15:51:538 orderId = 125408073 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 2000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 309 | request = ID=114002: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000514} | response = ID=114002: cosname=MAIN_COS,status=Suspended(S1),active_date=22/08/2013 00:38:45,{84922000514}Core{70000.0;05/12/2013 08:59:59},VOICE_ONNET{9000.0;08/09/2013 09:59:59},GPRS{2.5165824E8;24/11/2013 08:59:59},PROMOTION{1000.0;20/08/2023 09:59:59},VM18{10800.0;04/09/2013 09:59:59},PROMOTION_60{100.0;23/10/2013 09:59:59},VB600_M{299000.0;20/09/2013 09:59:59},: costTime=131 | status = 4 | cause = CCWS unknown: java.lang.NullPointerException | description = cosname=MAIN_COS,status=Suspended(S1),active_date=22/08/2013 00:38:45,{84922000514}Core{70000.0;05/12/2013 08:59:59},VOICE_ONNET{9000.0;08/09/2013 09:59:59},GPRS{2.5165824E8;24/11/2013 08:59:59},PROMOTION{1000.0;20/08/2023 09:59:59},VM18{10800.0;04/09/2013 09:59:59},PROMOTION_60{100.0;23/10/2013 09:59:59},VB600_M{299000.0;20/09/2013 09:59:59},
+04/09 15:15:58:252 Created provisioning instance for CCWS
+04/09 15:15:58:253 SEND: ID=114003: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000514}
+04/09 15:15:58:378 RECEIVE: ID=114003: cosname=MAIN_COS,status=Suspended(S1),active_date=22/08/2013 00:38:45,{84922000514}Core{70000.0;05/12/2013 08:59:59},VOICE_ONNET{9000.0;08/09/2013 09:59:59},GPRS{2.5165824E8;24/11/2013 08:59:59},PROMOTION{1000.0;20/08/2023 09:59:59},VM18{10800.0;04/09/2013 09:59:59},PROMOTION_60{100.0;23/10/2013 09:59:59},VB600_M{299000.0;20/09/2013 09:59:59},: costTime=124
+04/09 15:15:58:390 orderId = 125408074 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 2000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 309 | request = ID=114003: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000514} | response = ID=114003: cosname=MAIN_COS,status=Suspended(S1),active_date=22/08/2013 00:38:45,{84922000514}Core{70000.0;05/12/2013 08:59:59},VOICE_ONNET{9000.0;08/09/2013 09:59:59},GPRS{2.5165824E8;24/11/2013 08:59:59},PROMOTION{1000.0;20/08/2023 09:59:59},VM18{10800.0;04/09/2013 09:59:59},PROMOTION_60{100.0;23/10/2013 09:59:59},VB600_M{299000.0;20/09/2013 09:59:59},: costTime=124 | status = 4 | cause = CCWS unknown: java.lang.NullPointerException | description = cosname=MAIN_COS,status=Suspended(S1),active_date=22/08/2013 00:38:45,{84922000514}Core{70000.0;05/12/2013 08:59:59},VOICE_ONNET{9000.0;08/09/2013 09:59:59},GPRS{2.5165824E8;24/11/2013 08:59:59},PROMOTION{1000.0;20/08/2023 09:59:59},VM18{10800.0;04/09/2013 09:59:59},PROMOTION_60{100.0;23/10/2013 09:59:59},VB600_M{299000.0;20/09/2013 09:59:59},
+04/09 15:21:15:761 CCWS started
+04/09 15:21:17:862 Testing connection ...
+04/09 15:21:20:424 Created provisioning instance for CCWS
+04/09 15:21:20:424 Testing connection are success
+04/09 15:21:20:424 Starting process session
+04/09 15:21:20:526 Total 0 instances are started
+04/09 15:21:20:526 Total 1 instances are added
+04/09 15:24:53:948 Created provisioning instance for CCWS
+04/09 15:24:53:957 SEND: ID=115001: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000514}
+04/09 15:24:57:544 RECEIVE: ID=115001: cosname=MAIN_COS,status=Suspended(S1),active_date=22/08/2013 00:38:45,{84922000514}Core{70000.0;05/12/2013 08:59:59},VOICE_ONNET{9000.0;08/09/2013 09:59:59},GPRS{2.5165824E8;24/11/2013 08:59:59},PROMOTION{1000.0;20/08/2023 09:59:59},VM18{10800.0;04/09/2013 09:59:59},PROMOTION_60{100.0;23/10/2013 09:59:59},VB600_M{299000.0;20/09/2013 09:59:59},: costTime=3585
+04/09 15:25:12:398 orderId = 125408075 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 2000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 309 | request = ID=115001: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000514} | response = ID=115001: cosname=MAIN_COS,status=Suspended(S1),active_date=22/08/2013 00:38:45,{84922000514}Core{70000.0;05/12/2013 08:59:59},VOICE_ONNET{9000.0;08/09/2013 09:59:59},GPRS{2.5165824E8;24/11/2013 08:59:59},PROMOTION{1000.0;20/08/2023 09:59:59},VM18{10800.0;04/09/2013 09:59:59},PROMOTION_60{100.0;23/10/2013 09:59:59},VB600_M{299000.0;20/09/2013 09:59:59},: costTime=3585 | status = 4 | cause = CCWS unknown: java.lang.NullPointerException | description = cosname=MAIN_COS,status=Suspended(S1),active_date=22/08/2013 00:38:45,{84922000514}Core{70000.0;05/12/2013 08:59:59},VOICE_ONNET{9000.0;08/09/2013 09:59:59},GPRS{2.5165824E8;24/11/2013 08:59:59},PROMOTION{1000.0;20/08/2023 09:59:59},VM18{10800.0;04/09/2013 09:59:59},PROMOTION_60{100.0;23/10/2013 09:59:59},VB600_M{299000.0;20/09/2013 09:59:59},
+04/09 15:27:57:775 CCWS started
+04/09 15:28:02:252 Testing connection ...
+04/09 15:28:03:279 Created provisioning instance for CCWS
+04/09 15:28:03:279 Testing connection are success
+04/09 15:28:03:280 Starting process session
+04/09 15:28:03:380 Total 0 instances are started
+04/09 15:28:03:383 Total 1 instances are added
+04/09 15:29:47:577 Created provisioning instance for CCWS
+04/09 15:29:47:590 SEND: ID=116001: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000514}
+04/09 15:29:48:662 RECEIVE: ID=116001: cosname=MAIN_COS,status=Suspended(S1),active_date=22/08/2013 00:38:45,{84922000514}Core{70000.0;05/12/2013 08:59:59},VOICE_ONNET{9000.0;08/09/2013 09:59:59},GPRS{2.5165824E8;24/11/2013 08:59:59},PROMOTION{1000.0;20/08/2023 09:59:59},VM18{10800.0;04/09/2013 09:59:59},PROMOTION_60{100.0;23/10/2013 09:59:59},VB600_M{299000.0;20/09/2013 09:59:59},: costTime=1071
+04/09 15:29:48:677 orderId = 125408076 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 2000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 309 | request = ID=116001: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000514} | response = ID=116001: cosname=MAIN_COS,status=Suspended(S1),active_date=22/08/2013 00:38:45,{84922000514}Core{70000.0;05/12/2013 08:59:59},VOICE_ONNET{9000.0;08/09/2013 09:59:59},GPRS{2.5165824E8;24/11/2013 08:59:59},PROMOTION{1000.0;20/08/2023 09:59:59},VM18{10800.0;04/09/2013 09:59:59},PROMOTION_60{100.0;23/10/2013 09:59:59},VB600_M{299000.0;20/09/2013 09:59:59},: costTime=1071 | status = 4 | cause = CCWS unknown: java.lang.NullPointerException | description = cosname=MAIN_COS,status=Suspended(S1),active_date=22/08/2013 00:38:45,{84922000514}Core{70000.0;05/12/2013 08:59:59},VOICE_ONNET{9000.0;08/09/2013 09:59:59},GPRS{2.5165824E8;24/11/2013 08:59:59},PROMOTION{1000.0;20/08/2023 09:59:59},VM18{10800.0;04/09/2013 09:59:59},PROMOTION_60{100.0;23/10/2013 09:59:59},VB600_M{299000.0;20/09/2013 09:59:59},
+04/09 15:30:44:992 CCWS started
+04/09 15:30:49:435 Testing connection ...
+04/09 15:30:50:313 Created provisioning instance for CCWS
+04/09 15:30:50:313 Testing connection are success
+04/09 15:30:50:313 Starting process session
+04/09 15:30:50:414 Total 0 instances are started
+04/09 15:30:50:415 Total 1 instances are added
+04/09 15:31:52:603 CCWS started
+04/09 15:31:54:707 Testing connection ...
+04/09 15:31:57:532 Created provisioning instance for CCWS
+04/09 15:31:57:533 Testing connection are success
+04/09 15:31:57:533 Starting process session
+04/09 15:31:57:634 Total 0 instances are started
+04/09 15:31:57:634 Total 1 instances are added
+04/09 15:33:30:500 CCWS started
+04/09 15:33:34:591 Testing connection ...
+04/09 15:33:35:288 Created provisioning instance for CCWS
+04/09 15:33:35:289 Testing connection are success
+04/09 15:33:35:289 Starting process session
+04/09 15:33:35:389 Total 0 instances are started
+04/09 15:33:35:389 Total 1 instances are added
+04/09 15:34:19:692 Created provisioning instance for CCWS
+04/09 15:34:19:699 SEND: ID=117001: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000514}
+04/09 15:34:20:663 RECEIVE: ID=117001: cosname=MAIN_COS,status=Suspended(S1),active_date=22/08/2013 00:38:45,{84922000514}Core{70000.0;05/12/2013 08:59:59},VOICE_ONNET{9000.0;08/09/2013 09:59:59},GPRS{2.5165824E8;24/11/2013 08:59:59},PROMOTION{1000.0;20/08/2023 09:59:59},VM18{10800.0;04/09/2013 09:59:59},PROMOTION_60{100.0;23/10/2013 09:59:59},VB600_M{299000.0;20/09/2013 09:59:59},: costTime=963
+04/09 15:34:20:664 SEND: ID=117002: com.comverse_in.prepaid.ccws.ServiceSoapStub.modifySubscriber:84922000514:PROMOTION_60{200.0;23/10/2013 23:59:59},
+04/09 15:34:20:989 RECEIVE: ID=117002: success: costTime=324
+04/09 15:34:20:990 orderId = 125408079 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 2000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 309 | request = ID=117002: com.comverse_in.prepaid.ccws.ServiceSoapStub.modifySubscriber:84922000514:PROMOTION_60{200.0;23/10/2013 23:59:59}, | response = ID=117002: success: costTime=324 | status = 1 | cause = success | description = success
+04/09 15:36:02:811 CCWS started
+04/09 15:36:06:957 Testing connection ...
+04/09 15:36:08:003 Created provisioning instance for CCWS
+04/09 15:36:08:003 Testing connection are success
+04/09 15:36:08:004 Starting process session
+04/09 15:36:08:104 Total 0 instances are started
+04/09 15:36:08:104 Total 1 instances are added
+04/09 15:36:33:094 SEND: ID=118001: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000514}
+04/09 15:36:34:130 RECEIVE: ID=118001: cosname=MAIN_COS,status=Suspended(S1),active_date=22/08/2013 00:38:45,{84922000514}Core{70000.0;05/12/2013 08:59:59},VOICE_ONNET{9000.0;08/09/2013 09:59:59},GPRS{2.5165824E8;24/11/2013 08:59:59},PROMOTION{1000.0;20/08/2023 09:59:59},VM18{10800.0;04/09/2013 09:59:59},PROMOTION_60{200.0;24/10/2013 09:59:59},VB600_M{299000.0;20/09/2013 09:59:59},: costTime=1035
+04/09 15:36:34:132 SEND: ID=118002: com.comverse_in.prepaid.ccws.ServiceSoapStub.modifySubscriber:84922000514:PROMOTION_60{200.0;24/10/2013 23:59:59},
+04/09 15:36:34:231 RECEIVE: ID=118002: success: costTime=99
+04/09 15:36:34:233 orderId = 125408080 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 2000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 309 | request = ID=118002: com.comverse_in.prepaid.ccws.ServiceSoapStub.modifySubscriber:84922000514:PROMOTION_60{200.0;24/10/2013 23:59:59}, | response = ID=118002: success: costTime=99 | status = 1 | cause = success | description = success
+04/09 15:36:39:964 Created provisioning instance for CCWS
+04/09 15:36:39:964 SEND: ID=118003: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000514}
+04/09 15:36:40:083 RECEIVE: ID=118003: cosname=MAIN_COS,status=Suspended(S1),active_date=22/08/2013 00:38:45,{84922000514}Core{70000.0;05/12/2013 08:59:59},VOICE_ONNET{9000.0;08/09/2013 09:59:59},GPRS{2.5165824E8;24/11/2013 08:59:59},PROMOTION{1000.0;20/08/2023 09:59:59},VM18{10800.0;04/09/2013 09:59:59},PROMOTION_60{200.0;25/10/2013 09:59:59},VB600_M{299000.0;20/09/2013 09:59:59},: costTime=118
+04/09 15:36:40:084 SEND: ID=118004: com.comverse_in.prepaid.ccws.ServiceSoapStub.modifySubscriber:84922000514:PROMOTION_60{200.0;25/10/2013 23:59:59},
+04/09 15:36:40:169 RECEIVE: ID=118004: success: costTime=84
+04/09 15:36:40:170 orderId = 125408081 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 2000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 309 | request = ID=118004: com.comverse_in.prepaid.ccws.ServiceSoapStub.modifySubscriber:84922000514:PROMOTION_60{200.0;25/10/2013 23:59:59}, | response = ID=118004: success: costTime=84 | status = 1 | cause = success | description = success
+04/09 15:41:43:739 CCWS started
+04/09 15:41:48:005 Testing connection ...
+04/09 15:41:49:026 Created provisioning instance for CCWS
+04/09 15:41:49:026 Testing connection are success
+04/09 15:41:49:027 Starting process session
+04/09 15:41:49:127 Total 0 instances are started
+04/09 15:41:49:127 Total 1 instances are added
+04/09 15:42:10:866 SEND: ID=119001: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000514}
+04/09 15:42:11:866 RECEIVE: ID=119001: cosname=MAIN_COS,status=Suspended(S1),active_date=22/08/2013 00:38:45,{84922000514}Core{70000.0;05/12/2013 08:59:59},VOICE_ONNET{9000.0;08/09/2013 09:59:59},GPRS{2.5165824E8;24/11/2013 08:59:59},PROMOTION{1000.0;20/08/2023 09:59:59},VM18{10800.0;04/09/2013 09:59:59},PROMOTION_60{200.0;26/10/2013 09:59:59},VB600_M{299000.0;20/09/2013 09:59:59},: costTime=999
+04/09 15:42:11:868 SEND: ID=119002: com.comverse_in.prepaid.ccws.ServiceSoapStub.modifySubscriber:84922000514:PROMOTION_60{200.0;26/10/2013 23:59:59},
+04/09 15:42:11:949 RECEIVE: ID=119002: success: costTime=81
+04/09 15:42:11:951 orderId = 125408082 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 2000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 309 | request = ID=119002: com.comverse_in.prepaid.ccws.ServiceSoapStub.modifySubscriber:84922000514:PROMOTION_60{200.0;26/10/2013 23:59:59}, | response = ID=119002: success: costTime=81 | status = 1 | cause = success | description = success
+04/09 15:42:22:783 Created provisioning instance for CCWS
+04/09 15:42:22:784 SEND: ID=119003: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000514}
+04/09 15:42:22:896 RECEIVE: ID=119003: cosname=MAIN_COS,status=Suspended(S1),active_date=22/08/2013 00:38:45,{84922000514}Core{70000.0;05/12/2013 08:59:59},VOICE_ONNET{9000.0;08/09/2013 09:59:59},GPRS{2.5165824E8;24/11/2013 08:59:59},PROMOTION{1000.0;20/08/2023 09:59:59},VM18{10800.0;04/09/2013 09:59:59},PROMOTION_60{200.0;27/10/2013 09:59:59},VB600_M{299000.0;20/09/2013 09:59:59},: costTime=112
+04/09 15:42:22:897 SEND: ID=119004: com.comverse_in.prepaid.ccws.ServiceSoapStub.modifySubscriber:84922000514:PROMOTION_60{200.0;27/10/2013 23:59:59},
+04/09 15:42:22:977 RECEIVE: ID=119004: success: costTime=79
+04/09 15:42:22:979 orderId = 125408083 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 2000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 309 | request = ID=119004: com.comverse_in.prepaid.ccws.ServiceSoapStub.modifySubscriber:84922000514:PROMOTION_60{200.0;27/10/2013 23:59:59}, | response = ID=119004: success: costTime=79 | status = 1 | cause = success | description = success
+04/09 15:45:36:610 CCWS started
+04/09 15:45:40:662 Testing connection ...
+04/09 15:45:41:454 Created provisioning instance for CCWS
+04/09 15:45:41:455 Testing connection are success
+04/09 15:45:41:456 Starting process session
+04/09 15:45:41:557 Total 0 instances are started
+04/09 15:45:41:557 Total 1 instances are added
+04/09 15:47:49:433 CCWS started
+04/09 15:47:53:862 Testing connection ...
+04/09 15:47:54:872 Created provisioning instance for CCWS
+04/09 15:47:54:873 Testing connection are success
+04/09 15:47:54:874 Starting process session
+04/09 15:47:54:977 Total 0 instances are started
+04/09 15:47:54:979 Total 1 instances are added
+04/09 15:56:56:002 CCWS started
+04/09 15:56:59:928 Testing connection ...
+04/09 15:57:00:761 Created provisioning instance for CCWS
+04/09 15:57:00:761 Testing connection are success
+04/09 15:57:00:762 Starting process session
+04/09 15:57:00:862 Total 0 instances are started
+04/09 15:57:00:862 Total 1 instances are added
+04/09 16:00:38:268 CCWS started
+04/09 16:00:42:563 Testing connection ...
+04/09 16:00:43:496 Created provisioning instance for CCWS
+04/09 16:00:43:497 Testing connection are success
+04/09 16:00:43:497 Starting process session
+04/09 16:00:43:597 Total 0 instances are started
+04/09 16:00:43:598 Total 1 instances are added
+04/09 16:03:09:340 CCWS started
+04/09 16:03:13:684 Testing connection ...
+04/09 16:03:14:685 Created provisioning instance for CCWS
+04/09 16:03:14:690 Testing connection are success
+04/09 16:03:14:690 Starting process session
+04/09 16:03:14:791 Total 0 instances are started
+04/09 16:03:14:792 Total 1 instances are added
+04/09 16:08:53:129 CCWS started
+04/09 16:08:57:342 Testing connection ...
+04/09 16:08:58:150 Created provisioning instance for CCWS
+04/09 16:08:58:151 Testing connection are success
+04/09 16:08:58:151 Starting process session
+04/09 16:08:58:252 Total 0 instances are started
+04/09 16:08:58:253 Total 1 instances are added
+04/09 16:11:02:990 CCWS started
+04/09 16:11:07:463 Testing connection ...
+04/09 16:11:08:410 Created provisioning instance for CCWS
+04/09 16:11:08:410 Testing connection are success
+04/09 16:11:08:411 Starting process session
+04/09 16:11:08:511 Total 0 instances are started
+04/09 16:11:08:512 Total 1 instances are added
+04/09 16:17:12:361 CCWS started
+04/09 16:17:16:610 Testing connection ...
+04/09 16:17:17:525 Created provisioning instance for CCWS
+04/09 16:17:17:525 Testing connection are success
+04/09 16:17:17:526 Starting process session
+04/09 16:17:17:627 Total 0 instances are started
+04/09 16:17:17:628 Total 1 instances are added
+04/09 16:24:06:202 CCWS started
+04/09 16:24:35:716 java.sql.SQLException: Connections could not be acquired from the underlying database!
+04/09 16:24:35:716 End of process session
+04/09 16:25:28:809 CCWS stopped
+04/09 16:25:30:078 CCWS started
+04/09 16:25:30:098 Testing connection ...
+04/09 16:25:30:102 Created provisioning instance for CCWS
+04/09 16:25:30:103 Testing connection are success
+04/09 16:25:30:103 Starting process session
+04/09 16:25:30:205 Total 0 instances are started
+04/09 16:25:30:206 Total 1 instances are added
+04/09 16:27:47:260 CCWS started
+04/09 16:27:52:407 Testing connection ...
+04/09 16:27:53:223 Created provisioning instance for CCWS
+04/09 16:27:53:225 Testing connection are success
+04/09 16:27:53:225 Starting process session
+04/09 16:27:53:326 Total 0 instances are started
+04/09 16:27:53:327 Total 1 instances are added
+04/09 16:28:55:270 CCWS started
+04/09 16:28:59:697 Testing connection ...
+04/09 16:29:00:701 Created provisioning instance for CCWS
+04/09 16:29:00:702 Testing connection are success
+04/09 16:29:00:702 Starting process session
+04/09 16:29:00:803 Total 0 instances are started
+04/09 16:29:00:805 Total 1 instances are added
+04/09 16:40:08:081 CCWS started
+04/09 16:40:12:124 Testing connection ...
+04/09 16:40:12:811 Created provisioning instance for CCWS
+04/09 16:40:12:811 Testing connection are success
+04/09 16:40:12:812 Starting process session
+04/09 16:40:12:912 Total 0 instances are started
+04/09 16:40:12:913 Total 1 instances are added
+04/09 17:17:20:358 CCWS started
+04/09 17:17:24:602 Testing connection ...
+04/09 17:17:25:527 Created provisioning instance for CCWS
+04/09 17:17:25:527 Testing connection are success
+04/09 17:17:25:528 Starting process session
+04/09 17:17:25:628 Total 0 instances are started
+04/09 17:17:25:629 Total 1 instances are added
+04/09 17:19:56:532 CCWS started
+04/09 17:20:00:835 Testing connection ...
+04/09 17:20:01:785 Created provisioning instance for CCWS
+04/09 17:20:01:786 Testing connection are success
+04/09 17:20:01:786 Starting process session
+04/09 17:20:01:886 Total 0 instances are started
+04/09 17:20:01:886 Total 1 instances are added
+04/09 17:21:12:589 CCWS started
+04/09 17:21:16:725 Testing connection ...
+04/09 17:21:17:434 Created provisioning instance for CCWS
+04/09 17:21:17:435 Testing connection are success
+04/09 17:21:17:435 Starting process session
+04/09 17:21:17:535 Total 0 instances are started
+04/09 17:21:17:535 Total 1 instances are added
+04/09 17:28:11:237 Created provisioning instance for CCWS
+04/09 17:28:11:238 SEND: ID=122002: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000514}
+04/09 17:28:12:556 RECEIVE: ID=122002: cosname=MAIN_COS,status=Suspended(S1),active_date=22/08/2013 00:38:45,{84922000514}Core{70000.0;05/12/2013 08:59:59},VOICE_ONNET{9000.0;08/09/2013 09:59:59},GPRS{2.5165824E8;24/11/2013 08:59:59},PROMOTION{1000.0;20/08/2023 09:59:59},VM18{10800.0;04/09/2013 09:59:59},PROMOTION_60{200.0;28/10/2013 09:59:59},VB600_M{299000.0;20/09/2013 09:59:59},: costTime=1317
+04/09 17:28:12:557 SEND: ID=122003: com.comverse_in.prepaid.ccws.ServiceSoapStub.modifySubscriber:84922000514:PROMOTION_60{100.0;28/10/2013 23:59:59},
+04/09 17:28:12:651 RECEIVE: ID=122003: success: costTime=93
+04/09 17:28:12:653 orderId = 125408116 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 309 | request = ID=122003: com.comverse_in.prepaid.ccws.ServiceSoapStub.modifySubscriber:84922000514:PROMOTION_60{100.0;28/10/2013 23:59:59}, | response = ID=122003: success: costTime=93 | status = 1 | cause = success | description = success
+04/09 17:29:03:552 CCWS started
+04/09 17:29:07:831 Testing connection ...
+04/09 17:29:08:801 Created provisioning instance for CCWS
+04/09 17:29:08:801 Testing connection are success
+04/09 17:29:08:802 Starting process session
+04/09 17:29:08:903 Total 0 instances are started
+04/09 17:29:08:904 Total 1 instances are added
+04/09 17:50:29:619 CCWS started
+04/09 17:50:34:026 Testing connection ...
+04/09 17:50:34:932 Created provisioning instance for CCWS
+04/09 17:50:34:932 Testing connection are success
+04/09 17:50:34:933 Starting process session
+04/09 17:50:35:033 Total 0 instances are started
+04/09 17:50:35:034 Total 1 instances are added
+04/09 18:09:15:007 CCWS started
+04/09 18:09:19:425 Testing connection ...
+04/09 18:09:20:262 Created provisioning instance for CCWS
+04/09 18:09:20:263 Testing connection are success
+04/09 18:09:20:263 Starting process session
+04/09 18:09:20:364 Total 0 instances are started
+04/09 18:09:20:364 Total 1 instances are added
+04/09 18:10:52:965 CCWS started
+04/09 18:10:57:480 Testing connection ...
+04/09 18:10:58:281 Created provisioning instance for CCWS
+04/09 18:10:58:282 Testing connection are success
+04/09 18:10:58:282 Starting process session
+04/09 18:10:58:383 Total 0 instances are started
+04/09 18:10:58:383 Total 1 instances are added
+04/09 18:12:15:301 CCWS started
+04/09 18:12:19:768 Testing connection ...
+04/09 18:12:20:611 Created provisioning instance for CCWS
+04/09 18:12:20:612 Testing connection are success
+04/09 18:12:20:612 Starting process session
+04/09 18:12:20:714 Total 0 instances are started
+04/09 18:12:20:714 Total 1 instances are added
+04/09 18:19:21:924 CCWS started
+04/09 18:19:26:000 Testing connection ...
+04/09 18:19:26:661 Created provisioning instance for CCWS
+04/09 18:19:26:662 Testing connection are success
+04/09 18:19:26:662 Starting process session
+04/09 18:19:26:763 Total 0 instances are started
+04/09 18:19:26:763 Total 1 instances are added
+04/09 18:21:28:311 CCWS started
+04/09 18:21:32:693 Testing connection ...
+04/09 18:21:33:573 Created provisioning instance for CCWS
+04/09 18:21:33:573 Testing connection are success
+04/09 18:21:33:574 Starting process session
+04/09 18:21:33:678 Total 0 instances are started
+04/09 18:21:33:678 Total 1 instances are added
+04/09 18:39:18:168 CCWS started
+04/09 18:39:22:212 Testing connection ...
+04/09 18:39:22:919 Created provisioning instance for CCWS
+04/09 18:39:22:919 Testing connection are success
+04/09 18:39:22:919 Starting process session
+04/09 18:39:23:020 Total 0 instances are started
+04/09 18:39:23:026 Total 1 instances are added
+04/09 18:42:50:649 CCWS started
+04/09 18:42:55:036 Testing connection ...
+04/09 18:42:55:848 Created provisioning instance for CCWS
+04/09 18:42:55:848 Testing connection are success
+04/09 18:42:55:849 Starting process session
+04/09 18:42:55:949 Total 0 instances are started
+04/09 18:42:55:950 Total 1 instances are added
+04/09 18:46:22:931 CCWS started
+04/09 18:46:27:391 Testing connection ...
+04/09 18:46:28:284 Created provisioning instance for CCWS
+04/09 18:46:28:285 Testing connection are success
+04/09 18:46:28:285 Starting process session
+04/09 18:46:28:386 Total 0 instances are started
+04/09 18:46:28:390 Total 1 instances are added
+04/09 18:47:00:551 CCWS started
+04/09 18:47:04:911 Testing connection ...
+04/09 18:47:05:835 Created provisioning instance for CCWS
+04/09 18:47:05:837 Testing connection are success
+04/09 18:47:05:838 Starting process session
+04/09 18:47:05:938 Total 0 instances are started
+04/09 18:47:05:940 Total 1 instances are added
+04/09 18:47:19:001 CCWS started
+04/09 18:47:23:053 Testing connection ...
+04/09 18:47:24:250 Created provisioning instance for CCWS
+04/09 18:47:24:251 Testing connection are success
+04/09 18:47:24:252 Starting process session
+04/09 18:47:24:352 Total 0 instances are started
+04/09 18:47:24:353 Total 1 instances are added
+04/09 18:59:23:830 CCWS started
+04/09 18:59:27:796 Testing connection ...
+04/09 18:59:28:810 Created provisioning instance for CCWS
+04/09 18:59:28:810 Testing connection are success
+04/09 18:59:28:811 Starting process session
+04/09 18:59:28:914 Total 0 instances are started
+04/09 18:59:28:914 Total 1 instances are added

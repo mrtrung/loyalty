@@ -1,0 +1,1226 @@
+31/08 10:38:07:231 OSA Callback started
+31/08 10:38:09:483 Starting process session
+31/08 10:38:09:604 Total 0 instances are started
+31/08 10:38:09:605 Total 1 instances are added
+31/08 10:38:19:791 Local queue size: 0
+31/08 10:38:29:818 Local queue size: 0
+31/08 10:38:32:630 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.36:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+31/08 10:38:32:631 Consumer was closed, reconnect.
+31/08 10:38:39:829 Local queue size: 0
+31/08 10:38:49:896 Local queue size: 0
+31/08 10:38:59:925 Local queue size: 0
+31/08 10:39:09:928 Local queue size: 0
+31/08 10:39:19:936 Local queue size: 0
+31/08 10:39:29:938 Local queue size: 0
+31/08 10:40:17:480 OSA Callback started
+31/08 10:40:18:608 Starting process session
+31/08 10:40:18:723 Total 0 instances are started
+31/08 10:40:18:723 Total 1 instances are added
+31/08 10:40:28:925 Local queue size: 0
+31/08 10:40:38:957 Local queue size: 0
+31/08 10:40:49:048 Local queue size: 0
+31/08 10:40:59:055 Local queue size: 0
+31/08 10:41:09:070 Local queue size: 0
+31/08 10:41:19:072 Local queue size: 0
+31/08 10:41:29:092 Local queue size: 0
+31/08 10:41:39:099 Local queue size: 0
+31/08 10:41:49:101 Local queue size: 0
+31/08 10:41:59:116 Local queue size: 0
+31/08 10:42:09:137 Local queue size: 0
+31/08 10:42:19:143 Local queue size: 0
+31/08 10:42:29:151 Local queue size: 0
+31/08 10:42:39:164 Local queue size: 0
+31/08 10:42:49:243 Local queue size: 0
+31/08 10:42:59:251 Local queue size: 0
+31/08 10:43:09:255 Local queue size: 0
+31/08 10:43:19:281 Local queue size: 0
+31/08 10:43:29:286 Local queue size: 0
+31/08 10:43:39:292 Local queue size: 0
+31/08 10:43:49:297 Local queue size: 0
+31/08 10:43:59:304 Local queue size: 0
+31/08 10:44:09:318 Local queue size: 0
+31/08 10:44:19:319 Local queue size: 0
+31/08 10:44:29:331 Local queue size: 0
+31/08 10:44:39:342 Local queue size: 0
+31/08 10:44:49:357 Local queue size: 0
+31/08 10:44:59:360 Local queue size: 0
+31/08 10:45:09:363 Local queue size: 0
+31/08 10:45:19:378 Local queue size: 0
+31/08 10:45:29:384 Local queue size: 0
+31/08 10:45:39:416 Local queue size: 0
+31/08 10:45:49:417 Local queue size: 0
+31/08 10:45:59:443 Local queue size: 0
+31/08 10:46:09:453 Local queue size: 0
+31/08 10:46:19:455 Local queue size: 0
+31/08 10:46:29:457 Local queue size: 0
+31/08 10:46:39:515 Local queue size: 0
+31/08 10:46:49:517 Local queue size: 0
+31/08 10:46:59:539 Local queue size: 0
+31/08 10:47:09:551 Local queue size: 0
+31/08 10:47:19:555 Local queue size: 0
+31/08 10:47:29:585 Local queue size: 0
+31/08 10:47:39:597 Local queue size: 0
+31/08 10:47:49:598 Local queue size: 0
+31/08 10:47:59:620 Local queue size: 0
+31/08 10:48:09:621 Local queue size: 0
+31/08 10:48:19:626 Local queue size: 0
+31/08 10:48:29:718 Local queue size: 0
+31/08 10:48:39:720 Local queue size: 0
+31/08 10:48:49:724 Local queue size: 0
+31/08 10:48:59:730 Local queue size: 0
+31/08 10:49:09:815 Local queue size: 0
+31/08 10:49:19:816 Local queue size: 0
+31/08 10:49:29:818 Local queue size: 0
+31/08 10:49:39:819 Local queue size: 0
+31/08 10:49:49:831 Local queue size: 0
+31/08 10:49:59:837 Local queue size: 0
+31/08 10:50:09:838 Local queue size: 0
+31/08 10:50:19:840 Local queue size: 0
+31/08 10:50:29:852 Local queue size: 0
+31/08 10:50:39:859 Local queue size: 0
+31/08 10:50:49:860 Local queue size: 0
+31/08 10:50:59:868 Local queue size: 0
+31/08 10:51:09:955 Local queue size: 0
+31/08 10:51:19:966 Local queue size: 0
+31/08 10:51:29:971 Local queue size: 0
+31/08 10:51:39:981 Local queue size: 0
+31/08 10:51:50:050 Local queue size: 0
+31/08 10:52:00:051 Local queue size: 0
+31/08 10:52:10:054 Local queue size: 0
+31/08 10:52:20:060 Local queue size: 0
+31/08 10:52:30:066 Local queue size: 0
+31/08 10:52:40:117 Local queue size: 0
+31/08 10:52:50:124 Local queue size: 0
+31/08 10:53:00:183 Local queue size: 0
+31/08 10:53:10:184 Local queue size: 0
+31/08 10:53:20:208 Local queue size: 0
+31/08 10:53:30:212 Local queue size: 0
+31/08 10:53:40:282 Local queue size: 0
+31/08 10:53:50:297 Local queue size: 0
+31/08 10:54:00:323 Local queue size: 0
+31/08 10:54:10:327 Local queue size: 0
+31/08 10:54:20:406 Local queue size: 0
+31/08 10:54:30:408 Local queue size: 0
+31/08 10:54:40:421 Local queue size: 0
+31/08 10:54:50:429 Local queue size: 0
+31/08 10:55:00:437 Local queue size: 0
+31/08 10:55:10:530 Local queue size: 0
+31/08 10:55:20:532 Local queue size: 0
+31/08 10:55:30:536 Local queue size: 0
+31/08 10:55:40:538 Local queue size: 0
+31/08 10:55:50:600 Local queue size: 0
+31/08 10:56:00:616 Local queue size: 0
+31/08 10:56:10:630 Local queue size: 0
+31/08 10:56:20:631 Local queue size: 0
+31/08 10:56:30:651 Local queue size: 0
+31/08 10:56:40:660 Local queue size: 0
+31/08 10:56:50:661 Local queue size: 0
+31/08 10:57:00:663 Local queue size: 0
+31/08 10:57:10:709 Local queue size: 0
+31/08 10:57:20:723 Local queue size: 0
+31/08 10:57:30:731 Local queue size: 0
+31/08 10:57:40:733 Local queue size: 0
+31/08 10:57:50:767 Local queue size: 0
+31/08 10:58:00:770 Local queue size: 0
+31/08 10:58:10:776 Local queue size: 0
+31/08 10:58:20:782 Local queue size: 0
+31/08 10:58:30:791 Local queue size: 0
+31/08 10:58:40:843 Local queue size: 0
+31/08 10:58:50:861 Local queue size: 0
+31/08 10:59:00:869 Local queue size: 0
+31/08 10:59:10:925 Local queue size: 0
+31/08 10:59:20:926 Local queue size: 0
+31/08 10:59:30:934 Local queue size: 0
+31/08 10:59:40:941 Local queue size: 0
+31/08 10:59:50:963 Local queue size: 0
+31/08 11:00:00:978 Local queue size: 0
+31/08 11:00:10:980 Local queue size: 0
+31/08 11:00:20:982 Local queue size: 0
+31/08 11:00:31:000 Local queue size: 0
+31/08 11:00:41:010 Local queue size: 0
+31/08 11:00:51:013 Local queue size: 0
+31/08 11:01:01:034 Local queue size: 0
+31/08 11:01:11:036 Local queue size: 0
+31/08 11:01:21:045 Local queue size: 0
+31/08 11:01:31:052 Local queue size: 0
+31/08 11:01:41:061 Local queue size: 0
+31/08 11:01:51:125 Local queue size: 0
+31/08 11:02:01:134 Local queue size: 0
+31/08 11:02:11:145 Local queue size: 0
+31/08 11:02:21:156 Local queue size: 0
+31/08 11:02:31:197 Local queue size: 0
+31/08 11:02:41:200 Local queue size: 0
+31/08 11:02:51:203 Local queue size: 0
+31/08 11:03:01:218 Local queue size: 0
+31/08 11:03:11:235 Local queue size: 0
+31/08 11:03:21:243 Local queue size: 0
+31/08 11:03:31:248 Local queue size: 0
+31/08 11:03:41:261 Local queue size: 0
+31/08 11:03:51:350 Local queue size: 0
+31/08 11:04:01:368 Local queue size: 0
+31/08 11:04:11:370 Local queue size: 0
+31/08 11:04:21:373 Local queue size: 0
+31/08 11:04:31:379 Local queue size: 0
+31/08 11:04:41:390 Local queue size: 0
+31/08 11:04:51:392 Local queue size: 0
+31/08 11:05:01:409 Local queue size: 0
+31/08 11:05:11:427 Local queue size: 0
+31/08 11:05:21:503 Local queue size: 0
+31/08 11:05:31:512 Local queue size: 0
+31/08 11:05:41:571 Local queue size: 0
+31/08 11:05:51:573 Local queue size: 0
+31/08 11:06:01:575 Local queue size: 0
+31/08 11:06:11:581 Local queue size: 0
+31/08 11:06:21:661 Local queue size: 0
+31/08 11:06:31:665 Local queue size: 0
+31/08 11:06:41:671 Local queue size: 0
+31/08 11:06:51:682 Local queue size: 0
+31/08 11:07:01:686 Local queue size: 0
+31/08 11:07:11:691 Local queue size: 0
+31/08 11:07:21:697 Local queue size: 0
+31/08 11:07:31:700 Local queue size: 0
+31/08 11:07:45:198 OSA Callback started
+31/08 11:07:46:407 Starting process session
+31/08 11:07:46:525 Total 0 instances are started
+31/08 11:07:46:526 Total 1 instances are added
+31/08 11:07:56:699 Local queue size: 0
+31/08 11:08:06:707 Local queue size: 0
+31/08 11:08:16:718 Local queue size: 0
+31/08 11:08:26:735 Local queue size: 0
+31/08 11:08:36:737 Local queue size: 0
+31/08 11:08:46:791 Local queue size: 0
+31/08 11:08:56:886 Local queue size: 0
+31/08 11:09:06:916 Local queue size: 0
+31/08 11:09:16:933 Local queue size: 0
+31/08 11:09:26:947 Local queue size: 0
+31/08 11:09:36:974 Local queue size: 0
+31/08 11:09:46:976 Local queue size: 0
+31/08 11:09:56:996 Local queue size: 0
+31/08 11:10:06:998 Local queue size: 0
+31/08 11:10:16:999 Local queue size: 0
+31/08 11:10:27:012 Local queue size: 0
+31/08 11:10:35:797 OSA Callback started
+31/08 11:10:36:703 Starting process session
+31/08 11:10:36:841 Total 0 instances are started
+31/08 11:10:36:842 Total 1 instances are added
+31/08 11:10:46:959 Local queue size: 0
+31/08 11:10:57:039 Local queue size: 0
+31/08 11:11:07:052 Local queue size: 0
+31/08 11:11:17:088 Local queue size: 0
+31/08 11:11:27:120 Local queue size: 0
+31/08 11:11:37:174 Local queue size: 0
+31/08 11:11:47:244 Local queue size: 0
+31/08 11:12:05:862 OSA Callback started
+31/08 11:12:07:595 Starting process session
+31/08 11:12:07:774 Total 0 instances are started
+31/08 11:12:07:776 Total 1 instances are added
+31/08 11:12:17:998 Local queue size: 0
+31/08 11:12:28:000 Local queue size: 0
+31/08 11:12:38:013 Local queue size: 0
+31/08 11:12:48:024 Local queue size: 0
+31/08 11:12:58:026 Local queue size: 0
+31/08 11:13:08:028 Local queue size: 0
+31/08 11:13:18:030 Local queue size: 0
+31/08 11:13:28:043 Local queue size: 0
+31/08 11:13:38:045 Local queue size: 0
+31/08 11:13:48:046 Local queue size: 0
+31/08 11:13:58:055 Local queue size: 0
+31/08 11:14:08:058 Local queue size: 0
+31/08 11:14:18:061 Local queue size: 0
+31/08 11:14:28:078 Local queue size: 0
+31/08 11:14:38:086 Local queue size: 0
+31/08 11:14:48:094 Local queue size: 0
+31/08 11:14:58:104 Local queue size: 0
+31/08 11:15:08:106 Local queue size: 0
+31/08 11:15:18:205 Local queue size: 0
+31/08 11:15:28:208 Local queue size: 0
+31/08 11:15:38:210 Local queue size: 0
+31/08 11:15:48:211 Local queue size: 0
+31/08 11:15:58:223 Local queue size: 0
+31/08 11:16:08:229 Local queue size: 0
+31/08 11:16:18:232 Local queue size: 0
+31/08 11:16:28:233 Local queue size: 0
+31/08 11:16:38:236 Local queue size: 0
+31/08 11:16:48:247 Local queue size: 0
+31/08 11:16:58:256 Local queue size: 0
+31/08 11:17:08:286 Local queue size: 0
+31/08 11:17:18:288 Local queue size: 0
+31/08 11:17:28:292 Local queue size: 0
+31/08 11:17:38:297 Local queue size: 0
+31/08 11:17:48:299 Local queue size: 0
+31/08 11:17:58:304 Local queue size: 0
+31/08 11:18:08:308 Local queue size: 0
+31/08 11:18:18:311 Local queue size: 0
+31/08 11:18:28:408 Local queue size: 0
+31/08 11:18:38:425 Local queue size: 0
+31/08 11:18:48:426 Local queue size: 0
+31/08 11:18:58:430 Local queue size: 0
+31/08 11:19:08:431 Local queue size: 0
+31/08 11:19:18:434 Local queue size: 0
+31/08 11:19:28:436 Local queue size: 0
+31/08 11:19:38:442 Local queue size: 0
+31/08 11:19:48:490 Local queue size: 0
+31/08 11:19:58:548 Local queue size: 0
+31/08 11:20:08:550 Local queue size: 0
+31/08 11:20:18:553 Local queue size: 0
+31/08 11:20:28:554 Local queue size: 0
+31/08 11:20:38:580 Local queue size: 0
+31/08 11:20:48:591 Local queue size: 0
+31/08 11:20:58:605 Local queue size: 0
+31/08 11:21:08:610 Local queue size: 0
+31/08 11:21:18:640 Local queue size: 0
+31/08 11:21:28:642 Local queue size: 0
+31/08 11:21:38:649 Local queue size: 0
+31/08 11:21:48:654 Local queue size: 0
+31/08 11:21:58:679 Local queue size: 0
+31/08 11:22:08:770 Local queue size: 0
+31/08 11:22:18:772 Local queue size: 0
+31/08 11:22:28:790 Local queue size: 0
+31/08 11:22:38:802 Local queue size: 0
+31/08 11:22:48:815 Local queue size: 0
+31/08 11:22:58:824 Local queue size: 0
+31/08 11:23:08:827 Local queue size: 0
+31/08 11:23:18:837 Local queue size: 0
+31/08 11:23:28:840 Local queue size: 0
+31/08 11:23:38:861 Local queue size: 0
+31/08 11:23:48:863 Local queue size: 0
+31/08 11:23:58:872 Local queue size: 0
+31/08 11:24:08:879 Local queue size: 0
+31/08 11:24:18:893 Local queue size: 0
+31/08 11:24:28:896 Local queue size: 0
+31/08 11:24:38:903 Local queue size: 0
+31/08 11:24:48:905 Local queue size: 0
+31/08 11:24:58:917 Local queue size: 0
+31/08 11:25:08:930 Local queue size: 0
+31/08 11:25:18:937 Local queue size: 0
+31/08 11:25:28:945 Local queue size: 0
+31/08 11:25:38:950 Local queue size: 0
+31/08 11:25:48:975 Local queue size: 0
+31/08 11:25:58:995 Local queue size: 0
+31/08 11:26:08:999 Local queue size: 0
+31/08 11:26:19:005 Local queue size: 0
+31/08 11:26:29:029 Local queue size: 0
+31/08 11:26:39:032 Local queue size: 0
+31/08 11:26:49:044 Local queue size: 0
+31/08 11:26:59:046 Local queue size: 0
+31/08 11:27:09:059 Local queue size: 0
+31/08 11:27:19:147 Local queue size: 0
+31/08 11:27:29:158 Local queue size: 0
+31/08 11:27:39:186 Local queue size: 0
+31/08 11:27:49:286 Local queue size: 0
+31/08 11:27:59:288 Local queue size: 0
+31/08 11:28:09:306 Local queue size: 0
+31/08 11:28:19:317 Local queue size: 0
+31/08 11:28:29:325 Local queue size: 0
+31/08 11:28:39:332 Local queue size: 0
+31/08 11:28:49:409 Local queue size: 0
+31/08 11:28:59:417 Local queue size: 0
+31/08 11:29:09:424 Local queue size: 0
+31/08 11:29:19:435 Local queue size: 0
+31/08 11:29:29:456 Local queue size: 0
+31/08 11:29:39:476 Local queue size: 0
+31/08 11:29:49:477 Local queue size: 0
+31/08 11:29:59:482 Local queue size: 0
+31/08 11:30:09:489 Local queue size: 0
+31/08 11:30:19:491 Local queue size: 0
+31/08 11:30:29:549 Local queue size: 0
+31/08 11:30:39:557 Local queue size: 0
+31/08 11:30:49:569 Local queue size: 0
+31/08 11:31:12:634 OSA Callback started
+31/08 11:31:15:927 Starting process session
+31/08 11:31:16:359 Total 0 instances are started
+31/08 11:31:16:360 Total 1 instances are added
+31/08 11:31:26:577 Local queue size: 0
+31/08 11:31:36:579 Local queue size: 0
+31/08 11:31:46:596 Local queue size: 0
+31/08 11:31:56:603 Local queue size: 0
+31/08 11:32:06:604 Local queue size: 0
+31/08 11:32:16:606 Local queue size: 0
+31/08 11:32:26:607 Local queue size: 0
+31/08 11:32:36:679 Local queue size: 0
+31/08 11:32:46:687 Local queue size: 0
+31/08 11:32:56:695 Local queue size: 0
+31/08 11:33:06:766 Local queue size: 0
+31/08 11:33:16:767 Local queue size: 0
+31/08 11:33:26:773 Local queue size: 0
+31/08 11:33:36:775 Local queue size: 0
+31/08 11:33:46:777 Local queue size: 0
+31/08 11:33:56:779 Local queue size: 0
+31/08 11:34:06:795 Local queue size: 0
+31/08 11:34:16:798 Local queue size: 0
+31/08 11:34:26:801 Local queue size: 0
+31/08 11:34:36:860 Local queue size: 0
+31/08 11:34:46:866 Local queue size: 0
+31/08 11:34:56:871 Local queue size: 0
+31/08 11:35:06:874 Local queue size: 0
+31/08 11:35:16:931 Local queue size: 0
+31/08 11:35:26:937 Local queue size: 0
+31/08 11:35:36:938 Local queue size: 0
+31/08 11:35:46:947 Local queue size: 0
+31/08 11:35:56:986 Local queue size: 0
+31/08 11:36:07:004 Local queue size: 0
+31/08 11:36:17:005 Local queue size: 0
+31/08 11:36:27:012 Local queue size: 0
+31/08 11:36:37:054 Local queue size: 0
+31/08 11:36:47:055 Local queue size: 0
+31/08 11:42:45:278 OSA Callback started
+31/08 11:42:48:821 Starting process session
+31/08 11:42:48:926 Total 0 instances are started
+31/08 11:42:48:926 Total 1 instances are added
+31/08 11:42:59:061 Local queue size: 0
+31/08 11:43:09:102 Local queue size: 0
+31/08 11:43:19:123 Local queue size: 0
+31/08 11:43:29:189 Local queue size: 0
+31/08 11:43:39:214 Local queue size: 0
+31/08 11:43:49:232 Local queue size: 0
+31/08 11:44:01:948 OSA Callback started
+31/08 11:44:04:692 Starting process session
+31/08 11:44:04:963 Total 0 instances are started
+31/08 11:44:05:458 Total 1 instances are added
+31/08 11:44:15:586 Local queue size: 0
+31/08 11:44:25:612 Local queue size: 0
+31/08 11:44:35:626 Local queue size: 0
+31/08 11:44:45:685 Local queue size: 0
+31/08 11:44:55:687 Local queue size: 0
+31/08 11:45:05:694 Local queue size: 0
+31/08 11:45:14:164 OSA Callback started
+31/08 11:45:16:025 Starting process session
+31/08 11:45:17:020 Total 0 instances are started
+31/08 11:45:17:024 Total 1 instances are added
+31/08 11:45:28:041 Local queue size: 0
+31/08 11:45:38:061 Local queue size: 0
+31/08 11:45:48:069 Local queue size: 0
+31/08 11:45:58:079 Local queue size: 0
+31/08 11:46:08:081 Local queue size: 0
+31/08 11:46:18:089 Local queue size: 0
+31/08 11:49:29:469 OSA Callback started
+31/08 11:49:32:921 Starting process session
+31/08 11:49:33:027 Total 0 instances are started
+31/08 11:49:33:027 Total 1 instances are added
+31/08 11:49:43:197 Local queue size: 0
+31/08 11:49:53:224 Local queue size: 0
+31/08 11:50:03:226 Local queue size: 0
+31/08 11:50:13:237 Local queue size: 0
+31/08 11:50:23:264 Local queue size: 0
+31/08 11:50:33:265 Local queue size: 0
+31/08 11:50:43:308 Local queue size: 0
+31/08 11:50:53:321 Local queue size: 0
+31/08 11:51:03:363 Local queue size: 0
+31/08 11:51:13:368 Local queue size: 0
+31/08 11:51:23:398 Local queue size: 0
+31/08 11:51:33:404 Local queue size: 0
+31/08 11:51:43:409 Local queue size: 0
+31/08 11:51:53:423 Local queue size: 0
+31/08 11:52:03:429 Local queue size: 0
+31/08 11:52:13:455 Local queue size: 0
+31/08 11:52:23:465 Local queue size: 0
+31/08 11:52:33:468 Local queue size: 0
+31/08 11:52:43:470 Local queue size: 0
+31/08 11:52:53:495 Local queue size: 0
+31/08 11:53:03:521 Local queue size: 0
+31/08 11:53:07:697 OSA Callback started
+31/08 11:53:11:271 Starting process session
+31/08 11:53:11:399 Total 0 instances are started
+31/08 11:53:11:399 Total 1 instances are added
+31/08 11:53:21:546 Local queue size: 0
+31/08 11:53:31:548 Local queue size: 0
+31/08 11:53:41:648 Local queue size: 0
+31/08 11:53:51:649 Local queue size: 0
+31/08 11:54:01:749 Local queue size: 0
+31/08 11:54:11:750 Local queue size: 0
+31/08 11:54:21:755 Local queue size: 0
+31/08 11:54:31:757 Local queue size: 0
+31/08 11:54:41:762 Local queue size: 0
+31/08 11:54:54:891 OSA Callback started
+31/08 11:54:56:050 Starting process session
+31/08 11:54:56:160 Total 0 instances are started
+31/08 11:54:56:160 Total 1 instances are added
+31/08 11:55:06:320 Local queue size: 0
+31/08 11:55:16:322 Local queue size: 0
+31/08 11:55:26:361 Local queue size: 0
+31/08 11:55:36:374 Local queue size: 0
+31/08 11:55:46:378 Local queue size: 0
+31/08 11:55:56:385 Local queue size: 0
+31/08 11:56:06:390 Local queue size: 0
+31/08 11:56:16:395 Local queue size: 0
+31/08 11:56:26:410 Local queue size: 0
+31/08 11:56:36:425 Local queue size: 0
+31/08 11:56:46:433 Local queue size: 0
+31/08 11:56:56:434 Local queue size: 0
+31/08 11:57:06:466 Local queue size: 0
+31/08 11:57:16:483 Local queue size: 0
+31/08 11:57:26:485 Local queue size: 0
+31/08 11:57:36:487 Local queue size: 0
+31/08 11:57:46:619 OSA Callback started
+31/08 11:57:49:713 Starting process session
+31/08 11:57:50:427 Total 0 instances are started
+31/08 11:57:50:428 Total 1 instances are added
+31/08 11:58:00:545 Local queue size: 0
+31/08 11:58:10:565 Local queue size: 0
+31/08 11:58:20:572 Local queue size: 0
+31/08 11:58:37:082 OSA Callback started
+31/08 11:58:37:902 Starting process session
+31/08 11:58:38:017 Total 0 instances are started
+31/08 11:58:38:017 Total 1 instances are added
+31/08 11:58:48:153 Local queue size: 0
+31/08 11:58:58:190 Local queue size: 0
+31/08 11:59:08:207 Local queue size: 0
+31/08 11:59:18:233 Local queue size: 0
+31/08 11:59:28:270 Local queue size: 0
+31/08 11:59:38:301 Local queue size: 0
+31/08 11:59:48:302 Local queue size: 0
+31/08 11:59:58:305 Local queue size: 0
+31/08 12:00:08:307 Local queue size: 0
+31/08 12:00:18:309 Local queue size: 0
+31/08 12:00:28:369 Local queue size: 0
+31/08 12:00:38:377 Local queue size: 0
+31/08 12:00:48:390 Local queue size: 0
+31/08 12:00:58:391 Local queue size: 0
+31/08 12:01:08:411 Local queue size: 0
+31/08 12:01:18:420 Local queue size: 0
+31/08 12:01:28:429 Local queue size: 0
+31/08 12:01:38:430 Local queue size: 0
+31/08 12:19:32:847 OSA Callback started
+31/08 12:19:36:428 Starting process session
+31/08 12:19:36:530 Total 0 instances are started
+31/08 12:19:36:530 Total 1 instances are added
+31/08 12:19:46:668 Local queue size: 0
+31/08 12:19:56:674 Local queue size: 0
+31/08 12:20:06:676 Local queue size: 0
+31/08 12:20:16:682 Local queue size: 0
+31/08 12:20:26:684 Local queue size: 0
+31/08 12:20:36:711 Local queue size: 0
+31/08 12:20:46:741 Local queue size: 0
+31/08 12:20:56:770 Local queue size: 0
+31/08 12:21:06:773 Local queue size: 0
+31/08 12:21:16:775 Local queue size: 0
+31/08 12:21:26:790 Local queue size: 0
+31/08 12:21:36:793 Local queue size: 0
+31/08 12:21:46:803 Local queue size: 0
+31/08 12:21:56:809 Local queue size: 0
+31/08 12:22:06:821 Local queue size: 0
+31/08 12:22:16:834 Local queue size: 0
+31/08 12:22:26:836 Local queue size: 0
+31/08 12:22:36:839 Local queue size: 0
+31/08 12:22:46:844 Local queue size: 0
+31/08 12:22:56:853 Local queue size: 0
+31/08 12:23:01:420 OSA Callback started
+31/08 12:23:05:126 Starting process session
+31/08 12:23:05:231 Total 0 instances are started
+31/08 12:23:05:233 Total 1 instances are added
+31/08 12:23:15:375 Local queue size: 0
+31/08 12:23:25:376 Local queue size: 0
+31/08 12:23:35:405 Local queue size: 0
+31/08 12:23:45:446 Local queue size: 0
+31/08 12:23:55:448 Local queue size: 0
+31/08 12:24:05:450 Local queue size: 0
+31/08 12:24:15:514 Local queue size: 0
+31/08 12:24:26:431 OSA Callback started
+31/08 12:24:28:364 Starting process session
+31/08 12:24:28:620 Total 0 instances are started
+31/08 12:24:28:621 Total 1 instances are added
+31/08 12:24:38:781 Local queue size: 0
+31/08 12:24:48:786 Local queue size: 0
+31/08 12:24:58:788 Local queue size: 0
+31/08 12:25:08:794 Local queue size: 0
+31/08 12:25:18:796 Local queue size: 0
+31/08 12:25:28:798 Local queue size: 0
+31/08 12:25:38:801 Local queue size: 0
+31/08 12:25:48:811 Local queue size: 0
+31/08 12:25:58:814 Local queue size: 0
+31/08 12:26:08:819 Local queue size: 0
+31/08 12:26:18:821 Local queue size: 0
+31/08 12:26:28:823 Local queue size: 0
+31/08 12:26:38:824 Local queue size: 0
+31/08 12:26:48:834 Local queue size: 0
+31/08 12:26:58:835 Local queue size: 0
+31/08 12:27:08:836 Local queue size: 0
+31/08 12:27:18:838 Local queue size: 0
+31/08 12:27:28:839 Local queue size: 0
+31/08 12:27:38:855 Local queue size: 0
+31/08 12:27:49:152 OSA Callback started
+31/08 12:27:52:602 Starting process session
+31/08 12:27:52:724 Total 0 instances are started
+31/08 12:27:52:726 Total 1 instances are added
+31/08 12:28:02:892 Local queue size: 0
+31/08 12:28:12:956 Local queue size: 0
+31/08 12:28:22:980 Local queue size: 0
+31/08 12:28:33:012 Local queue size: 0
+31/08 12:28:43:018 Local queue size: 0
+31/08 12:28:53:023 Local queue size: 0
+31/08 12:29:03:034 Local queue size: 0
+31/08 12:29:13:049 Local queue size: 0
+31/08 12:29:23:086 Local queue size: 0
+31/08 12:29:33:089 Local queue size: 0
+31/08 12:29:43:099 Local queue size: 0
+31/08 12:29:53:101 Local queue size: 0
+31/08 12:30:03:112 Local queue size: 0
+31/08 12:30:13:117 Local queue size: 0
+31/08 12:30:23:119 Local queue size: 0
+31/08 12:30:33:161 Local queue size: 0
+31/08 12:30:43:188 Local queue size: 0
+31/08 12:30:53:195 Local queue size: 0
+31/08 12:31:03:196 Local queue size: 0
+31/08 12:31:13:204 Local queue size: 0
+31/08 12:31:23:232 Local queue size: 0
+31/08 12:31:33:235 Local queue size: 0
+31/08 12:31:43:242 Local queue size: 0
+31/08 12:31:53:254 Local queue size: 0
+31/08 12:32:03:321 Local queue size: 0
+31/08 12:32:13:327 Local queue size: 0
+31/08 12:32:23:334 Local queue size: 0
+31/08 12:32:32:289 OSA Callback started
+31/08 12:32:33:082 Starting process session
+31/08 12:32:33:208 Total 0 instances are started
+31/08 12:32:33:209 Total 1 instances are added
+31/08 12:33:14:524 OSA Callback started
+31/08 12:33:17:448 Starting process session
+31/08 12:33:18:040 Total 0 instances are started
+31/08 12:33:18:041 Total 1 instances are added
+31/08 12:33:28:193 Local queue size: 0
+31/08 12:33:38:227 Local queue size: 0
+31/08 12:33:48:266 Local queue size: 0
+31/08 12:33:58:301 Local queue size: 0
+31/08 12:34:08:305 Local queue size: 0
+31/08 12:34:18:312 Local queue size: 0
+31/08 12:34:28:316 Local queue size: 0
+31/08 12:34:38:371 Local queue size: 0
+31/08 12:34:48:373 Local queue size: 0
+31/08 12:34:58:380 Local queue size: 0
+31/08 12:35:08:384 Local queue size: 0
+31/08 12:35:18:385 Local queue size: 0
+31/08 12:35:28:406 Local queue size: 0
+31/08 12:35:38:412 Local queue size: 0
+31/08 12:35:48:424 Local queue size: 0
+31/08 12:35:58:442 Local queue size: 0
+31/08 12:36:08:445 Local queue size: 0
+31/08 12:36:18:452 Local queue size: 0
+31/08 12:36:28:464 Local queue size: 0
+31/08 12:36:38:535 Local queue size: 0
+31/08 12:36:48:537 Local queue size: 0
+31/08 12:36:58:585 Local queue size: 0
+31/08 12:37:08:668 Local queue size: 0
+31/08 12:37:18:703 Local queue size: 0
+31/08 12:37:28:710 Local queue size: 0
+31/08 12:37:38:738 Local queue size: 0
+31/08 12:37:48:794 Local queue size: 0
+31/08 12:37:58:832 Local queue size: 0
+31/08 12:38:08:870 Local queue size: 0
+31/08 12:38:18:921 Local queue size: 0
+31/08 12:38:28:933 Local queue size: 0
+31/08 12:38:38:973 Local queue size: 0
+31/08 12:38:48:993 Local queue size: 0
+31/08 12:38:59:005 Local queue size: 0
+31/08 12:39:09:010 Local queue size: 0
+31/08 12:39:19:034 Local queue size: 0
+31/08 12:39:29:088 Local queue size: 0
+31/08 12:39:39:123 Local queue size: 0
+31/08 12:39:49:131 Local queue size: 0
+31/08 12:39:59:226 Local queue size: 0
+31/08 12:40:09:228 Local queue size: 0
+31/08 12:40:19:251 Local queue size: 0
+31/08 12:40:29:287 Local queue size: 0
+31/08 12:40:39:312 Local queue size: 0
+31/08 12:40:49:329 Local queue size: 0
+31/08 12:40:59:356 Local queue size: 0
+31/08 12:41:09:397 Local queue size: 0
+31/08 12:41:19:443 Local queue size: 0
+31/08 12:41:29:470 Local queue size: 0
+31/08 12:41:39:478 Local queue size: 0
+31/08 12:41:49:490 Local queue size: 0
+31/08 12:41:59:493 Local queue size: 0
+31/08 12:42:29:966 OSA Callback started
+31/08 12:42:59:743 Error occured: Connections could not be acquired from the underlying database!
+31/08 12:44:22:451 OSA Callback started
+31/08 12:44:26:780 Starting process session
+31/08 12:44:26:881 Total 0 instances are started
+31/08 12:44:26:882 Total 1 instances are added
+31/08 12:44:37:083 Local queue size: 0
+31/08 12:44:47:089 Local queue size: 0
+31/08 12:44:57:090 Local queue size: 0
+31/08 12:45:07:093 Local queue size: 0
+31/08 12:45:17:161 Local queue size: 0
+31/08 12:45:27:173 Local queue size: 0
+31/08 12:45:37:272 Local queue size: 0
+31/08 12:45:47:276 Local queue size: 0
+31/08 12:45:57:284 Local queue size: 0
+31/08 12:46:34:520 OSA Callback started
+31/08 12:46:37:945 Starting process session
+31/08 12:46:38:113 Total 0 instances are started
+31/08 12:46:38:114 Total 1 instances are added
+31/08 12:46:48:230 Local queue size: 0
+31/08 12:46:58:294 Local queue size: 0
+31/08 12:47:18:419 OSA Callback started
+31/08 12:47:22:130 Starting process session
+31/08 12:47:22:246 Total 0 instances are started
+31/08 12:47:22:246 Total 1 instances are added
+31/08 12:47:32:419 Local queue size: 0
+31/08 12:47:42:434 Local queue size: 0
+31/08 12:47:52:478 Local queue size: 0
+31/08 12:49:15:936 OSA Callback started
+31/08 12:49:17:750 Starting process session
+31/08 12:49:17:910 Total 0 instances are started
+31/08 12:49:17:911 Total 1 instances are added
+31/08 12:49:28:323 Local queue size: 0
+31/08 12:49:38:345 Local queue size: 0
+31/08 12:49:48:712 OSA Callback started
+31/08 12:49:52:859 Starting process session
+31/08 12:49:52:967 Total 0 instances are started
+31/08 12:49:52:967 Total 1 instances are added
+31/08 12:56:06:176 OSA Callback started
+31/08 12:56:08:695 Starting process session
+31/08 12:56:08:836 Total 0 instances are started
+31/08 12:56:08:836 Total 1 instances are added
+31/08 12:56:12:999 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.39:7676]. - cause: java.net.ConnectException: Connection refused: connect
+31/08 12:56:13:000 Consumer was closed, reconnect.
+31/08 12:56:19:105 Local queue size: 0
+31/08 12:56:29:134 Local queue size: 0
+31/08 12:56:39:171 Local queue size: 0
+31/08 13:02:21:179 OSA Callback started
+31/08 13:02:22:462 Starting process session
+31/08 13:02:22:573 Total 0 instances are started
+31/08 13:02:22:574 Total 1 instances are added
+31/08 13:02:32:753 Local queue size: 0
+31/08 13:02:42:815 Local queue size: 0
+31/08 13:02:52:817 Local queue size: 0
+31/08 13:03:02:837 Local queue size: 0
+31/08 13:03:12:872 Local queue size: 0
+31/08 13:03:22:880 Local queue size: 0
+31/08 13:03:32:893 Local queue size: 0
+31/08 13:03:42:949 Local queue size: 0
+31/08 13:03:52:964 Local queue size: 0
+31/08 13:04:02:966 Local queue size: 0
+31/08 13:04:12:968 Local queue size: 0
+31/08 13:04:22:976 Local queue size: 0
+31/08 13:04:32:979 Local queue size: 0
+31/08 13:04:42:990 Local queue size: 0
+31/08 13:04:54:033 OSA Callback started
+31/08 13:04:57:523 Starting process session
+31/08 13:04:57:635 Total 0 instances are started
+31/08 13:04:57:636 Total 1 instances are added
+31/08 13:05:07:826 Local queue size: 0
+31/08 13:05:17:847 Local queue size: 0
+31/08 13:05:27:856 Local queue size: 0
+31/08 13:05:37:882 Local queue size: 0
+31/08 13:05:47:888 Local queue size: 0
+31/08 13:05:57:890 Local queue size: 0
+31/08 13:06:07:971 Local queue size: 0
+31/08 13:14:29:508 OSA Callback started
+31/08 13:14:33:472 Starting process session
+31/08 13:14:33:574 Total 0 instances are started
+31/08 13:14:33:575 Total 1 instances are added
+31/08 13:14:43:754 Local queue size: 0
+31/08 13:14:53:775 Local queue size: 0
+31/08 13:15:03:815 Local queue size: 0
+31/08 13:15:13:830 Local queue size: 0
+31/08 13:15:23:835 Local queue size: 0
+31/08 13:15:36:201 OSA Callback started
+31/08 13:15:38:990 Starting process session
+31/08 13:15:39:110 Total 0 instances are started
+31/08 13:15:39:114 Total 1 instances are added
+31/08 13:15:49:485 Local queue size: 0
+31/08 13:15:59:488 Local queue size: 0
+31/08 13:16:09:490 Local queue size: 0
+31/08 13:16:19:494 Local queue size: 0
+31/08 13:16:29:499 Local queue size: 0
+31/08 13:16:39:500 Local queue size: 0
+31/08 13:16:49:508 Local queue size: 0
+31/08 13:16:59:514 Local queue size: 0
+31/08 13:17:09:525 Local queue size: 0
+31/08 13:17:19:531 Local queue size: 0
+31/08 13:17:29:621 Local queue size: 0
+31/08 13:17:39:623 Local queue size: 0
+31/08 13:17:49:625 Local queue size: 0
+31/08 13:17:59:628 Local queue size: 0
+31/08 13:18:09:661 Local queue size: 0
+31/08 13:18:19:662 Local queue size: 0
+31/08 13:18:29:666 Local queue size: 0
+31/08 13:18:39:667 Local queue size: 0
+31/08 13:18:49:710 Local queue size: 0
+31/08 13:18:59:716 Local queue size: 0
+31/08 13:19:09:763 Local queue size: 0
+31/08 13:19:19:764 Local queue size: 0
+31/08 13:19:29:850 Local queue size: 0
+31/08 13:19:52:908 OSA Callback started
+31/08 13:19:57:299 Starting process session
+31/08 13:19:57:401 Total 0 instances are started
+31/08 13:19:57:402 Total 1 instances are added
+31/08 13:20:07:547 Local queue size: 0
+31/08 13:20:17:548 Local queue size: 0
+31/08 13:20:27:555 Local queue size: 0
+31/08 13:20:37:561 Local queue size: 0
+31/08 13:20:47:599 Local queue size: 0
+31/08 13:20:57:632 Local queue size: 0
+31/08 13:21:07:712 Local queue size: 0
+31/08 13:21:23:516 OSA Callback started
+31/08 13:21:27:092 Starting process session
+31/08 13:21:27:197 Total 0 instances are started
+31/08 13:21:27:197 Total 1 instances are added
+31/08 13:21:37:309 Local queue size: 0
+31/08 13:21:47:314 Local queue size: 0
+31/08 13:21:57:316 Local queue size: 0
+31/08 13:22:07:361 Local queue size: 0
+31/08 13:22:17:394 Local queue size: 0
+31/08 13:22:27:397 Local queue size: 0
+31/08 13:22:35:821 OSA Callback started
+31/08 13:22:37:486 Starting process session
+31/08 13:22:37:668 Total 0 instances are started
+31/08 13:22:37:668 Total 1 instances are added
+31/08 13:22:47:921 Local queue size: 0
+31/08 13:22:57:927 Local queue size: 0
+31/08 13:23:07:945 Local queue size: 0
+31/08 13:23:17:946 Local queue size: 0
+31/08 13:23:27:964 Local queue size: 0
+31/08 13:23:37:986 Local queue size: 0
+31/08 13:23:48:008 Local queue size: 0
+31/08 13:23:58:020 Local queue size: 0
+31/08 13:24:08:043 Local queue size: 0
+31/08 13:24:18:050 Local queue size: 0
+31/08 13:24:28:064 Local queue size: 0
+31/08 13:24:38:068 Local queue size: 0
+31/08 13:24:48:076 Local queue size: 0
+31/08 13:24:58:082 Local queue size: 0
+31/08 13:25:08:083 Local queue size: 0
+31/08 13:25:18:092 Local queue size: 0
+31/08 13:25:28:172 Local queue size: 0
+31/08 13:25:38:204 Local queue size: 0
+31/08 13:25:48:206 Local queue size: 0
+31/08 13:25:58:210 Local queue size: 0
+31/08 13:26:08:212 Local queue size: 0
+31/08 13:26:18:218 Local queue size: 0
+31/08 13:26:28:227 Local queue size: 0
+31/08 13:26:38:230 Local queue size: 0
+31/08 13:26:48:231 Local queue size: 0
+31/08 13:26:58:273 Local queue size: 0
+31/08 13:27:08:281 Local queue size: 0
+31/08 13:27:18:287 Local queue size: 0
+31/08 13:27:28:294 Local queue size: 0
+31/08 13:27:38:345 Local queue size: 0
+31/08 13:27:48:347 Local queue size: 0
+31/08 13:27:58:350 Local queue size: 0
+31/08 13:28:08:364 Local queue size: 0
+31/08 13:28:18:372 Local queue size: 0
+31/08 13:28:28:374 Local queue size: 0
+31/08 13:28:38:375 Local queue size: 0
+31/08 13:28:48:439 Local queue size: 0
+31/08 13:28:58:452 Local queue size: 0
+31/08 13:29:08:516 Local queue size: 0
+31/08 13:29:18:594 Local queue size: 0
+31/08 13:29:28:606 Local queue size: 0
+31/08 13:29:38:631 Local queue size: 0
+31/08 13:29:48:644 Local queue size: 0
+31/08 13:29:58:676 Local queue size: 0
+31/08 13:30:08:684 Local queue size: 0
+31/08 13:30:18:685 Local queue size: 0
+31/08 13:30:28:697 Local queue size: 0
+31/08 13:30:38:702 Local queue size: 0
+31/08 13:30:48:708 Local queue size: 0
+31/08 13:30:58:710 Local queue size: 0
+31/08 13:31:08:718 Local queue size: 0
+31/08 13:31:18:720 Local queue size: 0
+31/08 13:31:28:788 Local queue size: 0
+31/08 13:31:38:813 Local queue size: 0
+31/08 13:31:48:825 Local queue size: 0
+31/08 13:31:58:827 Local queue size: 0
+31/08 13:32:08:920 Local queue size: 0
+31/08 13:32:18:930 Local queue size: 0
+31/08 13:32:28:945 Local queue size: 0
+31/08 13:32:38:946 Local queue size: 0
+31/08 13:32:48:954 Local queue size: 0
+31/08 13:32:58:961 Local queue size: 0
+31/08 13:33:09:008 Local queue size: 0
+31/08 13:33:19:043 Local queue size: 0
+31/08 13:33:38:692 OSA Callback started
+31/08 13:33:41:087 Starting process session
+31/08 13:33:41:600 Total 0 instances are started
+31/08 13:33:41:602 Total 1 instances are added
+31/08 13:33:51:804 Local queue size: 0
+31/08 13:34:01:806 Local queue size: 0
+31/08 13:34:11:890 Local queue size: 0
+31/08 13:34:21:892 Local queue size: 0
+31/08 13:34:31:894 Local queue size: 0
+31/08 13:34:41:971 Local queue size: 0
+31/08 13:34:51:981 Local queue size: 0
+31/08 13:35:01:999 Local queue size: 0
+31/08 13:35:12:052 Local queue size: 0
+31/08 13:35:22:134 Local queue size: 0
+31/08 13:35:32:142 Local queue size: 0
+31/08 13:35:42:156 Local queue size: 0
+31/08 13:35:52:159 Local queue size: 0
+31/08 13:36:02:225 Local queue size: 0
+31/08 13:36:12:250 Local queue size: 0
+31/08 13:36:22:282 Local queue size: 0
+31/08 13:36:32:340 Local queue size: 0
+31/08 13:36:42:356 Local queue size: 0
+31/08 13:36:52:367 Local queue size: 0
+31/08 13:45:54:207 OSA Callback started
+31/08 13:45:57:620 Starting process session
+31/08 13:45:57:730 Total 0 instances are started
+31/08 13:45:57:731 Total 1 instances are added
+31/08 13:46:07:901 Local queue size: 0
+31/08 13:46:17:919 Local queue size: 0
+31/08 13:46:27:940 Local queue size: 0
+31/08 13:46:37:994 Local queue size: 0
+31/08 13:46:47:997 Local queue size: 0
+31/08 13:46:57:998 Local queue size: 0
+31/08 13:47:08:001 Local queue size: 0
+31/08 13:47:18:002 Local queue size: 0
+31/08 13:47:28:004 Local queue size: 0
+31/08 13:47:38:005 Local queue size: 0
+31/08 13:47:48:030 Local queue size: 0
+31/08 13:47:58:037 Local queue size: 0
+31/08 13:48:08:038 Local queue size: 0
+31/08 13:48:18:042 Local queue size: 0
+31/08 13:48:28:043 Local queue size: 0
+31/08 13:48:38:045 Local queue size: 0
+31/08 13:48:48:047 Local queue size: 0
+31/08 13:48:58:048 Local queue size: 0
+31/08 13:49:08:049 Local queue size: 0
+31/08 13:49:18:050 Local queue size: 0
+31/08 13:49:41:327 OSA Callback started
+31/08 13:49:43:251 Starting process session
+31/08 13:49:43:379 Total 0 instances are started
+31/08 13:49:43:381 Total 1 instances are added
+31/08 13:49:54:021 Local queue size: 0
+31/08 13:50:04:027 Local queue size: 0
+31/08 13:50:14:037 Local queue size: 0
+31/08 13:50:24:038 Local queue size: 0
+31/08 13:50:34:040 Local queue size: 0
+31/08 13:50:44:041 Local queue size: 0
+31/08 13:50:54:091 Local queue size: 0
+31/08 13:53:35:321 OSA Callback started
+31/08 13:53:38:224 Starting process session
+31/08 13:53:38:374 Total 0 instances are started
+31/08 13:53:38:376 Total 1 instances are added
+31/08 13:53:48:596 Local queue size: 0
+31/08 13:53:58:597 Local queue size: 0
+31/08 13:54:08:679 Local queue size: 0
+31/08 13:54:18:681 Local queue size: 0
+31/08 13:54:28:716 Local queue size: 0
+31/08 13:54:38:723 Local queue size: 0
+31/08 13:54:48:820 Local queue size: 0
+31/08 13:54:58:830 Local queue size: 0
+31/08 13:55:08:831 Local queue size: 0
+31/08 13:55:18:833 Local queue size: 0
+31/08 13:55:28:835 Local queue size: 0
+31/08 13:55:38:836 Local queue size: 0
+31/08 13:55:48:841 Local queue size: 0
+31/08 13:55:58:843 Local queue size: 0
+31/08 13:56:08:846 Local queue size: 0
+31/08 13:56:18:848 Local queue size: 0
+31/08 13:56:28:850 Local queue size: 0
+31/08 13:56:45:249 OSA Callback started
+31/08 13:56:49:029 Starting process session
+31/08 13:56:49:130 Total 0 instances are started
+31/08 13:56:49:130 Total 1 instances are added
+31/08 13:56:59:328 Local queue size: 0
+31/08 13:57:09:357 Local queue size: 0
+31/08 13:57:19:365 Local queue size: 0
+31/08 13:57:29:395 Local queue size: 0
+31/08 13:57:39:397 Local queue size: 0
+31/08 13:57:49:406 Local queue size: 0
+31/08 13:57:59:491 Local queue size: 0
+31/08 13:58:09:501 Local queue size: 0
+31/08 13:58:19:504 Local queue size: 0
+31/08 13:58:47:152 OSA Callback started
+31/08 13:58:50:731 Starting process session
+31/08 13:58:50:838 Total 0 instances are started
+31/08 13:58:50:838 Total 1 instances are added
+31/08 13:59:12:728 OSA Callback started
+31/08 13:59:16:948 Starting process session
+31/08 13:59:17:058 Total 0 instances are started
+31/08 13:59:17:058 Total 1 instances are added
+31/08 13:59:27:171 Local queue size: 0
+31/08 14:01:27:195 OSA Callback started
+31/08 14:01:30:083 Starting process session
+31/08 14:01:30:873 Total 0 instances are started
+31/08 14:01:30:873 Total 1 instances are added
+31/08 14:01:41:062 Local queue size: 0
+31/08 14:01:51:070 Local queue size: 0
+31/08 14:02:01:159 Local queue size: 0
+31/08 14:02:11:164 Local queue size: 0
+31/08 14:02:21:166 Local queue size: 0
+31/08 14:02:31:169 Local queue size: 0
+31/08 14:02:41:171 Local queue size: 0
+31/08 14:08:10:517 OSA Callback started
+31/08 14:08:13:381 Starting process session
+31/08 14:08:13:542 Total 0 instances are started
+31/08 14:08:13:548 Total 1 instances are added
+31/08 14:08:23:770 Local queue size: 0
+31/08 14:08:33:844 Local queue size: 0
+31/08 14:08:43:866 Local queue size: 0
+31/08 14:08:53:893 Local queue size: 0
+31/08 14:09:03:902 Local queue size: 0
+31/08 14:09:13:947 Local queue size: 0
+31/08 14:09:23:964 Local queue size: 0
+31/08 14:09:33:971 Local queue size: 0
+31/08 14:09:43:975 Local queue size: 0
+31/08 14:09:54:015 Local queue size: 0
+31/08 14:10:04:017 Local queue size: 0
+31/08 14:10:14:033 Local queue size: 0
+31/08 14:10:24:038 Local queue size: 0
+31/08 14:10:34:053 Local queue size: 0
+31/08 14:10:44:056 Local queue size: 0
+31/08 14:10:54:058 Local queue size: 0
+31/08 14:11:04:065 Local queue size: 0
+31/08 14:11:14:074 Local queue size: 0
+31/08 14:11:24:075 Local queue size: 0
+31/08 14:11:34:079 Local queue size: 0
+31/08 14:11:44:080 Local queue size: 0
+31/08 14:11:54:086 Local queue size: 0
+31/08 14:12:04:090 Local queue size: 0
+31/08 14:12:14:093 Local queue size: 0
+31/08 14:12:24:108 Local queue size: 0
+31/08 14:12:34:118 Local queue size: 0
+31/08 14:12:44:125 Local queue size: 0
+31/08 14:12:54:136 Local queue size: 0
+31/08 14:13:04:139 Local queue size: 0
+31/08 14:13:14:140 Local queue size: 0
+31/08 14:13:24:143 Local queue size: 0
+31/08 14:13:34:156 Local queue size: 0
+31/08 14:13:44:165 Local queue size: 0
+31/08 14:13:54:184 Local queue size: 0
+31/08 14:14:04:191 Local queue size: 0
+31/08 14:14:14:195 Local queue size: 0
+31/08 14:14:24:206 Local queue size: 0
+31/08 14:14:34:298 Local queue size: 0
+31/08 14:14:44:315 Local queue size: 0
+31/08 14:14:54:336 Local queue size: 0
+31/08 14:15:04:354 Local queue size: 0
+31/08 14:15:14:429 Local queue size: 0
+31/08 14:15:24:437 Local queue size: 0
+31/08 14:15:34:451 Local queue size: 0
+31/08 14:15:44:539 Local queue size: 0
+31/08 14:15:54:544 Local queue size: 0
+31/08 14:16:04:558 Local queue size: 0
+31/08 14:16:14:595 Local queue size: 0
+31/08 14:16:24:604 Local queue size: 0
+31/08 14:16:34:703 Local queue size: 0
+31/08 14:16:44:708 Local queue size: 0
+31/08 14:16:54:716 Local queue size: 0
+31/08 14:17:04:813 Local queue size: 0
+31/08 14:17:14:814 Local queue size: 0
+31/08 14:17:24:822 Local queue size: 0
+31/08 14:17:34:833 Local queue size: 0
+31/08 14:17:44:834 Local queue size: 0
+31/08 14:17:54:847 Local queue size: 0
+31/08 14:18:04:848 Local queue size: 0
+31/08 14:18:14:854 Local queue size: 0
+31/08 14:18:24:875 Local queue size: 0
+31/08 14:18:34:889 Local queue size: 0
+31/08 14:18:44:896 Local queue size: 0
+31/08 14:18:54:900 Local queue size: 0
+31/08 14:19:04:952 Local queue size: 0
+31/08 14:19:14:958 Local queue size: 0
+31/08 14:19:24:960 Local queue size: 0
+31/08 14:19:34:961 Local queue size: 0
+31/08 14:19:44:970 Local queue size: 0
+31/08 14:19:55:001 Local queue size: 0
+31/08 14:20:05:011 Local queue size: 0
+31/08 14:20:15:016 Local queue size: 0
+31/08 14:20:30:818 OSA Callback started
+31/08 14:20:31:697 Starting process session
+31/08 14:20:31:810 Total 0 instances are started
+31/08 14:20:31:810 Total 1 instances are added
+31/08 14:20:41:975 Local queue size: 0
+31/08 14:20:51:998 Local queue size: 0
+31/08 14:21:02:007 Local queue size: 0
+31/08 14:21:12:013 Local queue size: 0
+31/08 14:21:22:019 Local queue size: 0
+31/08 14:21:32:021 Local queue size: 0
+31/08 14:21:42:022 Local queue size: 0
+31/08 14:21:52:025 Local queue size: 0
+31/08 14:22:02:034 Local queue size: 0
+31/08 14:22:12:036 Local queue size: 0
+31/08 14:22:22:037 Local queue size: 0
+31/08 14:22:32:040 Local queue size: 0
+31/08 14:22:42:046 Local queue size: 0
+31/08 14:22:52:050 Local queue size: 0
+31/08 14:23:02:052 Local queue size: 0
+31/08 14:23:12:058 Local queue size: 0
+31/08 14:23:22:060 Local queue size: 0
+31/08 14:23:32:074 Local queue size: 0
+31/08 14:23:42:079 Local queue size: 0
+31/08 14:23:52:082 Local queue size: 0
+31/08 14:24:02:083 Local queue size: 0
+31/08 14:24:12:092 Local queue size: 0
+31/08 14:24:22:096 Local queue size: 0
+31/08 14:24:32:098 Local queue size: 0
+31/08 14:24:42:099 Local queue size: 0
+31/08 14:24:52:100 Local queue size: 0
+31/08 14:25:02:105 Local queue size: 0
+31/08 14:25:12:108 Local queue size: 0
+31/08 14:25:22:208 Local queue size: 0
+31/08 14:25:32:268 Local queue size: 0
+31/08 14:25:42:270 Local queue size: 0
+31/08 14:25:52:285 Local queue size: 0
+31/08 14:26:02:312 Local queue size: 0
+31/08 14:26:12:323 Local queue size: 0
+31/08 14:26:22:347 Local queue size: 0
+31/08 14:26:32:358 Local queue size: 0
+31/08 14:26:42:361 Local queue size: 0
+31/08 14:26:52:369 Local queue size: 0
+31/08 14:27:02:458 Local queue size: 0
+31/08 14:27:12:466 Local queue size: 0
+31/08 14:27:22:468 Local queue size: 0
+31/08 14:27:32:471 Local queue size: 0
+31/08 14:27:42:472 Local queue size: 0
+31/08 14:27:52:480 Local queue size: 0
+31/08 14:28:02:483 Local queue size: 0
+31/08 14:28:12:490 Local queue size: 0
+31/08 14:28:22:590 Local queue size: 0
+31/08 14:28:32:591 Local queue size: 0
+31/08 14:28:42:637 Local queue size: 0
+31/08 14:28:52:639 Local queue size: 0
+31/08 14:29:02:642 Local queue size: 0
+31/08 14:29:12:643 Local queue size: 0
+31/08 14:29:22:648 Local queue size: 0
+31/08 14:29:32:651 Local queue size: 0
+31/08 14:29:42:673 Local queue size: 0
+31/08 14:29:52:678 Local queue size: 0
+31/08 14:30:02:778 Local queue size: 0
+31/08 14:30:12:780 Local queue size: 0
+31/08 14:30:22:781 Local queue size: 0
+31/08 14:30:32:785 Local queue size: 0
+31/08 14:30:42:788 Local queue size: 0
+31/08 14:30:52:791 Local queue size: 0
+31/08 14:31:02:797 Local queue size: 0
+31/08 14:31:12:817 Local queue size: 0
+31/08 14:31:22:831 Local queue size: 0
+31/08 14:31:32:931 Local queue size: 0
+31/08 14:31:42:934 Local queue size: 0
+31/08 14:31:52:962 Local queue size: 0
+31/08 14:32:02:990 Local queue size: 0
+31/08 14:32:12:998 Local queue size: 0
+31/08 14:32:23:034 Local queue size: 0
+31/08 14:32:33:036 Local queue size: 0
+31/08 14:32:43:040 Local queue size: 0
+31/08 14:32:53:081 Local queue size: 0
+31/08 14:33:03:085 Local queue size: 0
+31/08 14:33:13:165 Local queue size: 0
+31/08 14:33:23:227 Local queue size: 0
+31/08 14:33:33:231 Local queue size: 0
+31/08 14:33:43:234 Local queue size: 0
+31/08 14:33:53:268 Local queue size: 0
+31/08 14:34:03:285 Local queue size: 0
+31/08 14:34:13:385 Local queue size: 0
+31/08 14:34:23:387 Local queue size: 0
+31/08 14:34:33:389 Local queue size: 0
+31/08 14:34:43:395 Local queue size: 0
+31/08 14:34:53:419 Local queue size: 0
+31/08 14:35:03:461 Local queue size: 0
+31/08 14:35:13:492 Local queue size: 0
+31/08 14:35:23:495 Local queue size: 0
+31/08 14:35:33:496 Local queue size: 0
+31/08 14:35:43:498 Local queue size: 0
+31/08 14:35:53:517 Local queue size: 0
+31/08 14:36:03:519 Local queue size: 0
+31/08 14:36:13:619 Local queue size: 0
+31/08 14:36:23:620 Local queue size: 0
+31/08 14:36:33:629 Local queue size: 0
+31/08 14:36:43:630 Local queue size: 0
+31/08 14:36:53:633 Local queue size: 0
+31/08 14:37:03:673 Local queue size: 0
+31/08 14:37:13:675 Local queue size: 0
+31/08 14:37:23:775 Local queue size: 0
+31/08 14:37:33:776 Local queue size: 0
+31/08 14:37:43:777 Local queue size: 0
+31/08 14:37:53:877 Local queue size: 0
+31/08 14:38:03:881 Local queue size: 0
+31/08 14:38:13:981 Local queue size: 0
+31/08 14:38:23:991 Local queue size: 0
+31/08 14:38:33:994 Local queue size: 0
+31/08 14:38:44:001 Local queue size: 0
+31/08 14:38:54:016 Local queue size: 0
+31/08 14:39:04:056 Local queue size: 0
+31/08 14:39:14:077 Local queue size: 0
+31/08 14:39:24:089 Local queue size: 0
+31/08 14:39:34:098 Local queue size: 0
+31/08 14:39:44:198 Local queue size: 0
+31/08 14:39:54:199 Local queue size: 0
+31/08 14:40:04:202 Local queue size: 0
+31/08 14:40:14:302 Local queue size: 0
+31/08 14:40:24:303 Local queue size: 0
+31/08 14:40:34:403 Local queue size: 0
+31/08 14:40:44:405 Local queue size: 0
+31/08 14:40:54:505 Local queue size: 0
+31/08 14:41:04:507 Local queue size: 0
+31/08 14:41:14:513 Local queue size: 0
+31/08 14:41:24:529 Local queue size: 0
+31/08 14:41:34:548 Local queue size: 0
+31/08 14:41:44:549 Local queue size: 0
+31/08 14:41:54:551 Local queue size: 0
+31/08 14:42:04:636 Local queue size: 0
+31/08 14:42:14:637 Local queue size: 0
+31/08 14:42:24:638 Local queue size: 0
+31/08 14:42:34:639 Local queue size: 0
+31/08 14:42:44:666 Local queue size: 0
+31/08 14:42:54:669 Local queue size: 0
+31/08 14:43:04:671 Local queue size: 0
+31/08 14:43:14:676 Local queue size: 0
+31/08 14:43:24:681 Local queue size: 0
+31/08 14:43:34:682 Local queue size: 0
+31/08 14:43:44:696 Local queue size: 0
+31/08 14:43:54:708 Local queue size: 0
+31/08 14:44:04:712 Local queue size: 0
+31/08 14:44:14:717 Local queue size: 0
+31/08 14:44:24:817 Local queue size: 0
+31/08 14:44:34:829 Local queue size: 0
+31/08 14:44:44:831 Local queue size: 0
+31/08 14:44:54:931 Local queue size: 0
+31/08 14:45:04:932 Local queue size: 0
+31/08 14:45:14:945 Local queue size: 0
+31/08 14:45:24:976 Local queue size: 0
+31/08 14:45:34:979 Local queue size: 0
+31/08 14:45:44:981 Local queue size: 0
+31/08 14:45:54:985 Local queue size: 0
+31/08 14:46:04:990 Local queue size: 0
+31/08 14:46:15:015 Local queue size: 0
+31/08 14:46:25:026 Local queue size: 0
+31/08 14:46:45:155 OSA Callback started
+31/08 14:46:48:779 Starting process session
+31/08 14:46:48:885 Total 0 instances are started
+31/08 14:46:48:886 Total 1 instances are added
+31/08 14:46:59:006 Local queue size: 0
+31/08 14:47:09:041 Local queue size: 0
+31/08 14:47:19:043 Local queue size: 0
+31/08 14:47:29:051 Local queue size: 0
+31/08 14:47:39:054 Local queue size: 0
+31/08 14:47:49:061 Local queue size: 0
+31/08 14:47:59:067 Local queue size: 0
+31/08 14:48:09:068 Local queue size: 0
+31/08 14:48:19:072 Local queue size: 0
+31/08 14:48:29:172 Local queue size: 0
+31/08 14:48:39:177 Local queue size: 0
+31/08 14:48:49:206 Local queue size: 0
+31/08 14:48:59:232 Local queue size: 0
+31/08 14:49:09:237 Local queue size: 0
+31/08 14:49:19:245 Local queue size: 0
+31/08 14:49:29:345 Local queue size: 0
+31/08 14:49:39:347 Local queue size: 0
+31/08 14:49:49:350 Local queue size: 0
+31/08 14:49:59:358 Local queue size: 0
+31/08 14:50:09:361 Local queue size: 0
+31/08 14:50:19:366 Local queue size: 0
+31/08 14:50:29:369 Local queue size: 0
+31/08 14:50:39:382 Local queue size: 0
+31/08 14:50:49:383 Local queue size: 0
+31/08 14:50:59:388 Local queue size: 0
+31/08 14:51:09:406 Local queue size: 0
+31/08 14:51:19:420 Local queue size: 0
+31/08 14:51:29:422 Local queue size: 0
+31/08 14:51:39:425 Local queue size: 0
+31/08 14:51:49:426 Local queue size: 0
+31/08 14:51:59:431 Local queue size: 0
+31/08 14:52:09:434 Local queue size: 0
+31/08 14:52:19:435 Local queue size: 0
+31/08 14:52:29:436 Local queue size: 0
+31/08 14:52:39:437 Local queue size: 0
+31/08 14:52:49:537 Local queue size: 0
+31/08 14:52:59:539 Local queue size: 0
+31/08 14:53:09:639 Local queue size: 0
+31/08 14:53:19:640 Local queue size: 0
+31/08 14:53:29:641 Local queue size: 0
+31/08 14:53:39:741 Local queue size: 0
+31/08 14:53:49:744 Local queue size: 0
+31/08 14:53:59:788 Local queue size: 0

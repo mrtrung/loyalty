@@ -1,0 +1,19 @@
+30/12 09:25:11:458 Bind Transmitter 01 started
+30/12 09:25:15:373 Testing connection ...
+30/12 09:25:15:715 Connecting to SMSC 
+30/12 09:25:16:500 Bind request (bindreq: (pdu: 0 2 0 [1]) PPV ppv@321 SMPP 52 (addrrang: 1 1 345) ) 
+30/12 09:25:16:771 Bind response (bindresp: (pdu: 36 80000002 0 1) ANAM_ESME_LINK 52) 
+30/12 09:25:16:780 SMSC connection is established 
+30/12 09:25:16:795 Created provisioning instance for SMSC
+30/12 09:25:16:833 Testing connection are success
+30/12 09:25:16:839 Starting process session
+30/12 09:25:45:382 Enquirelink request: (enquirelink: (pdu: 0 15 0 [2]) ) 
+30/12 09:25:45:437 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 2) ) 
+30/12 09:26:15:374 Enquirelink request: (enquirelink: (pdu: 0 15 0 [3]) ) 
+30/12 09:26:15:382 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 3) ) 
+30/12 09:26:45:375 Enquirelink request: (enquirelink: (pdu: 0 15 0 [4]) ) 
+30/12 09:26:45:386 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 4) ) 
+30/12 09:27:15:376 Enquirelink request: (enquirelink: (pdu: 0 15 0 [5]) ) 
+30/12 09:27:15:386 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 5) ) 
+30/12 09:27:45:377 Enquirelink request: (enquirelink: (pdu: 0 15 0 [6]) ) 
+30/12 09:27:45:388 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 6) ) 

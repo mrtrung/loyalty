@@ -1,0 +1,384 @@
+28/11 09:25:59:516 Callable Test Thread started
+28/11 09:25:59:576 Starting process session
+28/11 09:25:59:661 Starting collect_topup...
+28/11 09:27:26:019 Invalid report time, skipping. Next check time after 20131129092700 (yyyyMMddHHmmss)
+28/11 09:27:26:891 null
+28/11 09:28:04:855 Starting collect_topup...
+28/11 09:28:39:895 Invalid report time, skipping. Next check time after 20131129092700 (yyyyMMddHHmmss)
+28/11 09:28:39:904 null
+28/11 09:28:40:913 Starting collect_topup...
+28/11 09:28:45:938 Invalid report time, skipping. Next check time after 20131129092700 (yyyyMMddHHmmss)
+28/11 09:28:45:946 null
+28/11 09:28:46:955 Starting collect_topup...
+28/11 09:30:39:779 Callable Test Thread started
+28/11 09:30:39:864 Starting process session
+28/11 09:30:41:076 Starting collect_topup...
+28/11 09:31:17:040 Updated collect_topup to SubscriberBalance is not successfully!!!
+28/11 09:31:41:638 An SQLException was provoked by the following failure: java.lang.StringIndexOutOfBoundsException: String index out of range: 46
+28/11 09:31:49:069 Starting collect_topup...
+28/11 09:32:18:860 Invalid report time, skipping. Next check time after 20131129093000 (yyyyMMddHHmmss)
+28/11 09:32:19:575 null
+28/11 09:32:30:282 Starting collect_topup...
+28/11 10:38:29:174 SQL Test started
+28/11 10:38:29:235 Starting process session
+28/11 10:42:49:669 SQL Test started
+28/11 10:42:49:721 Starting process session
+28/11 10:43:43:742 java.lang.IndexOutOfBoundsException: Index: 4, Size: 4
+28/11 10:43:44:744 End of process session
+28/11 10:47:53:329 SQL Test started
+28/11 10:47:53:392 Starting process session
+28/11 10:49:50:991 level 1: 500
+28/11 10:49:51:224 allSubs 1: 0
+28/11 10:49:51:471 maxAmount 1: 499
+28/11 10:49:51:666 minAmount 1: 1
+28/11 10:49:51:856 avg_aonet 1: 0
+28/11 10:49:52:068 avg_topup 1: 0
+28/11 10:49:52:385 avg_usage 1: 0
+28/11 10:49:52:727 avg_cutover 1: 0
+28/11 10:50:16:863 level 2: 1000
+28/11 10:50:16:874 allSubs 2: 0
+28/11 10:50:16:882 maxAmount 2: 499
+28/11 10:50:16:889 minAmount 2: 1
+28/11 10:50:16:899 avg_aonet 2: 0
+28/11 10:50:16:906 avg_topup 2: 0
+28/11 10:50:16:910 avg_usage 2: 0
+28/11 10:50:16:916 avg_cutover 2: 0
+28/11 10:50:17:206 level 3: 2000
+28/11 10:50:17:220 allSubs 3: 0
+28/11 10:50:17:230 maxAmount 3: 499
+28/11 10:50:17:237 minAmount 3: 1
+28/11 10:50:17:242 avg_aonet 3: 0
+28/11 10:50:17:245 avg_topup 3: 0
+28/11 10:50:17:250 avg_usage 3: 0
+28/11 10:50:17:254 avg_cutover 3: 0
+28/11 10:50:17:736 java.lang.IndexOutOfBoundsException: Index: 4, Size: 4
+28/11 10:50:17:743 End of process session
+28/11 10:51:15:402 SQL Test started
+28/11 10:51:15:451 Starting process session
+28/11 10:53:04:991 java.lang.IndexOutOfBoundsException: Index: 5, Size: 4
+28/11 10:53:30:147 End of process session
+28/11 10:53:38:166 SQL Test stopped
+28/11 10:53:39:599 SQL Test started
+28/11 10:53:39:667 Starting process session
+28/11 10:56:30:608 level 3: 500
+28/11 10:56:31:050 allSubs 3: 0
+28/11 10:56:31:258 maxAmount 3: 499
+28/11 10:56:31:470 minAmount 3: 1
+28/11 10:56:31:694 avg_aonet 3: 20
+28/11 10:56:31:905 avg_topup 3: 53
+28/11 10:56:32:391 avg_usage 3: 37
+28/11 10:56:32:981 avg_cutover 3: 195
+28/11 10:57:58:172 java.lang.IndexOutOfBoundsException: Index: 4, Size: 4
+28/11 10:57:58:176 End of process session
+28/11 10:58:04:188 SQL Test stopped
+28/11 10:58:05:878 SQL Test started
+28/11 10:58:05:910 Starting process session
+28/11 11:00:10:681 level 1: 1000
+28/11 11:00:10:718 allSubs 1: 0
+28/11 11:00:10:802 maxAmount 1: 499
+28/11 11:00:10:881 minAmount 1: 1
+28/11 11:00:10:961 avg_aonet 1: 0
+28/11 11:00:10:999 avg_topup 1: 0
+28/11 11:00:11:075 avg_usage 1: 0
+28/11 11:00:11:116 avg_cutover 1: 0
+28/11 11:00:14:955 level 2: 2000
+28/11 11:00:17:719 allSubs 2: 0
+28/11 11:00:18:000 maxAmount 2: 499
+28/11 11:00:18:307 minAmount 2: 1
+28/11 11:00:18:669 avg_aonet 2: 0
+28/11 11:00:19:342 avg_topup 2: 0
+28/11 11:00:19:692 avg_usage 2: 0
+28/11 11:00:20:031 avg_cutover 2: 0
+28/11 11:00:25:870 level 3: 3000
+28/11 11:00:25:883 allSubs 3: 0
+28/11 11:00:25:891 maxAmount 3: 499
+28/11 11:00:25:899 minAmount 3: 1
+28/11 11:00:25:907 avg_aonet 3: 0
+28/11 11:00:25:911 avg_topup 3: 0
+28/11 11:00:25:916 avg_usage 3: 0
+28/11 11:00:25:921 avg_cutover 3: 0
+28/11 11:00:26:732 java.lang.IndexOutOfBoundsException: Index: 4, Size: 4
+28/11 11:00:26:737 End of process session
+28/11 11:00:38:752 SQL Test stopped
+28/11 11:00:40:052 SQL Test started
+28/11 11:00:40:088 Starting process session
+28/11 11:02:40:905 SQL Test started
+28/11 11:02:40:956 Starting process session
+28/11 11:03:00:493 level 1: 1000
+28/11 11:04:03:055 level 4: 500
+28/11 11:04:05:934 allSubs 4: 0
+28/11 11:04:06:335 maxAmount 4: 499
+28/11 11:04:06:623 minAmount 4: 1
+28/11 11:04:06:854 avg_aonet 4: 20
+28/11 11:04:07:201 avg_topup 4: 53
+28/11 11:04:07:733 avg_usage 4: 37
+28/11 11:04:08:270 avg_cutover 4: 195
+28/11 11:04:32:618 level 4: 500
+28/11 11:04:32:625 allSubs 4: 0
+28/11 11:04:32:629 maxAmount 4: 499
+28/11 11:04:32:633 minAmount 4: 1
+28/11 11:04:32:637 avg_aonet 4: 20
+28/11 11:04:32:641 avg_topup 4: 53
+28/11 11:04:32:645 avg_usage 4: 37
+28/11 11:04:32:649 avg_cutover 4: 195
+28/11 11:04:33:713 level 4: 500
+28/11 11:04:33:722 allSubs 4: 0
+28/11 11:04:33:728 maxAmount 4: 499
+28/11 11:04:33:735 minAmount 4: 1
+28/11 11:04:33:740 avg_aonet 4: 20
+28/11 11:04:33:744 avg_topup 4: 53
+28/11 11:04:33:748 avg_usage 4: 37
+28/11 11:04:33:752 avg_cutover 4: 195
+28/11 11:11:06:276 level 4: 500
+28/11 11:11:06:292 allSubs 4: 0
+28/11 11:11:06:300 maxAmount 4: 499
+28/11 11:11:06:307 minAmount 4: 1
+28/11 11:11:06:315 avg_aonet 4: 20
+28/11 11:11:06:319 avg_topup 4: 53
+28/11 11:11:06:323 avg_usage 4: 37
+28/11 11:11:06:327 avg_cutover 4: 195
+28/11 11:11:18:632 level 1: 500
+28/11 11:11:18:643 allSubs 1: 0
+28/11 11:11:18:650 maxAmount 1: 999
+28/11 11:11:18:661 minAmount 1: 500
+28/11 11:11:18:668 avg_aonet 1: 0
+28/11 11:11:18:676 avg_topup 1: 0
+28/11 11:11:18:680 avg_usage 1: 0
+28/11 11:11:18:685 avg_cutover 1: 0
+28/11 11:12:07:092 level 4: 1000
+28/11 11:12:07:103 allSubs 4: 0
+28/11 11:12:07:113 maxAmount 4: 999
+28/11 11:12:07:121 minAmount 4: 500
+28/11 11:12:07:128 avg_aonet 4: 0
+28/11 11:12:07:133 avg_topup 4: 141
+28/11 11:12:07:137 avg_usage 4: 0
+28/11 11:12:07:141 avg_cutover 4: 525
+28/11 11:13:39:890 SQL Test started
+28/11 11:13:39:948 Starting process session
+28/11 11:45:23:812 SQL Test started
+28/11 11:45:23:893 Starting process session
+28/11 11:45:24:146 java.sql.SQLException: ORA-00911: invalid character
+
+28/11 11:45:24:151 End of process session
+28/11 11:45:43:172 SQL Test stopped
+28/11 11:46:23:895 SQL Test started
+28/11 11:46:23:929 Starting process session
+28/11 11:46:24:038 java.sql.SQLException: ORA-00911: invalid character
+
+28/11 11:46:24:041 End of process session
+28/11 11:47:07:083 SQL Test stopped
+28/11 11:47:08:971 SQL Test started
+28/11 11:47:09:020 Starting process session
+28/11 11:47:09:246 java.sql.SQLException: ORA-00911: invalid character
+
+28/11 11:47:09:254 End of process session
+28/11 11:47:40:909 Thread destroyed
+28/11 11:50:15:557 SQL Test started
+28/11 11:50:15:605 Starting process session
+28/11 11:51:08:343 java.sql.SQLException: ORA-00911: invalid character
+
+28/11 11:51:08:348 End of process session
+28/11 11:51:16:360 SQL Test stopped
+28/11 11:51:17:648 SQL Test started
+28/11 11:51:43:115 Starting process session
+28/11 11:52:12:761 java.sql.SQLException: ORA-00911: invalid character
+
+28/11 11:52:13:414 End of process session
+28/11 11:53:14:628 SQL Test stopped
+28/11 11:53:15:800 SQL Test started
+28/11 11:53:15:837 Starting process session
+28/11 11:53:34:267 java.sql.SQLException: ORA-00911: invalid character
+
+28/11 11:53:34:270 End of process session
+28/11 11:54:00:297 SQL Test stopped
+28/11 11:54:01:890 SQL Test started
+28/11 11:54:01:920 Starting process session
+28/11 11:54:09:108 level 5: 500
+28/11 11:54:09:119 allSubs 5: 0
+28/11 11:54:09:128 maxAmount 5: 499
+28/11 11:54:09:136 minAmount 5: 1
+28/11 11:54:09:145 avg_aonet 5: 20
+28/11 11:54:09:150 avg_topup 5: 53
+28/11 11:54:09:154 avg_usage 5: 37
+28/11 11:54:09:160 avg_cutover 5: 195
+28/11 11:54:09:165 level 6: 5000
+28/11 11:54:09:170 allSubs 6: 0
+28/11 11:54:09:174 maxAmount 6: 999
+28/11 11:54:09:177 minAmount 6: 500
+28/11 11:54:09:180 avg_aonet 6: 0
+28/11 11:54:09:184 avg_topup 6: 0
+28/11 11:54:09:187 avg_usage 6: 0
+28/11 11:54:09:190 avg_cutover 6: 0
+28/11 11:54:09:193 level 7: 6000
+28/11 11:54:09:196 allSubs 7: 0
+28/11 11:54:09:200 maxAmount 7: 999
+28/11 11:54:09:203 minAmount 7: 500
+28/11 11:54:09:207 avg_aonet 7: 0
+28/11 11:54:09:210 avg_topup 7: 0
+28/11 11:54:09:214 avg_usage 7: 0
+28/11 11:54:09:217 avg_cutover 7: 0
+28/11 15:34:35:509 SQL Test started
+28/11 15:34:35:570 Starting process session
+28/11 15:36:11:370 level 5: 500
+28/11 15:36:11:722 allSubs 5: 0
+28/11 15:36:11:936 maxAmount 5: 499
+28/11 15:36:12:145 minAmount 5: 1
+28/11 15:36:12:346 avg_aonet 5: 20
+28/11 15:36:12:698 avg_topup 5: 53
+28/11 15:36:13:371 avg_usage 5: 37
+28/11 15:36:14:038 avg_cutover 5: 195
+28/11 15:56:08:122 SQL Test started
+28/11 15:56:08:183 Starting process session
+28/11 15:56:16:655 level 1: 500
+28/11 15:56:16:666 allSubs 1: 0
+28/11 15:56:16:676 maxAmount 1: 499
+28/11 15:56:16:685 minAmount 1: 1
+28/11 15:56:16:691 avg_aonet 1: 20
+28/11 15:56:16:696 avg_topup 1: 53
+28/11 15:56:16:702 avg_usage 1: 37
+28/11 15:56:16:707 avg_cutover 1: 195
+28/11 15:56:36:082 level 2: 4000
+28/11 15:56:36:093 allSubs 2: 0
+28/11 15:56:36:102 maxAmount 2: 499
+28/11 15:56:36:111 minAmount 2: 1
+28/11 15:56:36:120 avg_aonet 2: 0
+28/11 15:56:36:128 avg_topup 2: 0
+28/11 15:56:36:135 avg_usage 2: 0
+28/11 15:56:36:141 avg_cutover 2: 0
+28/11 15:56:44:227 level 3: 4000
+28/11 15:56:44:241 allSubs 3: 0
+28/11 15:56:44:249 maxAmount 3: 499
+28/11 15:56:44:259 minAmount 3: 1
+28/11 15:56:44:265 avg_aonet 3: 0
+28/11 15:56:44:283 avg_topup 3: 0
+28/11 15:56:44:290 avg_usage 3: 0
+28/11 15:56:44:296 avg_cutover 3: 0
+28/11 16:07:26:597 level 4: 500
+28/11 16:07:29:318 allSubs 4: 0
+28/11 16:07:29:657 maxAmount 4: 499
+28/11 16:07:29:996 minAmount 4: 1
+28/11 16:07:30:287 avg_aonet 4: 20
+28/11 16:07:30:557 avg_topup 4: 53
+28/11 16:07:30:904 avg_usage 4: 37
+28/11 16:07:31:425 avg_cutover 4: 195
+28/11 16:08:23:507 level 4: 4000
+28/11 16:10:18:214 level 4: 500
+28/11 16:10:22:418 allSubs 4: 0
+28/11 16:10:22:670 maxAmount 4: 499
+28/11 16:10:22:848 minAmount 4: 1
+28/11 16:10:23:028 avg_aonet 4: 20
+28/11 16:10:23:281 avg_topup 4: 53
+28/11 16:10:23:590 avg_usage 4: 37
+28/11 16:10:24:095 avg_cutover 4: 195
+28/11 16:11:18:559 level 7: 1000
+28/11 16:11:18:867 allSubs 7: 0
+28/11 16:11:19:066 maxAmount 7: 999
+28/11 16:11:19:255 minAmount 7: 500
+28/11 16:11:19:470 avg_aonet 7: 20
+28/11 16:11:20:288 avg_topup 7: 141
+28/11 16:11:20:685 avg_usage 7: 0
+28/11 16:11:21:177 avg_cutover 7: 525
+28/11 16:12:15:267 level 4: 500
+28/11 16:12:15:279 allSubs 4: 0
+28/11 16:12:15:288 maxAmount 4: 499
+28/11 16:12:15:297 minAmount 4: 1
+28/11 16:12:15:305 avg_aonet 4: 20
+28/11 16:12:15:313 avg_topup 4: 53
+28/11 16:12:15:319 avg_usage 4: 37
+28/11 16:12:15:325 avg_cutover 4: 195
+28/11 16:12:20:182 level 7: 1000
+28/11 16:12:20:193 allSubs 7: 0
+28/11 16:12:20:201 maxAmount 7: 999
+28/11 16:12:20:208 minAmount 7: 500
+28/11 16:12:20:214 avg_aonet 7: 20
+28/11 16:12:20:219 avg_topup 7: 141
+28/11 16:12:20:225 avg_usage 7: 0
+28/11 16:12:20:231 avg_cutover 7: 525
+28/11 16:19:15:121 SQL Test started
+28/11 16:19:15:208 Starting process session
+28/11 16:19:22:392 level 2: 500
+28/11 16:19:22:408 allSubs 2: 0
+28/11 16:19:22:418 maxAmount 2: 499
+28/11 16:19:22:424 minAmount 2: 1
+28/11 16:19:22:429 avg_aonet 2: 20
+28/11 16:19:22:433 avg_topup 2: 53
+28/11 16:19:22:437 avg_usage 2: 0
+28/11 16:19:22:442 avg_cutover 2: 0
+28/11 16:19:24:563 level 2: 1000
+28/11 16:19:24:573 allSubs 2: 0
+28/11 16:19:24:582 maxAmount 2: 499
+28/11 16:19:24:590 minAmount 2: 1
+28/11 16:19:24:597 avg_aonet 2: 0
+28/11 16:19:24:604 avg_topup 2: 0
+28/11 16:19:24:612 avg_usage 2: 0
+28/11 16:19:24:617 avg_cutover 2: 0
+28/11 16:19:33:348 java.lang.ArrayIndexOutOfBoundsException: 2
+28/11 16:19:33:355 End of process session
+28/11 16:21:49:007 SQL Test started
+28/11 16:21:49:064 Starting process session
+28/11 16:22:19:469 level 2: 500
+28/11 16:22:19:753 allSubs 2: 0
+28/11 16:22:19:980 maxAmount 2: 499
+28/11 16:29:15:237 SQL Test started
+28/11 16:29:15:301 Starting process session
+28/11 16:32:11:073 level 0: 500
+28/11 16:32:11:592 allSubs 0: 0
+28/11 16:32:11:999 maxAmount 0: 499
+28/11 16:32:12:229 minAmount 0: 1
+28/11 16:32:12:423 avg_aonet 0: 20
+28/11 16:32:13:136 avg_topup 0: 53
+28/11 16:32:13:415 avg_usage 0: 0
+28/11 16:32:13:849 avg_cutover 0: 0
+28/11 16:34:11:267 level 1: 1000
+28/11 16:34:11:280 allSubs 1: 0
+28/11 16:34:11:289 maxAmount 1: 499
+28/11 16:34:11:295 minAmount 1: 1
+28/11 16:34:11:300 avg_aonet 1: 0
+28/11 16:34:11:305 avg_topup 1: 0
+28/11 16:34:11:311 avg_usage 1: 0
+28/11 16:34:11:316 avg_cutover 1: 0
+28/11 16:34:30:497 java.lang.ArrayIndexOutOfBoundsException: 2
+28/11 16:34:30:953 End of process session
+28/11 16:34:49:564 SQL Test stopped
+28/11 16:37:50:809 SQL Test started
+28/11 16:37:50:859 Starting process session
+28/11 16:42:44:309 level 0: 500
+28/11 16:42:44:552 allSubs 0: 0
+28/11 16:42:44:725 maxAmount 0: 499
+28/11 16:42:44:905 minAmount 0: 1
+28/11 16:42:45:075 avg_aonet 0: 20
+28/11 16:42:45:291 avg_topup 0: 53
+28/11 16:42:45:591 avg_usage 0: 37
+28/11 16:42:45:985 avg_cutover 0: 195
+28/11 16:43:16:429 level 1: 1000
+28/11 16:43:17:016 allSubs 1: 0
+28/11 16:43:17:260 maxAmount 1: 999
+28/11 16:43:17:411 minAmount 1: 500
+28/11 16:43:17:598 avg_aonet 1: 20
+28/11 16:43:17:752 avg_topup 1: 141
+28/11 16:43:18:088 avg_usage 1: 0
+28/11 16:43:18:800 avg_cutover 1: 525
+28/11 16:54:22:701 level 0: 500
+28/11 16:54:22:720 allSubs 0: 0
+28/11 16:54:22:726 maxAmount 0: 499
+28/11 16:54:22:731 minAmount 0: 1
+28/11 16:54:22:736 avg_aonet 0: 20
+28/11 16:54:22:742 avg_topup 0: 53
+28/11 16:54:22:747 avg_usage 0: 37
+28/11 16:54:22:752 avg_cutover 0: 195
+28/11 16:54:31:404 level 1: 1000
+28/11 16:54:31:415 allSubs 1: 0
+28/11 16:54:31:424 maxAmount 1: 999
+28/11 16:54:31:432 minAmount 1: 500
+28/11 16:54:31:440 avg_aonet 1: 20
+28/11 16:54:31:449 avg_topup 1: 141
+28/11 16:54:31:455 avg_usage 1: 0
+28/11 16:54:31:459 avg_cutover 1: 525
+28/11 16:54:42:940 level 0: 500
+28/11 16:54:42:952 allSubs 0: 0
+28/11 16:54:42:960 maxAmount 0: 499
+28/11 16:54:42:968 minAmount 0: 1
+28/11 16:54:42:974 avg_aonet 0: 20
+28/11 16:54:42:979 avg_topup 0: 53
+28/11 16:54:42:984 avg_usage 0: 37
+28/11 16:54:42:989 avg_cutover 0: 195

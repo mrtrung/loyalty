@@ -1,0 +1,87 @@
+16/09 08:49:32:310 CB started
+16/09 08:49:43:298 Testing connection ...
+16/09 08:50:07:929 open connection is fail
+16/09 08:50:07:938 com.adc.eji.tre.TreChainedException: <E00000> The message for Message ID 12142 does not exist.
+16/09 08:50:07:939 Starting process session
+16/09 08:50:08:039 Total 0 instances are started
+16/09 08:50:08:040 Total 1 instances are added
+16/09 09:07:19:001 CB started
+16/09 09:07:22:064 Testing connection ...
+16/09 09:07:43:211 open connection is fail
+16/09 09:07:43:226 com.adc.eji.tre.TreChainedException: <E00000> The message for Message ID 12142 does not exist.
+16/09 09:07:43:227 Starting process session
+16/09 09:07:43:327 Total 0 instances are started
+16/09 09:07:43:328 Total 1 instances are added
+16/09 09:10:46:612 CB started
+16/09 09:10:49:940 Testing connection ...
+16/09 09:11:11:052 open connection is fail
+16/09 09:11:11:060 com.adc.eji.tre.TreChainedException: <E00000> The message for Message ID 12142 does not exist.
+16/09 09:11:11:060 Starting process session
+16/09 09:11:11:161 Total 0 instances are started
+16/09 09:11:11:162 Total 1 instances are added
+16/09 09:25:57:526 CB started
+16/09 09:26:28:403 Error occured: Connections could not be acquired from the underlying database!
+16/09 09:26:31:283 Testing connection ...
+16/09 09:26:52:377 open connection is fail
+16/09 09:26:52:385 com.adc.eji.tre.TreChainedException: <E00000> The message for Message ID 12142 does not exist.
+16/09 09:26:52:385 Starting process session
+16/09 09:26:52:486 Total 0 instances are started
+16/09 09:26:52:487 Total 1 instances are added
+16/09 09:37:12:736 CB started
+16/09 09:37:15:402 Testing connection ...
+16/09 09:37:36:490 open connection is fail
+16/09 09:37:36:498 com.adc.eji.tre.TreChainedException: <E00000> The message for Message ID 12142 does not exist.
+16/09 09:37:36:498 Starting process session
+16/09 09:37:36:599 Total 0 instances are started
+16/09 09:37:36:600 Total 1 instances are added
+16/09 09:38:42:141 CB started
+16/09 09:38:45:255 Testing connection ...
+16/09 09:39:06:315 open connection is fail
+16/09 09:39:06:324 com.adc.eji.tre.TreChainedException: <E00000> The message for Message ID 12142 does not exist.
+16/09 09:39:06:325 Starting process session
+16/09 09:39:06:426 Total 0 instances are started
+16/09 09:39:06:427 Total 1 instances are added
+16/09 09:39:57:970 CB started
+16/09 09:40:01:309 Testing connection ...
+16/09 09:40:22:467 open connection is fail
+16/09 09:40:22:475 com.adc.eji.tre.TreChainedException: <E00000> The message for Message ID 12142 does not exist.
+16/09 09:40:22:476 Starting process session
+16/09 09:40:22:576 Total 0 instances are started
+16/09 09:40:22:577 Total 1 instances are added
+16/09 09:51:20:629 CB started
+16/09 09:51:24:984 Testing connection ...
+16/09 09:51:46:057 open connection is fail
+16/09 09:51:46:065 com.adc.eji.tre.TreChainedException: <E00000> The message for Message ID 12142 does not exist.
+16/09 09:51:46:066 Starting process session
+16/09 09:51:46:166 Total 0 instances are started
+16/09 09:51:46:167 Total 1 instances are added
+16/09 09:53:14:563 CB started
+16/09 09:53:18:192 Testing connection ...
+16/09 09:53:39:254 open connection is fail
+16/09 09:53:39:267 com.adc.eji.tre.TreChainedException: <E00000> The message for Message ID 12142 does not exist.
+16/09 09:53:39:267 Starting process session
+16/09 09:53:39:368 Total 0 instances are started
+16/09 09:53:39:369 Total 1 instances are added
+16/09 10:03:31:189 CB started
+16/09 10:03:34:316 Testing connection ...
+16/09 10:03:55:389 open connection is fail
+16/09 10:03:55:397 com.adc.eji.tre.TreChainedException: <E00000> The message for Message ID 12142 does not exist.
+16/09 10:03:55:398 Starting process session
+16/09 10:03:55:498 Total 0 instances are started
+16/09 10:03:55:499 Total 1 instances are added
+16/09 10:06:46:873 CB started
+16/09 10:06:50:141 Testing connection ...
+16/09 10:07:11:279 open connection is fail
+16/09 10:07:11:292 com.adc.eji.tre.TreChainedException: <E00000> The message for Message ID 12142 does not exist.
+16/09 10:07:11:293 Starting process session
+16/09 10:07:11:393 Total 0 instances are started
+16/09 10:07:11:394 Total 1 instances are added
+16/09 10:07:11:495 Total 0 instances are started
+16/09 10:07:11:496 Total 1 instances are added
+16/09 10:17:45:337 CB started
+16/09 10:17:48:415 Testing connection ...
+16/09 10:18:09:539 open connection is fail
+16/09 10:18:09:548 com.adc.eji.tre.TreChainedException: <E00000> The message for Message ID 12142 does not exist.
+16/09 10:18:09:548 Starting process session
+16/09 10:18:09:649 Total 0 instances are started
+16/09 10:18:09:650 Total 1 instances are added

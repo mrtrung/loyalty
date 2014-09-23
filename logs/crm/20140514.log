@@ -1,0 +1,290 @@
+14/05 09:28:27:920 CRM started
+14/05 09:28:27:932 Testing connection ...
+14/05 09:28:27:933 Created provisioning instance for CRM
+14/05 09:28:27:933 Testing connection are success
+14/05 09:28:27:934 Starting process session
+14/05 09:28:28:035 Init queue connection pool 1400034508035
+14/05 09:28:28:435 Total 0 instances are started
+14/05 09:28:28:437 Total 5 instances are added
+14/05 09:34:07:717 CRM started
+14/05 09:34:07:732 Testing connection ...
+14/05 09:34:07:733 Created provisioning instance for CRM
+14/05 09:34:07:734 Testing connection are success
+14/05 09:34:07:735 Starting process session
+14/05 09:34:07:836 Init queue connection pool 1400034847836
+14/05 09:34:08:236 Total 0 instances are started
+14/05 09:34:08:237 Total 5 instances are added
+14/05 09:38:59:889 CRM started
+14/05 09:38:59:904 Testing connection ...
+14/05 09:38:59:905 Created provisioning instance for CRM
+14/05 09:38:59:905 Testing connection are success
+14/05 09:38:59:906 Starting process session
+14/05 09:39:00:007 Init queue connection pool 1400035140007
+14/05 09:39:00:407 Total 0 instances are started
+14/05 09:39:00:408 Total 5 instances are added
+14/05 10:12:14:203 CRM started
+14/05 10:12:14:211 Testing connection ...
+14/05 10:12:14:211 Created provisioning instance for CRM
+14/05 10:12:14:212 Testing connection are success
+14/05 10:12:14:212 Starting process session
+14/05 10:12:14:313 Init queue connection pool 1400037134313
+14/05 10:12:14:713 Total 0 instances are started
+14/05 10:12:14:714 Total 5 instances are added
+14/05 10:32:22:111 CRM started
+14/05 10:32:22:124 Testing connection ...
+14/05 10:32:22:125 Created provisioning instance for CRM
+14/05 10:32:22:126 Testing connection are success
+14/05 10:32:22:127 Starting process session
+14/05 10:32:22:227 Init queue connection pool 1400038342227
+14/05 10:32:22:627 Total 0 instances are started
+14/05 10:32:22:628 Total 5 instances are added
+14/05 10:32:58:271 orderId = 128070746 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = TRA DIEM | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+14/05 10:32:58:341 sendNotify: 84922000512 - Quy khach hien dang la khach hang Than Thiet cua Vietnamobile tu 28/04/2014, da tich luy duoc 1000 diem va con 900 diem. Chi tiet, lien he 789.
+14/05 10:32:58:342 orderId = 128070746 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = TRA DIEM | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | commandId = 342 | request =  | response =  | status = 0 | cause = success | description = 
+14/05 10:34:14:481 orderId = 128070747 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 100 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+14/05 10:36:12:327 orderId = 128070748 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 100 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+14/05 10:40:30:326 sendNotify: 84922000512 - So diem con lai cua Quy khach hien khong du de quy doi thanh tien  su dung theo yeu cau cua Quy khach. Chi tiet lien he 789.
+14/05 10:40:30:327 orderId = 128070749 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 4 | cause = not-enought-money | description = 
+14/05 10:42:40:625 CRM started
+14/05 10:42:40:641 Testing connection ...
+14/05 10:42:40:641 Created provisioning instance for CRM
+14/05 10:42:40:642 Testing connection are success
+14/05 10:42:40:643 Starting process session
+14/05 10:42:40:744 Init queue connection pool 1400038960743
+14/05 10:42:41:143 Total 0 instances are started
+14/05 10:42:41:144 Total 5 instances are added
+14/05 10:45:04:722 sendNotify: 84922000512 - So diem con lai cua Quy khach hien khong du de quy doi thanh tien  su dung theo yeu cau cua Quy khach. Chi tiet lien he 789.
+14/05 10:45:04:723 orderId = 128070751 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 4 | cause = not-enought-money | description = 
+14/05 10:47:55:978 orderId = 128070752 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 100 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+14/05 10:49:30:634 orderId = 128070753 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 100 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+14/05 10:52:43:618 orderId = 128070754 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 100 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+14/05 10:54:07:092 orderId = 128070755 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 100 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+14/05 10:57:39:506 orderId = 128070756 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 100 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+14/05 10:59:02:739 orderId = 128070758 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 100 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+14/05 11:03:11:222 orderId = 128070759 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 100 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+14/05 11:03:26:697 orderId = 128070760 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 100 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+14/05 11:12:45:093 orderId = 128070761 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 100 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+14/05 11:18:58:152 orderId = 128070763 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 100 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+14/05 11:19:26:160 orderId = 128070764 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 100 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+14/05 11:22:11:853 CRM started
+14/05 11:22:11:860 Testing connection ...
+14/05 11:22:11:861 Created provisioning instance for CRM
+14/05 11:22:11:861 Testing connection are success
+14/05 11:22:11:862 Starting process session
+14/05 11:22:11:988 Init queue connection pool 1400041331988
+14/05 11:22:12:385 Total 0 instances are started
+14/05 11:22:12:388 Total 5 instances are added
+14/05 11:22:50:151 orderId = 128070765 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 100 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+14/05 11:23:54:182 sendNotify: 84922000512 - Quy khach da doi thanh cong 100 diem thanh tien su dung dich vu. So tien tuong ung ~SERVICE_AMOUNT ~ diem la 2500 vnd da duoc cong  vao tai khoan TKLM2, su dung goi va nhan tin lien mang, data.
+14/05 11:23:54:184 orderId = 128070765 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 100 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 384 | request =  | response =  | status = 0 | cause = success | description = 
+14/05 11:25:14:747 orderId = 128070766 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 100 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+14/05 11:31:32:520 CRM started
+14/05 11:31:32:537 Testing connection ...
+14/05 11:31:32:538 Created provisioning instance for CRM
+14/05 11:31:32:538 Testing connection are success
+14/05 11:31:32:539 Starting process session
+14/05 11:31:32:640 Init queue connection pool 1400041892640
+14/05 11:31:33:040 Total 0 instances are started
+14/05 11:31:33:041 Total 5 instances are added
+14/05 11:31:49:766 orderId = 128070768 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 100 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+14/05 11:37:19:815 orderId = 128070769 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 100 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+14/05 11:37:28:472 sendNotify: 84922000512 - Quy khach da doi thanh cong 100 diem thanh tien su dung dich vu. So tien tuong ung ~SERVICE_AMOUNT ~ diem la 2500 vnd da duoc cong  vao tai khoan TKLM2, su dung goi va nhan tin lien mang, data.
+14/05 11:37:28:473 orderId = 128070768 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 100 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 384 | request =  | response =  | status = 0 | cause = success | description = 
+14/05 11:37:39:884 sendNotify: 84922000512 - Quy khach da doi thanh cong 100 diem thanh tien su dung dich vu. So tien tuong ung ~SERVICE_AMOUNT ~ diem la 2500 vnd da duoc cong  vao tai khoan TKLM2, su dung goi va nhan tin lien mang, data.
+14/05 11:37:39:884 orderId = 128070769 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 100 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 384 | request =  | response =  | status = 0 | cause = success | description = 
+14/05 11:40:50:584 orderId = 128070770 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 100 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+14/05 11:42:20:269 sendNotify: 84922000512 - Quy khach da doi thanh cong 100 diem thanh tien su dung dich vu. So tien tuong ung ~SERVICE_AMOUNT ~ diem la 2500 vnd da duoc cong  vao tai khoan TKLM2, su dung goi va nhan tin lien mang, data.
+14/05 11:42:20:709 orderId = 128070770 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 100 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 384 | request =  | response =  | status = 0 | cause = success | description = 
+14/05 11:55:34:933 orderId = 128070772 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = TRA DIEM | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+14/05 11:55:34:959 sendNotify: 84922000512 - Quy khach hien dang la khach hang Than Thiet cua Vietnamobile tu 28/04/2014, da tich luy duoc 1000 diem va con 500 diem. Chi tiet, lien he 789.
+14/05 11:55:34:960 orderId = 128070772 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = TRA DIEM | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | commandId = 342 | request =  | response =  | status = 0 | cause = success | description = 
+14/05 11:58:05:974 orderId = 128070773 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 100 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+14/05 12:05:10:087 CRM started
+14/05 12:05:10:102 Testing connection ...
+14/05 12:05:10:103 Created provisioning instance for CRM
+14/05 12:05:10:104 Testing connection are success
+14/05 12:05:10:104 Starting process session
+14/05 12:05:10:206 Init queue connection pool 1400043910206
+14/05 12:05:10:606 Total 0 instances are started
+14/05 12:05:10:607 Total 5 instances are added
+14/05 12:05:27:348 orderId = 128070775 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 100 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+14/05 12:05:36:458 sendNotify: 84922000512 - Quy khach da doi thanh cong 100 diem thanh tien su dung dich vu. So tien tuong ung ~SERVICE_AMOUNT ~ diem la 2500 vnd da duoc cong  vao tai khoan TKLM2, su dung goi va nhan tin lien mang, data.
+14/05 12:05:36:459 orderId = 128070775 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 100 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 384 | request =  | response =  | status = 0 | cause = success | description = 
+14/05 12:07:30:276 orderId = 128070776 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 100 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+14/05 12:07:36:953 sendNotify: 84922000512 - Quy khach da doi thanh cong 100 diem thanh tien su dung dich vu. So tien tuong ung 100 diem la 2500 vnd da duoc cong  vao tai khoan TKLM2, su dung goi va nhan tin lien mang, data.
+14/05 12:07:36:954 orderId = 128070776 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 100 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 384 | request =  | response =  | status = 0 | cause = success | description = 
+14/05 13:10:33:367 CRM started
+14/05 13:10:33:382 Testing connection ...
+14/05 13:10:33:383 Created provisioning instance for CRM
+14/05 13:10:33:384 Testing connection are success
+14/05 13:10:33:384 Starting process session
+14/05 13:10:33:486 Init queue connection pool 1400047833486
+14/05 13:10:33:888 Total 0 instances are started
+14/05 13:10:33:889 Total 5 instances are added
+14/05 13:11:20:425 orderId = 128070780 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 100 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+14/05 13:11:20:722 sendNotify: 84922000512 - Quy khach da doi thanh cong 100 diem thanh tien su dung dich vu. So tien tuong ung 100 diem la 2500 vnd da duoc cong  vao tai khoan TKLM2, su dung goi va nhan tin lien mang, data.
+14/05 13:11:20:723 orderId = 128070780 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 100 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 384 | request =  | response =  | status = 0 | cause = success | description = 
+14/05 13:25:02:487 SEND: ID=316006: com.crm.provisioning.impl.CommandImpl.register{84922000512, 274}
+14/05 13:25:02:520 RECEIVE: ID=316006: success: costTime=low
+14/05 13:25:02:524 SEND: ID=316007: com.crm.provisioning.impl.CommandImpl.unregister{84922000512, 274}
+14/05 13:25:02:531 RECEIVE: ID=316007: success: costTime=low
+14/05 13:25:02:532 sendNotify: 84922000512 - B?n ?ã h?y thành công d?ch v? LOYALTY
+14/05 13:25:02:533 orderId = 128070783 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = HUY CAM | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = unregister | productId = 274 | commandId = 570 | request = ID=316007: com.crm.provisioning.impl.CommandImpl.unregister{84922000512, 274} | response = ID=316007: success: costTime=low | status = 0 | cause = success | description = success
+14/05 13:29:01:853 CRM started
+14/05 13:29:01:869 Testing connection ...
+14/05 13:29:01:870 Created provisioning instance for CRM
+14/05 13:29:01:871 Testing connection are success
+14/05 13:29:01:872 Starting process session
+14/05 13:29:01:974 Init queue connection pool 1400048941974
+14/05 13:29:02:372 Total 0 instances are started
+14/05 13:29:02:373 Total 5 instances are added
+14/05 14:15:30:859 CRM started
+14/05 14:15:30:875 Testing connection ...
+14/05 14:15:30:876 Created provisioning instance for CRM
+14/05 14:15:30:876 Testing connection are success
+14/05 14:15:30:877 Starting process session
+14/05 14:15:30:984 Init queue connection pool 1400051730984
+14/05 14:15:31:384 Total 0 instances are started
+14/05 14:15:31:385 Total 5 instances are added
+14/05 14:19:54:985 SEND: ID=318002: com.crm.provisioning.impl.CommandImpl.register{84922000512, 274}
+14/05 14:19:55:016 sendNotify: 84922000512 - Quy khach da la thanh vien cua Cau lac bo CAM cua Vietnamobile. Hay tiep tuc su dung Vietnamobile de tich luy nhieu diem va nhan duoc nhieu uu dai cua chuong trinh. Chi tiet 789
+14/05 14:19:55:017 orderId = 128070791 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = CAM | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = register | productId = 274 | commandId = 521 | request = ID=318002: com.crm.provisioning.impl.CommandImpl.register{84922000512, 274} | response =  | status = 4 | cause = registered | description = 
+14/05 14:40:32:555 SEND: ID=318005: com.crm.provisioning.impl.CommandImpl.register{84922000512, 274}
+14/05 14:40:32:573 sendNotify: 84922000512 - Quy khach da la thanh vien cua Cau lac bo CAM cua Vietnamobile. Hay tiep tuc su dung Vietnamobile de tich luy nhieu diem va nhan duoc nhieu uu dai cua chuong trinh. Chi tiet 789
+14/05 14:40:32:573 orderId = 128070793 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = CAM | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = register | productId = 274 | commandId = 521 | request = ID=318005: com.crm.provisioning.impl.CommandImpl.register{84922000512, 274} | response =  | status = 4 | cause = registered | description = 
+14/05 14:43:40:985 SEND: ID=318008: com.crm.provisioning.impl.CommandImpl.register{84922000512, 274}
+14/05 14:43:41:032 RECEIVE: ID=318008: success: costTime=low
+14/05 14:43:41:035 sendNotify: 84922000512 - Chuc mung Quy khach da ra nhap Cau lac bo CAM cua Vietnamobile. Hay tiep tuc su dung Vietnamobile de tich luy nhieu diem va nhan duoc nhieu uu dai cua chuong trinh. Chi tiet 789
+14/05 14:43:41:036 orderId = 128070795 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = CAM | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = register | productId = 274 | commandId = 521 | request = ID=318008: com.crm.provisioning.impl.CommandImpl.register{84922000512, 274} | response = ID=318008: success: costTime=low | status = 0 | cause = success | description = success
+14/05 14:44:51:146 SEND: ID=318011: com.crm.provisioning.impl.CommandImpl.register{84922000512, 274}
+14/05 14:44:51:188 sendNotify: 84922000512 - Quy khach da la thanh vien cua Cau lac bo CAM cua Vietnamobile. Hay tiep tuc su dung Vietnamobile de tich luy nhieu diem va nhan duoc nhieu uu dai cua chuong trinh. Chi tiet 789
+14/05 14:44:51:189 orderId = 128070796 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = CAM | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = register | productId = 274 | commandId = 521 | request = ID=318011: com.crm.provisioning.impl.CommandImpl.register{84922000512, 274} | response =  | status = 4 | cause = registered | description = 
+14/05 14:47:03:526 SEND: ID=318014: com.crm.provisioning.impl.CommandImpl.register{84922000512, 274}
+14/05 14:47:03:540 sendNotify: 84922000512 - Quy khach da la thanh vien cua Cau lac bo CAM cua Vietnamobile. Hay tiep tuc su dung Vietnamobile de tich luy nhieu diem va nhan duoc nhieu uu dai cua chuong trinh. Chi tiet 789
+14/05 14:47:03:541 orderId = 128070797 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = CAM | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = register | productId = 274 | commandId = 521 | request = ID=318014: com.crm.provisioning.impl.CommandImpl.register{84922000512, 274} | response =  | status = 4 | cause = registered | description = 
+14/05 14:47:58:581 SEND: ID=318017: com.crm.provisioning.impl.CommandImpl.register{84922000512, 274}
+14/05 14:47:58:608 RECEIVE: ID=318017: success: costTime=low
+14/05 14:47:58:612 sendNotify: 84922000512 - Chuc mung Quy khach da ra nhap Cau lac bo CAM cua Vietnamobile. Hay tiep tuc su dung Vietnamobile de tich luy nhieu diem va nhan duoc nhieu uu dai cua chuong trinh. Chi tiet 789
+14/05 14:47:58:612 orderId = 128070798 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = CAM | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = register | productId = 274 | commandId = 521 | request = ID=318017: com.crm.provisioning.impl.CommandImpl.register{84922000512, 274} | response = ID=318017: success: costTime=low | status = 0 | cause = success | description = success
+14/05 14:48:33:931 SEND: ID=318020: com.crm.provisioning.impl.CommandImpl.register{84922000512, 274}
+14/05 14:48:33:948 sendNotify: 84922000512 - Quy khach da la thanh vien cua Cau lac bo CAM cua Vietnamobile. Hay tiep tuc su dung Vietnamobile de tich luy nhieu diem va nhan duoc nhieu uu dai cua chuong trinh. Chi tiet 789
+14/05 14:48:33:949 orderId = 128070799 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = CAM | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = register | productId = 274 | commandId = 521 | request = ID=318020: com.crm.provisioning.impl.CommandImpl.register{84922000512, 274} | response =  | status = 4 | cause = registered | description = 
+14/05 14:53:15:080 SEND: ID=318023: com.crm.provisioning.impl.CommandImpl.register{84922000512, 274}
+14/05 14:53:15:114 RECEIVE: ID=318023: success: costTime=low
+14/05 14:53:15:119 sendNotify: 84922000512 - Chuc mung Quy khach da ra nhap Cau lac bo CAM cua Vietnamobile. Hay tiep tuc su dung Vietnamobile de tich luy nhieu diem va nhan duoc nhieu uu dai cua chuong trinh. Chi tiet 789
+14/05 14:53:15:120 orderId = 128070800 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = CAM | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = register | productId = 274 | commandId = 521 | request = ID=318023: com.crm.provisioning.impl.CommandImpl.register{84922000512, 274} | response = ID=318023: success: costTime=low | status = 0 | cause = success | description = success
+14/05 15:06:06:960 SEND: ID=318026: com.crm.provisioning.impl.CommandImpl.register{84922000512, 274}
+14/05 15:06:06:971 sendNotify: 84922000512 - Quy khach da la thanh vien cua Cau lac bo CAM cua Vietnamobile. Hay tiep tuc su dung Vietnamobile de tich luy nhieu diem va nhan duoc nhieu uu dai cua chuong trinh. Chi tiet 789
+14/05 15:06:06:972 orderId = 128070802 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = CAM | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = register | productId = 274 | commandId = 521 | request = ID=318026: com.crm.provisioning.impl.CommandImpl.register{84922000512, 274} | response =  | status = 4 | cause = registered | description = 
+14/05 15:09:04:066 CRM started
+14/05 15:09:04:083 Testing connection ...
+14/05 15:09:04:084 Created provisioning instance for CRM
+14/05 15:09:04:085 Testing connection are success
+14/05 15:09:04:085 Starting process session
+14/05 15:09:04:186 Init queue connection pool 1400054944186
+14/05 15:09:04:586 Total 0 instances are started
+14/05 15:09:04:587 Total 5 instances are added
+14/05 15:12:47:363 SEND: ID=319003: com.crm.provisioning.impl.CommandImpl.register{84922000512, 274}
+14/05 15:12:47:407 RECEIVE: ID=319003: success: costTime=low
+14/05 15:12:47:410 sendNotify: 84922000512 - Chuc mung Quy khach da ra nhap Cau lac bo CAM cua Vietnamobile. Hay tiep tuc su dung Vietnamobile de tich luy nhieu diem va nhan duoc nhieu uu dai cua chuong trinh. Chi tiet 789
+14/05 15:12:47:411 orderId = 128070806 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = CAM | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = register | productId = 274 | commandId = 521 | request = ID=319003: com.crm.provisioning.impl.CommandImpl.register{84922000512, 274} | response = ID=319003: success: costTime=low | status = 0 | cause = success | description = success
+14/05 15:27:49:616 CRM started
+14/05 15:27:49:633 Testing connection ...
+14/05 15:27:49:634 Created provisioning instance for CRM
+14/05 15:27:49:634 Testing connection are success
+14/05 15:27:49:635 Starting process session
+14/05 15:27:49:736 Init queue connection pool 1400056069736
+14/05 15:27:50:136 Total 0 instances are started
+14/05 15:27:50:137 Total 5 instances are added
+14/05 15:30:58:624 SEND: ID=320002: com.crm.provisioning.impl.CommandImpl.register{84922000512, 274}
+14/05 15:30:58:665 RECEIVE: ID=320002: success: costTime=low
+14/05 15:30:58:674 sendNotify: 84922000512 - Chuc mung Quy khach da ra nhap Cau lac bo CAM cua Vietnamobile. Hay tiep tuc su dung Vietnamobile de tich luy nhieu diem va nhan duoc nhieu uu dai cua chuong trinh. Chi tiet 789
+14/05 15:30:58:675 orderId = 128070809 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = CAM | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = register | productId = 274 | commandId = 521 | request = ID=320002: com.crm.provisioning.impl.CommandImpl.register{84922000512, 274} | response = ID=320002: success: costTime=low | status = 0 | cause = success | description = success
+14/05 15:45:06:562 CRM started
+14/05 15:45:06:579 Testing connection ...
+14/05 15:45:06:581 Created provisioning instance for CRM
+14/05 15:45:06:581 Testing connection are success
+14/05 15:45:06:582 Starting process session
+14/05 15:45:06:683 Init queue connection pool 1400057106683
+14/05 15:45:07:083 Total 0 instances are started
+14/05 15:45:07:084 Total 5 instances are added
+14/05 15:49:40:283 SEND: ID=321002: com.crm.provisioning.impl.CommandImpl.register{84922000512, 274}
+14/05 15:49:40:322 RECEIVE: ID=321002: success: costTime=low
+14/05 15:49:40:329 sendNotify: 84922000512 - Chuc mung Quy khach da ra nhap Cau lac bo CAM cua Vietnamobile. Hay tiep tuc su dung Vietnamobile de tich luy nhieu diem va nhan duoc nhieu uu dai cua chuong trinh. Chi tiet 789
+14/05 15:49:40:330 orderId = 128070811 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = CAM | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = register | productId = 274 | commandId = 521 | request = ID=321002: com.crm.provisioning.impl.CommandImpl.register{84922000512, 274} | response = ID=321002: success: costTime=low | status = 0 | cause = success | description = success
+14/05 16:14:17:123 SEND: ID=321007: com.crm.provisioning.impl.CommandImpl.register{84922000512, 274}
+14/05 16:14:17:193 RECEIVE: ID=321007: success: costTime=low
+14/05 16:14:17:199 sendNotify: 84922000512 - Chuc mung Quy khach da ra nhap Cau lac bo CAM cua Vietnamobile. Hay tiep tuc su dung Vietnamobile de tich luy nhieu diem va nhan duoc nhieu uu dai cua chuong trinh. Chi tiet 789
+14/05 16:14:17:200 orderId = 128070815 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = CAM | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = register | productId = 274 | commandId = 521 | request = ID=321007: com.crm.provisioning.impl.CommandImpl.register{84922000512, 274} | response = ID=321007: success: costTime=low | status = 0 | cause = success | description = success
+14/05 16:25:52:658 SEND: ID=321011: com.crm.provisioning.impl.CommandImpl.register{84922000512, 274}
+14/05 16:25:52:691 RECEIVE: ID=321011: success: costTime=low
+14/05 16:25:52:695 sendNotify: 84922000512 - Chuc mung Quy khach da ra nhap Cau lac bo CAM cua Vietnamobile. Hay tiep tuc su dung Vietnamobile de tich luy nhieu diem va nhan duoc nhieu uu dai cua chuong trinh. Chi tiet 789
+14/05 16:25:52:696 orderId = 128070818 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = CAM | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = register | productId = 274 | commandId = 521 | request = ID=321011: com.crm.provisioning.impl.CommandImpl.register{84922000512, 274} | response = ID=321011: success: costTime=low | status = 0 | cause = success | description = success
+14/05 16:32:18:332 SEND: ID=321017: com.crm.provisioning.impl.CommandImpl.register{84922000512, 274}
+14/05 16:32:18:360 RECEIVE: ID=321017: success: costTime=low
+14/05 16:32:18:363 sendNotify: 84922000512 - Chuc mung Quy khach da ra nhap Cau lac bo CAM cua Vietnamobile. Hay tiep tuc su dung Vietnamobile de tich luy nhieu diem va nhan duoc nhieu uu dai cua chuong trinh. Chi tiet 789
+14/05 16:32:18:364 orderId = 128070823 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = CAM | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = register | productId = 274 | commandId = 521 | request = ID=321017: com.crm.provisioning.impl.CommandImpl.register{84922000512, 274} | response = ID=321017: success: costTime=low | status = 0 | cause = success | description = success
+14/05 16:38:19:198 orderId = 128070825 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = TRA DIEM | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+14/05 16:38:19:239 sendNotify: 84922000512 - Quy khach hien dang la khach hang Than Thiet cua Vietnamobile tu 14/05/2014, da tich luy duoc 1000 diem va con 200 diem. Chi tiet, lien he 789.
+14/05 16:38:19:241 orderId = 128070825 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = TRA DIEM | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | commandId = 342 | request =  | response =  | status = 0 | cause = success | description = 
+14/05 16:43:37:137 orderId = 128070826 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = TRA DIEM | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+14/05 16:43:37:165 sendNotify: 84922000512 - Quy khach hien dang la khach hang Than Thiet cua Vietnamobile tu 14/05/2014, da tich luy duoc 1000 diem va con 200 diem. Chi tiet, lien he 789.
+14/05 16:43:37:166 orderId = 128070826 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = TRA DIEM | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | commandId = 342 | request =  | response =  | status = 0 | cause = success | description = 
+14/05 16:44:19:108 orderId = 128070827 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = TRA DIEM | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+14/05 16:44:19:121 sendNotify: 84922000512 - Quy khach hien dang la khach hang Than Thiet cua Vietnamobile tu 14/05/2014, da tich luy duoc 1000 diem va con 200 diem. Chi tiet, lien he 789.
+14/05 16:44:19:122 orderId = 128070827 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = TRA DIEM | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | commandId = 342 | request =  | response =  | status = 0 | cause = success | description = 
+14/05 16:45:17:365 sendNotify: 84922000512 - Tai khoan cua Quy khach chua co diem. Hay tiep tuc su dung Vietnamobile de tich luy nhieu diem va nhan duoc nhieu uu dai cua chuong trinh. Chi tiet 789
+14/05 16:45:17:366 orderId = 128070828 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = TRA DIEM | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | commandId = 300 | request =  | response =  | status = 4 | cause = unknow-balance | description = 
+14/05 17:01:58:422 sendNotify: 84922000512 - Tai khoan cua Quy khach chua co diem. Hay tiep tuc su dung Vietnamobile de tich luy nhieu diem va nhan duoc nhieu uu dai cua chuong trinh. Chi tiet 789
+14/05 17:01:58:423 orderId = 128070830 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = TRA DIEM | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | commandId = 300 | request =  | response =  | status = 4 | cause = unknow-balance | description = 
+14/05 17:08:38:360 sendNotify: 84922000512 - Quy khach chua dang ky tham gia Cau lac bo CAM, vui long dang ky: DK CAM gui 268 de duoc tich luy va doi diem cua chuong trinh. Chi tiet 789
+14/05 17:08:38:361 orderId = 128070832 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = TRA DIEM | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | commandId = 300 | request =  | response =  | status = 4 | cause = unknow-member | description = 
+14/05 17:11:52:730 SEND: ID=321021: com.crm.provisioning.impl.CommandImpl.register{84922000512, 274}
+14/05 17:11:52:771 RECEIVE: ID=321021: success: costTime=low
+14/05 17:11:52:774 sendNotify: 84922000512 - Chuc mung Quy khach da ra nhap Cau lac bo CAM cua Vietnamobile. Hay tiep tuc su dung Vietnamobile de tich luy nhieu diem va nhan duoc nhieu uu dai cua chuong trinh. Chi tiet 789
+14/05 17:11:52:776 orderId = 128070833 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = CAM | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = register | productId = 274 | commandId = 521 | request = ID=321021: com.crm.provisioning.impl.CommandImpl.register{84922000512, 274} | response = ID=321021: success: costTime=low | status = 0 | cause = success | description = success
+14/05 17:18:56:872 sendNotify: 84922000512 - So diem toi thieu duoc doi la 50 diem. Quy khach vui long thuc hien lai. Chi tiet 789.
+14/05 17:18:56:872 orderId = 128070835 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 40 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 4 | cause = error-min-point | description = 
+14/05 17:19:19:899 sendNotify: 84922000512 - So diem con lai cua Quy khach hien khong du de quy doi thanh tien  su dung theo yeu cau cua Quy khach. Chi tiet lien he 789.
+14/05 17:19:19:903 orderId = 128070836 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 40000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 4 | cause = not-enought-money | description = 
+14/05 17:20:13:914 sendNotify: 84922000512 - Tin nhan cua ban sai cu phap. Vui long kiem tra lai.
+14/05 17:20:13:915 orderId = 128070837 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 40000X | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 4 | cause = invalid-syntax | description = 
+14/05 17:22:03:868 sendNotify: 84922000512 - Tai khoan cua Quy khach chua co diem. Hay tiep tuc su dung Vietnamobile de tich luy nhieu diem va nhan duoc nhieu uu dai cua chuong trinh. Chi tiet 789
+14/05 17:22:03:869 orderId = 128070839 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 100 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 4 | cause = unknow-balance | description = 
+14/05 17:24:42:969 sendNotify: 84922000512 - Quy khach chua dang ky tham gia Cau lac bo CAM, vui long dang ky: DK CAM gui 268 de duoc tich luy va doi diem cua chuong trinh. Chi tiet 789
+14/05 17:24:42:970 orderId = 128070840 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 100 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 4 | cause = unknow-member | description = 
+14/05 17:25:26:039 sendNotify: 84922000512 - Quy khach chua dang ky tham gia Cau lac bo CAM, vui long dang ky: DK CAM gui 268 de duoc tich luy va doi diem cua chuong trinh. Chi tiet 789
+14/05 17:25:26:040 orderId = 128070841 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 100 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 4 | cause = unknow-member | description = 
+14/05 17:26:45:026 SEND: ID=321031: com.crm.provisioning.impl.CommandImpl.register{84922000512, 274}
+14/05 17:26:45:058 RECEIVE: ID=321031: success: costTime=low
+14/05 17:26:45:062 sendNotify: 84922000512 - Chuc mung Quy khach da ra nhap Cau lac bo CAM cua Vietnamobile. Hay tiep tuc su dung Vietnamobile de tich luy nhieu diem va nhan duoc nhieu uu dai cua chuong trinh. Chi tiet 789
+14/05 17:26:45:063 orderId = 128070842 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = CAM | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = register | productId = 274 | commandId = 521 | request = ID=321031: com.crm.provisioning.impl.CommandImpl.register{84922000512, 274} | response = ID=321031: success: costTime=low | status = 0 | cause = success | description = success
+14/05 17:27:45:914 orderId = 128070843 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 100 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+14/05 17:27:46:076 sendNotify: 84922000512 - Quy khach da doi thanh cong 100 diem thanh tien su dung dich vu. So tien tuong ung 100 diem la 2500 vnd da duoc cong  vao tai khoan TKLM2, su dung goi va nhan tin lien mang, data.
+14/05 17:27:46:077 orderId = 128070843 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 100 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 384 | request =  | response =  | status = 0 | cause = success | description = 
+14/05 17:36:22:741 orderId = 128070844 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 100 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+14/05 17:36:23:169 sendNotify: 84922000512 - Quy khach da doi thanh cong 100 diem thanh tien su dung dich vu. So tien tuong ung 100 diem la 2500 vnd da duoc cong  vao tai khoan TKLM2, su dung goi va nhan tin lien mang, data.
+14/05 17:36:23:170 orderId = 128070844 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 100 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 384 | request =  | response =  | status = 0 | cause = success | description = 
+14/05 17:38:22:516 sendNotify: 84922000512 - Chuong trinh DOI DIEM chi ap dung cho thue bao dang ky tham gia Cau lac bo CAM tu 03 thang tro len. Chi tiet 789
+14/05 17:38:22:517 orderId = 128070845 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 100 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 4 | cause = invalid-active-date | description = 
+14/05 17:39:59:300 sendNotify: 84922000512 - Chuong trinh DOI DIEM chi ap dung cho thue bao dang ky tham gia Cau lac bo CAM tu 03 thang tro len. Chi tiet 789
+14/05 17:39:59:301 orderId = 128070847 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 100 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 4 | cause = invalid-active-date | description = 
+14/05 17:41:21:515 sendNotify: 84922000512 - Chuong trinh DOI DIEM chi ap dung cho thue bao dang ky tham gia Cau lac bo CAM tu 03 thang tro len. Chi tiet 789
+14/05 17:41:21:516 orderId = 128070848 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 100 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 4 | cause = invalid-active-date | description = 
+14/05 17:42:44:785 orderId = 128070849 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 100 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+14/05 17:42:45:320 sendNotify: 84922000512 - Quy khach da doi thanh cong 100 diem thanh tien su dung dich vu. So tien tuong ung 100 diem la 5000 vnd da duoc cong  vao tai khoan TKLM2, su dung goi va nhan tin lien mang, data.
+14/05 17:42:45:321 orderId = 128070849 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 100 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 384 | request =  | response =  | status = 0 | cause = success | description = 
+14/05 17:44:47:513 orderId = 128070850 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 100 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+14/05 17:46:40:921 sendNotify: 84922000512 - Quy khach da doi thanh cong 100 diem thanh tien su dung dich vu. So tien tuong ung 100 diem la 5000 vnd da duoc cong  vao tai khoan TKLM2, su dung goi va nhan tin lien mang, data.
+14/05 17:46:40:922 orderId = 128070850 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 100 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 384 | request =  | response =  | status = 0 | cause = success | description = 
+14/05 17:47:44:448 orderId = 128070851 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 100 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+14/05 17:47:47:271 sendNotify: 84922000512 - Quy khach da doi thanh cong 100 diem thanh tien su dung dich vu. So tien tuong ung 100 diem la 5000 vnd da duoc cong  vao tai khoan TKLM2, su dung goi va nhan tin lien mang, data.
+14/05 17:47:47:272 orderId = 128070851 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 100 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 384 | request =  | response =  | status = 0 | cause = success | description = 
+14/05 17:48:39:385 orderId = 128070852 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 100 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+14/05 17:48:43:490 sendNotify: 84922000512 - Quy khach da doi thanh cong 100 diem thanh tien su dung dich vu. So tien tuong ung 100 diem la 5000 vnd da duoc cong  vao tai khoan TKLM2, su dung goi va nhan tin lien mang, data.
+14/05 17:48:43:491 orderId = 128070852 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 100 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 384 | request =  | response =  | status = 0 | cause = success | description = 
+14/05 17:49:55:428 orderId = 128070853 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 100 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+14/05 17:49:58:217 sendNotify: 84922000512 - Quy khach da doi thanh cong 100 diem thanh tien su dung dich vu. So tien tuong ung 100 diem la 5000 vnd da duoc cong  vao tai khoan TKLM2, su dung goi va nhan tin lien mang, data.
+14/05 17:49:58:217 orderId = 128070853 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 100 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 384 | request =  | response =  | status = 0 | cause = success | description = 
+14/05 17:55:28:077 sendNotify: 84922000512 - DK CAM khong thanh cong
+14/05 17:55:28:078 orderId = 128070855 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = CAM | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = register | productId = 274 | commandId = 521 | request =  | response =  | status = 4 | cause = error_register_balance | description = 

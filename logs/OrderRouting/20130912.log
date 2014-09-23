@@ -1,0 +1,1594 @@
+12/09 08:49:37:018 Order Routing started
+12/09 08:49:38:846 Testing connection ...
+12/09 08:49:41:554 Created provisioning instance for CCWS
+12/09 08:49:41:554 Testing connection are success
+12/09 08:49:41:554 Starting process session
+12/09 08:49:43:274 Total 0 instances are started
+12/09 08:49:43:274 Total 1 instances are added
+12/09 08:50:04:303 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.70:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+12/09 08:50:04:304 Consumer was closed, reconnect.
+12/09 08:50:04:416 Total 0 instances are started
+12/09 08:50:04:417 Total 1 instances are added
+12/09 08:50:25:445 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.70:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+12/09 08:50:25:445 Consumer was closed, reconnect.
+12/09 08:50:25:553 Total 0 instances are started
+12/09 08:50:25:554 Total 1 instances are added
+12/09 08:50:46:576 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.70:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+12/09 08:50:46:605 Consumer was closed, reconnect.
+12/09 08:50:46:712 Total 0 instances are started
+12/09 08:50:46:713 Total 1 instances are added
+12/09 08:51:07:735 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.70:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+12/09 08:51:07:735 Consumer was closed, reconnect.
+12/09 08:51:07:843 Total 0 instances are started
+12/09 08:51:07:844 Total 1 instances are added
+12/09 08:51:23:626 Close pool
+12/09 08:51:23:727 Close queue connection pool.
+12/09 08:51:23:727 End of process session
+12/09 08:51:23:728 Order Routing stopped
+12/09 08:51:25:637 Order Routing started
+12/09 08:51:25:660 Close pool
+12/09 08:51:25:661 Close pool
+12/09 08:51:25:661 Testing connection ...
+12/09 08:51:25:665 Created provisioning instance for CCWS
+12/09 08:51:25:666 Testing connection are success
+12/09 08:51:25:666 Starting process session
+12/09 08:51:26:431 Total 0 instances are started
+12/09 08:51:26:432 Total 1 instances are added
+12/09 08:51:28:889 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.70:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+12/09 08:51:28:890 Consumer was closed, reconnect.
+12/09 08:51:43:643 Close pool
+12/09 08:51:43:744 Close queue connection pool.
+12/09 08:51:43:745 End of process session
+12/09 08:51:43:745 Order Routing stopped
+12/09 08:51:45:658 Order Routing started
+12/09 08:51:45:680 Close pool
+12/09 08:51:45:680 Close pool
+12/09 08:51:45:681 Testing connection ...
+12/09 08:51:45:685 Created provisioning instance for CCWS
+12/09 08:51:45:685 Testing connection are success
+12/09 08:51:45:686 Starting process session
+12/09 08:51:46:387 Total 0 instances are started
+12/09 08:51:46:388 Total 1 instances are added
+12/09 08:51:47:449 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.70:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+12/09 08:51:47:450 Consumer was closed, reconnect.
+12/09 08:52:08:452 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.70:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+12/09 08:52:08:453 Consumer was closed, reconnect.
+12/09 08:52:08:563 Total 0 instances are started
+12/09 08:52:08:564 Total 1 instances are added
+12/09 08:52:29:586 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.70:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+12/09 08:52:29:587 Consumer was closed, reconnect.
+12/09 08:52:29:688 Total 0 instances are started
+12/09 08:52:29:689 Total 1 instances are added
+12/09 08:52:50:702 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.70:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+12/09 08:52:50:703 Consumer was closed, reconnect.
+12/09 08:52:50:810 Total 0 instances are started
+12/09 08:52:50:811 Total 1 instances are added
+12/09 08:53:11:825 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.70:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+12/09 08:53:11:825 Consumer was closed, reconnect.
+12/09 08:53:11:933 Total 0 instances are started
+12/09 08:53:11:934 Total 1 instances are added
+12/09 08:53:32:942 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.70:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+12/09 08:53:32:942 Consumer was closed, reconnect.
+12/09 08:53:33:045 Total 0 instances are started
+12/09 08:53:33:046 Total 1 instances are added
+12/09 08:53:54:068 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.70:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+12/09 08:53:54:069 Consumer was closed, reconnect.
+12/09 08:53:54:177 Total 0 instances are started
+12/09 08:53:54:178 Total 1 instances are added
+12/09 08:54:15:207 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.70:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+12/09 08:54:15:207 Consumer was closed, reconnect.
+12/09 08:54:15:314 Total 0 instances are started
+12/09 08:54:15:315 Total 1 instances are added
+12/09 08:54:36:329 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.70:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+12/09 08:54:36:330 Consumer was closed, reconnect.
+12/09 08:54:36:431 Total 0 instances are started
+12/09 08:54:36:431 Total 1 instances are added
+12/09 08:54:57:462 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.70:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+12/09 08:54:57:463 Consumer was closed, reconnect.
+12/09 08:54:57:571 Total 0 instances are started
+12/09 08:54:57:572 Total 1 instances are added
+12/09 08:55:18:597 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.70:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+12/09 08:55:18:598 Consumer was closed, reconnect.
+12/09 08:55:18:700 Total 0 instances are started
+12/09 08:55:18:701 Total 1 instances are added
+12/09 08:55:39:716 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.70:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+12/09 08:55:39:717 Consumer was closed, reconnect.
+12/09 08:55:39:823 Total 0 instances are started
+12/09 08:55:39:824 Total 1 instances are added
+12/09 08:56:00:837 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.70:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+12/09 08:56:00:838 Consumer was closed, reconnect.
+12/09 08:56:00:944 Total 0 instances are started
+12/09 08:56:00:945 Total 1 instances are added
+12/09 08:56:21:964 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.70:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+12/09 08:56:21:965 Consumer was closed, reconnect.
+12/09 08:56:22:066 Total 0 instances are started
+12/09 08:56:22:067 Total 1 instances are added
+12/09 08:56:43:078 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.70:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+12/09 08:56:43:079 Consumer was closed, reconnect.
+12/09 08:56:43:185 Total 0 instances are started
+12/09 08:56:43:186 Total 1 instances are added
+12/09 08:57:03:948 Close pool
+12/09 08:57:04:049 Close queue connection pool.
+12/09 08:57:04:049 End of process session
+12/09 08:57:04:050 Order Routing stopped
+12/09 08:57:04:205 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.70:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+12/09 08:57:04:206 Consumer was closed, reconnect.
+12/09 08:57:05:963 Order Routing started
+12/09 08:57:05:986 Close pool
+12/09 08:57:05:986 Close pool
+12/09 08:57:05:987 Testing connection ...
+12/09 08:57:05:990 Created provisioning instance for CCWS
+12/09 08:57:05:991 Testing connection are success
+12/09 08:57:05:992 Starting process session
+12/09 08:57:06:792 Total 0 instances are started
+12/09 08:57:06:793 Total 1 instances are added
+12/09 08:57:14:969 Close pool
+12/09 08:57:15:078 Close queue connection pool.
+12/09 08:57:15:079 End of process session
+12/09 08:57:15:079 Order Routing stopped
+12/09 08:57:16:982 Order Routing started
+12/09 08:57:17:003 Close pool
+12/09 08:57:17:004 Close pool
+12/09 08:57:17:004 Testing connection ...
+12/09 08:57:17:008 Created provisioning instance for CCWS
+12/09 08:57:17:009 Testing connection are success
+12/09 08:57:17:009 Starting process session
+12/09 08:57:17:822 Total 0 instances are started
+12/09 08:57:17:823 Total 1 instances are added
+12/09 08:57:27:812 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.70:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+12/09 08:57:27:813 Consumer was closed, reconnect.
+12/09 08:57:48:884 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.70:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+12/09 08:57:48:885 Consumer was closed, reconnect.
+12/09 08:57:48:986 Total 0 instances are started
+12/09 08:57:48:987 Total 1 instances are added
+12/09 08:58:17:308 Order Routing started
+12/09 08:58:21:374 Testing connection ...
+12/09 08:58:22:039 Created provisioning instance for CCWS
+12/09 08:58:22:040 Testing connection are success
+12/09 08:58:22:040 Starting process session
+12/09 08:58:23:300 Total 0 instances are started
+12/09 08:58:23:301 Total 1 instances are added
+12/09 08:58:44:332 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.75:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+12/09 08:58:44:333 Consumer was closed, reconnect.
+12/09 08:58:44:436 Total 0 instances are started
+12/09 08:58:44:437 Total 1 instances are added
+12/09 08:58:57:010 Close pool
+12/09 08:58:57:111 Close queue connection pool.
+12/09 08:58:57:112 End of process session
+12/09 08:58:57:113 Order Routing stopped
+12/09 08:58:59:030 Order Routing started
+12/09 08:58:59:052 Close pool
+12/09 08:58:59:053 Close pool
+12/09 08:58:59:054 Testing connection ...
+12/09 08:58:59:058 Created provisioning instance for CCWS
+12/09 08:58:59:058 Testing connection are success
+12/09 08:58:59:059 Starting process session
+12/09 08:58:59:845 Total 0 instances are started
+12/09 08:58:59:846 Total 1 instances are added
+12/09 08:59:05:472 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.75:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+12/09 08:59:05:473 Consumer was closed, reconnect.
+12/09 08:59:20:869 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.75:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+12/09 08:59:20:870 Consumer was closed, reconnect.
+12/09 08:59:20:974 Total 0 instances are started
+12/09 08:59:20:975 Total 1 instances are added
+12/09 08:59:42:253 Order Routing started
+12/09 08:59:44:956 Testing connection ...
+12/09 08:59:46:614 Created provisioning instance for CCWS
+12/09 08:59:46:614 Testing connection are success
+12/09 08:59:46:615 Starting process session
+12/09 08:59:48:237 Total 0 instances are started
+12/09 08:59:48:237 Total 1 instances are added
+12/09 09:00:03:901 Close pool
+12/09 09:00:04:002 Close queue connection pool.
+12/09 09:00:04:008 End of process session
+12/09 09:00:04:009 Order Routing stopped
+12/09 09:00:05:917 Order Routing started
+12/09 09:00:05:940 Close pool
+12/09 09:00:05:941 Close pool
+12/09 09:00:05:941 Testing connection ...
+12/09 09:00:05:945 Created provisioning instance for CCWS
+12/09 09:00:05:945 Testing connection are success
+12/09 09:00:05:946 Starting process session
+12/09 09:00:06:735 Total 0 instances are started
+12/09 09:00:06:736 Total 1 instances are added
+12/09 09:01:09:545 Create order(84922000512) cost time: 122ms
+12/09 09:01:09:689 SEND: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000512}. ID=218001
+12/09 09:01:11:244 RECEIVE:cosname=MAIN_COS,status=Active,active_date=05/09/2013 02:17:51,{84922000512}Core{2000.0;31/12/2014 08:59:59},VOICE_ONNET{3000.0;15/09/2013 09:59:59},PROMOTION{65000.0;03/09/2023 09:59:59},PROMOTION_60{3900.0;12/09/2013 09:59:59},. ID=218001. costTime=1554
+12/09 09:01:11:285 Update order(84922000512) cost time: 5ms
+12/09 09:01:11:293 84922000512: LOYALTY - LOYALTY.VALIDATE
+12/09 09:01:11:294 orderId = 125409708 | requestId = 0 | orderDate = 2013/09/12 09:01:09 | userName = system | subProductId = 52789556 | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 100.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+12/09 09:05:54:450 Create order(84922000512) cost time: 68ms
+12/09 09:05:54:457 SEND: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000512}. ID=218003
+12/09 09:05:54:561 RECEIVE:cosname=MAIN_COS,status=Active,active_date=05/09/2013 02:17:51,{84922000512}Core{2000.0;31/12/2014 08:59:59},VOICE_ONNET{3000.0;15/09/2013 09:59:59},PROMOTION{65000.0;03/09/2023 09:59:59},PROMOTION_60{4000.0;11/11/2013 08:59:59},. ID=218003. costTime=103
+12/09 09:05:54:567 Update order(84922000512) cost time: 4ms
+12/09 09:05:54:568 84922000512: LOYALTY - LOYALTY.VALIDATE
+12/09 09:05:54:569 orderId = 125409709 | requestId = 0 | orderDate = 2013/09/12 09:05:54 | userName = system | subProductId = 52789556 | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 100.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+12/09 09:11:30:643 Create order(84922000512) cost time: 26ms
+12/09 09:11:30:669 SEND: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000512}. ID=218006
+12/09 09:11:30:772 RECEIVE:cosname=MAIN_COS,status=Active,active_date=05/09/2013 02:17:51,{84922000512}Core{2000.0;31/12/2014 08:59:59},VOICE_ONNET{3000.0;15/09/2013 09:59:59},PROMOTION{65000.0;03/09/2023 09:59:59},PROMOTION_60{4000.0;10/01/2014 08:59:59},. ID=218006. costTime=102
+12/09 09:11:30:782 Update order(84922000512) cost time: 8ms
+12/09 09:11:30:783 84922000512: LOYALTY - LOYALTY.VALIDATE
+12/09 09:11:30:784 orderId = 125409710 | requestId = 0 | orderDate = 2013/09/12 09:11:30 | userName = system | subProductId = 52789556 | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 100.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+12/09 09:20:59:925 Order Routing started
+12/09 09:21:04:034 Testing connection ...
+12/09 09:21:04:859 Created provisioning instance for CCWS
+12/09 09:21:04:860 Testing connection are success
+12/09 09:21:04:860 Starting process session
+12/09 09:21:06:224 Total 0 instances are started
+12/09 09:21:06:225 Total 1 instances are added
+12/09 09:21:22:674 Close pool
+12/09 09:21:22:774 Close queue connection pool.
+12/09 09:21:22:779 End of process session
+12/09 09:21:22:781 Order Routing stopped
+12/09 09:21:24:692 Order Routing started
+12/09 09:21:24:714 Close pool
+12/09 09:21:24:715 Close pool
+12/09 09:21:24:716 Testing connection ...
+12/09 09:21:24:720 Created provisioning instance for CCWS
+12/09 09:21:24:720 Testing connection are success
+12/09 09:21:24:721 Starting process session
+12/09 09:21:25:571 Total 0 instances are started
+12/09 09:21:25:572 Total 1 instances are added
+12/09 09:21:42:967 Create order(84922000512) cost time: 84ms
+12/09 09:21:42:991 SEND: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000512}. ID=219001
+12/09 09:21:43:935 RECEIVE:cosname=MAIN_COS,status=Active,active_date=05/09/2013 02:17:51,{84922000512}Core{2000.0;31/12/2014 08:59:59},VOICE_ONNET{3000.0;15/09/2013 09:59:59},PROMOTION{65000.0;03/09/2023 09:59:59},PROMOTION_60{4000.0;11/03/2014 09:59:59},. ID=219001. costTime=943
+12/09 09:21:43:953 Update order(84922000512) cost time: 13ms
+12/09 09:21:43:954 84922000512: LOYALTY - LOYALTY.VALIDATE
+12/09 09:21:43:955 orderId = 125409711 | requestId = 0 | orderDate = 2013/09/12 09:21:42 | userName = system | subProductId = 52789556 | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 100.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+12/09 09:24:11:617 Order Routing started
+12/09 09:24:15:571 Testing connection ...
+12/09 09:24:16:496 Created provisioning instance for CCWS
+12/09 09:24:16:497 Testing connection are success
+12/09 09:24:16:498 Starting process session
+12/09 09:24:18:091 Total 0 instances are started
+12/09 09:24:18:092 Total 1 instances are added
+12/09 09:24:36:768 java.sql.SQLException: ORA-00942: table or view does not exist
+
+12/09 09:24:36:769 orderId = 0 | requestId = 0 | orderDate = 2013/09/12 09:24:36 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000512 | subscriberType = -1 | shipTo =  | actionType = redeem | productId = 274 | amount = 0.0 | provisioningType = SMSC | commandId = 0 | cause = create-order-fail | status = 4 | description =  | balance = 
+12/09 09:24:36:803 java.lang.NullPointerException: null
+12/09 09:24:36:905 Total 0 instances are started
+12/09 09:24:36:906 Total 1 instances are added
+12/09 09:25:01:709 java.sql.SQLException: ORA-00942: table or view does not exist
+
+12/09 09:25:01:710 orderId = 0 | requestId = 0 | orderDate = 2013/09/12 09:25:01 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000512 | subscriberType = -1 | shipTo =  | actionType = redeem | productId = 274 | amount = 0.0 | provisioningType = SMSC | commandId = 0 | cause = create-order-fail | status = 4 | description =  | balance = 
+12/09 09:25:01:720 java.lang.NullPointerException: null
+12/09 09:25:01:826 Total 0 instances are started
+12/09 09:25:01:827 Total 1 instances are added
+12/09 09:25:22:547 Close pool
+12/09 09:25:22:648 Close queue connection pool.
+12/09 09:25:22:653 End of process session
+12/09 09:25:22:654 Order Routing stopped
+12/09 09:25:24:566 Order Routing started
+12/09 09:25:24:589 Close pool
+12/09 09:25:24:590 Close pool
+12/09 09:25:24:590 Testing connection ...
+12/09 09:25:24:594 Created provisioning instance for CCWS
+12/09 09:25:24:595 Testing connection are success
+12/09 09:25:24:595 Starting process session
+12/09 09:25:25:384 Total 0 instances are started
+12/09 09:25:25:385 Total 1 instances are added
+12/09 09:26:05:863 java.sql.SQLException: ORA-00942: table or view does not exist
+
+12/09 09:26:05:863 orderId = 0 | requestId = 0 | orderDate = 2013/09/12 09:26:05 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000512 | subscriberType = -1 | shipTo =  | actionType = redeem | productId = 274 | amount = 0.0 | provisioningType = SMSC | commandId = 0 | cause = create-order-fail | status = 4 | description =  | balance = 
+12/09 09:26:05:873 java.lang.NullPointerException: null
+12/09 09:26:05:974 Total 0 instances are started
+12/09 09:26:05:975 Total 1 instances are added
+12/09 09:27:32:283 Order Routing started
+12/09 09:27:36:126 Testing connection ...
+12/09 09:27:37:044 Created provisioning instance for CCWS
+12/09 09:27:37:045 Testing connection are success
+12/09 09:27:37:045 Starting process session
+12/09 09:27:39:140 Total 0 instances are started
+12/09 09:27:39:141 Total 1 instances are added
+12/09 09:27:51:035 Close pool
+12/09 09:27:51:135 Close queue connection pool.
+12/09 09:27:51:143 End of process session
+12/09 09:27:51:144 Order Routing stopped
+12/09 09:27:53:049 Order Routing started
+12/09 09:27:53:073 Close pool
+12/09 09:27:53:074 Close pool
+12/09 09:27:53:074 Testing connection ...
+12/09 09:27:53:078 Created provisioning instance for CCWS
+12/09 09:27:53:078 Testing connection are success
+12/09 09:27:53:079 Starting process session
+12/09 09:27:53:850 Total 0 instances are started
+12/09 09:27:53:851 Total 1 instances are added
+12/09 09:28:44:201 Close pool
+12/09 09:28:44:302 Close queue connection pool.
+12/09 09:28:44:307 End of process session
+12/09 09:28:44:308 Order Routing stopped
+12/09 09:28:46:222 Order Routing started
+12/09 09:28:46:246 Close pool
+12/09 09:28:46:246 Close pool
+12/09 09:28:46:247 Testing connection ...
+12/09 09:28:46:251 Created provisioning instance for CCWS
+12/09 09:28:46:251 Testing connection are success
+12/09 09:28:46:252 Starting process session
+12/09 09:28:47:125 Total 0 instances are started
+12/09 09:28:47:126 Total 1 instances are added
+12/09 09:28:54:452 java.sql.SQLException: ORA-00942: table or view does not exist
+
+12/09 09:28:54:453 orderId = 0 | requestId = 0 | orderDate = 2013/09/12 09:28:54 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000512 | subscriberType = -1 | shipTo =  | actionType = redeem | productId = 274 | amount = 0.0 | provisioningType = SMSC | commandId = 0 | cause = create-order-fail | status = 4 | description =  | balance = 
+12/09 09:28:54:464 java.lang.NullPointerException: null
+12/09 09:28:54:571 Total 0 instances are started
+12/09 09:28:54:572 Total 1 instances are added
+12/09 09:29:29:488 Create order(84922000512) cost time: 76ms
+12/09 09:29:29:510 SEND: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000512}. ID=221001
+12/09 09:29:30:377 RECEIVE:cosname=MAIN_COS,status=Active,active_date=05/09/2013 02:17:51,{84922000512}Core{2000.0;31/12/2014 08:59:59},VOICE_ONNET{3000.0;15/09/2013 09:59:59},PROMOTION{65000.0;03/09/2023 09:59:59},PROMOTION_60{4000.0;10/05/2014 09:59:59},. ID=221001. costTime=865
+12/09 09:29:30:394 Update order(84922000512) cost time: 13ms
+12/09 09:29:30:395 84922000512: LOYALTY - LOYALTY.VALIDATE
+12/09 09:29:30:396 orderId = 125409716 | requestId = 0 | orderDate = 2013/09/12 09:29:29 | userName = system | subProductId = 52789556 | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 100.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+12/09 11:24:59:913 Order Routing started
+12/09 11:25:03:460 Testing connection ...
+12/09 11:25:04:680 Created provisioning instance for CCWS
+12/09 11:25:04:681 Testing connection are success
+12/09 11:25:04:681 Starting process session
+12/09 11:25:06:180 Total 0 instances are started
+12/09 11:25:06:181 Total 1 instances are added
+12/09 11:31:19:297 Order Routing started
+12/09 11:31:23:517 Testing connection ...
+12/09 11:31:24:241 Created provisioning instance for CCWS
+12/09 11:31:24:241 Testing connection are success
+12/09 11:31:24:242 Starting process session
+12/09 11:31:26:132 Total 0 instances are started
+12/09 11:31:26:133 Total 1 instances are added
+12/09 11:32:58:233 Close pool
+12/09 11:32:58:333 Close queue connection pool.
+12/09 11:32:58:339 End of process session
+12/09 11:32:58:340 Order Routing stopped
+12/09 11:33:00:251 Order Routing started
+12/09 11:33:00:274 Close pool
+12/09 11:33:00:275 Close pool
+12/09 11:33:00:276 Testing connection ...
+12/09 11:33:00:280 Created provisioning instance for CCWS
+12/09 11:33:00:280 Testing connection are success
+12/09 11:33:00:281 Starting process session
+12/09 11:33:01:228 Total 0 instances are started
+12/09 11:33:01:229 Total 1 instances are added
+12/09 11:33:38:697 java.sql.SQLException: ORA-00942: table or view does not exist
+
+12/09 11:33:38:698 orderId = 0 | requestId = 0 | orderDate = 2013/09/12 11:33:38 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000512 | subscriberType = -1 | shipTo =  | actionType = redeem | productId = 274 | amount = 0.0 | provisioningType = SMSC | commandId = 0 | cause = create-order-fail | status = 4 | description =  | balance = 
+12/09 11:33:38:712 java.lang.NullPointerException: null
+12/09 11:33:38:819 Total 0 instances are started
+12/09 11:33:38:820 Total 1 instances are added
+12/09 11:35:16:354 Close pool
+12/09 11:35:16:454 Close queue connection pool.
+12/09 11:35:16:458 End of process session
+12/09 11:35:16:459 Order Routing stopped
+12/09 11:35:18:366 Order Routing started
+12/09 11:35:18:387 Close pool
+12/09 11:35:18:387 Close pool
+12/09 11:35:18:388 Testing connection ...
+12/09 11:35:18:391 Created provisioning instance for CCWS
+12/09 11:35:18:392 Testing connection are success
+12/09 11:35:18:392 Starting process session
+12/09 11:35:19:147 Total 0 instances are started
+12/09 11:35:19:148 Total 1 instances are added
+12/09 11:35:30:782 Create order(84922000512) cost time: 101ms
+12/09 11:35:31:021 SEND: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000512}. ID=222001
+12/09 11:35:32:721 RECEIVE:cosname=MAIN_COS,status=Active,active_date=05/09/2013 02:17:51,{84922000512}Core{2000.0;31/12/2014 08:59:59},VOICE_ONNET{3000.0;15/09/2013 09:59:59},PROMOTION{65000.0;03/09/2023 09:59:59},PROMOTION_60{4000.0;12/09/2013 09:59:59},. ID=222001. costTime=1698
+12/09 11:35:32:736 Update order(84922000512) cost time: 11ms
+12/09 11:35:32:760 84922000512: LOYALTY - LOYALTY.VALIDATE
+12/09 11:35:32:761 orderId = 125409778 | requestId = 0 | orderDate = 2013/09/12 11:35:30 | userName = system | subProductId = 52789556 | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 100.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+12/09 11:40:59:714 Close pool
+12/09 11:40:59:815 Close queue connection pool.
+12/09 11:40:59:820 End of process session
+12/09 11:40:59:821 Order Routing stopped
+12/09 11:41:01:724 Order Routing started
+12/09 11:41:01:746 Close pool
+12/09 11:41:01:747 Close pool
+12/09 11:41:01:747 Testing connection ...
+12/09 11:41:01:776 Created provisioning instance for CCWS
+12/09 11:41:01:777 Testing connection are success
+12/09 11:41:01:777 Starting process session
+12/09 11:41:02:568 Total 0 instances are started
+12/09 11:41:02:569 Total 1 instances are added
+12/09 11:41:10:988 Create order(84922000512) cost time: 73ms
+12/09 11:41:11:003 SEND: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000512}. ID=222004
+12/09 11:41:11:258 RECEIVE:cosname=MAIN_COS,status=Active,active_date=05/09/2013 02:17:51,{84922000512}Core{2000.0;31/12/2014 08:59:59},VOICE_ONNET{3000.0;15/09/2013 09:59:59},PROMOTION{65000.0;03/09/2023 09:59:59},PROMOTION_60{4000.0;11/11/2013 08:59:59},. ID=222004. costTime=255
+12/09 11:41:11:274 Update order(84922000512) cost time: 10ms
+12/09 11:41:11:276 84922000512: LOYALTY - LOYALTY.VALIDATE
+12/09 11:41:11:277 orderId = 125409779 | requestId = 0 | orderDate = 2013/09/12 11:41:10 | userName = system | subProductId = 52789556 | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 100.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+12/09 11:41:36:962 Create order(84922000512) cost time: 25ms
+12/09 11:41:36:990 SEND: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000512}. ID=222006
+12/09 11:41:37:085 RECEIVE:cosname=MAIN_COS,status=Active,active_date=05/09/2013 02:17:51,{84922000512}Core{2000.0;31/12/2014 08:59:59},VOICE_ONNET{3000.0;15/09/2013 09:59:59},PROMOTION{65000.0;03/09/2023 09:59:59},PROMOTION_60{4100.0;11/11/2013 08:59:59},. ID=222006. costTime=94
+12/09 11:41:37:096 Update order(84922000512) cost time: 9ms
+12/09 11:41:37:097 84922000512: LOYALTY - LOYALTY.VALIDATE
+12/09 11:41:37:098 orderId = 125409780 | requestId = 0 | orderDate = 2013/09/12 11:41:36 | userName = system | subProductId = 52789556 | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 100.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+12/09 11:51:18:022 Close pool
+12/09 11:51:18:122 Close queue connection pool.
+12/09 11:51:18:127 End of process session
+12/09 11:51:18:128 Order Routing stopped
+12/09 11:51:20:043 Order Routing started
+12/09 11:51:20:064 Close pool
+12/09 11:51:20:065 Close pool
+12/09 11:51:20:065 Testing connection ...
+12/09 11:51:20:068 Created provisioning instance for CCWS
+12/09 11:51:20:069 Testing connection are success
+12/09 11:51:20:069 Starting process session
+12/09 11:51:20:836 Total 0 instances are started
+12/09 11:51:20:837 Total 1 instances are added
+12/09 11:52:17:244 java.sql.SQLException: ORA-00942: table or view does not exist
+
+12/09 11:52:17:244 orderId = 0 | requestId = 0 | orderDate = 2013/09/12 11:52:17 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000512 | subscriberType = -1 | shipTo =  | actionType = redeem | productId = 274 | amount = 0.0 | provisioningType = SMSC | commandId = 0 | cause = create-order-fail | status = 4 | description =  | balance = 
+12/09 11:52:17:255 java.lang.NullPointerException: null
+12/09 11:52:17:361 Total 0 instances are started
+12/09 11:52:17:362 Total 1 instances are added
+12/09 11:52:48:318 Create order(84922000512) cost time: 73ms
+12/09 11:52:48:333 SEND: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000512}. ID=222009
+12/09 11:52:48:440 RECEIVE:cosname=MAIN_COS,status=Active,active_date=05/09/2013 02:17:51,{84922000512}Core{2000.0;31/12/2014 08:59:59},VOICE_ONNET{3000.0;15/09/2013 09:59:59},PROMOTION{65000.0;03/09/2023 09:59:59},PROMOTION_60{4100.0;11/11/2013 08:59:59},. ID=222009. costTime=106
+12/09 11:52:48:458 Update order(84922000512) cost time: 16ms
+12/09 11:52:48:459 84922000512: LOYALTY - LOYALTY.VALIDATE
+12/09 11:52:48:459 orderId = 125409782 | requestId = 0 | orderDate = 2013/09/12 11:52:48 | userName = system | subProductId = 52789556 | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 100.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+12/09 11:54:10:338 Create order(84922000512) cost time: 26ms
+12/09 11:54:10:366 SEND: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000512}. ID=222011
+12/09 11:54:10:465 RECEIVE:cosname=MAIN_COS,status=Active,active_date=05/09/2013 02:17:51,{84922000512}Core{2000.0;31/12/2014 08:59:59},VOICE_ONNET{3000.0;15/09/2013 09:59:59},PROMOTION{65000.0;03/09/2023 09:59:59},PROMOTION_60{4200.0;11/11/2013 08:59:59},. ID=222011. costTime=98
+12/09 11:54:10:480 Update order(84922000512) cost time: 12ms
+12/09 11:54:10:481 84922000512: LOYALTY - LOYALTY.VALIDATE
+12/09 11:54:10:482 orderId = 125409783 | requestId = 0 | orderDate = 2013/09/12 11:54:10 | userName = system | subProductId = 52789556 | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 100.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+12/09 11:56:35:476 Create order(84922000512) cost time: 95ms
+12/09 11:56:35:499 SEND: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000512}. ID=222014
+12/09 11:56:35:729 RECEIVE:cosname=MAIN_COS,status=Active,active_date=05/09/2013 02:17:51,{84922000512}Core{2000.0;31/12/2014 08:59:59},VOICE_ONNET{3000.0;15/09/2013 09:59:59},PROMOTION{65000.0;03/09/2023 09:59:59},PROMOTION_60{4200.0;11/11/2013 08:59:59},. ID=222014. costTime=230
+12/09 11:56:35:745 Update order(84922000512) cost time: 14ms
+12/09 11:56:35:746 84922000512: LOYALTY - LOYALTY.VALIDATE
+12/09 11:56:35:746 orderId = 125409784 | requestId = 0 | orderDate = 2013/09/12 11:56:35 | userName = system | subProductId = 52789556 | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 100.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+12/09 11:57:54:698 Order Routing started
+12/09 11:57:56:587 Testing connection ...
+12/09 11:58:00:122 Created provisioning instance for CCWS
+12/09 11:58:00:123 Testing connection are success
+12/09 11:58:00:124 Starting process session
+12/09 11:58:01:545 Total 0 instances are started
+12/09 11:58:01:546 Total 1 instances are added
+12/09 11:58:32:931 Create order(84922000512) cost time: 101ms
+12/09 11:58:32:962 SEND: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000512}. ID=223001
+12/09 11:58:33:981 RECEIVE:cosname=MAIN_COS,status=Active,active_date=05/09/2013 02:17:51,{84922000512}Core{2000.0;31/12/2014 08:59:59},VOICE_ONNET{3000.0;15/09/2013 09:59:59},PROMOTION{65000.0;03/09/2023 09:59:59},PROMOTION_60{4200.0;11/11/2013 08:59:59},. ID=223001. costTime=1018
+12/09 11:58:34:004 Update order(84922000512) cost time: 14ms
+12/09 11:58:34:005 84922000512: LOYALTY - LOYALTY.VALIDATE
+12/09 11:58:34:006 orderId = 125409785 | requestId = 0 | orderDate = 2013/09/12 11:58:32 | userName = system | subProductId = 52789556 | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 100.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+12/09 12:06:47:203 Order Routing started
+12/09 12:06:51:688 Testing connection ...
+12/09 12:06:52:660 Created provisioning instance for CCWS
+12/09 12:06:52:661 Testing connection are success
+12/09 12:06:52:661 Starting process session
+12/09 12:06:54:021 Total 0 instances are started
+12/09 12:06:54:021 Total 1 instances are added
+12/09 12:07:41:092 Close pool
+12/09 12:07:41:193 Close queue connection pool.
+12/09 12:07:41:197 End of process session
+12/09 12:07:41:199 Order Routing stopped
+12/09 12:07:43:112 Order Routing started
+12/09 12:07:43:135 Close pool
+12/09 12:07:43:136 Close pool
+12/09 12:07:43:136 Testing connection ...
+12/09 12:07:43:143 Created provisioning instance for CCWS
+12/09 12:07:43:144 Testing connection are success
+12/09 12:07:43:144 Starting process session
+12/09 12:07:43:933 Total 0 instances are started
+12/09 12:07:43:934 Total 1 instances are added
+12/09 12:08:01:422 Create order(84922000512) cost time: 89ms
+12/09 12:08:01:450 SEND: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000512}. ID=224001
+12/09 12:08:02:587 RECEIVE:cosname=MAIN_COS,status=Active,active_date=05/09/2013 02:17:51,{84922000512}Core{2000.0;31/12/2014 08:59:59},VOICE_ONNET{3000.0;15/09/2013 09:59:59},PROMOTION{65000.0;03/09/2023 09:59:59},PROMOTION_60{4200.0;11/11/2013 08:59:59},. ID=224001. costTime=1136
+12/09 12:08:02:605 Update order(84922000512) cost time: 13ms
+12/09 12:08:02:617 84922000512: LOYALTY - LOYALTY.VALIDATE
+12/09 12:08:02:618 orderId = 125409786 | requestId = 0 | orderDate = 2013/09/12 12:08:01 | userName = system | subProductId = 52789556 | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 100.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+12/09 12:13:23:683 Order Routing started
+12/09 12:13:27:986 Testing connection ...
+12/09 12:13:29:095 Created provisioning instance for CCWS
+12/09 12:13:29:095 Testing connection are success
+12/09 12:13:29:096 Starting process session
+12/09 12:13:30:933 Total 0 instances are started
+12/09 12:13:30:933 Total 1 instances are added
+12/09 12:13:56:743 java.sql.SQLException: ORA-00942: table or view does not exist
+
+12/09 12:13:56:743 orderId = 0 | requestId = 0 | orderDate = 2013/09/12 12:13:56 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000512 | subscriberType = -1 | shipTo =  | actionType = redeem | productId = 274 | amount = 0.0 | provisioningType = SMSC | commandId = 0 | cause = create-order-fail | status = 4 | description =  | balance = 
+12/09 12:13:56:759 java.lang.NullPointerException: null
+12/09 12:13:56:862 Total 0 instances are started
+12/09 12:13:56:863 Total 1 instances are added
+12/09 12:14:25:897 Create order(84922000512) cost time: 85ms
+12/09 12:14:25:927 SEND: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000512}. ID=225001
+12/09 12:14:26:900 RECEIVE:cosname=MAIN_COS,status=Active,active_date=05/09/2013 02:17:51,{84922000512}Core{2000.0;31/12/2014 08:59:59},VOICE_ONNET{3000.0;15/09/2013 09:59:59},PROMOTION{65000.0;03/09/2023 09:59:59},PROMOTION_60{4200.0;11/11/2013 08:59:59},. ID=225001. costTime=972
+12/09 12:14:26:921 Update order(84922000512) cost time: 12ms
+12/09 12:14:26:923 84922000512: LOYALTY - LOYALTY.VALIDATE
+12/09 12:14:26:923 orderId = 125409788 | requestId = 0 | orderDate = 2013/09/12 12:14:25 | userName = system | subProductId = 52789556 | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 100.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+12/09 12:15:42:003 Order Routing started
+12/09 12:15:46:271 Testing connection ...
+12/09 12:15:47:188 Created provisioning instance for CCWS
+12/09 12:15:47:189 Testing connection are success
+12/09 12:15:47:189 Starting process session
+12/09 12:15:48:959 Total 0 instances are started
+12/09 12:15:48:961 Total 1 instances are added
+12/09 12:16:03:619 Close pool
+12/09 12:16:03:720 Close queue connection pool.
+12/09 12:16:03:724 End of process session
+12/09 12:16:03:725 Order Routing stopped
+12/09 12:16:05:644 Order Routing started
+12/09 12:16:05:665 Close pool
+12/09 12:16:05:666 Close pool
+12/09 12:16:05:666 Testing connection ...
+12/09 12:16:05:670 Created provisioning instance for CCWS
+12/09 12:16:05:671 Testing connection are success
+12/09 12:16:05:671 Starting process session
+12/09 12:16:06:438 Total 0 instances are started
+12/09 12:16:06:439 Total 1 instances are added
+12/09 12:16:23:931 Create order(84922000512) cost time: 87ms
+12/09 12:16:23:966 SEND: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000512}. ID=226001
+12/09 12:16:25:085 RECEIVE:cosname=MAIN_COS,status=Active,active_date=05/09/2013 02:17:51,{84922000512}Core{2000.0;31/12/2014 08:59:59},VOICE_ONNET{3000.0;15/09/2013 09:59:59},PROMOTION{65000.0;03/09/2023 09:59:59},PROMOTION_60{4300.0;11/11/2013 08:59:59},. ID=226001. costTime=1117
+12/09 12:16:25:105 Update order(84922000512) cost time: 13ms
+12/09 12:16:25:111 84922000512: LOYALTY - LOYALTY.VALIDATE
+12/09 12:16:25:112 orderId = 125409789 | requestId = 0 | orderDate = 2013/09/12 12:16:23 | userName = system | subProductId = 52789556 | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 100.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+12/09 12:21:43:711 Order Routing started
+12/09 12:21:48:011 Testing connection ...
+12/09 12:21:48:900 Created provisioning instance for CCWS
+12/09 12:21:48:901 Testing connection are success
+12/09 12:21:48:902 Starting process session
+12/09 12:21:50:878 Total 0 instances are started
+12/09 12:21:50:879 Total 1 instances are added
+12/09 12:22:14:370 Close pool
+12/09 12:22:14:471 Close queue connection pool.
+12/09 12:22:14:476 End of process session
+12/09 12:22:14:477 Order Routing stopped
+12/09 12:22:16:395 Order Routing started
+12/09 12:22:16:419 Close pool
+12/09 12:22:16:420 Close pool
+12/09 12:22:16:420 Testing connection ...
+12/09 12:22:16:428 Created provisioning instance for CCWS
+12/09 12:22:16:428 Testing connection are success
+12/09 12:22:16:429 Starting process session
+12/09 12:22:17:217 Total 0 instances are started
+12/09 12:22:17:218 Total 1 instances are added
+12/09 12:22:39:700 Order Routing started
+12/09 12:22:41:711 Testing connection ...
+12/09 12:22:44:594 Created provisioning instance for CCWS
+12/09 12:22:44:594 Testing connection are success
+12/09 12:22:44:596 Starting process session
+12/09 12:22:46:307 Total 0 instances are started
+12/09 12:22:46:307 Total 1 instances are added
+12/09 12:23:08:030 Create order(84922000512) cost time: 151ms
+12/09 12:23:08:057 SEND: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000512}. ID=227001
+12/09 12:23:08:878 RECEIVE:cosname=MAIN_COS,status=Active,active_date=05/09/2013 02:17:51,{84922000512}Core{2000.0;31/12/2014 08:59:59},VOICE_ONNET{3000.0;15/09/2013 09:59:59},PROMOTION{65000.0;03/09/2023 09:59:59},PROMOTION_60{4400.0;11/11/2013 08:59:59},. ID=227001. costTime=820
+12/09 12:23:08:898 Update order(84922000512) cost time: 16ms
+12/09 12:23:08:900 84922000512: LOYALTY - LOYALTY.VALIDATE
+12/09 12:23:08:900 orderId = 125409790 | requestId = 0 | orderDate = 2013/09/12 12:23:07 | userName = system | subProductId = 52789556 | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 100.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+12/09 12:26:41:777 Close pool
+12/09 12:26:41:877 Close queue connection pool.
+12/09 12:26:41:882 End of process session
+12/09 12:26:41:883 Order Routing stopped
+12/09 12:26:43:796 Order Routing started
+12/09 12:26:43:819 Close pool
+12/09 12:26:43:820 Close pool
+12/09 12:26:43:820 Testing connection ...
+12/09 12:26:43:824 Created provisioning instance for CCWS
+12/09 12:26:43:825 Testing connection are success
+12/09 12:26:43:825 Starting process session
+12/09 12:26:44:583 Total 0 instances are started
+12/09 12:26:44:584 Total 1 instances are added
+12/09 12:26:58:028 Create order(84922000512) cost time: 61ms
+12/09 12:26:58:035 SEND: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000512}. ID=227004
+12/09 12:26:58:147 RECEIVE:cosname=MAIN_COS,status=Active,active_date=05/09/2013 02:17:51,{84922000512}Core{2000.0;31/12/2014 08:59:59},VOICE_ONNET{3000.0;15/09/2013 09:59:59},PROMOTION{65000.0;03/09/2023 09:59:59},PROMOTION_60{4400.0;11/11/2013 08:59:59},. ID=227004. costTime=111
+12/09 12:26:58:158 Update order(84922000512) cost time: 8ms
+12/09 12:26:58:158 84922000512: LOYALTY - LOYALTY.VALIDATE
+12/09 12:26:58:159 orderId = 125409791 | requestId = 0 | orderDate = 2013/09/12 12:26:57 | userName = system | subProductId = 52789556 | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 100.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+12/09 14:16:17:094 Order Routing started
+12/09 14:16:21:506 Testing connection ...
+12/09 14:16:22:478 Created provisioning instance for CCWS
+12/09 14:16:22:479 Testing connection are success
+12/09 14:16:22:479 Starting process session
+12/09 14:16:24:390 Total 0 instances are started
+12/09 14:16:24:391 Total 1 instances are added
+12/09 14:17:26:547 Create order(84922000512) cost time: 144ms
+12/09 14:17:26:693 SEND: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000512}. ID=228001
+12/09 14:17:28:186 RECEIVE:cosname=MAIN_COS,status=Active,active_date=05/09/2013 02:17:51,{84922000512}Core{2000.0;31/12/2014 08:59:59},VOICE_ONNET{3000.0;15/09/2013 09:59:59},PROMOTION{65000.0;03/09/2023 09:59:59},PROMOTION_60{4400.0;11/11/2013 08:59:59},. ID=228001. costTime=1491
+12/09 14:17:28:246 Update order(84922000512) cost time: 13ms
+12/09 14:17:28:260 84922000512: LOYALTY - LOYALTY.VALIDATE
+12/09 14:17:28:261 orderId = 125409792 | requestId = 0 | orderDate = 2013/09/12 14:17:26 | userName = system | subProductId = 52789556 | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 100.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+12/09 14:22:07:408 Close pool
+12/09 14:22:07:509 Close queue connection pool.
+12/09 14:22:07:514 End of process session
+12/09 14:22:07:515 Order Routing stopped
+12/09 14:22:09:422 Order Routing started
+12/09 14:22:09:446 Close pool
+12/09 14:22:09:447 Close pool
+12/09 14:22:09:447 Testing connection ...
+12/09 14:22:09:451 Created provisioning instance for CCWS
+12/09 14:22:09:452 Testing connection are success
+12/09 14:22:09:452 Starting process session
+12/09 14:22:10:347 Total 0 instances are started
+12/09 14:22:10:348 Total 1 instances are added
+12/09 14:22:40:617 Create order(84922000512) cost time: 23ms
+12/09 14:22:40:644 SEND: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000512}. ID=228004
+12/09 14:22:40:754 RECEIVE:cosname=MAIN_COS,status=Active,active_date=05/09/2013 02:17:51,{84922000512}Core{2000.0;31/12/2014 08:59:59},VOICE_ONNET{3000.0;15/09/2013 09:59:59},PROMOTION{65000.0;03/09/2023 09:59:59},PROMOTION_60{4400.0;11/11/2013 08:59:59},. ID=228004. costTime=109
+12/09 14:22:40:767 Update order(84922000512) cost time: 11ms
+12/09 14:22:40:767 84922000512: LOYALTY - LOYALTY.VALIDATE
+12/09 14:22:40:768 orderId = 125409793 | requestId = 0 | orderDate = 2013/09/12 14:22:40 | userName = system | subProductId = 52789556 | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 100.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+12/09 14:31:00:597 Close pool
+12/09 14:31:00:697 Close queue connection pool.
+12/09 14:31:00:701 End of process session
+12/09 14:31:00:702 Order Routing stopped
+12/09 14:31:02:613 Order Routing started
+12/09 14:31:02:636 Close pool
+12/09 14:31:02:637 Close pool
+12/09 14:31:02:637 Testing connection ...
+12/09 14:31:02:642 Created provisioning instance for CCWS
+12/09 14:31:02:643 Testing connection are success
+12/09 14:31:02:643 Starting process session
+12/09 14:31:03:413 Total 0 instances are started
+12/09 14:31:03:414 Total 1 instances are added
+12/09 14:31:14:821 Create order(84922000512) cost time: 17ms
+12/09 14:31:14:842 SEND: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000512}. ID=228007
+12/09 14:31:14:947 RECEIVE:cosname=MAIN_COS,status=Active,active_date=05/09/2013 02:17:51,{84922000512}Core{2000.0;31/12/2014 08:59:59},VOICE_ONNET{3000.0;15/09/2013 09:59:59},PROMOTION{65000.0;03/09/2023 09:59:59},PROMOTION_60{4400.0;11/11/2013 08:59:59},. ID=228007. costTime=104
+12/09 14:31:14:959 Update order(84922000512) cost time: 10ms
+12/09 14:31:14:960 84922000512: LOYALTY - LOYALTY.VALIDATE
+12/09 14:31:14:961 orderId = 125409794 | requestId = 0 | orderDate = 2013/09/12 14:31:14 | userName = system | subProductId = 52789556 | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 100.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+12/09 14:36:09:924 Order Routing started
+12/09 14:36:11:452 Testing connection ...
+12/09 14:36:14:333 Created provisioning instance for CCWS
+12/09 14:36:14:333 Testing connection are success
+12/09 14:36:14:334 Starting process session
+12/09 14:36:16:025 Total 0 instances are started
+12/09 14:36:16:026 Total 1 instances are added
+12/09 14:36:30:795 Close pool
+12/09 14:36:30:895 Close queue connection pool.
+12/09 14:36:30:901 End of process session
+12/09 14:36:30:902 Order Routing stopped
+12/09 14:36:32:809 Order Routing started
+12/09 14:36:32:832 Close pool
+12/09 14:36:32:833 Close pool
+12/09 14:36:32:833 Testing connection ...
+12/09 14:36:32:837 Created provisioning instance for CCWS
+12/09 14:36:32:838 Testing connection are success
+12/09 14:36:32:838 Starting process session
+12/09 14:36:33:734 Total 0 instances are started
+12/09 14:36:33:735 Total 1 instances are added
+12/09 14:37:06:090 Create order(84922000512) cost time: 89ms
+12/09 14:37:06:114 SEND: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000512}. ID=229001
+12/09 14:37:06:961 RECEIVE:cosname=MAIN_COS,status=Active,active_date=05/09/2013 02:17:51,{84922000512}Core{2000.0;31/12/2014 08:59:59},VOICE_ONNET{3000.0;15/09/2013 09:59:59},PROMOTION{65000.0;03/09/2023 09:59:59},PROMOTION_60{4400.0;11/11/2013 08:59:59},. ID=229001. costTime=847
+12/09 14:37:06:998 Update order(84922000512) cost time: 30ms
+12/09 14:37:06:999 84922000512: LOYALTY - LOYALTY.VALIDATE
+12/09 14:37:07:000 orderId = 125409795 | requestId = 0 | orderDate = 2013/09/12 14:37:06 | userName = system | subProductId = 52789556 | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 100.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+12/09 14:40:41:983 Close pool
+12/09 14:40:42:084 Close queue connection pool.
+12/09 14:40:42:089 End of process session
+12/09 14:40:42:090 Order Routing stopped
+12/09 14:40:43:999 Order Routing started
+12/09 14:40:44:021 Close pool
+12/09 14:40:44:021 Close pool
+12/09 14:40:44:022 Testing connection ...
+12/09 14:40:44:026 Created provisioning instance for CCWS
+12/09 14:40:44:026 Testing connection are success
+12/09 14:40:44:027 Starting process session
+12/09 14:40:44:734 Total 0 instances are started
+12/09 14:40:44:735 Total 1 instances are added
+12/09 14:41:04:202 Create order(84922000512) cost time: 27ms
+12/09 14:41:04:208 SEND: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000512}. ID=229004
+12/09 14:41:04:322 RECEIVE:cosname=MAIN_COS,status=Active,active_date=05/09/2013 02:17:51,{84922000512}Core{2000.0;31/12/2014 08:59:59},VOICE_ONNET{3000.0;15/09/2013 09:59:59},PROMOTION{65000.0;03/09/2023 09:59:59},PROMOTION_60{4400.0;11/11/2013 08:59:59},. ID=229004. costTime=114
+12/09 14:41:04:332 Update order(84922000512) cost time: 8ms
+12/09 14:41:04:333 84922000512: LOYALTY - LOYALTY.VALIDATE
+12/09 14:41:04:333 orderId = 125409796 | requestId = 0 | orderDate = 2013/09/12 14:41:04 | userName = system | subProductId = 52789556 | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 100.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+12/09 14:44:37:355 Create order(84922000512) cost time: 105ms
+12/09 14:44:37:384 SEND: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000512}. ID=229007
+12/09 14:44:37:496 RECEIVE:cosname=MAIN_COS,status=Active,active_date=05/09/2013 02:17:51,{84922000512}Core{2000.0;31/12/2014 08:59:59},VOICE_ONNET{3000.0;15/09/2013 09:59:59},PROMOTION{65000.0;03/09/2023 09:59:59},PROMOTION_60{4400.0;11/11/2013 08:59:59},. ID=229007. costTime=110
+12/09 14:44:37:535 Update order(84922000512) cost time: 37ms
+12/09 14:44:37:536 84922000512: LOYALTY - LOYALTY.VALIDATE
+12/09 14:44:37:536 orderId = 125409797 | requestId = 0 | orderDate = 2013/09/12 14:44:37 | userName = system | subProductId = 52789556 | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 100.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+12/09 14:46:26:301 Order Routing started
+12/09 14:46:30:609 Testing connection ...
+12/09 14:46:31:552 Created provisioning instance for CCWS
+12/09 14:46:31:553 Testing connection are success
+12/09 14:46:31:553 Starting process session
+12/09 14:46:32:985 Total 0 instances are started
+12/09 14:46:32:994 Total 1 instances are added
+12/09 14:46:53:198 Create order(84922000512) cost time: 27ms
+12/09 14:46:53:249 SEND: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000512}. ID=230001
+12/09 14:46:54:240 RECEIVE:cosname=MAIN_COS,status=Active,active_date=05/09/2013 02:17:51,{84922000512}Core{2000.0;31/12/2014 08:59:59},VOICE_ONNET{3000.0;15/09/2013 09:59:59},PROMOTION{65000.0;03/09/2023 09:59:59},PROMOTION_60{4400.0;11/11/2013 08:59:59},. ID=230001. costTime=990
+12/09 14:46:54:258 Update order(84922000512) cost time: 10ms
+12/09 14:46:54:259 84922000512: LOYALTY - LOYALTY.VALIDATE
+12/09 14:46:54:260 orderId = 125409798 | requestId = 0 | orderDate = 2013/09/12 14:46:53 | userName = system | subProductId = 52789556 | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 100.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+12/09 14:47:50:208 Create order(84922000512) cost time: 8ms
+12/09 14:47:50:214 SEND: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000512}. ID=230003
+12/09 14:47:50:328 RECEIVE:cosname=MAIN_COS,status=Active,active_date=05/09/2013 02:17:51,{84922000512}Core{2000.0;31/12/2014 08:59:59},VOICE_ONNET{3000.0;15/09/2013 09:59:59},PROMOTION{65000.0;03/09/2023 09:59:59},PROMOTION_60{4500.0;11/11/2013 08:59:59},. ID=230003. costTime=114
+12/09 14:47:50:338 Update order(84922000512) cost time: 6ms
+12/09 14:47:50:339 84922000512: LOYALTY - LOYALTY.VALIDATE
+12/09 14:47:50:339 orderId = 125409799 | requestId = 0 | orderDate = 2013/09/12 14:47:50 | userName = system | subProductId = 52789556 | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 100.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+12/09 14:50:51:138 Close pool
+12/09 14:50:51:239 Close queue connection pool.
+12/09 14:50:51:245 End of process session
+12/09 14:50:51:246 Order Routing stopped
+12/09 14:50:53:163 Order Routing started
+12/09 14:50:53:184 Close pool
+12/09 14:50:53:185 Close pool
+12/09 14:50:53:185 Testing connection ...
+12/09 14:50:53:196 Created provisioning instance for CCWS
+12/09 14:50:53:197 Testing connection are success
+12/09 14:50:53:197 Starting process session
+12/09 14:50:53:923 Total 0 instances are started
+12/09 14:50:53:924 Total 1 instances are added
+12/09 14:51:38:345 Create order(84922000512) cost time: 10ms
+12/09 14:51:38:360 SEND: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000512}. ID=230006
+12/09 14:51:38:615 RECEIVE:cosname=MAIN_COS,status=Active,active_date=05/09/2013 02:17:51,{84922000512}Core{2000.0;31/12/2014 08:59:59},VOICE_ONNET{3000.0;15/09/2013 09:59:59},PROMOTION{65000.0;03/09/2023 09:59:59},PROMOTION_60{4500.0;11/11/2013 08:59:59},. ID=230006. costTime=254
+12/09 14:51:38:622 Update order(84922000512) cost time: 5ms
+12/09 14:51:38:623 84922000512: LOYALTY - LOYALTY.VALIDATE
+12/09 14:51:38:623 orderId = 125409800 | requestId = 0 | orderDate = 2013/09/12 14:51:38 | userName = system | subProductId = 52789556 | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 100.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+12/09 14:53:32:506 Create order(84922000512) cost time: 26ms
+12/09 14:53:32:533 SEND: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000512}. ID=230008
+12/09 14:53:32:881 RECEIVE:cosname=MAIN_COS,status=Active,active_date=05/09/2013 02:17:51,{84922000512}Core{200000.0;31/12/2014 08:59:59},VOICE_ONNET{3000.0;15/09/2013 09:59:59},PROMOTION{65000.0;03/09/2023 09:59:59},PROMOTION_60{4600.0;11/11/2013 08:59:59},. ID=230008. costTime=346
+12/09 14:53:32:902 Update order(84922000512) cost time: 14ms
+12/09 14:53:32:904 84922000512: LOYALTY - LOYALTY.VALIDATE
+12/09 14:53:32:905 orderId = 125409801 | requestId = 0 | orderDate = 2013/09/12 14:53:32 | userName = system | subProductId = 52789556 | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 100.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+12/09 15:01:18:685 Order Routing started
+12/09 15:01:20:069 Testing connection ...
+12/09 15:01:23:246 Created provisioning instance for CCWS
+12/09 15:01:23:248 Testing connection are success
+12/09 15:01:23:248 Starting process session
+12/09 15:01:24:952 Total 0 instances are started
+12/09 15:01:24:953 Total 1 instances are added
+12/09 15:01:56:618 Create order(84922000512) cost time: 25ms
+12/09 15:01:56:654 SEND: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000512}. ID=231001
+12/09 15:01:57:498 RECEIVE:cosname=MAIN_COS,status=Active,active_date=05/09/2013 02:17:51,{84922000512}Core{200000.0;31/12/2014 08:59:59},VOICE_ONNET{3000.0;15/09/2013 09:59:59},PROMOTION{65000.0;03/09/2023 09:59:59},PROMOTION_60{4600.0;11/11/2013 08:59:59},. ID=231001. costTime=843
+12/09 15:01:57:513 Update order(84922000512) cost time: 11ms
+12/09 15:01:57:514 84922000512: LOYALTY - LOYALTY.VALIDATE
+12/09 15:01:57:515 orderId = 125409802 | requestId = 0 | orderDate = 2013/09/12 15:01:56 | userName = system | subProductId = 52789556 | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 100.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+12/09 15:22:57:250 Order Routing started
+12/09 15:23:01:711 Testing connection ...
+12/09 15:23:02:613 Created provisioning instance for CCWS
+12/09 15:23:02:614 Testing connection are success
+12/09 15:23:02:614 Starting process session
+12/09 15:23:04:681 Total 0 instances are started
+12/09 15:23:04:682 Total 1 instances are added
+12/09 15:23:23:981 Close pool
+12/09 15:23:24:082 Close queue connection pool.
+12/09 15:23:24:087 End of process session
+12/09 15:23:24:088 Order Routing stopped
+12/09 15:23:26:000 Order Routing started
+12/09 15:23:26:023 Close pool
+12/09 15:23:26:024 Close pool
+12/09 15:23:26:025 Testing connection ...
+12/09 15:23:26:031 Created provisioning instance for CCWS
+12/09 15:23:26:032 Testing connection are success
+12/09 15:23:26:033 Starting process session
+12/09 15:23:26:822 Total 0 instances are started
+12/09 15:23:26:823 Total 1 instances are added
+12/09 15:23:28:253 java.sql.SQLException: ORA-00942: table or view does not exist
+
+12/09 15:23:28:255 orderId = 0 | requestId = 0 | orderDate = 2013/09/12 15:23:28 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000512 | subscriberType = -1 | shipTo =  | actionType = redeem | productId = 274 | amount = 0.0 | provisioningType = SMSC | commandId = 0 | cause = create-order-fail | status = 4 | description =  | balance = 
+12/09 15:23:28:275 java.lang.NullPointerException: null
+12/09 15:23:28:379 Total 0 instances are started
+12/09 15:23:28:380 Total 1 instances are added
+12/09 15:23:55:030 Close pool
+12/09 15:23:55:131 Close queue connection pool.
+12/09 15:23:55:136 End of process session
+12/09 15:23:55:137 Order Routing stopped
+12/09 15:23:57:045 Order Routing started
+12/09 15:23:57:068 Close pool
+12/09 15:23:57:068 Close pool
+12/09 15:23:57:069 Testing connection ...
+12/09 15:23:57:076 Created provisioning instance for CCWS
+12/09 15:23:57:077 Testing connection are success
+12/09 15:23:57:078 Starting process session
+12/09 15:23:57:877 Total 0 instances are started
+12/09 15:23:57:878 Total 1 instances are added
+12/09 15:24:01:286 Create order(84922000512) cost time: 67ms
+12/09 15:24:01:314 SEND: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000512}. ID=232001
+12/09 15:24:02:444 RECEIVE:cosname=MAIN_COS,status=Active,active_date=05/09/2013 02:17:51,{84922000512}Core{200000.0;31/12/2014 08:59:59},VOICE_ONNET{3000.0;15/09/2013 09:59:59},PROMOTION{65000.0;03/09/2023 09:59:59},PROMOTION_60{4600.0;11/11/2013 08:59:59},. ID=232001. costTime=1129
+12/09 15:24:02:466 Update order(84922000512) cost time: 14ms
+12/09 15:24:02:468 84922000512: LOYALTY - LOYALTY.VALIDATE
+12/09 15:24:02:469 orderId = 125409804 | requestId = 0 | orderDate = 2013/09/12 15:24:01 | userName = system | subProductId = 52789556 | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 100.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+12/09 15:24:19:261 Create order(84922000512) cost time: 9ms
+12/09 15:24:19:267 SEND: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000512}. ID=232003
+12/09 15:24:19:375 RECEIVE:cosname=MAIN_COS,status=Active,active_date=05/09/2013 02:17:51,{84922000512}Core{200000.0;31/12/2014 08:59:59},VOICE_ONNET{3000.0;15/09/2013 09:59:59},PROMOTION{65000.0;03/09/2023 09:59:59},PROMOTION_60{4700.0;11/11/2013 08:59:59},. ID=232003. costTime=108
+12/09 15:24:19:381 Update order(84922000512) cost time: 4ms
+12/09 15:24:19:382 84922000512: LOYALTY - LOYALTY.VALIDATE
+12/09 15:24:19:383 orderId = 125409805 | requestId = 0 | orderDate = 2013/09/12 15:24:19 | userName = system | subProductId = 52789556 | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 100.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+12/09 15:24:44:099 Close pool
+12/09 15:24:44:200 Close queue connection pool.
+12/09 15:24:44:204 End of process session
+12/09 15:24:44:205 Order Routing stopped
+12/09 15:24:46:114 Order Routing started
+12/09 15:24:46:138 Close pool
+12/09 15:24:46:139 Close pool
+12/09 15:24:46:139 Testing connection ...
+12/09 15:24:46:148 Created provisioning instance for CCWS
+12/09 15:24:46:149 Testing connection are success
+12/09 15:24:46:149 Starting process session
+12/09 15:24:46:858 Total 0 instances are started
+12/09 15:24:46:859 Total 1 instances are added
+12/09 15:24:48:308 Create order(84922000512) cost time: 17ms
+12/09 15:24:48:328 SEND: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000512}. ID=232004
+12/09 15:24:48:455 RECEIVE:cosname=MAIN_COS,status=Active,active_date=05/09/2013 02:17:51,{84922000512}Core{200000.0;31/12/2014 08:59:59},VOICE_ONNET{3000.0;15/09/2013 09:59:59},PROMOTION{65000.0;03/09/2023 09:59:59},PROMOTION_60{4700.0;11/11/2013 08:59:59},. ID=232004. costTime=127
+12/09 15:24:48:467 Update order(84922000512) cost time: 9ms
+12/09 15:24:48:467 84922000512: LOYALTY - LOYALTY.VALIDATE
+12/09 15:24:48:468 orderId = 125409806 | requestId = 0 | orderDate = 2013/09/12 15:24:48 | userName = system | subProductId = 52789556 | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 100.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+12/09 15:25:11:992 Order Routing started
+12/09 15:25:16:368 Testing connection ...
+12/09 15:25:17:531 Created provisioning instance for CCWS
+12/09 15:25:17:531 Testing connection are success
+12/09 15:25:17:531 Starting process session
+12/09 15:25:19:105 Total 0 instances are started
+12/09 15:25:19:106 Total 1 instances are added
+12/09 15:25:36:170 Order Routing started
+12/09 15:25:40:484 Testing connection ...
+12/09 15:25:41:480 Created provisioning instance for CCWS
+12/09 15:25:41:481 Testing connection are success
+12/09 15:25:41:481 Starting process session
+12/09 15:25:43:170 Total 0 instances are started
+12/09 15:25:43:171 Total 1 instances are added
+12/09 15:25:52:984 Create order(84922000512) cost time: 30ms
+12/09 15:25:53:027 SEND: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000512}. ID=234001
+12/09 15:25:54:021 RECEIVE:cosname=MAIN_COS,status=Active,active_date=05/09/2013 02:17:51,{84922000512}Core{200000.0;31/12/2014 08:59:59},VOICE_ONNET{3000.0;15/09/2013 09:59:59},PROMOTION{65000.0;03/09/2023 09:59:59},PROMOTION_60{4800.0;11/11/2013 08:59:59},. ID=234001. costTime=992
+12/09 15:25:54:048 Update order(84922000512) cost time: 19ms
+12/09 15:25:54:050 84922000512: LOYALTY - LOYALTY.VALIDATE
+12/09 15:25:54:051 orderId = 125409807 | requestId = 0 | orderDate = 2013/09/12 15:25:52 | userName = system | subProductId = 52789556 | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 100.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+12/09 16:10:52:228 Order Routing started
+12/09 16:10:56:226 Testing connection ...
+12/09 16:10:56:958 Created provisioning instance for CCWS
+12/09 16:10:56:959 Testing connection are success
+12/09 16:10:56:959 Starting process session
+12/09 16:10:58:552 Total 0 instances are started
+12/09 16:10:58:552 Total 1 instances are added
+12/09 16:10:59:578 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:10:59:579 Consumer was closed, reconnect.
+12/09 16:10:59:784 Total 0 instances are started
+12/09 16:10:59:784 Total 1 instances are added
+12/09 16:11:00:798 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:11:00:798 Consumer was closed, reconnect.
+12/09 16:11:00:906 Total 0 instances are started
+12/09 16:11:01:009 Total 1 instances are added
+12/09 16:11:01:935 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:11:01:935 Consumer was closed, reconnect.
+12/09 16:11:02:043 Total 0 instances are started
+12/09 16:11:02:043 Total 1 instances are added
+12/09 16:11:03:111 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:11:03:111 Consumer was closed, reconnect.
+12/09 16:11:03:215 Total 0 instances are started
+12/09 16:11:03:215 Total 1 instances are added
+12/09 16:11:04:282 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:11:04:282 Consumer was closed, reconnect.
+12/09 16:11:04:391 Total 0 instances are started
+12/09 16:11:04:392 Total 1 instances are added
+12/09 16:11:05:424 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:11:05:424 Consumer was closed, reconnect.
+12/09 16:11:05:526 Total 0 instances are started
+12/09 16:11:05:527 Total 1 instances are added
+12/09 16:11:06:550 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:11:06:550 Consumer was closed, reconnect.
+12/09 16:11:06:653 Total 0 instances are started
+12/09 16:11:06:653 Total 1 instances are added
+12/09 16:11:07:665 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:11:07:665 Consumer was closed, reconnect.
+12/09 16:11:07:768 Total 0 instances are started
+12/09 16:11:07:768 Total 1 instances are added
+12/09 16:11:08:796 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:11:08:796 Consumer was closed, reconnect.
+12/09 16:11:08:905 Total 0 instances are started
+12/09 16:11:09:075 Total 1 instances are added
+12/09 16:11:09:920 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:11:09:920 Consumer was closed, reconnect.
+12/09 16:11:10:030 Total 0 instances are started
+12/09 16:11:10:030 Total 1 instances are added
+12/09 16:11:11:055 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:11:11:055 Consumer was closed, reconnect.
+12/09 16:11:11:160 Total 0 instances are started
+12/09 16:11:11:160 Total 1 instances are added
+12/09 16:11:12:216 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:11:12:216 Consumer was closed, reconnect.
+12/09 16:11:12:324 Total 0 instances are started
+12/09 16:11:12:324 Total 1 instances are added
+12/09 16:11:13:346 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:11:13:346 Consumer was closed, reconnect.
+12/09 16:11:13:448 Total 0 instances are started
+12/09 16:11:13:448 Total 1 instances are added
+12/09 16:11:14:471 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:11:14:472 Consumer was closed, reconnect.
+12/09 16:11:14:574 Total 0 instances are started
+12/09 16:11:14:574 Total 1 instances are added
+12/09 16:11:15:598 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:11:15:599 Consumer was closed, reconnect.
+12/09 16:11:15:700 Total 0 instances are started
+12/09 16:11:15:700 Total 1 instances are added
+12/09 16:11:16:724 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:11:16:724 Consumer was closed, reconnect.
+12/09 16:11:16:830 Total 0 instances are started
+12/09 16:11:16:830 Total 1 instances are added
+12/09 16:11:17:860 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:11:17:860 Consumer was closed, reconnect.
+12/09 16:11:17:963 Total 0 instances are started
+12/09 16:11:17:963 Total 1 instances are added
+12/09 16:11:18:984 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:11:18:984 Consumer was closed, reconnect.
+12/09 16:11:19:086 Total 0 instances are started
+12/09 16:11:19:086 Total 1 instances are added
+12/09 16:11:20:191 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:11:20:191 Consumer was closed, reconnect.
+12/09 16:11:20:297 Total 0 instances are started
+12/09 16:11:20:297 Total 1 instances are added
+12/09 16:11:21:327 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:11:21:327 Consumer was closed, reconnect.
+12/09 16:11:21:433 Total 0 instances are started
+12/09 16:11:21:433 Total 1 instances are added
+12/09 16:11:22:761 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:11:22:761 Consumer was closed, reconnect.
+12/09 16:11:22:861 Total 0 instances are started
+12/09 16:11:22:861 Total 1 instances are added
+12/09 16:11:23:884 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:11:23:885 Consumer was closed, reconnect.
+12/09 16:11:23:993 Total 0 instances are started
+12/09 16:11:23:993 Total 1 instances are added
+12/09 16:11:25:029 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:11:25:030 Consumer was closed, reconnect.
+12/09 16:11:25:135 Total 0 instances are started
+12/09 16:11:25:135 Total 1 instances are added
+12/09 16:11:26:152 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:11:26:153 Consumer was closed, reconnect.
+12/09 16:11:26:255 Total 0 instances are started
+12/09 16:11:26:255 Total 1 instances are added
+12/09 16:11:27:265 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:11:27:265 Consumer was closed, reconnect.
+12/09 16:11:27:367 Total 0 instances are started
+12/09 16:11:27:367 Total 1 instances are added
+12/09 16:11:28:382 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:11:28:382 Consumer was closed, reconnect.
+12/09 16:11:28:489 Total 0 instances are started
+12/09 16:11:28:489 Total 1 instances are added
+12/09 16:11:29:521 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:11:29:521 Consumer was closed, reconnect.
+12/09 16:11:29:631 Total 0 instances are started
+12/09 16:11:29:631 Total 1 instances are added
+12/09 16:11:30:651 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:11:30:651 Consumer was closed, reconnect.
+12/09 16:11:30:756 Total 0 instances are started
+12/09 16:11:30:756 Total 1 instances are added
+12/09 16:11:31:781 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:11:31:781 Consumer was closed, reconnect.
+12/09 16:11:31:886 Total 0 instances are started
+12/09 16:11:31:886 Total 1 instances are added
+12/09 16:11:32:900 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:11:32:900 Consumer was closed, reconnect.
+12/09 16:11:33:007 Total 0 instances are started
+12/09 16:11:33:007 Total 1 instances are added
+12/09 16:11:34:040 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:11:34:040 Consumer was closed, reconnect.
+12/09 16:11:34:144 Total 0 instances are started
+12/09 16:11:34:144 Total 1 instances are added
+12/09 16:11:35:259 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:11:35:260 Consumer was closed, reconnect.
+12/09 16:11:35:365 Total 0 instances are started
+12/09 16:11:35:366 Total 1 instances are added
+12/09 16:11:36:399 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:11:36:400 Consumer was closed, reconnect.
+12/09 16:11:36:502 Total 0 instances are started
+12/09 16:11:36:502 Total 1 instances are added
+12/09 16:11:37:544 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:11:37:544 Consumer was closed, reconnect.
+12/09 16:11:37:648 Total 0 instances are started
+12/09 16:11:37:648 Total 1 instances are added
+12/09 16:11:38:676 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:11:38:677 Consumer was closed, reconnect.
+12/09 16:11:38:786 Total 0 instances are started
+12/09 16:11:38:787 Total 1 instances are added
+12/09 16:11:39:799 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:11:39:799 Consumer was closed, reconnect.
+12/09 16:11:39:908 Total 0 instances are started
+12/09 16:11:39:908 Total 1 instances are added
+12/09 16:11:40:943 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:11:40:944 Consumer was closed, reconnect.
+12/09 16:11:41:045 Total 0 instances are started
+12/09 16:11:41:046 Total 1 instances are added
+12/09 16:11:42:077 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:11:42:077 Consumer was closed, reconnect.
+12/09 16:11:42:180 Total 0 instances are started
+12/09 16:11:42:180 Total 1 instances are added
+12/09 16:11:43:205 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:11:43:206 Consumer was closed, reconnect.
+12/09 16:11:43:307 Total 0 instances are started
+12/09 16:11:43:308 Total 1 instances are added
+12/09 16:11:43:419 Total 0 instances are started
+12/09 16:11:43:419 Total 1 instances are added
+12/09 16:11:44:586 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:11:44:587 Consumer was closed, reconnect.
+12/09 16:11:44:688 Total 0 instances are started
+12/09 16:11:44:688 Total 1 instances are added
+12/09 16:11:45:704 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:11:45:704 Consumer was closed, reconnect.
+12/09 16:11:45:806 Total 0 instances are started
+12/09 16:11:45:806 Total 1 instances are added
+12/09 16:11:47:094 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:11:47:096 Consumer was closed, reconnect.
+12/09 16:11:47:206 Total 0 instances are started
+12/09 16:11:47:208 Total 1 instances are added
+12/09 16:11:47:890 Close pool
+12/09 16:11:47:990 Close queue connection pool.
+12/09 16:11:47:990 End of process session
+12/09 16:11:47:991 Order Routing stopped
+12/09 16:11:48:245 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:11:48:246 Consumer was closed, reconnect.
+12/09 16:11:49:902 Order Routing started
+12/09 16:11:49:924 Close pool
+12/09 16:11:49:925 Close pool
+12/09 16:11:49:926 Testing connection ...
+12/09 16:11:49:930 Created provisioning instance for CCWS
+12/09 16:11:49:930 Testing connection are success
+12/09 16:11:49:931 Starting process session
+12/09 16:11:50:766 Total 0 instances are started
+12/09 16:11:50:766 Total 1 instances are added
+12/09 16:11:51:785 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:11:51:786 Consumer was closed, reconnect.
+12/09 16:11:51:897 Total 0 instances are started
+12/09 16:11:51:898 Total 1 instances are added
+12/09 16:11:53:030 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:11:53:030 Consumer was closed, reconnect.
+12/09 16:11:53:138 Total 0 instances are started
+12/09 16:11:53:139 Total 1 instances are added
+12/09 16:11:54:154 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:11:54:155 Consumer was closed, reconnect.
+12/09 16:11:54:259 Total 0 instances are started
+12/09 16:11:54:259 Total 1 instances are added
+12/09 16:11:55:280 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:11:55:280 Consumer was closed, reconnect.
+12/09 16:11:55:389 Total 0 instances are started
+12/09 16:11:55:389 Total 1 instances are added
+12/09 16:11:56:411 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:11:56:411 Consumer was closed, reconnect.
+12/09 16:11:56:517 Total 0 instances are started
+12/09 16:11:56:517 Total 1 instances are added
+12/09 16:11:57:527 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:11:57:528 Consumer was closed, reconnect.
+12/09 16:11:57:637 Total 0 instances are started
+12/09 16:11:57:638 Total 1 instances are added
+12/09 16:11:58:663 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:11:58:663 Consumer was closed, reconnect.
+12/09 16:11:58:767 Total 0 instances are started
+12/09 16:11:58:768 Total 1 instances are added
+12/09 16:11:59:780 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:11:59:781 Consumer was closed, reconnect.
+12/09 16:11:59:899 Total 0 instances are started
+12/09 16:11:59:899 Total 1 instances are added
+12/09 16:12:01:270 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:12:01:271 Consumer was closed, reconnect.
+12/09 16:12:01:372 Total 0 instances are started
+12/09 16:12:01:373 Total 1 instances are added
+12/09 16:12:02:395 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:12:02:396 Consumer was closed, reconnect.
+12/09 16:12:02:500 Total 0 instances are started
+12/09 16:12:02:500 Total 1 instances are added
+12/09 16:12:03:532 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:12:03:533 Consumer was closed, reconnect.
+12/09 16:12:03:634 Total 0 instances are started
+12/09 16:12:03:634 Total 1 instances are added
+12/09 16:12:04:654 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:12:04:654 Consumer was closed, reconnect.
+12/09 16:12:04:759 Total 0 instances are started
+12/09 16:12:04:759 Total 1 instances are added
+12/09 16:12:06:264 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:12:06:265 Consumer was closed, reconnect.
+12/09 16:12:06:367 Total 0 instances are started
+12/09 16:12:06:368 Total 1 instances are added
+12/09 16:12:07:398 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:12:07:398 Consumer was closed, reconnect.
+12/09 16:12:07:504 Total 0 instances are started
+12/09 16:12:07:505 Total 1 instances are added
+12/09 16:12:08:534 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:12:08:535 Consumer was closed, reconnect.
+12/09 16:12:08:638 Total 0 instances are started
+12/09 16:12:08:641 Total 1 instances are added
+12/09 16:12:09:665 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:12:09:665 Consumer was closed, reconnect.
+12/09 16:12:09:773 Total 0 instances are started
+12/09 16:12:09:773 Total 1 instances are added
+12/09 16:12:10:794 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:12:10:794 Consumer was closed, reconnect.
+12/09 16:12:10:903 Total 0 instances are started
+12/09 16:12:10:986 Total 1 instances are added
+12/09 16:12:11:915 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:12:11:915 Consumer was closed, reconnect.
+12/09 16:12:12:024 Total 0 instances are started
+12/09 16:12:12:025 Total 1 instances are added
+12/09 16:12:12:909 Close pool
+12/09 16:12:13:040 Close queue connection pool.
+12/09 16:12:13:040 End of process session
+12/09 16:12:13:041 Order Routing stopped
+12/09 16:12:13:053 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:12:13:053 Consumer was closed, reconnect.
+12/09 16:12:14:982 Order Routing started
+12/09 16:12:15:005 Close pool
+12/09 16:12:15:006 Close pool
+12/09 16:12:15:006 Testing connection ...
+12/09 16:12:15:049 Created provisioning instance for CCWS
+12/09 16:12:15:050 Testing connection are success
+12/09 16:12:15:050 Starting process session
+12/09 16:12:15:782 Total 0 instances are started
+12/09 16:12:15:783 Total 1 instances are added
+12/09 16:12:16:799 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:12:16:800 Consumer was closed, reconnect.
+12/09 16:12:16:907 Total 0 instances are started
+12/09 16:12:16:974 Total 1 instances are added
+12/09 16:12:17:934 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:12:17:935 Consumer was closed, reconnect.
+12/09 16:12:18:036 Total 0 instances are started
+12/09 16:12:18:036 Total 1 instances are added
+12/09 16:12:19:059 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:12:19:060 Consumer was closed, reconnect.
+12/09 16:12:19:168 Total 0 instances are started
+12/09 16:12:19:168 Total 1 instances are added
+12/09 16:12:20:182 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:12:20:183 Consumer was closed, reconnect.
+12/09 16:12:20:289 Total 0 instances are started
+12/09 16:12:20:289 Total 1 instances are added
+12/09 16:12:21:312 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:12:21:313 Consumer was closed, reconnect.
+12/09 16:12:21:421 Total 0 instances are started
+12/09 16:12:21:421 Total 1 instances are added
+12/09 16:12:22:443 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:12:22:443 Consumer was closed, reconnect.
+12/09 16:12:22:552 Total 0 instances are started
+12/09 16:12:22:552 Total 1 instances are added
+12/09 16:12:23:574 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:12:23:575 Consumer was closed, reconnect.
+12/09 16:12:23:678 Total 0 instances are started
+12/09 16:12:23:679 Total 1 instances are added
+12/09 16:12:24:698 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:12:24:698 Consumer was closed, reconnect.
+12/09 16:12:24:809 Total 0 instances are started
+12/09 16:12:24:810 Total 1 instances are added
+12/09 16:12:25:823 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:12:25:823 Consumer was closed, reconnect.
+12/09 16:12:25:930 Total 0 instances are started
+12/09 16:12:25:931 Total 1 instances are added
+12/09 16:12:27:030 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:12:27:030 Consumer was closed, reconnect.
+12/09 16:12:27:134 Total 0 instances are started
+12/09 16:12:27:149 Total 1 instances are added
+12/09 16:12:28:155 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:12:28:155 Consumer was closed, reconnect.
+12/09 16:12:28:262 Total 0 instances are started
+12/09 16:12:28:262 Total 1 instances are added
+12/09 16:12:29:290 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:12:29:290 Consumer was closed, reconnect.
+12/09 16:12:29:397 Total 0 instances are started
+12/09 16:12:29:397 Total 1 instances are added
+12/09 16:12:30:417 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:12:30:418 Consumer was closed, reconnect.
+12/09 16:12:30:522 Total 0 instances are started
+12/09 16:12:30:523 Total 1 instances are added
+12/09 16:12:31:548 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:12:31:548 Consumer was closed, reconnect.
+12/09 16:12:31:657 Total 0 instances are started
+12/09 16:12:31:658 Total 1 instances are added
+12/09 16:12:32:674 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:12:32:675 Consumer was closed, reconnect.
+12/09 16:12:32:780 Total 0 instances are started
+12/09 16:12:32:781 Total 1 instances are added
+12/09 16:12:33:815 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:12:33:815 Consumer was closed, reconnect.
+12/09 16:12:33:924 Total 0 instances are started
+12/09 16:12:33:924 Total 1 instances are added
+12/09 16:12:35:038 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:12:35:039 Consumer was closed, reconnect.
+12/09 16:12:35:142 Total 0 instances are started
+12/09 16:12:35:142 Total 1 instances are added
+12/09 16:12:36:163 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:12:36:163 Consumer was closed, reconnect.
+12/09 16:12:36:273 Total 0 instances are started
+12/09 16:12:36:274 Total 1 instances are added
+12/09 16:12:37:293 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:12:37:293 Consumer was closed, reconnect.
+12/09 16:12:37:408 Total 0 instances are started
+12/09 16:12:37:409 Total 1 instances are added
+12/09 16:12:38:436 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:12:38:436 Consumer was closed, reconnect.
+12/09 16:12:38:541 Total 0 instances are started
+12/09 16:12:38:541 Total 1 instances are added
+12/09 16:12:39:559 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:12:39:560 Consumer was closed, reconnect.
+12/09 16:12:39:663 Total 0 instances are started
+12/09 16:12:39:663 Total 1 instances are added
+12/09 16:12:40:682 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:12:40:682 Consumer was closed, reconnect.
+12/09 16:12:40:784 Total 0 instances are started
+12/09 16:12:40:784 Total 1 instances are added
+12/09 16:12:41:800 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:12:41:801 Consumer was closed, reconnect.
+12/09 16:12:41:906 Total 0 instances are started
+12/09 16:12:41:907 Total 1 instances are added
+12/09 16:12:42:921 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:12:42:922 Consumer was closed, reconnect.
+12/09 16:12:43:031 Total 0 instances are started
+12/09 16:12:43:031 Total 1 instances are added
+12/09 16:12:44:067 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:12:44:068 Consumer was closed, reconnect.
+12/09 16:12:44:173 Total 0 instances are started
+12/09 16:12:44:174 Total 1 instances are added
+12/09 16:12:45:195 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:12:45:195 Consumer was closed, reconnect.
+12/09 16:12:45:305 Total 0 instances are started
+12/09 16:12:45:305 Total 1 instances are added
+12/09 16:12:46:339 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:12:46:339 Consumer was closed, reconnect.
+12/09 16:12:46:448 Total 0 instances are started
+12/09 16:12:46:449 Total 1 instances are added
+12/09 16:12:47:471 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:12:47:472 Consumer was closed, reconnect.
+12/09 16:12:47:579 Total 0 instances are started
+12/09 16:12:47:579 Total 1 instances are added
+12/09 16:12:48:596 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:12:48:596 Consumer was closed, reconnect.
+12/09 16:12:48:700 Total 0 instances are started
+12/09 16:12:48:700 Total 1 instances are added
+12/09 16:12:49:731 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:12:49:731 Consumer was closed, reconnect.
+12/09 16:12:49:840 Total 0 instances are started
+12/09 16:12:49:840 Total 1 instances are added
+12/09 16:12:51:108 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:12:51:109 Consumer was closed, reconnect.
+12/09 16:12:51:212 Total 0 instances are started
+12/09 16:12:51:212 Total 1 instances are added
+12/09 16:12:52:229 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:12:52:230 Consumer was closed, reconnect.
+12/09 16:12:52:333 Total 0 instances are started
+12/09 16:12:52:333 Total 1 instances are added
+12/09 16:12:53:349 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:12:53:349 Consumer was closed, reconnect.
+12/09 16:12:53:454 Total 0 instances are started
+12/09 16:12:53:454 Total 1 instances are added
+12/09 16:12:54:485 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:12:54:485 Consumer was closed, reconnect.
+12/09 16:12:54:590 Total 0 instances are started
+12/09 16:12:54:590 Total 1 instances are added
+12/09 16:12:55:618 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:12:55:618 Consumer was closed, reconnect.
+12/09 16:12:55:726 Total 0 instances are started
+12/09 16:12:55:727 Total 1 instances are added
+12/09 16:12:56:745 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:12:56:746 Consumer was closed, reconnect.
+12/09 16:12:56:848 Total 0 instances are started
+12/09 16:12:57:002 Total 1 instances are added
+12/09 16:12:57:870 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:12:57:871 Consumer was closed, reconnect.
+12/09 16:12:57:972 Total 0 instances are started
+12/09 16:12:57:973 Total 1 instances are added
+12/09 16:12:59:000 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:12:59:000 Consumer was closed, reconnect.
+12/09 16:12:59:109 Total 0 instances are started
+12/09 16:12:59:110 Total 1 instances are added
+12/09 16:13:00:133 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:13:00:134 Consumer was closed, reconnect.
+12/09 16:13:00:237 Total 0 instances are started
+12/09 16:13:00:238 Total 1 instances are added
+12/09 16:13:01:248 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:13:01:248 Consumer was closed, reconnect.
+12/09 16:13:01:356 Total 0 instances are started
+12/09 16:13:01:356 Total 1 instances are added
+12/09 16:13:02:381 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:13:02:382 Consumer was closed, reconnect.
+12/09 16:13:02:489 Total 0 instances are started
+12/09 16:13:02:489 Total 1 instances are added
+12/09 16:13:03:515 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:13:03:516 Consumer was closed, reconnect.
+12/09 16:13:03:618 Total 0 instances are started
+12/09 16:13:03:618 Total 1 instances are added
+12/09 16:13:04:645 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:13:04:646 Consumer was closed, reconnect.
+12/09 16:13:04:748 Total 0 instances are started
+12/09 16:13:04:749 Total 1 instances are added
+12/09 16:13:05:765 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:13:05:766 Consumer was closed, reconnect.
+12/09 16:13:05:869 Total 0 instances are started
+12/09 16:13:05:869 Total 1 instances are added
+12/09 16:13:06:983 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:13:06:983 Consumer was closed, reconnect.
+12/09 16:13:07:090 Total 0 instances are started
+12/09 16:13:07:090 Total 1 instances are added
+12/09 16:13:08:100 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:13:08:101 Consumer was closed, reconnect.
+12/09 16:13:08:202 Total 0 instances are started
+12/09 16:13:08:202 Total 1 instances are added
+12/09 16:13:09:226 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:13:09:226 Consumer was closed, reconnect.
+12/09 16:13:09:333 Total 0 instances are started
+12/09 16:13:09:333 Total 1 instances are added
+12/09 16:13:10:350 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:13:10:351 Consumer was closed, reconnect.
+12/09 16:13:10:460 Total 0 instances are started
+12/09 16:13:10:460 Total 1 instances are added
+12/09 16:13:11:484 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:13:11:484 Consumer was closed, reconnect.
+12/09 16:13:11:594 Total 0 instances are started
+12/09 16:13:11:594 Total 1 instances are added
+12/09 16:13:12:620 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:13:12:621 Consumer was closed, reconnect.
+12/09 16:13:12:725 Total 0 instances are started
+12/09 16:13:12:725 Total 1 instances are added
+12/09 16:13:13:739 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:13:13:739 Consumer was closed, reconnect.
+12/09 16:13:13:845 Total 0 instances are started
+12/09 16:13:13:845 Total 1 instances are added
+12/09 16:13:15:063 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:13:15:064 Consumer was closed, reconnect.
+12/09 16:13:15:169 Total 0 instances are started
+12/09 16:13:15:169 Total 1 instances are added
+12/09 16:13:16:190 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:13:16:190 Consumer was closed, reconnect.
+12/09 16:13:16:291 Total 0 instances are started
+12/09 16:13:16:291 Total 1 instances are added
+12/09 16:13:17:311 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:13:17:311 Consumer was closed, reconnect.
+12/09 16:13:17:420 Total 0 instances are started
+12/09 16:13:17:420 Total 1 instances are added
+12/09 16:13:18:467 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:13:18:468 Consumer was closed, reconnect.
+12/09 16:13:18:578 Total 0 instances are started
+12/09 16:13:18:718 Total 1 instances are added
+12/09 16:13:19:594 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:13:19:595 Consumer was closed, reconnect.
+12/09 16:13:19:697 Total 0 instances are started
+12/09 16:13:19:698 Total 1 instances are added
+12/09 16:13:20:729 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:13:20:729 Consumer was closed, reconnect.
+12/09 16:13:20:830 Total 0 instances are started
+12/09 16:13:21:071 Total 1 instances are added
+12/09 16:13:21:844 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:13:21:845 Consumer was closed, reconnect.
+12/09 16:13:21:952 Total 0 instances are started
+12/09 16:13:21:952 Total 1 instances are added
+12/09 16:13:23:282 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:13:23:282 Consumer was closed, reconnect.
+12/09 16:13:23:393 Total 0 instances are started
+12/09 16:13:23:393 Total 1 instances are added
+12/09 16:13:24:431 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.73:7676]. - cause: java.net.ConnectException: Connection refused: connect
+12/09 16:13:24:431 Consumer was closed, reconnect.
+12/09 16:13:24:534 Total 0 instances are started
+12/09 16:13:24:535 Total 1 instances are added
+12/09 16:13:40:038 Close pool
+12/09 16:13:40:138 Close queue connection pool.
+12/09 16:13:40:145 End of process session
+12/09 16:13:40:146 Order Routing stopped
+12/09 16:13:42:056 Order Routing started
+12/09 16:13:42:079 Close pool
+12/09 16:13:42:079 Close pool
+12/09 16:13:42:079 Testing connection ...
+12/09 16:13:42:083 Created provisioning instance for CCWS
+12/09 16:13:42:084 Testing connection are success
+12/09 16:13:42:084 Starting process session
+12/09 16:13:42:967 Total 0 instances are started
+12/09 16:13:42:968 Total 1 instances are added
+12/09 16:15:18:450 Create order(84922000512) cost time: 54ms
+12/09 16:15:18:550 SEND: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000512}. ID=235001
+12/09 16:15:20:120 RECEIVE:cosname=MAIN_COS,status=Active,active_date=05/09/2013 02:17:51,{84922000512}Core{200000.0;31/12/2014 08:59:59},VOICE_ONNET{3000.0;15/09/2013 09:59:59},PROMOTION{65000.0;03/09/2023 09:59:59},PROMOTION_60{4900.0;11/11/2013 08:59:59},. ID=235001. costTime=1569
+12/09 16:15:20:134 Update order(84922000512) cost time: 10ms
+12/09 16:15:20:161 84922000512: LOYALTY - LOYALTY.VALIDATE
+12/09 16:15:20:162 orderId = 125409808 | requestId = 0 | orderDate = 2013/09/12 16:15:18 | userName = system | subProductId = 52789556 | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 49 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 4.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+12/09 16:18:40:130 Close pool
+12/09 16:18:40:230 Close queue connection pool.
+12/09 16:18:40:235 End of process session
+12/09 16:18:40:236 Order Routing stopped
+12/09 16:18:42:146 Order Routing started
+12/09 16:18:42:170 Close pool
+12/09 16:18:42:171 Close pool
+12/09 16:18:42:171 Testing connection ...
+12/09 16:18:42:175 Created provisioning instance for CCWS
+12/09 16:18:42:175 Testing connection are success
+12/09 16:18:42:176 Starting process session
+12/09 16:18:43:068 Total 0 instances are started
+12/09 16:18:43:069 Total 1 instances are added
+12/09 16:18:46:333 Create order(84922000512) cost time: 19ms
+12/09 16:18:46:353 SEND: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000512}. ID=235002
+12/09 16:18:46:466 RECEIVE:cosname=MAIN_COS,status=Active,active_date=05/09/2013 02:17:51,{84922000512}Core{200000.0;31/12/2014 08:59:59},VOICE_ONNET{3000.0;15/09/2013 09:59:59},PROMOTION{65000.0;03/09/2023 09:59:59},PROMOTION_60{4900.0;11/11/2013 08:59:59},. ID=235002. costTime=112
+12/09 16:18:46:477 Update order(84922000512) cost time: 9ms
+12/09 16:18:46:478 84922000512: LOYALTY - LOYALTY.VALIDATE
+12/09 16:18:46:479 orderId = 125409809 | requestId = 0 | orderDate = 2013/09/12 16:18:46 | userName = system | subProductId = 52789556 | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 49 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 4.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+12/09 16:19:05:521 Order Routing started
+12/09 16:19:07:258 Testing connection ...
+12/09 16:19:10:203 Created provisioning instance for CCWS
+12/09 16:19:10:204 Testing connection are success
+12/09 16:19:10:204 Starting process session
+12/09 16:19:11:938 Total 0 instances are started
+12/09 16:19:11:939 Total 1 instances are added
+12/09 16:19:24:500 Close pool
+12/09 16:19:24:600 Close queue connection pool.
+12/09 16:19:24:606 End of process session
+12/09 16:19:24:607 Order Routing stopped
+12/09 16:19:26:514 Order Routing started
+12/09 16:19:26:538 Close pool
+12/09 16:19:26:538 Close pool
+12/09 16:19:26:539 Testing connection ...
+12/09 16:19:26:542 Created provisioning instance for CCWS
+12/09 16:19:26:543 Testing connection are success
+12/09 16:19:26:544 Starting process session
+12/09 16:19:27:428 Total 0 instances are started
+12/09 16:19:27:429 Total 1 instances are added
+12/09 16:19:28:732 Create order(84922000512) cost time: 23ms
+12/09 16:19:28:763 SEND: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000512}. ID=236001
+12/09 16:19:29:638 RECEIVE:cosname=MAIN_COS,status=Active,active_date=05/09/2013 02:17:51,{84922000512}Core{200000.0;31/12/2014 08:59:59},VOICE_ONNET{3000.0;15/09/2013 09:59:59},PROMOTION{65000.0;03/09/2023 09:59:59},PROMOTION_60{4900.0;11/11/2013 08:59:59},. ID=236001. costTime=874
+12/09 16:19:29:652 Update order(84922000512) cost time: 10ms
+12/09 16:19:29:653 84922000512: LOYALTY - LOYALTY.VALIDATE
+12/09 16:19:29:654 orderId = 125409810 | requestId = 0 | orderDate = 2013/09/12 16:19:28 | userName = system | subProductId = 52789556 | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 49 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 4.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+12/09 16:19:55:721 Create order(84922000512) cost time: 9ms
+12/09 16:19:55:729 SEND: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000512}. ID=236002
+12/09 16:19:55:829 RECEIVE:cosname=MAIN_COS,status=Active,active_date=05/09/2013 02:17:51,{84922000512}Core{200000.0;31/12/2014 08:59:59},VOICE_ONNET{3000.0;15/09/2013 09:59:59},PROMOTION{65000.0;03/09/2023 09:59:59},PROMOTION_60{4900.0;11/11/2013 08:59:59},. ID=236002. costTime=100
+12/09 16:19:55:838 For input string: "AA"
+12/09 16:19:55:838 orderId = 125409811 | requestId = 0 | orderDate = 2013/09/12 16:19:55 | userName = system | subProductId = 52789556 | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM AA | isdn = 84922000512 | subscriberType = -1 | shipTo =  | actionType = redeem | productId = 274 | amount = 0.0 | provisioningType = SMSC | commandId = 0 | cause = error | status = 4 | description = null | balance = 
+12/09 16:19:55:852 For input string: "AA"
+12/09 16:19:55:954 Total 0 instances are started
+12/09 16:19:55:955 Total 1 instances are added
+12/09 16:33:32:601 Order Routing started
+12/09 16:33:36:679 Testing connection ...
+12/09 16:33:37:395 Created provisioning instance for CCWS
+12/09 16:33:37:396 Testing connection are success
+12/09 16:33:37:396 Starting process session
+12/09 16:33:38:880 Total 0 instances are started
+12/09 16:33:38:880 Total 1 instances are added
+12/09 16:34:41:458 Create order(84922000512) cost time: 27ms
+12/09 16:34:41:495 SEND: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000512}. ID=237001
+12/09 16:34:42:470 RECEIVE:cosname=MAIN_COS,status=Active,active_date=05/09/2013 02:17:51,{84922000512}Core{200000.0;31/12/2014 08:59:59},VOICE_ONNET{3000.0;15/09/2013 09:59:59},PROMOTION{65000.0;03/09/2023 09:59:59},PROMOTION_60{4900.0;11/11/2013 08:59:59},. ID=237001. costTime=974
+12/09 16:34:42:482 For input string: "AA"
+12/09 16:34:42:483 orderId = 125409812 | requestId = 0 | orderDate = 2013/09/12 16:34:41 | userName = system | subProductId = 52789556 | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM AA | isdn = 84922000512 | subscriberType = -1 | shipTo =  | actionType = redeem | productId = 274 | amount = 0.0 | provisioningType = SMSC | commandId = 0 | cause = error | status = 4 | description = null | balance = 
+12/09 16:34:42:503 For input string: "AA"
+12/09 16:34:42:609 Total 0 instances are started
+12/09 16:34:42:610 Total 1 instances are added
+12/09 16:36:44:746 Order Routing started
+12/09 16:36:49:057 Testing connection ...
+12/09 16:36:50:047 Created provisioning instance for CCWS
+12/09 16:36:50:047 Testing connection are success
+12/09 16:36:50:048 Starting process session
+12/09 16:36:51:810 Total 0 instances are started
+12/09 16:36:51:810 Total 1 instances are added
+12/09 16:37:03:489 Close pool
+12/09 16:37:03:590 Close queue connection pool.
+12/09 16:37:03:594 End of process session
+12/09 16:37:03:595 Order Routing stopped
+12/09 16:37:05:501 Order Routing started
+12/09 16:37:05:525 Close pool
+12/09 16:37:05:526 Close pool
+12/09 16:37:05:527 Testing connection ...
+12/09 16:37:05:534 Created provisioning instance for CCWS
+12/09 16:37:05:535 Testing connection are success
+12/09 16:37:05:536 Starting process session
+12/09 16:37:06:356 Total 0 instances are started
+12/09 16:37:06:357 Total 1 instances are added
+12/09 16:37:13:735 Create order(84922000512) cost time: 23ms
+12/09 16:37:13:790 SEND: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000512}. ID=238001
+12/09 16:37:14:874 RECEIVE:cosname=MAIN_COS,status=Active,active_date=05/09/2013 02:17:51,{84922000512}Core{200000.0;31/12/2014 08:59:59},VOICE_ONNET{3000.0;15/09/2013 09:59:59},PROMOTION{65000.0;03/09/2023 09:59:59},PROMOTION_60{4900.0;11/11/2013 08:59:59},. ID=238001. costTime=1082
+12/09 16:37:14:893 For input string: "AA"
+12/09 16:37:14:894 orderId = 125409813 | requestId = 0 | orderDate = 2013/09/12 16:37:13 | userName = system | subProductId = 52789556 | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM AA | isdn = 84922000512 | subscriberType = -1 | shipTo =  | actionType = redeem | productId = 274 | amount = 0.0 | provisioningType = SMSC | commandId = 0 | cause = error | status = 4 | description = null | balance = 
+12/09 16:37:14:918 For input string: "AA"
+12/09 16:37:15:019 Total 0 instances are started
+12/09 16:37:15:020 Total 1 instances are added
+12/09 16:42:38:787 invalid-syntax
+12/09 16:42:38:788 orderId = 0 | requestId = 0 | orderDate = 2013/09/12 16:42:38 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = DOI DIEMa 60 | isdn = 84922000512 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | amount = 0.0 | provisioningType = SMSC | commandId = 0 | cause = invalid-syntax | status = 4 | description = null | balance = 
+12/09 16:42:38:789 sendNotify: 84922000512 - Cu phap nhan tin khong hop le. Xin quy khach vui long kiem tra & thuc hien lai
+12/09 16:46:09:868 Create order(84922000512) cost time: 21ms
+12/09 16:46:09:896 SEND: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000512}. ID=238002
+12/09 16:46:10:020 RECEIVE:cosname=MAIN_COS,status=Active,active_date=05/09/2013 02:17:51,{84922000512}Core{200000.0;31/12/2014 08:59:59},VOICE_ONNET{3000.0;15/09/2013 09:59:59},PROMOTION{65000.0;03/09/2023 09:59:59},PROMOTION_60{4900.0;11/11/2013 08:59:59},. ID=238002. costTime=123
+12/09 16:46:10:035 For input string: "AA"
+12/09 16:46:10:036 orderId = 125409814 | requestId = 0 | orderDate = 2013/09/12 16:46:09 | userName = system | subProductId = 52789556 | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM AA | isdn = 84922000512 | subscriberType = -1 | shipTo =  | actionType = redeem | productId = 274 | amount = 0.0 | provisioningType = SMSC | commandId = 0 | cause = error | status = 4 | description = null | balance = 
+12/09 16:46:10:060 For input string: "AA"
+12/09 16:46:10:167 Total 0 instances are started
+12/09 16:46:10:168 Total 1 instances are added
+12/09 16:49:16:558 Order Routing started
+12/09 16:49:18:066 Testing connection ...
+12/09 16:49:21:035 Created provisioning instance for CCWS
+12/09 16:49:21:036 Testing connection are success
+12/09 16:49:21:036 Starting process session
+12/09 16:49:22:621 Total 0 instances are started
+12/09 16:49:22:621 Total 1 instances are added
+12/09 16:49:39:341 Close pool
+12/09 16:49:39:442 Close queue connection pool.
+12/09 16:49:39:448 End of process session
+12/09 16:49:39:449 Order Routing stopped
+12/09 16:49:41:355 Order Routing started
+12/09 16:49:41:376 Close pool
+12/09 16:49:41:377 Close pool
+12/09 16:49:41:378 Testing connection ...
+12/09 16:49:41:381 Created provisioning instance for CCWS
+12/09 16:49:41:382 Testing connection are success
+12/09 16:49:41:382 Starting process session
+12/09 16:49:42:217 Total 0 instances are started
+12/09 16:49:42:218 Total 1 instances are added
+12/09 16:49:43:566 Create order(84922000512) cost time: 23ms
+12/09 16:49:43:595 SEND: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000512}. ID=239001
+12/09 16:49:44:443 RECEIVE:cosname=MAIN_COS,status=Active,active_date=05/09/2013 02:17:51,{84922000512}Core{200000.0;31/12/2014 08:59:59},VOICE_ONNET{3000.0;15/09/2013 09:59:59},PROMOTION{65000.0;03/09/2023 09:59:59},PROMOTION_60{4900.0;11/11/2013 08:59:59},. ID=239001. costTime=848
+12/09 16:49:44:461 For input string: "AA"
+12/09 16:49:44:462 orderId = 125409815 | requestId = 0 | orderDate = 2013/09/12 16:49:43 | userName = system | subProductId = 52789556 | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM AA | isdn = 84922000512 | subscriberType = -1 | shipTo =  | actionType = redeem | productId = 274 | amount = 0.0 | provisioningType = SMSC | commandId = 0 | cause = error | status = 4 | description = null | balance = 
+12/09 16:49:44:486 For input string: "AA"
+12/09 16:49:44:591 Total 0 instances are started
+12/09 16:49:44:592 Total 1 instances are added
+12/09 16:51:03:491 Order Routing started
+12/09 16:51:06:942 Testing connection ...
+12/09 16:51:08:144 Created provisioning instance for CCWS
+12/09 16:51:08:145 Testing connection are success
+12/09 16:51:08:145 Starting process session
+12/09 16:51:09:969 Total 0 instances are started
+12/09 16:51:09:971 Total 1 instances are added
+12/09 16:51:33:251 Close pool
+12/09 16:51:33:352 Close queue connection pool.
+12/09 16:51:33:357 End of process session
+12/09 16:51:33:357 Order Routing stopped
+12/09 16:51:35:270 Order Routing started
+12/09 16:51:35:293 Close pool
+12/09 16:51:35:294 Close pool
+12/09 16:51:35:294 Testing connection ...
+12/09 16:51:35:298 Created provisioning instance for CCWS
+12/09 16:51:35:299 Testing connection are success
+12/09 16:51:35:299 Starting process session
+12/09 16:51:36:066 Total 0 instances are started
+12/09 16:51:36:067 Total 1 instances are added
+12/09 16:51:37:476 Create order(84922000512) cost time: 21ms
+12/09 16:51:37:503 SEND: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000512}. ID=240001
+12/09 16:51:38:351 RECEIVE:cosname=MAIN_COS,status=Active,active_date=05/09/2013 02:17:51,{84922000512}Core{200000.0;31/12/2014 08:59:59},VOICE_ONNET{3000.0;15/09/2013 09:59:59},PROMOTION{65000.0;03/09/2023 09:59:59},PROMOTION_60{4900.0;11/11/2013 08:59:59},. ID=240001. costTime=848
+12/09 16:51:38:366 For input string: "AA"
+12/09 16:51:38:367 orderId = 125409816 | requestId = 0 | orderDate = 2013/09/12 16:51:37 | userName = system | subProductId = 52789556 | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM AA | isdn = 84922000512 | subscriberType = -1 | shipTo =  | actionType = redeem | productId = 274 | amount = 0.0 | provisioningType = SMSC | commandId = 0 | cause = error | status = 4 | description = null | balance = 
+12/09 16:51:38:388 For input string: "AA"
+12/09 16:51:38:492 Total 0 instances are started
+12/09 16:51:38:493 Total 1 instances are added
+12/09 16:55:23:002 Order Routing started
+12/09 16:55:27:394 Testing connection ...
+12/09 16:55:28:169 Created provisioning instance for CCWS
+12/09 16:55:28:169 Testing connection are success
+12/09 16:55:28:170 Starting process session
+12/09 16:55:30:104 Total 0 instances are started
+12/09 16:55:30:105 Total 1 instances are added
+12/09 16:55:41:777 Close pool
+12/09 16:55:41:877 Close queue connection pool.
+12/09 16:55:41:882 End of process session
+12/09 16:55:41:883 Order Routing stopped
+12/09 16:55:43:797 Order Routing started
+12/09 16:55:43:825 Close pool
+12/09 16:55:43:825 Close pool
+12/09 16:55:43:826 Testing connection ...
+12/09 16:55:43:829 Created provisioning instance for CCWS
+12/09 16:55:43:830 Testing connection are success
+12/09 16:55:43:830 Starting process session
+12/09 16:55:44:633 Total 0 instances are started
+12/09 16:55:44:634 Total 1 instances are added
+12/09 16:55:57:051 Create order(84922000512) cost time: 33ms
+12/09 16:55:57:080 SEND: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000512}. ID=241001
+12/09 16:55:58:048 RECEIVE:cosname=MAIN_COS,status=Active,active_date=05/09/2013 02:17:51,{84922000512}Core{200000.0;31/12/2014 08:59:59},VOICE_ONNET{3000.0;15/09/2013 09:59:59},PROMOTION{65000.0;03/09/2023 09:59:59},PROMOTION_60{4900.0;11/11/2013 08:59:59},. ID=241001. costTime=966
+12/09 16:55:58:082 Update order(84922000512) cost time: 30ms
+12/09 16:55:58:083 84922000512: LOYALTY - LOYALTY.VALIDATE
+12/09 16:55:58:084 orderId = 125409817 | requestId = 0 | orderDate = 2013/09/12 16:55:57 | userName = system | subProductId = 52789556 | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM AA | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause = java.lang.NumberFormatException: For input string: "AA" | status = 1 | description =  | balance = 
+12/09 17:01:48:765 Order Routing started
+12/09 17:01:52:866 Testing connection ...
+12/09 17:01:53:632 Created provisioning instance for CCWS
+12/09 17:01:53:632 Testing connection are success
+12/09 17:01:53:633 Starting process session
+12/09 17:01:54:851 Total 0 instances are started
+12/09 17:01:54:852 Total 1 instances are added
+12/09 17:02:08:620 Create order(84922000512) cost time: 26ms
+12/09 17:02:08:683 SEND: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000512}. ID=242001
+12/09 17:02:10:022 RECEIVE:cosname=MAIN_COS,status=Active,active_date=05/09/2013 02:17:51,{84922000512}Core{200000.0;31/12/2014 08:59:59},VOICE_ONNET{3000.0;15/09/2013 09:59:59},PROMOTION{65000.0;03/09/2023 09:59:59},PROMOTION_60{4900.0;11/11/2013 08:59:59},. ID=242001. costTime=1339
+12/09 17:02:10:036 Update order(84922000512) cost time: 10ms
+12/09 17:02:10:038 84922000512: LOYALTY - LOYALTY.VALIDATE
+12/09 17:02:10:038 orderId = 125409818 | requestId = 0 | orderDate = 2013/09/12 17:02:08 | userName = system | subProductId = 52789556 | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM AA | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause = invalid-syntax | status = 1 | description =  | balance = 
+12/09 17:07:49:248 Order Routing started
+12/09 17:07:53:368 Testing connection ...
+12/09 17:07:54:155 Created provisioning instance for CCWS
+12/09 17:07:54:156 Testing connection are success
+12/09 17:07:54:156 Starting process session
+12/09 17:07:55:865 Total 0 instances are started
+12/09 17:07:55:866 Total 1 instances are added
+12/09 17:08:10:147 Create order(84922000512) cost time: 29ms
+12/09 17:08:10:186 SEND: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000512}. ID=243001
+12/09 17:08:11:052 RECEIVE:cosname=MAIN_COS,status=Active,active_date=05/09/2013 02:17:51,{84922000512}Core{200000.0;31/12/2014 08:59:59},VOICE_ONNET{3000.0;15/09/2013 09:59:59},PROMOTION{65000.0;03/09/2023 09:59:59},PROMOTION_60{4900.0;11/11/2013 08:59:59},. ID=243001. costTime=864
+12/09 17:08:11:068 Update order(84922000512) cost time: 12ms
+12/09 17:08:11:070 84922000512: LOYALTY - LOYALTY.VALIDATE
+12/09 17:08:11:071 orderId = 125409819 | requestId = 0 | orderDate = 2013/09/12 17:08:10 | userName = system | subProductId = 52789556 | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM AA | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause = invalid-syntax | status = 1 | description =  | balance = 
+12/09 17:10:58:141 Create order(84922000512) cost time: 10ms
+12/09 17:10:58:148 SEND: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000512}. ID=243002
+12/09 17:10:58:255 RECEIVE:cosname=MAIN_COS,status=Active,active_date=05/09/2013 02:17:51,{84922000512}Core{200000.0;31/12/2014 08:59:59},VOICE_ONNET{3000.0;15/09/2013 09:59:59},PROMOTION{65000.0;03/09/2023 09:59:59},PROMOTION_60{4900.0;11/11/2013 08:59:59},. ID=243002. costTime=107
+12/09 17:10:58:263 Update order(84922000512) cost time: 6ms
+12/09 17:10:58:264 84922000512: LOYALTY - LOYALTY.VALIDATE
+12/09 17:10:58:264 orderId = 125409820 | requestId = 0 | orderDate = 2013/09/12 17:10:58 | userName = system | subProductId = 52789556 | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 49 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 4.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+12/09 17:11:28:166 invalid-syntax
+12/09 17:11:28:166 orderId = 0 | requestId = 0 | orderDate = 2013/09/12 17:11:28 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM49 | isdn = 84922000512 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | amount = 0.0 | provisioningType = SMSC | commandId = 0 | cause = invalid-syntax | status = 4 | description = null | balance = 
+12/09 17:11:28:167 sendNotify: 84922000512 - Cu phap nhan tin khong hop le. Xin quy khach vui long kiem tra & thuc hien lai
+12/09 17:15:41:690 Order Routing started
+12/09 17:15:45:781 Testing connection ...
+12/09 17:15:46:478 Created provisioning instance for CCWS
+12/09 17:15:46:479 Testing connection are success
+12/09 17:15:46:479 Starting process session
+12/09 17:15:48:497 Total 0 instances are started
+12/09 17:15:48:498 Total 1 instances are added
+12/09 17:16:08:722 84922000512: LOYALTY - CRM.SUBSCRIPTION_UNREGIST
+12/09 17:16:08:723 orderId = 0 | requestId = 0 | orderDate = 2013/09/12 17:16:08 | userName = system | subProductId = 52789556 | channel = SMS | serviceAddress = 268 | keyword = HUY CAM | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = unregister | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 13121 | cause =  | status = 1 | description =  | balance = 
+12/09 17:16:42:498 Create order(84922000512) cost time: 59ms
+12/09 17:16:42:607 Update order(84922000512) cost time: 15ms
+12/09 17:16:42:608 84922000512: LOYALTY - LOYALTY.BALANCE_QUERY
+12/09 17:16:42:608 orderId = 125409821 | requestId = 0 | orderDate = 2013/09/12 17:16:42 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = TRA DIEM | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 342 | cause =  | status = 1 | description =  | balance = 

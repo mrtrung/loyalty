@@ -1,0 +1,223 @@
+11/09 09:35:48:005 MCA started
+11/09 09:36:17:336 Testing connection ...
+11/09 09:36:39:179 open connection is fail
+11/09 09:36:39:188 java.net.ConnectException: Connection timed out: connect
+11/09 09:36:39:189 Starting process session
+11/09 09:36:39:289 Total 0 instances are started
+11/09 09:36:39:291 Total 1 instances are added
+11/09 09:37:00:300 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.65:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+11/09 09:37:00:301 Consumer was closed, reconnect.
+11/09 09:37:00:408 Total 0 instances are started
+11/09 09:37:00:408 Total 1 instances are added
+11/09 09:38:07:041 MCA started
+11/09 09:38:08:932 Testing connection ...
+11/09 09:38:30:224 open connection is fail
+11/09 09:38:30:232 java.net.ConnectException: Connection timed out: connect
+11/09 09:38:30:233 Starting process session
+11/09 09:38:30:334 Total 0 instances are started
+11/09 09:38:30:335 Total 1 instances are added
+11/09 09:56:15:520 MCA started
+11/09 09:56:19:560 Testing connection ...
+11/09 09:56:40:579 open connection is fail
+11/09 09:56:40:586 java.net.ConnectException: Connection timed out: connect
+11/09 09:56:40:587 Starting process session
+11/09 09:56:40:687 Total 0 instances are started
+11/09 09:56:40:688 Total 1 instances are added
+11/09 10:25:01:924 MCA started
+11/09 10:25:06:578 Testing connection ...
+11/09 10:25:27:627 open connection is fail
+11/09 10:25:27:636 java.net.ConnectException: Connection timed out: connect
+11/09 10:25:27:636 Starting process session
+11/09 10:25:27:737 Total 0 instances are started
+11/09 10:25:27:738 Total 1 instances are added
+11/09 10:27:37:387 MCA started
+11/09 10:27:41:724 Testing connection ...
+11/09 10:28:02:759 open connection is fail
+11/09 10:28:02:767 java.net.ConnectException: Connection timed out: connect
+11/09 10:28:02:767 Starting process session
+11/09 10:28:02:868 Total 0 instances are started
+11/09 10:28:02:869 Total 1 instances are added
+11/09 10:42:14:541 MCA started
+11/09 10:42:18:786 Testing connection ...
+11/09 10:42:39:835 open connection is fail
+11/09 10:42:39:843 java.net.ConnectException: Connection timed out: connect
+11/09 10:42:39:843 Starting process session
+11/09 10:42:39:944 Total 0 instances are started
+11/09 10:42:39:945 Total 1 instances are added
+11/09 11:28:03:720 MCA started
+11/09 11:28:07:824 Testing connection ...
+11/09 11:28:28:836 open connection is fail
+11/09 11:28:28:844 java.net.ConnectException: Connection timed out: connect
+11/09 11:28:28:844 Starting process session
+11/09 11:28:28:945 Total 0 instances are started
+11/09 11:28:28:945 Total 1 instances are added
+11/09 14:13:13:466 MCA started
+11/09 14:13:27:679 Testing connection ...
+11/09 14:13:48:807 open connection is fail
+11/09 14:13:48:818 java.net.ConnectException: Connection timed out: connect
+11/09 14:13:48:818 Starting process session
+11/09 14:13:48:919 Total 0 instances are started
+11/09 14:13:48:920 Total 1 instances are added
+11/09 15:00:02:458 MCA started
+11/09 15:00:06:400 Testing connection ...
+11/09 15:00:27:417 open connection is fail
+11/09 15:00:27:425 java.net.ConnectException: Connection timed out: connect
+11/09 15:00:27:426 Starting process session
+11/09 15:00:27:526 Total 0 instances are started
+11/09 15:00:27:527 Total 1 instances are added
+11/09 16:22:12:728 MCA started
+11/09 16:22:19:661 Testing connection ...
+11/09 16:22:40:843 open connection is fail
+11/09 16:22:40:851 java.net.ConnectException: Connection timed out: connect
+11/09 16:22:40:851 Starting process session
+11/09 16:22:40:952 Total 0 instances are started
+11/09 16:22:40:953 Total 1 instances are added
+11/09 16:59:38:887 MCA started
+11/09 16:59:43:488 Testing connection ...
+11/09 17:00:04:507 open connection is fail
+11/09 17:00:04:515 java.net.ConnectException: Connection timed out: connect
+11/09 17:00:04:515 Starting process session
+11/09 17:00:04:616 Total 0 instances are started
+11/09 17:00:04:617 Total 1 instances are added
+11/09 17:18:29:517 MCA started
+11/09 17:18:33:742 Testing connection ...
+11/09 17:18:54:765 open connection is fail
+11/09 17:18:54:774 java.net.ConnectException: Connection timed out: connect
+11/09 17:18:54:774 Starting process session
+11/09 17:18:54:875 Total 0 instances are started
+11/09 17:18:54:876 Total 1 instances are added
+11/09 17:21:26:033 MCA started
+11/09 17:21:30:409 Testing connection ...
+11/09 17:21:51:439 open connection is fail
+11/09 17:21:51:448 java.net.ConnectException: Connection timed out: connect
+11/09 17:21:51:448 Starting process session
+11/09 17:21:51:549 Total 0 instances are started
+11/09 17:21:51:554 Total 1 instances are added
+11/09 17:36:38:922 MCA started
+11/09 17:36:43:893 Testing connection ...
+11/09 17:37:04:971 open connection is fail
+11/09 17:37:04:983 java.net.ConnectException: Connection timed out: connect
+11/09 17:37:04:984 Starting process session
+11/09 17:37:05:089 Total 0 instances are started
+11/09 17:37:05:090 Total 1 instances are added
+11/09 17:58:10:095 MCA started
+11/09 17:58:14:388 Testing connection ...
+11/09 17:58:35:407 open connection is fail
+11/09 17:58:35:416 java.net.ConnectException: Connection timed out: connect
+11/09 17:58:35:417 Starting process session
+11/09 17:58:35:517 Total 0 instances are started
+11/09 17:58:35:519 Total 1 instances are added
+11/09 17:59:31:726 MCA started
+11/09 17:59:35:160 Testing connection ...
+11/09 17:59:56:601 open connection is fail
+11/09 17:59:56:609 java.net.ConnectException: Connection timed out: connect
+11/09 17:59:56:609 Starting process session
+11/09 17:59:56:710 Total 0 instances are started
+11/09 17:59:56:711 Total 1 instances are added
+11/09 18:02:24:321 MCA started
+11/09 18:02:28:579 Testing connection ...
+11/09 18:02:49:596 open connection is fail
+11/09 18:02:49:604 java.net.ConnectException: Connection timed out: connect
+11/09 18:02:49:605 Starting process session
+11/09 18:02:49:705 Total 0 instances are started
+11/09 18:02:49:706 Total 1 instances are added
+11/09 18:09:35:052 MCA started
+11/09 18:09:37:591 Testing connection ...
+11/09 18:09:58:597 open connection is fail
+11/09 18:09:58:611 java.net.ConnectException: Connection timed out: connect
+11/09 18:09:58:612 Starting process session
+11/09 18:09:58:713 Total 0 instances are started
+11/09 18:09:58:714 Total 1 instances are added
+11/09 18:14:48:575 MCA started
+11/09 18:14:52:951 Testing connection ...
+11/09 18:15:13:980 open connection is fail
+11/09 18:15:13:988 java.net.ConnectException: Connection timed out: connect
+11/09 18:15:13:989 Starting process session
+11/09 18:15:14:089 Total 0 instances are started
+11/09 18:15:14:090 Total 1 instances are added
+11/09 18:17:39:018 MCA started
+11/09 18:17:43:264 Testing connection ...
+11/09 18:18:04:449 open connection is fail
+11/09 18:18:04:464 java.net.ConnectException: Connection timed out: connect
+11/09 18:18:04:466 Starting process session
+11/09 18:18:04:567 Total 0 instances are started
+11/09 18:18:04:568 Total 1 instances are added
+11/09 18:29:07:675 MCA started
+11/09 18:29:11:785 Testing connection ...
+11/09 18:29:32:815 open connection is fail
+11/09 18:29:32:823 java.net.ConnectException: Connection timed out: connect
+11/09 18:29:32:823 Starting process session
+11/09 18:29:32:924 Total 0 instances are started
+11/09 18:29:32:925 Total 1 instances are added
+11/09 18:32:55:593 MCA started
+11/09 18:32:59:470 Testing connection ...
+11/09 18:33:20:485 open connection is fail
+11/09 18:33:20:493 java.net.ConnectException: Connection timed out: connect
+11/09 18:33:20:494 Starting process session
+11/09 18:33:20:595 Total 0 instances are started
+11/09 18:33:20:596 Total 1 instances are added
+11/09 18:41:10:550 MCA started
+11/09 18:41:14:803 Testing connection ...
+11/09 18:41:35:823 open connection is fail
+11/09 18:41:35:831 java.net.ConnectException: Connection timed out: connect
+11/09 18:41:35:831 Starting process session
+11/09 18:41:35:932 Total 0 instances are started
+11/09 18:41:35:933 Total 1 instances are added
+11/09 18:43:24:831 MCA started
+11/09 18:43:28:856 Testing connection ...
+11/09 18:43:49:889 open connection is fail
+11/09 18:43:49:897 java.net.ConnectException: Connection timed out: connect
+11/09 18:43:49:898 Starting process session
+11/09 18:43:49:998 Total 0 instances are started
+11/09 18:43:49:999 Total 1 instances are added
+11/09 18:49:34:660 MCA started
+11/09 18:49:36:567 Testing connection ...
+11/09 18:49:53:582 MCA started
+11/09 18:49:57:988 Testing connection ...
+11/09 18:50:19:015 open connection is fail
+11/09 18:50:19:025 java.net.ConnectException: Connection timed out: connect
+11/09 18:50:19:027 Starting process session
+11/09 18:50:19:128 Total 0 instances are started
+11/09 18:50:19:129 Total 1 instances are added
+11/09 18:54:55:624 MCA started
+11/09 18:54:59:994 Testing connection ...
+11/09 18:55:21:021 open connection is fail
+11/09 18:55:21:029 java.net.ConnectException: Connection timed out: connect
+11/09 18:55:21:030 Starting process session
+11/09 18:55:21:130 Total 0 instances are started
+11/09 18:55:21:131 Total 1 instances are added
+11/09 18:56:50:585 MCA started
+11/09 18:56:54:529 Testing connection ...
+11/09 18:57:15:543 open connection is fail
+11/09 18:57:15:551 java.net.ConnectException: Connection timed out: connect
+11/09 18:57:15:551 Starting process session
+11/09 18:57:15:652 Total 0 instances are started
+11/09 18:57:15:653 Total 1 instances are added
+11/09 19:04:48:176 MCA started
+11/09 19:04:52:392 Testing connection ...
+11/09 19:05:13:421 open connection is fail
+11/09 19:05:13:432 java.net.ConnectException: Connection timed out: connect
+11/09 19:05:13:433 Starting process session
+11/09 19:05:13:533 Total 0 instances are started
+11/09 19:05:13:534 Total 1 instances are added
+11/09 19:15:32:775 MCA started
+11/09 19:15:36:872 Testing connection ...
+11/09 19:15:57:881 open connection is fail
+11/09 19:15:57:888 java.net.ConnectException: Connection timed out: connect
+11/09 19:15:57:889 Starting process session
+11/09 19:15:57:989 Total 0 instances are started
+11/09 19:15:57:990 Total 1 instances are added
+11/09 19:21:22:970 MCA started
+11/09 19:21:24:272 Testing connection ...
+11/09 19:21:45:371 open connection is fail
+11/09 19:21:45:379 java.net.ConnectException: Connection timed out: connect
+11/09 19:21:45:380 Starting process session
+11/09 19:21:45:480 Total 0 instances are started
+11/09 19:21:45:481 Total 1 instances are added
+11/09 19:26:41:356 MCA started
+11/09 19:26:45:148 Testing connection ...
+11/09 19:27:06:250 open connection is fail
+11/09 19:27:06:258 java.net.ConnectException: Connection timed out: connect
+11/09 19:27:06:259 Starting process session
+11/09 19:27:06:359 Total 0 instances are started
+11/09 19:27:06:360 Total 1 instances are added

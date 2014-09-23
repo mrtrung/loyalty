@@ -1,0 +1,182 @@
+09/09 08:43:19:094 EPOS started
+09/09 08:43:25:616 Testing connection ...
+09/09 08:43:46:099 Testing connection are success
+09/09 08:43:46:100 Starting process session
+09/09 08:43:46:701 Total 0 instances are started
+09/09 08:43:46:702 Total 6 instances are added
+09/09 08:49:56:685 EPOS started
+09/09 08:49:58:532 Testing connection ...
+09/09 08:49:59:878 Testing connection are success
+09/09 08:49:59:880 Starting process session
+09/09 08:50:00:491 Total 0 instances are started
+09/09 08:50:00:492 Total 6 instances are added
+09/09 08:54:08:319 EPOS started
+09/09 08:54:10:136 Testing connection ...
+09/09 08:54:11:118 Testing connection are success
+09/09 08:54:11:118 Starting process session
+09/09 08:54:11:725 Total 0 instances are started
+09/09 08:54:11:726 Total 6 instances are added
+09/09 08:59:48:580 EPOS started
+09/09 08:59:50:318 Testing connection ...
+09/09 08:59:51:372 Testing connection are success
+09/09 08:59:51:373 Starting process session
+09/09 08:59:51:974 Total 0 instances are started
+09/09 08:59:51:974 Total 6 instances are added
+09/09 09:07:47:020 EPOS started
+09/09 09:07:48:447 Testing connection ...
+09/09 09:07:49:326 Testing connection are success
+09/09 09:07:49:327 Starting process session
+09/09 09:07:49:927 Total 0 instances are started
+09/09 09:07:49:928 Total 6 instances are added
+09/09 09:14:31:948 EPOS started
+09/09 09:14:33:629 Testing connection ...
+09/09 09:14:34:401 Testing connection are success
+09/09 09:14:34:401 Starting process session
+09/09 09:14:35:002 Total 0 instances are started
+09/09 09:14:35:003 Total 6 instances are added
+09/09 15:00:35:237 EPOS started
+09/09 15:00:35:416 Testing connection ...
+09/09 15:00:42:035 Testing connection are success
+09/09 15:00:42:036 Starting process session
+09/09 15:00:42:637 Total 0 instances are started
+09/09 15:00:42:638 Total 6 instances are added
+09/09 15:13:02:960 EPOS started
+09/09 15:13:04:121 Testing connection ...
+09/09 15:13:05:350 Testing connection are success
+09/09 15:13:05:350 Starting process session
+09/09 15:13:05:954 Total 0 instances are started
+09/09 15:13:05:955 Total 6 instances are added
+09/09 15:29:49:855 EPOS started
+09/09 15:29:51:338 Testing connection ...
+09/09 15:29:52:067 Testing connection are success
+09/09 15:29:52:067 Starting process session
+09/09 15:29:52:794 Total 0 instances are started
+09/09 15:29:52:794 Total 6 instances are added
+09/09 15:44:56:727 EPOS started
+09/09 15:44:58:544 Testing connection ...
+09/09 15:44:59:885 Testing connection are success
+09/09 15:44:59:885 Starting process session
+09/09 15:45:00:486 Total 0 instances are started
+09/09 15:45:00:487 Total 6 instances are added
+09/09 16:28:30:887 EPOS started
+09/09 16:28:31:837 Testing connection ...
+09/09 16:28:33:056 Testing connection are success
+09/09 16:28:33:057 Starting process session
+09/09 16:28:33:662 Total 0 instances are started
+09/09 16:28:33:662 Total 6 instances are added
+09/09 16:39:29:677 EPOS started
+09/09 16:39:31:555 Testing connection ...
+09/09 16:39:32:964 Testing connection are success
+09/09 16:39:32:965 Starting process session
+09/09 16:39:33:606 Total 0 instances are started
+09/09 16:39:33:607 Total 6 instances are added
+09/09 16:51:05:515 EPOS started
+09/09 16:51:07:410 Testing connection ...
+09/09 16:51:08:413 Testing connection are success
+09/09 16:51:08:413 Starting process session
+09/09 16:51:09:016 Total 0 instances are started
+09/09 16:51:09:016 Total 6 instances are added
+09/09 16:52:21:763 EPOS started
+09/09 16:52:23:467 Testing connection ...
+09/09 16:52:24:301 Testing connection are success
+09/09 16:52:24:301 Starting process session
+09/09 16:52:24:908 Total 0 instances are started
+09/09 16:52:24:909 Total 6 instances are added
+09/09 17:04:51:190 EPOS started
+09/09 17:04:51:300 Testing connection ...
+09/09 17:04:53:457 Testing connection are success
+09/09 17:04:53:457 Starting process session
+09/09 17:04:54:058 Total 0 instances are started
+09/09 17:04:54:059 Total 6 instances are added
+09/09 17:15:19:097 EPOS started
+09/09 17:15:20:680 Testing connection ...
+09/09 17:15:21:482 Testing connection are success
+09/09 17:15:21:482 Starting process session
+09/09 17:15:22:083 Total 0 instances are started
+09/09 17:15:22:084 Total 6 instances are added
+09/09 17:19:28:462 EPOS started
+09/09 17:19:28:896 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.unRedeem(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+09/09 17:19:28:897 End of process session
+09/09 17:21:09:049 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.unRedeem(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+09/09 17:21:09:050 End of process session
+09/09 17:22:49:215 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.unRedeem(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+09/09 17:22:49:216 End of process session
+09/09 17:24:29:284 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.unRedeem(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+09/09 17:24:29:285 End of process session
+09/09 17:25:14:898 EPOS started
+09/09 17:25:16:704 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.unRedeem(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+09/09 17:25:16:704 End of process session
+09/09 17:26:56:778 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.unRedeem(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+09/09 17:26:56:779 End of process session
+09/09 17:28:43:583 EPOS started
+09/09 17:28:45:194 Testing connection ...
+09/09 17:28:46:261 Testing connection are success
+09/09 17:28:46:261 Starting process session
+09/09 17:28:46:862 Total 0 instances are started
+09/09 17:28:46:863 Total 6 instances are added
+09/09 17:31:12:721 EPOS started
+09/09 17:31:12:807 Testing connection ...
+09/09 17:31:14:376 Testing connection are success
+09/09 17:31:14:376 Starting process session
+09/09 17:31:14:977 Total 0 instances are started
+09/09 17:31:14:977 Total 6 instances are added
+09/09 17:48:40:615 EPOS started
+09/09 17:48:42:049 Testing connection ...
+09/09 17:48:43:102 Testing connection are success
+09/09 17:48:43:102 Starting process session
+09/09 17:48:43:704 Total 0 instances are started
+09/09 17:48:43:705 Total 6 instances are added
+09/09 17:52:53:301 EPOS started
+09/09 17:52:53:407 Testing connection ...
+09/09 17:52:54:984 Testing connection are success
+09/09 17:52:54:984 Starting process session
+09/09 17:52:55:585 Total 0 instances are started
+09/09 17:52:55:585 Total 6 instances are added
+09/09 18:06:12:576 EPOS started
+09/09 18:06:12:704 Testing connection ...
+09/09 18:06:15:012 Testing connection are success
+09/09 18:06:15:013 Starting process session
+09/09 18:06:15:618 Total 0 instances are started
+09/09 18:06:15:619 Total 6 instances are added
+09/09 18:07:59:085 EPOS started
+09/09 18:08:00:890 Testing connection ...
+09/09 18:08:02:013 Testing connection are success
+09/09 18:08:02:014 Starting process session
+09/09 18:08:02:615 Total 0 instances are started
+09/09 18:08:02:622 Total 6 instances are added
+09/09 18:09:23:338 EPOS started
+09/09 18:09:24:238 Testing connection ...
+09/09 18:09:25:603 Testing connection are success
+09/09 18:09:25:608 Starting process session
+09/09 18:09:26:210 Total 0 instances are started
+09/09 18:09:26:212 Total 6 instances are added
+09/09 18:10:10:978 EPOS started
+09/09 18:10:12:576 Testing connection ...
+09/09 18:10:13:638 Testing connection are success
+09/09 18:10:13:638 Starting process session
+09/09 18:10:14:242 Total 0 instances are started
+09/09 18:10:14:243 Total 6 instances are added
+09/09 18:10:42:054 EPOS started
+09/09 18:10:42:276 Testing connection ...
+09/09 18:10:43:939 Testing connection are success
+09/09 18:10:43:940 Starting process session
+09/09 18:10:44:542 Total 0 instances are started
+09/09 18:10:44:543 Total 6 instances are added
+09/09 18:10:56:845 EPOS started
+09/09 18:10:56:933 Testing connection ...
+09/09 18:10:59:157 Testing connection are success
+09/09 18:10:59:157 Starting process session
+09/09 18:10:59:758 Total 0 instances are started
+09/09 18:10:59:762 Total 6 instances are added
+09/09 18:16:36:047 EPOS started
+09/09 18:16:37:907 Testing connection ...
+09/09 18:16:38:965 Testing connection are success
+09/09 18:16:38:965 Starting process session
+09/09 18:16:39:573 Total 0 instances are started
+09/09 18:16:39:574 Total 6 instances are added
+09/09 18:20:07:564 EPOS started
+09/09 18:20:09:030 Testing connection ...
+09/09 18:20:09:812 Testing connection are success
+09/09 18:20:09:812 Starting process session
+09/09 18:20:10:412 Total 0 instances are started
+09/09 18:20:10:413 Total 6 instances are added

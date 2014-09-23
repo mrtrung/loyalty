@@ -1,0 +1,608 @@
+10/09 08:34:49:108 CRM started
+10/09 08:34:51:648 Testing connection ...
+10/09 08:34:51:654 Created provisioning instance for CRM
+10/09 08:34:51:672 Testing connection are success
+10/09 08:34:51:672 Starting process session
+10/09 08:34:51:773 Total 0 instances are started
+10/09 08:34:51:773 Total 1 instances are added
+10/09 08:35:13:236 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.63:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+10/09 08:35:13:237 Consumer was closed, reconnect.
+10/09 08:35:13:372 Total 0 instances are started
+10/09 08:35:13:373 Total 1 instances are added
+10/09 08:35:34:408 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.63:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+10/09 08:35:34:409 Consumer was closed, reconnect.
+10/09 08:35:34:601 Total 0 instances are started
+10/09 08:35:34:602 Total 1 instances are added
+10/09 08:35:55:635 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.63:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+10/09 08:35:55:642 Consumer was closed, reconnect.
+10/09 08:35:55:843 Total 0 instances are started
+10/09 08:35:55:844 Total 1 instances are added
+10/09 08:36:16:874 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.63:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+10/09 08:36:16:875 Consumer was closed, reconnect.
+10/09 08:36:17:060 Total 0 instances are started
+10/09 08:36:17:061 Total 1 instances are added
+10/09 08:36:38:083 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.63:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+10/09 08:36:38:084 Consumer was closed, reconnect.
+10/09 08:36:38:270 Total 0 instances are started
+10/09 08:36:38:272 Total 1 instances are added
+10/09 08:36:59:307 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.63:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+10/09 08:36:59:307 Consumer was closed, reconnect.
+10/09 08:36:59:479 Total 0 instances are started
+10/09 08:36:59:480 Total 1 instances are added
+10/09 08:37:20:515 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.63:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+10/09 08:37:20:516 Consumer was closed, reconnect.
+10/09 08:37:20:696 Total 0 instances are started
+10/09 08:37:20:697 Total 1 instances are added
+10/09 08:37:41:729 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.63:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+10/09 08:37:41:730 Consumer was closed, reconnect.
+10/09 08:37:41:908 Total 0 instances are started
+10/09 08:37:41:908 Total 1 instances are added
+10/09 08:38:02:935 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.63:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+10/09 08:38:02:936 Consumer was closed, reconnect.
+10/09 08:38:03:134 Total 0 instances are started
+10/09 08:38:03:136 Total 1 instances are added
+10/09 08:38:24:161 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.63:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+10/09 08:38:24:162 Consumer was closed, reconnect.
+10/09 08:38:24:337 Total 0 instances are started
+10/09 08:38:24:339 Total 1 instances are added
+10/09 08:38:45:371 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.63:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+10/09 08:38:45:372 Consumer was closed, reconnect.
+10/09 08:38:45:554 Total 0 instances are started
+10/09 08:38:45:555 Total 1 instances are added
+10/09 08:39:11:786 CRM started
+10/09 08:39:12:538 Testing connection ...
+10/09 08:39:12:539 Created provisioning instance for CRM
+10/09 08:39:12:569 Testing connection are success
+10/09 08:39:12:570 Starting process session
+10/09 08:39:12:730 Total 0 instances are started
+10/09 08:39:12:731 Total 1 instances are added
+10/09 08:39:43:955 orderId = 125409496 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 3000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+10/09 08:39:44:076 orderId = 125409496 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 3000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 384 | request =  | response =  | status = 1 | cause = success | description = 
+10/09 08:41:13:382 CRM started
+10/09 08:41:16:205 Testing connection ...
+10/09 08:41:16:205 Created provisioning instance for CRM
+10/09 08:41:16:214 Testing connection are success
+10/09 08:41:16:214 Starting process session
+10/09 08:41:16:322 Total 0 instances are started
+10/09 08:41:16:323 Total 1 instances are added
+10/09 08:41:49:031 orderId = 125409497 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 3000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+10/09 08:41:49:150 orderId = 125409497 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 3000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 384 | request =  | response =  | status = 1 | cause = success | description = 
+10/09 08:46:50:791 CRM started
+10/09 08:46:52:313 Testing connection ...
+10/09 08:46:52:316 Created provisioning instance for CRM
+10/09 08:46:52:416 Testing connection are success
+10/09 08:46:52:417 Starting process session
+10/09 08:46:52:537 Total 0 instances are started
+10/09 08:46:52:537 Total 1 instances are added
+10/09 08:47:24:847 orderId = 125409498 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 3000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+10/09 08:47:24:966 orderId = 125409498 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 3000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 384 | request =  | response =  | status = 1 | cause = success | description = 
+10/09 08:48:33:955 orderId = 125409499 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 3000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+10/09 08:48:34:077 orderId = 125409499 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 3000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 384 | request =  | response =  | status = 1 | cause = success | description = 
+10/09 08:55:22:715 CRM started
+10/09 08:55:25:583 Testing connection ...
+10/09 08:55:25:584 Created provisioning instance for CRM
+10/09 08:55:25:596 Testing connection are success
+10/09 08:55:25:597 Starting process session
+10/09 08:55:25:699 Total 0 instances are started
+10/09 08:55:25:700 Total 1 instances are added
+10/09 08:56:00:362 orderId = 125409500 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 3000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+10/09 08:56:00:480 orderId = 125409500 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 3000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 384 | request =  | response =  | status = 1 | cause = success | description = 
+10/09 09:03:25:521 CRM started
+10/09 09:03:28:246 Testing connection ...
+10/09 09:03:28:248 Created provisioning instance for CRM
+10/09 09:03:28:250 Testing connection are success
+10/09 09:03:28:250 Starting process session
+10/09 09:03:28:353 Total 0 instances are started
+10/09 09:03:28:354 Total 1 instances are added
+10/09 09:04:01:345 orderId = 125409501 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 3000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+10/09 09:04:01:468 orderId = 125409501 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 3000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 384 | request =  | response =  | status = 1 | cause = success | description = 
+10/09 09:05:19:565 orderId = 125409502 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 3000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+10/09 09:05:19:678 orderId = 125409502 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 3000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 384 | request =  | response =  | status = 1 | cause = success | description = 
+10/09 09:06:53:733 orderId = 125409503 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 3000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+10/09 09:06:53:848 orderId = 125409503 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 3000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 384 | request =  | response =  | status = 1 | cause = success | description = 
+10/09 09:10:58:008 CRM started
+10/09 09:11:01:263 Testing connection ...
+10/09 09:11:01:265 Created provisioning instance for CRM
+10/09 09:11:01:266 Testing connection are success
+10/09 09:11:01:266 Starting process session
+10/09 09:11:01:369 Total 0 instances are started
+10/09 09:11:01:370 Total 1 instances are added
+10/09 09:11:56:404 orderId = 125409504 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 3000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+10/09 09:11:56:522 orderId = 125409504 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 3000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 384 | request =  | response =  | status = 1 | cause = success | description = 
+10/09 09:12:43:358 orderId = 125409505 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 3000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+10/09 09:13:14:538 orderId = 125409505 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 3000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 384 | request =  | response =  | status = 1 | cause = success | description = 
+10/09 09:13:39:613 CRM started
+10/09 09:13:42:871 Testing connection ...
+10/09 09:13:42:872 Created provisioning instance for CRM
+10/09 09:13:42:872 Testing connection are success
+10/09 09:13:42:873 Starting process session
+10/09 09:13:42:974 Total 0 instances are started
+10/09 09:13:42:974 Total 1 instances are added
+10/09 09:14:14:974 CRM started
+10/09 09:14:18:286 Testing connection ...
+10/09 09:14:18:287 Created provisioning instance for CRM
+10/09 09:14:18:287 Testing connection are success
+10/09 09:14:18:287 Starting process session
+10/09 09:14:18:391 Total 0 instances are started
+10/09 09:14:18:391 Total 1 instances are added
+10/09 09:15:05:184 orderId = 125409506 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 3000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+10/09 09:15:32:678 orderId = 125409506 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 3000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 384 | request =  | response =  | status = 1 | cause = success | description = 
+10/09 09:16:00:162 CRM started
+10/09 09:16:01:065 Testing connection ...
+10/09 09:16:01:073 Created provisioning instance for CRM
+10/09 09:16:01:073 Testing connection are success
+10/09 09:16:01:074 Starting process session
+10/09 09:16:01:235 Total 0 instances are started
+10/09 09:16:01:236 Total 1 instances are added
+10/09 09:16:46:181 orderId = 125409507 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 3000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+10/09 09:16:46:304 orderId = 125409507 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 3000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 384 | request =  | response =  | status = 1 | cause = success | description = 
+10/09 09:18:27:159 orderId = 125409508 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 3000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+10/09 09:18:27:282 orderId = 125409508 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 3000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 384 | request =  | response =  | status = 1 | cause = success | description = 
+10/09 09:27:54:979 CRM started
+10/09 09:27:58:184 Testing connection ...
+10/09 09:27:58:187 Created provisioning instance for CRM
+10/09 09:27:58:188 Testing connection are success
+10/09 09:27:58:189 Starting process session
+10/09 09:27:58:299 Total 0 instances are started
+10/09 09:27:58:300 Total 1 instances are added
+10/09 09:29:10:118 orderId = 125409509 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 3000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+10/09 09:29:17:154 orderId = 125409509 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 3000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 384 | request =  | response =  | status = 1 | cause = success | description = 
+10/09 09:30:29:086 CRM started
+10/09 09:30:29:602 Testing connection ...
+10/09 09:30:29:604 Created provisioning instance for CRM
+10/09 09:30:29:620 Testing connection are success
+10/09 09:30:29:621 Starting process session
+10/09 09:30:29:817 Total 0 instances are started
+10/09 09:30:29:817 Total 1 instances are added
+10/09 09:31:23:065 orderId = 125409510 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 3000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+10/09 09:31:31:587 orderId = 125409510 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 3000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 384 | request =  | response =  | status = 1 | cause = success | description = 
+10/09 09:37:29:425 CRM started
+10/09 09:37:31:232 Testing connection ...
+10/09 09:37:31:235 Created provisioning instance for CRM
+10/09 09:37:31:350 Testing connection are success
+10/09 09:37:31:351 Starting process session
+10/09 09:37:31:457 Total 0 instances are started
+10/09 09:37:31:457 Total 1 instances are added
+10/09 09:38:30:193 orderId = 125409514 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 3000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+10/09 09:38:30:313 orderId = 125409514 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 3000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 384 | request =  | response =  | status = 1 | cause = success | description = 
+10/09 09:45:04:028 CRM started
+10/09 09:45:06:688 Testing connection ...
+10/09 09:45:06:690 Created provisioning instance for CRM
+10/09 09:45:06:691 Testing connection are success
+10/09 09:45:06:692 Starting process session
+10/09 09:45:06:795 Total 0 instances are started
+10/09 09:45:06:797 Total 1 instances are added
+10/09 09:53:44:289 orderId = 125409516 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 3000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+10/09 09:53:44:407 orderId = 125409516 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 3000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 384 | request =  | response =  | status = 1 | cause = success | description = 
+10/09 09:57:08:656 orderId = 125409517 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 3000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+10/09 09:57:08:774 orderId = 125409517 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 3000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 384 | request =  | response =  | status = 1 | cause = success | description = 
+10/09 10:01:44:865 CRM started
+10/09 10:01:47:716 Testing connection ...
+10/09 10:01:47:717 Created provisioning instance for CRM
+10/09 10:01:47:718 Testing connection are success
+10/09 10:01:47:723 Starting process session
+10/09 10:01:47:825 Total 0 instances are started
+10/09 10:01:47:825 Total 1 instances are added
+10/09 10:03:09:661 orderId = 125409518 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 3000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+10/09 10:03:09:780 orderId = 125409518 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 3000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 384 | request =  | response =  | status = 1 | cause = success | description = 
+10/09 10:05:37:420 CRM started
+10/09 10:05:40:546 Testing connection ...
+10/09 10:05:40:546 Created provisioning instance for CRM
+10/09 10:05:40:547 Testing connection are success
+10/09 10:05:40:550 Starting process session
+10/09 10:05:40:660 Total 0 instances are started
+10/09 10:05:40:661 Total 1 instances are added
+10/09 10:06:16:237 orderId = 125409519 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 3000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+10/09 10:06:34:056 orderId = 125409519 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 3000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 384 | request =  | response =  | status = 1 | cause = success | description = 
+10/09 10:07:54:706 orderId = 125409520 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 3000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+10/09 10:08:48:749 orderId = 125409520 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 3000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 384 | request =  | response =  | status = 1 | cause = success | description = 
+10/09 10:17:08:880 CRM started
+10/09 10:17:11:861 Testing connection ...
+10/09 10:17:11:862 Created provisioning instance for CRM
+10/09 10:17:11:864 Testing connection are success
+10/09 10:17:11:866 Starting process session
+10/09 10:17:11:978 Total 0 instances are started
+10/09 10:17:11:979 Total 1 instances are added
+10/09 10:17:47:635 orderId = 125409521 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 3000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+10/09 10:17:59:833 orderId = 125409521 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 3000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 384 | request =  | response =  | status = 1 | cause = success | description = 
+10/09 10:19:13:304 Close pool
+10/09 10:19:13:407 Close queue connection pool.
+10/09 10:19:13:429 End of process session
+10/09 10:19:13:430 CRM stopped
+10/09 10:19:15:334 CRM started
+10/09 10:19:15:358 Close pool
+10/09 10:19:15:359 Close pool
+10/09 10:19:15:360 Testing connection ...
+10/09 10:19:15:361 Created provisioning instance for CRM
+10/09 10:19:15:362 Testing connection are success
+10/09 10:19:15:362 Starting process session
+10/09 10:19:15:463 Total 0 instances are started
+10/09 10:19:15:465 Total 1 instances are added
+10/09 10:20:16:307 orderId = 125409522 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+10/09 10:20:22:299 orderId = 125409522 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 384 | request =  | response =  | status = 1 | cause = success | description = 
+10/09 10:23:41:006 orderId = 125409523 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+10/09 10:23:56:393 orderId = 125409523 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 384 | request =  | response =  | status = 1 | cause = success | description = 
+10/09 10:24:41:017 orderId = 125409524 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+10/09 10:24:50:132 orderId = 125409524 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 384 | request =  | response =  | status = 1 | cause = success | description = 
+10/09 10:33:01:489 orderId = 125409525 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+10/09 10:33:15:254 orderId = 125409525 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 384 | request =  | response =  | status = 1 | cause = success | description = 
+10/09 10:34:13:541 orderId = 125409526 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+10/09 10:37:22:821 orderId = 125409526 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 384 | request =  | response =  | status = 1 | cause = success | description = 
+10/09 10:37:33:660 orderId = 125409527 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+10/09 10:37:41:442 orderId = 125409527 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 384 | request =  | response =  | status = 1 | cause = success | description = 
+10/09 10:39:29:848 orderId = 125409528 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+10/09 10:39:38:989 orderId = 125409528 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 384 | request =  | response =  | status = 1 | cause = success | description = 
+10/09 10:57:10:137 CRM started
+10/09 10:57:12:956 Testing connection ...
+10/09 10:57:12:957 Created provisioning instance for CRM
+10/09 10:57:12:970 Testing connection are success
+10/09 10:57:12:970 Starting process session
+10/09 10:57:13:078 Total 0 instances are started
+10/09 10:57:13:078 Total 1 instances are added
+10/09 11:47:04:717 orderId = 125409529 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+10/09 11:47:04:753 orderId = 125409529 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 384 | request =  | response =  | status = 1 | cause = success | description = 
+10/09 12:09:22:415 CRM started
+10/09 12:09:22:935 Testing connection ...
+10/09 12:09:22:941 Created provisioning instance for CRM
+10/09 12:09:22:971 Testing connection are success
+10/09 12:09:22:971 Starting process session
+10/09 12:09:23:072 Total 0 instances are started
+10/09 12:09:23:073 Total 1 instances are added
+10/09 12:10:18:162 orderId = 125409530 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+10/09 12:10:18:280 orderId = 125409530 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 384 | request =  | response =  | status = 1 | cause = success | description = 
+10/09 12:10:53:375 orderId = 125409531 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+10/09 12:10:53:499 orderId = 125409531 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 384 | request =  | response =  | status = 1 | cause = success | description = 
+10/09 12:11:58:358 orderId = 125409530 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = rollback | productId = 274 | commandId = 378 | request =  | response =  | status = 4 | cause = success | description = 
+10/09 12:11:58:367 orderId = 125409531 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = rollback | productId = 274 | commandId = 378 | request =  | response =  | status = 4 | cause = success | description = 
+10/09 12:13:14:408 orderId = 125409532 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+10/09 12:13:14:518 orderId = 125409532 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 384 | request =  | response =  | status = 1 | cause = success | description = 
+10/09 12:14:13:455 orderId = 125409532 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = rollback | productId = 274 | commandId = 378 | request =  | response =  | status = 4 | cause = success | description = 
+10/09 12:16:00:162 Close pool
+10/09 12:16:00:263 Close queue connection pool.
+10/09 12:16:00:269 End of process session
+10/09 12:16:00:272 CRM stopped
+10/09 12:16:04:144 CRM started
+10/09 12:16:04:181 Close pool
+10/09 12:16:04:182 Close pool
+10/09 12:16:04:183 Testing connection ...
+10/09 12:16:04:184 Created provisioning instance for CRM
+10/09 12:16:04:185 Testing connection are success
+10/09 12:16:04:186 Starting process session
+10/09 12:16:04:287 Total 0 instances are started
+10/09 12:16:04:289 Total 1 instances are added
+10/09 12:16:08:203 Close pool
+10/09 12:16:08:304 Close queue connection pool.
+10/09 12:16:08:310 End of process session
+10/09 12:16:08:312 CRM stopped
+10/09 12:17:12:290 CRM started
+10/09 12:17:12:312 Close pool
+10/09 12:17:12:313 Close pool
+10/09 12:17:12:314 Testing connection ...
+10/09 12:17:12:314 Created provisioning instance for CRM
+10/09 12:17:12:315 Testing connection are success
+10/09 12:17:12:315 Starting process session
+10/09 12:17:12:416 Total 0 instances are started
+10/09 12:17:12:418 Total 1 instances are added
+10/09 12:17:12:592 orderId = 125409533 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+10/09 12:17:12:713 orderId = 125409533 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 384 | request =  | response =  | status = 1 | cause = success | description = 
+10/09 12:17:12:828 orderId = 125409533 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = rollback | productId = 274 | commandId = 378 | request =  | response =  | status = 4 | cause = success | description = 
+10/09 12:17:15:319 Close pool
+10/09 12:17:15:420 Close queue connection pool.
+10/09 12:17:15:429 End of process session
+10/09 12:17:15:432 CRM stopped
+10/09 12:20:21:424 CRM started
+10/09 12:20:21:446 Close pool
+10/09 12:20:21:447 Close pool
+10/09 12:20:21:447 Testing connection ...
+10/09 12:20:21:448 Created provisioning instance for CRM
+10/09 12:20:21:448 Testing connection are success
+10/09 12:20:21:449 Starting process session
+10/09 12:20:21:549 Total 0 instances are started
+10/09 12:20:21:550 Total 1 instances are added
+10/09 12:21:36:949 orderId = 125409534 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+10/09 12:21:37:065 orderId = 125409534 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 384 | request =  | response =  | status = 1 | cause = success | description = 
+10/09 12:22:21:012 orderId = 125409534 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = rollback | productId = 274 | commandId = 378 | request =  | response =  | status = 4 | cause = success | description = 
+10/09 12:22:45:060 orderId = 125409535 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+10/09 12:22:45:172 orderId = 125409535 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 384 | request =  | response =  | status = 1 | cause = success | description = 
+10/09 12:23:33:002 orderId = 125409535 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = rollback | productId = 274 | commandId = 378 | request =  | response =  | status = 4 | cause = success | description = 
+10/09 12:25:04:722 Close pool
+10/09 12:25:04:823 Close queue connection pool.
+10/09 12:25:04:829 End of process session
+10/09 12:25:04:830 CRM stopped
+10/09 12:26:19:771 CRM started
+10/09 12:26:19:795 Close pool
+10/09 12:26:19:795 Close pool
+10/09 12:26:19:796 Testing connection ...
+10/09 12:26:19:796 Created provisioning instance for CRM
+10/09 12:26:19:797 Testing connection are success
+10/09 12:26:19:797 Starting process session
+10/09 12:26:19:898 Total 0 instances are started
+10/09 12:26:19:899 Total 1 instances are added
+10/09 12:26:20:039 orderId = 125409536 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+10/09 12:26:20:149 orderId = 125409536 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 384 | request =  | response =  | status = 1 | cause = success | description = 
+10/09 12:26:20:257 orderId = 125409536 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = rollback | productId = 274 | commandId = 378 | request =  | response =  | status = 4 | cause = success | description = 
+10/09 12:26:23:807 Close pool
+10/09 12:26:23:908 Close queue connection pool.
+10/09 12:26:23:916 End of process session
+10/09 12:26:23:917 CRM stopped
+10/09 12:27:35:885 CRM started
+10/09 12:27:35:912 Close pool
+10/09 12:27:35:913 Close pool
+10/09 12:27:35:913 Testing connection ...
+10/09 12:27:35:914 Created provisioning instance for CRM
+10/09 12:27:35:914 Testing connection are success
+10/09 12:27:35:915 Starting process session
+10/09 12:27:36:015 Total 0 instances are started
+10/09 12:27:36:018 Total 1 instances are added
+10/09 12:27:36:170 orderId = 125409537 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+10/09 12:27:36:284 orderId = 125409537 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 384 | request =  | response =  | status = 1 | cause = success | description = 
+10/09 12:27:36:499 orderId = 125409537 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = rollback | productId = 274 | commandId = 378 | request =  | response =  | status = 4 | cause = success | description = 
+10/09 12:27:39:920 Close pool
+10/09 12:27:40:021 Close queue connection pool.
+10/09 12:27:40:029 End of process session
+10/09 12:27:40:030 CRM stopped
+10/09 12:28:41:933 CRM started
+10/09 12:28:41:952 Close pool
+10/09 12:28:41:953 Close pool
+10/09 12:28:41:954 Testing connection ...
+10/09 12:28:41:954 Created provisioning instance for CRM
+10/09 12:28:41:955 Testing connection are success
+10/09 12:28:41:955 Starting process session
+10/09 12:28:42:056 Total 0 instances are started
+10/09 12:28:42:057 Total 1 instances are added
+10/09 12:28:45:959 Close pool
+10/09 12:28:46:060 Close queue connection pool.
+10/09 12:28:46:067 End of process session
+10/09 12:28:46:068 CRM stopped
+10/09 12:29:04:013 CRM started
+10/09 12:29:04:031 Close pool
+10/09 12:29:04:032 Close pool
+10/09 12:29:04:032 Testing connection ...
+10/09 12:29:04:033 Created provisioning instance for CRM
+10/09 12:29:04:033 Testing connection are success
+10/09 12:29:04:034 Starting process session
+10/09 12:29:04:134 Total 0 instances are started
+10/09 12:29:04:135 Total 1 instances are added
+10/09 12:29:04:280 orderId = 125409538 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+10/09 12:29:04:396 orderId = 125409538 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 384 | request =  | response =  | status = 1 | cause = success | description = 
+10/09 12:29:04:615 orderId = 125409538 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = rollback | productId = 274 | commandId = 378 | request =  | response =  | status = 4 | cause = success | description = 
+10/09 12:29:08:036 Close pool
+10/09 12:29:08:137 Close queue connection pool.
+10/09 12:29:08:145 End of process session
+10/09 12:29:08:146 CRM stopped
+10/09 12:30:24:037 CRM started
+10/09 12:30:24:054 Close pool
+10/09 12:30:24:055 Close pool
+10/09 12:30:24:055 Testing connection ...
+10/09 12:30:24:056 Created provisioning instance for CRM
+10/09 12:30:24:056 Testing connection are success
+10/09 12:30:24:057 Starting process session
+10/09 12:30:24:157 Total 0 instances are started
+10/09 12:30:24:158 Total 1 instances are added
+10/09 12:30:39:500 orderId = 125409539 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+10/09 12:30:39:616 orderId = 125409539 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 384 | request =  | response =  | status = 1 | cause = success | description = 
+10/09 12:31:07:477 orderId = 125409539 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = rollback | productId = 274 | commandId = 378 | request =  | response =  | status = 4 | cause = success | description = 
+10/09 12:38:15:363 Close pool
+10/09 12:38:15:464 Close queue connection pool.
+10/09 12:38:15:471 End of process session
+10/09 12:38:15:472 CRM stopped
+10/09 12:38:17:333 CRM started
+10/09 12:38:17:352 Close pool
+10/09 12:38:17:353 Close pool
+10/09 12:38:17:354 Testing connection ...
+10/09 12:38:17:354 Created provisioning instance for CRM
+10/09 12:38:17:355 Testing connection are success
+10/09 12:38:17:355 Starting process session
+10/09 12:38:17:456 Total 0 instances are started
+10/09 12:38:17:457 Total 1 instances are added
+10/09 12:38:27:418 Close pool
+10/09 12:38:27:519 Close queue connection pool.
+10/09 12:38:27:533 End of process session
+10/09 12:38:27:534 CRM stopped
+10/09 14:34:44:963 CRM started
+10/09 14:34:47:729 Testing connection ...
+10/09 14:34:47:729 Created provisioning instance for CRM
+10/09 14:34:47:739 Testing connection are success
+10/09 14:34:47:740 Starting process session
+10/09 14:34:47:841 Total 0 instances are started
+10/09 14:34:47:844 Total 1 instances are added
+10/09 14:34:49:390 orderId = 125409540 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+10/09 14:34:49:994 orderId = 125409540 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 384 | request =  | response =  | status = 1 | cause = success | description = 
+10/09 14:34:53:030 orderId = 125409540 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = rollback | productId = 274 | commandId = 378 | request =  | response =  | status = 4 | cause = success | description = 
+10/09 14:35:20:435 Close pool
+10/09 14:35:20:536 Close queue connection pool.
+10/09 14:35:20:544 End of process session
+10/09 14:35:20:546 CRM stopped
+10/09 14:35:22:409 CRM started
+10/09 14:35:22:434 Close pool
+10/09 14:35:22:435 Close pool
+10/09 14:35:22:436 Testing connection ...
+10/09 14:35:22:436 Created provisioning instance for CRM
+10/09 14:35:22:437 Testing connection are success
+10/09 14:35:22:437 Starting process session
+10/09 14:35:22:537 Total 0 instances are started
+10/09 14:35:22:541 Total 1 instances are added
+10/09 14:35:38:884 orderId = 125409541 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+10/09 14:35:39:003 orderId = 125409541 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 384 | request =  | response =  | status = 1 | cause = success | description = 
+10/09 14:36:17:829 orderId = 125409541 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = rollback | productId = 274 | commandId = 378 | request =  | response =  | status = 4 | cause = success | description = 
+10/09 14:40:03:005 orderId = 125409542 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+10/09 14:40:03:119 orderId = 125409542 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 384 | request =  | response =  | status = 1 | cause = success | description = 
+10/09 14:41:41:150 orderId = 125409542 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = rollback | productId = 274 | commandId = 378 | request =  | response =  | status = 4 | cause = success | description = 
+10/09 14:43:31:219 orderId = 125409543 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+10/09 14:43:31:338 orderId = 125409543 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 384 | request =  | response =  | status = 1 | cause = success | description = 
+10/09 14:45:02:450 orderId = 125409544 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+10/09 14:45:02:561 orderId = 125409544 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 384 | request =  | response =  | status = 1 | cause = success | description = 
+10/09 14:45:38:484 orderId = 125409544 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = rollback | productId = 274 | commandId = 378 | request =  | response =  | status = 4 | cause = success | description = 
+10/09 14:53:39:152 orderId = 125409547 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+10/09 14:53:39:272 orderId = 125409547 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 384 | request =  | response =  | status = 1 | cause = success | description = 
+10/09 14:54:32:122 orderId = 125409547 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = rollback | productId = 274 | commandId = 378 | request =  | response =  | status = 4 | cause = success | description = 
+10/09 14:58:56:238 orderId = 125409548 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+10/09 14:58:56:359 orderId = 125409548 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 384 | request =  | response =  | status = 1 | cause = success | description = 
+10/09 14:59:12:855 Close pool
+10/09 14:59:12:956 Close queue connection pool.
+10/09 14:59:12:962 End of process session
+10/09 14:59:12:963 CRM stopped
+10/09 14:59:14:818 CRM started
+10/09 14:59:14:854 Close pool
+10/09 14:59:14:855 Close pool
+10/09 14:59:14:855 Testing connection ...
+10/09 14:59:14:856 Created provisioning instance for CRM
+10/09 14:59:14:858 Testing connection are success
+10/09 14:59:14:858 Starting process session
+10/09 14:59:14:959 Total 0 instances are started
+10/09 14:59:14:960 Total 1 instances are added
+10/09 14:59:58:203 orderId = 125409549 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+10/09 14:59:58:319 orderId = 125409549 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 384 | request =  | response =  | status = 1 | cause = success | description = 
+10/09 15:01:18:449 orderId = 125409550 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+10/09 15:01:18:564 orderId = 125409550 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 384 | request =  | response =  | status = 1 | cause = success | description = 
+10/09 15:01:51:430 orderId = 125409550 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = rollback | productId = 274 | commandId = 378 | request =  | response =  | status = 4 | cause = success | description = 
+10/09 15:11:47:451 orderId = 125409551 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+10/09 15:11:47:573 orderId = 125409551 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 384 | request =  | response =  | status = 1 | cause = success | description = 
+10/09 15:12:38:506 orderId = 125409551 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = rollback | productId = 274 | commandId = 378 | request =  | response =  | status = 4 | cause = success | description = 
+10/09 15:13:25:699 orderId = 125409552 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+10/09 15:13:25:815 orderId = 125409552 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 384 | request =  | response =  | status = 1 | cause = success | description = 
+10/09 15:14:05:678 orderId = 125409552 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = rollback | productId = 274 | commandId = 378 | request =  | response =  | status = 4 | cause = success | description = 
+10/09 15:16:38:735 orderId = 125409553 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+10/09 15:16:38:856 orderId = 125409553 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 384 | request =  | response =  | status = 1 | cause = success | description = 
+10/09 15:17:08:823 orderId = 125409553 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = rollback | productId = 274 | commandId = 378 | request =  | response =  | status = 4 | cause = success | description = 
+10/09 15:19:42:866 CRM started
+10/09 15:19:44:018 Testing connection ...
+10/09 15:19:44:077 Created provisioning instance for CRM
+10/09 15:19:44:100 Testing connection are success
+10/09 15:19:44:100 Starting process session
+10/09 15:19:44:216 Total 0 instances are started
+10/09 15:19:44:218 Total 1 instances are added
+10/09 15:20:40:900 orderId = 125409554 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+10/09 15:21:59:089 java.sql.SQLException: ORA-00942: table or view does not exist
+
+10/09 15:21:59:090 orderId = 125409554 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 384 | request =  | response =  | status = 4 | cause = resource-busy | description = 
+10/09 15:21:59:200 orderId = 125409554 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = rollback | productId = 274 | commandId = 378 | request =  | response =  | status = 4 | cause = success | description = 
+10/09 15:25:29:610 CRM started
+10/09 15:25:32:941 Testing connection ...
+10/09 15:25:32:942 Created provisioning instance for CRM
+10/09 15:25:32:942 Testing connection are success
+10/09 15:25:32:943 Starting process session
+10/09 15:25:33:045 Total 0 instances are started
+10/09 15:25:33:045 Total 1 instances are added
+10/09 15:26:53:818 orderId = 125409556 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+10/09 15:27:31:782 java.sql.SQLException: ORA-00942: table or view does not exist
+
+10/09 15:27:31:783 orderId = 125409556 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 384 | request =  | response =  | status = 4 | cause = resource-busy | description = 
+10/09 15:27:31:896 orderId = 125409556 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = rollback | productId = 274 | commandId = 378 | request =  | response =  | status = 4 | cause = success | description = 
+10/09 15:29:24:794 orderId = 125409557 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+10/09 15:29:54:924 java.sql.SQLException: ORA-00942: table or view does not exist
+
+10/09 15:29:54:925 orderId = 125409557 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 384 | request =  | response =  | status = 4 | cause = resource-busy | description = 
+10/09 15:29:55:063 orderId = 125409557 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = rollback | productId = 274 | commandId = 378 | request =  | response =  | status = 4 | cause = success | description = 
+10/09 15:32:33:045 orderId = 125409558 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+10/09 15:33:17:070 java.sql.SQLException: ORA-00942: table or view does not exist
+
+10/09 15:33:17:071 orderId = 125409558 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 384 | request =  | response =  | status = 4 | cause = resource-busy | description = 
+10/09 15:33:17:184 orderId = 125409558 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = rollback | productId = 274 | commandId = 378 | request =  | response =  | status = 4 | cause = success | description = 
+10/09 15:38:09:589 CRM started
+10/09 15:38:12:520 Testing connection ...
+10/09 15:38:12:521 Created provisioning instance for CRM
+10/09 15:38:12:522 Testing connection are success
+10/09 15:38:12:523 Starting process session
+10/09 15:38:12:625 Total 0 instances are started
+10/09 15:38:12:626 Total 1 instances are added
+10/09 15:39:01:329 orderId = 125409559 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+10/09 15:39:23:561 java.sql.SQLException: ORA-00942: table or view does not exist
+
+10/09 15:39:23:562 orderId = 125409559 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 384 | request =  | response =  | status = 4 | cause = resource-busy | description = 
+10/09 15:39:23:699 orderId = 125409559 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = rollback | productId = 274 | commandId = 378 | request =  | response =  | status = 4 | cause = success | description = 
+10/09 15:42:07:745 CRM started
+10/09 15:42:10:812 Testing connection ...
+10/09 15:42:10:812 Created provisioning instance for CRM
+10/09 15:42:10:813 Testing connection are success
+10/09 15:42:10:813 Starting process session
+10/09 15:42:10:916 Total 0 instances are started
+10/09 15:42:10:916 Total 1 instances are added
+10/09 15:44:04:894 orderId = 125409561 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+10/09 15:44:41:947 java.sql.SQLException: ORA-00942: table or view does not exist
+
+10/09 15:44:41:948 orderId = 125409561 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 384 | request =  | response =  | status = 4 | cause = resource-busy | description = 
+10/09 15:44:42:057 orderId = 125409561 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = rollback | productId = 274 | commandId = 378 | request =  | response =  | status = 4 | cause = success | description = 
+10/09 16:59:05:856 CRM started
+10/09 16:59:21:012 Testing connection ...
+10/09 16:59:21:049 Created provisioning instance for CRM
+10/09 16:59:21:050 Testing connection are success
+10/09 16:59:21:052 Starting process session
+10/09 16:59:21:154 Total 0 instances are started
+10/09 16:59:21:156 Total 1 instances are added
+10/09 17:00:01:113 CRM started
+10/09 17:00:01:673 Testing connection ...
+10/09 17:00:01:678 Created provisioning instance for CRM
+10/09 17:00:01:679 Testing connection are success
+10/09 17:00:01:679 Starting process session
+10/09 17:00:01:793 Total 0 instances are started
+10/09 17:00:01:794 Total 1 instances are added
+10/09 17:01:14:867 Close pool
+10/09 17:01:14:968 Close queue connection pool.
+10/09 17:01:14:976 End of process session
+10/09 17:01:14:977 CRM stopped
+10/09 17:01:16:834 CRM started
+10/09 17:01:16:854 Close pool
+10/09 17:01:16:854 Close pool
+10/09 17:01:16:855 Testing connection ...
+10/09 17:01:16:855 Created provisioning instance for CRM
+10/09 17:01:16:856 Testing connection are success
+10/09 17:01:16:856 Starting process session
+10/09 17:01:16:956 Total 0 instances are started
+10/09 17:01:16:957 Total 1 instances are added
+10/09 17:02:01:327 sendNotify: 84922000514 - Quy khach hien dang la khach hang Than Thiet cua Vietnamobile tu 09/36/2013, da tich luy duoc 10000 diem va con 15000 diem. Chi tiet, lien he 789.
+10/09 17:02:01:328 orderId = 125409573 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = TRA DIEM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | commandId = 342 | request =  | response =  | status = 0 | cause = success | description = 
+10/09 17:03:34:375 CRM started
+10/09 17:03:37:331 Testing connection ...
+10/09 17:03:37:332 Created provisioning instance for CRM
+10/09 17:03:37:347 Testing connection are success
+10/09 17:03:37:348 Starting process session
+10/09 17:03:37:449 Total 0 instances are started
+10/09 17:03:37:449 Total 1 instances are added
+10/09 17:04:25:221 Close pool
+10/09 17:04:25:322 Close queue connection pool.
+10/09 17:04:25:328 End of process session
+10/09 17:04:25:329 CRM stopped
+10/09 17:04:27:151 CRM started
+10/09 17:04:27:172 Close pool
+10/09 17:04:27:172 Close pool
+10/09 17:04:27:173 Testing connection ...
+10/09 17:04:27:173 Created provisioning instance for CRM
+10/09 17:04:27:174 Testing connection are success
+10/09 17:04:27:174 Starting process session
+10/09 17:04:27:276 Total 0 instances are started
+10/09 17:04:27:277 Total 1 instances are added
+10/09 17:05:24:583 java.lang.IllegalArgumentException: Illegal pattern character 'Y'
+10/09 17:05:24:596 sendNotify: 84922000514 - Tin nhan cua ban sai cu phap. Xin vui long kiem tra lai.
+10/09 17:05:24:597 orderId = 125409577 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = TRA DIEM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | commandId = 342 | request =  | response =  | status = 4 | cause = error | description = 
+10/09 17:06:14:710 CRM started
+10/09 17:06:17:829 Testing connection ...
+10/09 17:06:17:830 Created provisioning instance for CRM
+10/09 17:06:17:830 Testing connection are success
+10/09 17:06:17:833 Starting process session
+10/09 17:06:17:934 Total 0 instances are started
+10/09 17:06:17:934 Total 1 instances are added
+10/09 17:06:53:439 Close pool
+10/09 17:06:53:540 Close queue connection pool.
+10/09 17:06:53:546 End of process session
+10/09 17:06:53:547 CRM stopped
+10/09 17:06:55:424 CRM started
+10/09 17:06:55:447 Close pool
+10/09 17:06:55:448 Close pool
+10/09 17:06:55:448 Testing connection ...
+10/09 17:06:55:449 Created provisioning instance for CRM
+10/09 17:06:55:449 Testing connection are success
+10/09 17:06:55:450 Starting process session
+10/09 17:06:55:550 Total 0 instances are started
+10/09 17:06:55:551 Total 1 instances are added
+10/09 17:07:05:711 sendNotify: 84922000514 - Quy khach hien dang la khach hang Than Thiet cua Vietnamobile tu 252/09/2013, da tich luy duoc 10000 diem va con 15000 diem. Chi tiet, lien he 789.
+10/09 17:07:05:712 orderId = 125409579 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = TRA DIEM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | commandId = 342 | request =  | response =  | status = 0 | cause = success | description = 
+10/09 17:08:36:943 CRM started
+10/09 17:08:39:075 Testing connection ...
+10/09 17:08:39:075 Created provisioning instance for CRM
+10/09 17:08:39:082 Testing connection are success
+10/09 17:08:39:085 Starting process session
+10/09 17:08:39:219 Total 0 instances are started
+10/09 17:08:39:219 Total 1 instances are added
+10/09 17:09:49:793 sendNotify: 84922000514 - Quy khach hien dang la khach hang Than Thiet cua Vietnamobile tu 09/09/2013, da tich luy duoc 10000 diem va con 15000 diem. Chi tiet, lien he 789.
+10/09 17:09:49:794 orderId = 125409581 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = TRA DIEM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | commandId = 342 | request =  | response =  | status = 0 | cause = success | description = 

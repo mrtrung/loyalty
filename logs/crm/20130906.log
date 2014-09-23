@@ -1,0 +1,501 @@
+06/09 08:43:53:941 CRM started
+06/09 08:43:56:973 Testing connection ...
+06/09 08:43:56:974 Created provisioning instance for CRM
+06/09 08:43:56:998 Testing connection are success
+06/09 08:43:56:998 Starting process session
+06/09 08:43:57:100 Total 0 instances are started
+06/09 08:43:57:101 Total 1 instances are added
+06/09 09:00:11:347 CRM started
+06/09 09:00:25:104 Testing connection ...
+06/09 09:00:25:108 Created provisioning instance for CRM
+06/09 09:00:25:108 Testing connection are success
+06/09 09:00:25:109 Starting process session
+06/09 09:00:25:211 Total 0 instances are started
+06/09 09:00:25:212 Total 1 instances are added
+06/09 09:01:16:604 sendNotify: 84922000512 - Dich vu da bi huy bo
+06/09 09:01:16:606 orderId = 125408260 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = TRA DIEM | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | commandId = 342 | request =  | response =  | status = 4 | cause = expired | description = 
+06/09 09:01:16:658 Close pool
+06/09 09:01:16:761 Close queue connection pool.
+06/09 09:01:16:786 End of process session
+06/09 09:01:16:786 CRM stopped
+06/09 09:01:18:692 CRM started
+06/09 09:01:18:711 Close pool
+06/09 09:01:18:712 Close pool
+06/09 09:01:18:712 Testing connection ...
+06/09 09:01:18:713 Created provisioning instance for CRM
+06/09 09:01:18:713 Testing connection are success
+06/09 09:01:18:714 Starting process session
+06/09 09:01:18:814 Total 0 instances are started
+06/09 09:01:18:816 Total 1 instances are added
+06/09 09:01:24:731 Close pool
+06/09 09:01:24:832 Close queue connection pool.
+06/09 09:01:24:858 End of process session
+06/09 09:01:24:859 CRM stopped
+06/09 09:01:45:357 CRM started
+06/09 09:01:48:562 Testing connection ...
+06/09 09:01:48:565 Created provisioning instance for CRM
+06/09 09:01:48:565 Testing connection are success
+06/09 09:01:48:566 Starting process session
+06/09 09:01:48:674 Total 0 instances are started
+06/09 09:01:48:674 Total 1 instances are added
+06/09 09:02:54:245 sendNotify: 84922000512 - Dich vu da bi huy bo
+06/09 09:02:54:246 orderId = 125408262 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = TRA DIEM | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | commandId = 342 | request =  | response =  | status = 4 | cause = expired | description = 
+06/09 09:03:56:264 CRM started
+06/09 09:03:59:769 Testing connection ...
+06/09 09:03:59:784 Created provisioning instance for CRM
+06/09 09:03:59:785 Testing connection are success
+06/09 09:03:59:785 Starting process session
+06/09 09:03:59:886 Total 0 instances are started
+06/09 09:03:59:886 Total 1 instances are added
+06/09 09:05:10:647 CRM started
+06/09 09:05:13:858 Testing connection ...
+06/09 09:05:13:859 Created provisioning instance for CRM
+06/09 09:05:13:860 Testing connection are success
+06/09 09:05:13:860 Starting process session
+06/09 09:05:13:962 Total 0 instances are started
+06/09 09:05:13:962 Total 1 instances are added
+06/09 09:13:11:518 sendNotify: 84922000512 - Dich vu da bi huy bo
+06/09 09:13:11:520 orderId = 125408266 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = TRA DIEM | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | commandId = 342 | request =  | response =  | status = 4 | cause = expired | description = 
+06/09 09:15:18:222 CRM started
+06/09 09:15:19:542 Testing connection ...
+06/09 09:15:19:543 Created provisioning instance for CRM
+06/09 09:15:19:543 Testing connection are success
+06/09 09:15:19:545 Starting process session
+06/09 09:15:19:778 Total 0 instances are started
+06/09 09:15:19:779 Total 1 instances are added
+06/09 09:16:09:062 Close pool
+06/09 09:16:09:163 Close queue connection pool.
+06/09 09:16:09:170 End of process session
+06/09 09:16:09:171 CRM stopped
+06/09 09:16:11:048 CRM started
+06/09 09:16:11:069 Close pool
+06/09 09:16:11:070 Close pool
+06/09 09:16:11:070 Testing connection ...
+06/09 09:16:11:071 Created provisioning instance for CRM
+06/09 09:16:11:071 Testing connection are success
+06/09 09:16:11:072 Starting process session
+06/09 09:16:11:172 Total 0 instances are started
+06/09 09:16:11:173 Total 1 instances are added
+06/09 09:17:11:133 Close pool
+06/09 09:17:11:234 Close queue connection pool.
+06/09 09:17:11:241 End of process session
+06/09 09:17:11:242 CRM stopped
+06/09 09:26:05:524 CRM started
+06/09 09:26:09:281 Testing connection ...
+06/09 09:26:09:282 Created provisioning instance for CRM
+06/09 09:26:09:282 Testing connection are success
+06/09 09:26:09:282 Starting process session
+06/09 09:26:09:383 Total 0 instances are started
+06/09 09:26:09:383 Total 1 instances are added
+06/09 09:27:10:730 orderId = 125408269 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 4 | cause = error | description = null
+06/09 09:27:10:741 null
+06/09 09:27:10:899 Total 0 instances are started
+06/09 09:27:10:900 Total 1 instances are added
+06/09 09:29:47:769 CRM started
+06/09 09:29:50:734 Testing connection ...
+06/09 09:29:50:734 Created provisioning instance for CRM
+06/09 09:29:50:735 Testing connection are success
+06/09 09:29:50:735 Starting process session
+06/09 09:29:50:838 Total 0 instances are started
+06/09 09:29:50:839 Total 1 instances are added
+06/09 09:30:07:605 sendNotify: 84922000512 - Thue bao cua Quy khach chua du thoi gian dang ky dich vu 3 thang nen chua the su dung dich vu DOI DIEM cua chung toi. Xin chan thanh cam on.
+06/09 09:30:07:606 orderId = 125408270 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 4 | cause = invalid-active-date | description = 
+06/09 09:32:40:593 sendNotify: 84922000512 - Thue bao cua Quy khach chua du thoi gian dang ky dich vu 3 thang nen chua the su dung dich vu DOI DIEM cua chung toi. Xin chan thanh cam on.
+06/09 09:32:40:594 orderId = 125408271 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 4 | cause = invalid-active-date | description = 
+06/09 09:33:06:466 CRM started
+06/09 09:33:09:488 Testing connection ...
+06/09 09:33:09:490 Created provisioning instance for CRM
+06/09 09:33:09:490 Testing connection are success
+06/09 09:33:09:491 Starting process session
+06/09 09:33:09:594 Total 0 instances are started
+06/09 09:33:09:594 Total 1 instances are added
+06/09 09:33:26:528 sendNotify: 84922000512 - Thue bao cua Quy khach chua du thoi gian dang ky dich vu 3 thang nen chua the su dung dich vu DOI DIEM cua chung toi. Xin chan thanh cam on.
+06/09 09:33:26:529 orderId = 125408272 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 4 | cause = invalid-active-date | description = 
+06/09 09:34:14:943 CRM started
+06/09 09:34:17:893 Testing connection ...
+06/09 09:34:17:896 Created provisioning instance for CRM
+06/09 09:34:17:896 Testing connection are success
+06/09 09:34:17:897 Starting process session
+06/09 09:34:18:000 Total 0 instances are started
+06/09 09:34:18:000 Total 1 instances are added
+06/09 09:36:25:551 CRM started
+06/09 09:36:28:804 Testing connection ...
+06/09 09:36:28:813 Created provisioning instance for CRM
+06/09 09:36:28:814 Testing connection are success
+06/09 09:36:28:814 Starting process session
+06/09 09:36:28:916 Total 0 instances are started
+06/09 09:36:28:916 Total 1 instances are added
+06/09 09:37:03:475 CRM started
+06/09 09:37:06:406 Testing connection ...
+06/09 09:37:06:409 Created provisioning instance for CRM
+06/09 09:37:06:410 Testing connection are success
+06/09 09:37:06:411 Starting process session
+06/09 09:37:06:514 Total 0 instances are started
+06/09 09:37:06:514 Total 1 instances are added
+06/09 09:37:31:475 sendNotify: 84922000512 - Xin loi, he thong dang ban. Xin quy khach vui long nhan tin lai sau.
+06/09 09:37:31:476 orderId = 125408274 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 4 | cause = unknow-balance | description = 
+06/09 09:39:30:415 sendNotify: 84922000512 - Ban chua co diem tich luy. Lien he 789.
+06/09 09:39:30:417 orderId = 125408275 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 4 | cause = unknow-balance | description = 
+06/09 10:00:23:949 CRM started
+06/09 10:00:27:006 Testing connection ...
+06/09 10:00:27:007 Created provisioning instance for CRM
+06/09 10:00:27:016 Testing connection are success
+06/09 10:00:27:016 Starting process session
+06/09 10:00:27:118 Total 0 instances are started
+06/09 10:00:27:119 Total 1 instances are added
+06/09 10:01:12:532 Close pool
+06/09 10:01:12:634 Close queue connection pool.
+06/09 10:01:12:642 End of process session
+06/09 10:01:12:643 CRM stopped
+06/09 10:01:14:558 CRM started
+06/09 10:01:14:578 Close pool
+06/09 10:01:14:579 Close pool
+06/09 10:01:14:579 Testing connection ...
+06/09 10:01:14:580 Created provisioning instance for CRM
+06/09 10:01:14:580 Testing connection are success
+06/09 10:01:14:581 Starting process session
+06/09 10:01:14:681 Total 0 instances are started
+06/09 10:01:14:682 Total 1 instances are added
+06/09 10:06:26:850 CRM started
+06/09 10:06:30:644 Testing connection ...
+06/09 10:06:30:646 Created provisioning instance for CRM
+06/09 10:06:30:646 Testing connection are success
+06/09 10:06:30:646 Starting process session
+06/09 10:06:30:750 Total 0 instances are started
+06/09 10:06:30:750 Total 1 instances are added
+06/09 10:06:50:557 orderId = 125408286 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+06/09 10:09:18:393 CRM started
+06/09 10:09:21:948 Testing connection ...
+06/09 10:09:21:951 Created provisioning instance for CRM
+06/09 10:09:21:951 Testing connection are success
+06/09 10:09:21:952 Starting process session
+06/09 10:09:22:076 Total 0 instances are started
+06/09 10:09:22:078 Total 1 instances are added
+06/09 10:15:39:405 CRM started
+06/09 10:15:42:795 Testing connection ...
+06/09 10:15:42:808 Created provisioning instance for CRM
+06/09 10:15:42:809 Testing connection are success
+06/09 10:15:42:810 Starting process session
+06/09 10:15:42:912 Total 0 instances are started
+06/09 10:15:42:912 Total 1 instances are added
+06/09 10:16:32:180 orderId = 125408288 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+06/09 10:16:35:395 sendNotify: 84922000514 - Quy khach da doi thanh cong 1000 diem thanh tien su dung dich vu. So tien tuong ung 1000 diem se duoc cong  vao tai khoan TKKM2, su dung goi va nhan tin lien mang, data.
+06/09 10:16:35:396 orderId = 125408288 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 304 | request =  | response =  | status = 0 | cause = success | description = 
+06/09 10:19:37:608 orderId = 125408290 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 2000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+06/09 10:23:04:366 Close pool
+06/09 10:23:04:469 Close queue connection pool.
+06/09 10:23:04:474 End of process session
+06/09 10:23:04:475 CRM stopped
+06/09 10:23:06:297 CRM started
+06/09 10:23:06:319 Close pool
+06/09 10:23:06:319 Close pool
+06/09 10:23:06:320 Testing connection ...
+06/09 10:23:06:321 Created provisioning instance for CRM
+06/09 10:23:06:321 Testing connection are success
+06/09 10:23:06:321 Starting process session
+06/09 10:23:06:422 Total 0 instances are started
+06/09 10:23:06:423 Total 1 instances are added
+06/09 10:24:14:973 orderId = 125408292 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 2000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+06/09 10:24:15:414 sendNotify: 84922000514 - Quy khach da doi thanh cong 2000 diem thanh tien su dung dich vu. So tien tuong ung 2000 diem se duoc cong  vao tai khoan TKKM2, su dung goi va nhan tin lien mang, data.
+06/09 10:24:15:414 orderId = 125408292 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 2000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 304 | request =  | response =  | status = 0 | cause = success | description = 
+06/09 10:44:19:342 CRM started
+06/09 10:44:22:902 Testing connection ...
+06/09 10:44:22:903 Created provisioning instance for CRM
+06/09 10:44:22:904 Testing connection are success
+06/09 10:44:22:905 Starting process session
+06/09 10:44:23:026 Total 0 instances are started
+06/09 10:44:23:026 Total 1 instances are added
+06/09 10:56:30:413 CRM started
+06/09 10:56:34:374 Testing connection ...
+06/09 10:56:34:378 Created provisioning instance for CRM
+06/09 10:56:34:378 Testing connection are success
+06/09 10:56:34:379 Starting process session
+06/09 10:56:34:480 Total 0 instances are started
+06/09 10:56:34:480 Total 1 instances are added
+06/09 10:57:48:332 sendNotify: 84922000512 - Dich vu da bi huy bo
+06/09 10:57:48:341 orderId = 125408297 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = TRA DIEM | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | commandId = 342 | request =  | response =  | status = 4 | cause = expired | description = 
+06/09 11:01:20:593 CRM started
+06/09 11:01:23:394 Testing connection ...
+06/09 11:01:23:404 Created provisioning instance for CRM
+06/09 11:01:23:410 Testing connection are success
+06/09 11:01:23:410 Starting process session
+06/09 11:01:23:511 Total 0 instances are started
+06/09 11:01:23:511 Total 1 instances are added
+06/09 11:12:23:255 CRM started
+06/09 11:12:26:860 Testing connection ...
+06/09 11:12:26:861 Created provisioning instance for CRM
+06/09 11:12:26:862 Testing connection are success
+06/09 11:12:26:863 Starting process session
+06/09 11:12:26:965 Total 0 instances are started
+06/09 11:12:26:965 Total 1 instances are added
+06/09 11:16:55:282 CRM started
+06/09 11:16:58:603 Testing connection ...
+06/09 11:16:58:604 Created provisioning instance for CRM
+06/09 11:16:58:604 Testing connection are success
+06/09 11:16:58:605 Starting process session
+06/09 11:16:58:706 Total 0 instances are started
+06/09 11:16:58:706 Total 1 instances are added
+06/09 11:30:48:691 CRM started
+06/09 11:30:51:706 Testing connection ...
+06/09 11:30:51:711 Created provisioning instance for CRM
+06/09 11:30:51:726 Testing connection are success
+06/09 11:30:51:728 Starting process session
+06/09 11:30:51:831 Total 0 instances are started
+06/09 11:30:51:832 Total 1 instances are added
+06/09 11:39:47:652 CRM started
+06/09 11:39:50:561 Testing connection ...
+06/09 11:39:50:562 Created provisioning instance for CRM
+06/09 11:39:50:562 Testing connection are success
+06/09 11:39:50:563 Starting process session
+06/09 11:39:50:665 Total 0 instances are started
+06/09 11:39:50:665 Total 1 instances are added
+06/09 11:42:44:198 CRM started
+06/09 11:42:46:690 Testing connection ...
+06/09 11:42:46:690 Created provisioning instance for CRM
+06/09 11:42:46:700 Testing connection are success
+06/09 11:42:46:700 Starting process session
+06/09 11:42:46:801 Total 0 instances are started
+06/09 11:42:46:801 Total 1 instances are added
+06/09 11:44:59:071 CRM started
+06/09 11:45:01:667 Testing connection ...
+06/09 11:45:01:668 Created provisioning instance for CRM
+06/09 11:45:01:668 Testing connection are success
+06/09 11:45:01:668 Starting process session
+06/09 11:45:01:783 Total 0 instances are started
+06/09 11:45:01:783 Total 1 instances are added
+06/09 14:04:55:732 CRM started
+06/09 14:04:58:031 Testing connection ...
+06/09 14:04:58:071 Created provisioning instance for CRM
+06/09 14:04:58:078 Testing connection are success
+06/09 14:04:58:079 Starting process session
+06/09 14:04:58:182 Total 0 instances are started
+06/09 14:04:58:183 Total 1 instances are added
+06/09 14:08:46:696 sendNotify: 84922000512 - Chuc mung Quy khach da tich luy duoc  diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Chuong trinh cham soc khach hang than thiet cua Vietnamobile de nhan duoc nhieu uu dai bat ngo. Chi tiet 789.
+06/09 14:08:46:697 orderId = 125408575 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = TRA DIEM | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | commandId = 342 | request =  | response =  | status = 4 | cause = unknow-member | description = 
+06/09 14:16:40:230 CRM started
+06/09 14:16:43:496 Testing connection ...
+06/09 14:16:43:497 Created provisioning instance for CRM
+06/09 14:16:43:497 Testing connection are success
+06/09 14:16:43:497 Starting process session
+06/09 14:16:43:599 Total 0 instances are started
+06/09 14:16:43:599 Total 1 instances are added
+06/09 14:17:22:631 sendNotify: 84922000512 - Chuc mung Quy khach da tich luy duoc  diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Chuong trinh cham soc khach hang than thiet cua Vietnamobile de nhan duoc nhieu uu dai bat ngo. Chi tiet 789.
+06/09 14:17:22:632 orderId = 125408576 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = TRA DIEM | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | commandId = 342 | request =  | response =  | status = 4 | cause = unknow-member | description = 
+06/09 14:21:05:286 CRM started
+06/09 14:21:08:483 Testing connection ...
+06/09 14:21:08:484 Created provisioning instance for CRM
+06/09 14:21:08:484 Testing connection are success
+06/09 14:21:08:485 Starting process session
+06/09 14:21:08:590 Total 0 instances are started
+06/09 14:21:08:590 Total 1 instances are added
+06/09 14:22:11:494 CRM started
+06/09 14:22:13:893 Testing connection ...
+06/09 14:22:13:896 Created provisioning instance for CRM
+06/09 14:22:13:896 Testing connection are success
+06/09 14:22:13:897 Starting process session
+06/09 14:22:13:998 Total 0 instances are started
+06/09 14:22:13:998 Total 1 instances are added
+06/09 14:22:33:367 sendNotify: 84922000512 - S? ?i?m c?a b?n không t?n t?i. Chi ti?t liên h? 789.
+06/09 14:22:33:368 orderId = 125408579 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = TRA DIEM | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | commandId = 342 | request =  | response =  | status = 4 | cause = unknow-balance | description = 
+06/09 14:26:05:341 SEND: ID=134001: com.crm.provisioning.impl.CommandImpl.unregister{84922000514, 274}
+06/09 14:26:05:363 RECEIVE: ID=134001: success: costTime=20
+06/09 14:26:05:365 sendNotify: 84922000514 - B?n ?ã h?y thành công d?ch v? LOYALTY
+06/09 14:26:05:366 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = HUY CAM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = unregister | productId = 274 | commandId = 13121 | request = ID=134001: com.crm.provisioning.impl.CommandImpl.unregister{84922000514, 274} | response = ID=134001: success: costTime=20 | status = 0 | cause = success | description = success
+06/09 14:26:48:382 sendNotify: 84922000514 - Chuc mung Quy khach da tich luy duoc 45000 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Chuong trinh cham soc khach hang than thiet cua Vietnamobile de nhan duoc nhieu uu dai bat ngo. Chi tiet 789.
+06/09 14:26:48:382 orderId = 125408580 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = TRA DIEM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | commandId = 342 | request =  | response =  | status = 4 | cause = unknow-member | description = 
+06/09 14:28:21:919 SEND: ID=134003: com.crm.provisioning.impl.CommandImpl.register{84922000512, 274}
+06/09 14:28:21:947 RECEIVE: ID=134003: success: costTime=26
+06/09 14:28:21:955 sendNotify: 84922000512 - Chuc mung quy khach da gia nhap Cau lac bo CAM cua Vietnamobile.Hay tiep tuc su dung Vietnamobile de tich luy nhieu diem va nhan duoc nhieu uu dai cua chuong trinh. Chi tiet 789
+06/09 14:28:21:956 orderId = 125408609 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DK CAM | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = register | productId = 274 | commandId = 13119 | request = ID=134003: com.crm.provisioning.impl.CommandImpl.register{84922000512, 274} | response = ID=134003: success: costTime=26 | status = 0 | cause = success | description = success
+06/09 14:28:40:532 sendNotify: 84922000512 - S? ?i?m c?a b?n không t?n t?i. Chi ti?t liên h? 789.
+06/09 14:28:40:533 orderId = 125408751 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = TRA DIEM | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | commandId = 342 | request =  | response =  | status = 4 | cause = unknow-balance | description = 
+06/09 14:40:05:779 SEND: ID=134005: com.crm.provisioning.impl.CommandImpl.register{84922000514, 274}
+06/09 14:40:05:808 RECEIVE: ID=134005: success: costTime=28
+06/09 14:40:05:820 sendNotify: 84922000514 - Chuc mung quy khach da gia nhap Cau lac bo CAM cua Vietnamobile.Hay tiep tuc su dung Vietnamobile de tich luy nhieu diem va nhan duoc nhieu uu dai cua chuong trinh. Chi tiet 789
+06/09 14:40:05:821 orderId = 125408893 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DK CAM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = register | productId = 274 | commandId = 13119 | request = ID=134005: com.crm.provisioning.impl.CommandImpl.register{84922000514, 274} | response = ID=134005: success: costTime=28 | status = 0 | cause = success | description = success
+06/09 14:40:42:781 orderId = 125408894 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 2000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+06/09 14:40:43:206 sendNotify: 84922000514 - Quy khach da doi thanh cong 2000 diem thanh tien su dung dich vu. So tien tuong ung 2000 diem se duoc cong  vao tai khoan TKKM2, su dung goi va nhan tin lien mang, data.
+06/09 14:40:43:207 orderId = 125408894 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 2000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 304 | request =  | response =  | status = 0 | cause = success | description = 
+06/09 15:16:43:965 CRM started
+06/09 15:16:47:064 Testing connection ...
+06/09 15:16:47:067 Created provisioning instance for CRM
+06/09 15:16:47:067 Testing connection are success
+06/09 15:16:47:068 Starting process session
+06/09 15:16:47:171 Total 0 instances are started
+06/09 15:16:47:172 Total 1 instances are added
+06/09 15:17:15:099 orderId = 125408895 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 2000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+06/09 15:17:16:654 sendNotify: 84922000514 - Quy khach da doi thanh cong 2000 diem thanh tien su dung dich vu. So tien tuong ung 2000 diem se duoc cong  vao tai khoan TKKM2, su dung goi va nhan tin lien mang, data.
+06/09 15:17:16:655 orderId = 125408895 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 2000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 304 | request =  | response =  | status = 0 | cause = success | description = 
+06/09 15:18:20:017 orderId = 125408896 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 2000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+06/09 15:18:20:444 sendNotify: 84922000514 - Quy khach da doi thanh cong 2000 diem thanh tien su dung dich vu. So tien tuong ung 2000 diem se duoc cong  vao tai khoan TKKM2, su dung goi va nhan tin lien mang, data.
+06/09 15:18:20:445 orderId = 125408896 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 2000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 304 | request =  | response =  | status = 0 | cause = success | description = 
+06/09 15:22:55:181 orderId = 125408897 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 2000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+06/09 15:22:55:502 sendNotify: 84922000514 - Quy khach da doi thanh cong 2000 diem thanh tien su dung dich vu. So tien tuong ung 2000 diem se duoc cong  vao tai khoan TKKM2, su dung goi va nhan tin lien mang, data.
+06/09 15:22:55:502 orderId = 125408897 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 2000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 304 | request =  | response =  | status = 0 | cause = success | description = 
+06/09 15:23:07:304 orderId = 125408898 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 2000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+06/09 15:23:07:687 sendNotify: 84922000514 - Quy khach da doi thanh cong 2000 diem thanh tien su dung dich vu. So tien tuong ung 2000 diem se duoc cong  vao tai khoan TKKM2, su dung goi va nhan tin lien mang, data.
+06/09 15:23:07:688 orderId = 125408898 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 2000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 304 | request =  | response =  | status = 0 | cause = success | description = 
+06/09 15:23:55:081 CRM started
+06/09 15:23:58:229 Testing connection ...
+06/09 15:23:58:230 Created provisioning instance for CRM
+06/09 15:23:58:231 Testing connection are success
+06/09 15:23:58:232 Starting process session
+06/09 15:23:58:333 Total 0 instances are started
+06/09 15:23:58:333 Total 1 instances are added
+06/09 15:24:51:050 orderId = 125408899 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 2000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+06/09 15:24:52:317 sendNotify: 84922000514 - Quy khach da doi thanh cong 2000 diem thanh tien su dung dich vu. So tien tuong ung 2000 diem se duoc cong  vao tai khoan TKKM2, su dung goi va nhan tin lien mang, data.
+06/09 15:24:52:318 orderId = 125408899 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 2000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 304 | request =  | response =  | status = 0 | cause = success | description = 
+06/09 15:34:15:578 CRM started
+06/09 15:34:18:624 Testing connection ...
+06/09 15:34:18:625 Created provisioning instance for CRM
+06/09 15:34:18:626 Testing connection are success
+06/09 15:34:18:633 Starting process session
+06/09 15:34:18:737 Total 0 instances are started
+06/09 15:34:18:737 Total 1 instances are added
+06/09 15:42:28:161 CRM started
+06/09 15:42:31:207 Testing connection ...
+06/09 15:42:31:208 Created provisioning instance for CRM
+06/09 15:42:31:209 Testing connection are success
+06/09 15:42:31:209 Starting process session
+06/09 15:42:31:313 Total 0 instances are started
+06/09 15:42:31:313 Total 1 instances are added
+06/09 15:45:33:148 CRM started
+06/09 15:45:36:338 Testing connection ...
+06/09 15:45:36:338 Created provisioning instance for CRM
+06/09 15:45:36:339 Testing connection are success
+06/09 15:45:36:339 Starting process session
+06/09 15:45:36:443 Total 0 instances are started
+06/09 15:45:36:443 Total 1 instances are added
+06/09 16:32:21:570 CRM started
+06/09 16:32:24:961 Testing connection ...
+06/09 16:32:24:966 Created provisioning instance for CRM
+06/09 16:32:24:966 Testing connection are success
+06/09 16:32:24:967 Starting process session
+06/09 16:32:25:071 Total 0 instances are started
+06/09 16:32:25:071 Total 1 instances are added
+06/09 16:40:36:023 CRM started
+06/09 16:40:39:058 Testing connection ...
+06/09 16:40:39:060 Created provisioning instance for CRM
+06/09 16:40:39:061 Testing connection are success
+06/09 16:40:39:062 Starting process session
+06/09 16:40:39:166 Total 0 instances are started
+06/09 16:40:39:167 Total 1 instances are added
+06/09 16:42:21:103 orderId = 125409370 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 2000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+06/09 16:42:21:480 sendNotify: 84922000514 - Quy khach da doi thanh cong 2000 diem thanh tien su dung dich vu. So tien tuong ung 2000 diem se duoc cong  vao tai khoan TKKM2, su dung goi va nhan tin lien mang, data.
+06/09 16:42:21:481 orderId = 125409370 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 2000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 304 | request =  | response =  | status = 0 | cause = success | description = 
+06/09 16:42:37:226 CRM started
+06/09 16:42:39:798 Testing connection ...
+06/09 16:42:39:799 Created provisioning instance for CRM
+06/09 16:42:39:801 Testing connection are success
+06/09 16:42:39:801 Starting process session
+06/09 16:42:39:903 Total 0 instances are started
+06/09 16:42:39:903 Total 1 instances are added
+06/09 16:43:08:029 orderId = 125409371 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 2000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+06/09 16:43:08:382 sendNotify: 84922000514 - Quy khach da doi thanh cong 2000 diem thanh tien su dung dich vu. So tien tuong ung 2000 diem se duoc cong  vao tai khoan TKKM2, su dung goi va nhan tin lien mang, data.
+06/09 16:43:08:384 orderId = 125409371 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 2000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 304 | request =  | response =  | status = 0 | cause = success | description = 
+06/09 16:47:58:284 sendNotify: 84922000514 - Chuc mung Quy khach da tich luy duoc 29000 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Chuong trinh cham soc khach hang than thiet cua Vietnamobile de nhan duoc nhieu uu dai bat ngo. Chi tiet 789.
+06/09 16:47:58:285 orderId = 125409372 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = TRA DIEM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | commandId = 342 | request =  | response =  | status = 4 | cause = unknow-member | description = 
+06/09 16:53:36:400 orderId = 125409373 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 3000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+06/09 16:53:36:750 sendNotify: 84922000514 - Quy khach da doi thanh cong 3000 diem thanh tien su dung dich vu. So tien tuong ung 3000 diem se duoc cong  vao tai khoan TKKM2, su dung goi va nhan tin lien mang, data.
+06/09 16:53:36:751 orderId = 125409373 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 3000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 304 | request =  | response =  | status = 0 | cause = success | description = 
+06/09 16:54:43:476 orderId = 125409374 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 6000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+06/09 16:54:43:801 sendNotify: 84922000514 - Quy khach da doi thanh cong 6000 diem thanh tien su dung dich vu. So tien tuong ung 6000 diem se duoc cong  vao tai khoan TKKM2, su dung goi va nhan tin lien mang, data.
+06/09 16:54:43:802 orderId = 125409374 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 6000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 304 | request =  | response =  | status = 0 | cause = success | description = 
+06/09 16:57:23:911 CRM started
+06/09 16:57:27:021 Testing connection ...
+06/09 16:57:27:024 Created provisioning instance for CRM
+06/09 16:57:27:024 Testing connection are success
+06/09 16:57:27:024 Starting process session
+06/09 16:57:27:127 Total 0 instances are started
+06/09 16:57:27:128 Total 1 instances are added
+06/09 16:58:01:935 orderId = 125409375 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 6000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+06/09 17:04:36:840 CRM started
+06/09 17:04:39:860 Testing connection ...
+06/09 17:04:39:861 Created provisioning instance for CRM
+06/09 17:04:39:861 Testing connection are success
+06/09 17:04:39:862 Starting process session
+06/09 17:04:39:966 Total 0 instances are started
+06/09 17:04:39:968 Total 1 instances are added
+06/09 17:05:34:709 orderId = 125409376 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 6000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+06/09 17:07:46:364 sendNotify: 84922000514 - Quy khach da doi thanh cong 6000 diem thanh tien su dung dich vu. So tien tuong ung 6000 diem se duoc cong  vao tai khoan TKKM2, su dung goi va nhan tin lien mang, data.
+06/09 17:07:46:365 orderId = 125409376 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 6000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 304 | request =  | response =  | status = 0 | cause = success | description = 
+06/09 17:07:51:799 orderId = 125409377 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 6000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+06/09 17:15:52:026 CRM started
+06/09 17:15:54:845 Testing connection ...
+06/09 17:15:54:846 Created provisioning instance for CRM
+06/09 17:15:54:851 Testing connection are success
+06/09 17:15:54:852 Starting process session
+06/09 17:15:54:953 Total 0 instances are started
+06/09 17:15:54:953 Total 1 instances are added
+06/09 17:16:24:884 orderId = 125409378 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 6000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+06/09 17:17:06:673 CRM started
+06/09 17:17:09:470 Testing connection ...
+06/09 17:17:09:472 Created provisioning instance for CRM
+06/09 17:17:09:472 Testing connection are success
+06/09 17:17:09:473 Starting process session
+06/09 17:17:09:576 Total 0 instances are started
+06/09 17:17:09:576 Total 1 instances are added
+06/09 17:17:48:328 orderId = 125409379 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 4000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+06/09 17:17:48:586 sendNotify: 84922000514 - Quy khach da doi thanh cong 4000 diem thanh tien su dung dich vu. So tien tuong ung 4000 diem se duoc cong  vao tai khoan TKKM2, su dung goi va nhan tin lien mang, data.
+06/09 17:17:48:588 orderId = 125409379 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 4000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 304 | request =  | response =  | status = 0 | cause = success | description = 
+06/09 17:21:42:616 sendNotify: 84922000514 - Chuc mung Quy khach da tich luy duoc 10000 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Chuong trinh cham soc khach hang than thiet cua Vietnamobile de nhan duoc nhieu uu dai bat ngo. Chi tiet 789.
+06/09 17:21:42:617 orderId = 125409380 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = TRA DIEM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | commandId = 342 | request =  | response =  | status = 4 | cause = unknow-member | description = 
+06/09 17:30:15:748 CRM started
+06/09 17:30:18:779 Testing connection ...
+06/09 17:30:18:780 Created provisioning instance for CRM
+06/09 17:30:18:782 Testing connection are success
+06/09 17:30:18:782 Starting process session
+06/09 17:30:18:884 Total 0 instances are started
+06/09 17:30:18:884 Total 1 instances are added
+06/09 17:33:03:991 CRM started
+06/09 17:33:07:322 Testing connection ...
+06/09 17:33:07:326 Created provisioning instance for CRM
+06/09 17:33:07:327 Testing connection are success
+06/09 17:33:07:327 Starting process session
+06/09 17:33:07:429 Total 0 instances are started
+06/09 17:33:07:430 Total 1 instances are added
+06/09 17:33:59:391 CRM started
+06/09 17:34:01:192 Testing connection ...
+06/09 17:34:01:192 Created provisioning instance for CRM
+06/09 17:34:01:258 Testing connection are success
+06/09 17:34:01:258 Starting process session
+06/09 17:34:01:366 Total 0 instances are started
+06/09 17:34:01:366 Total 1 instances are added
+06/09 17:34:25:460 sendNotify: 84922000514 - Quy khach hien dang la khach hang Than Thiet cua Vietnamobile tu 06/09/2013 14:40:05 , da tich luy duoc 10000 diem va con 10000 diem. Chi tiet, lien he 789.
+06/09 17:34:25:461 orderId = 125409383 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = TRA DIEM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | commandId = 342 | request =  | response =  | status = 0 | cause = success | description = 
+06/09 17:38:23:405 CRM started
+06/09 17:38:26:207 Testing connection ...
+06/09 17:38:26:208 Created provisioning instance for CRM
+06/09 17:38:26:208 Testing connection are success
+06/09 17:38:26:210 Starting process session
+06/09 17:38:26:312 Total 0 instances are started
+06/09 17:38:26:312 Total 1 instances are added
+06/09 17:38:48:342 sendNotify: 84922000514 - Quy khach hien dang la khach hang Than Thiet cua Vietnamobile tu 06/40/13 , da tich luy duoc 10000 diem va con 10000 diem. Chi tiet, lien he 789.
+06/09 17:38:48:343 orderId = 125409384 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = TRA DIEM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | commandId = 342 | request =  | response =  | status = 0 | cause = success | description = 
+06/09 17:58:21:312 CRM started
+06/09 17:58:23:445 Testing connection ...
+06/09 17:58:23:449 Created provisioning instance for CRM
+06/09 17:58:23:572 Testing connection are success
+06/09 17:58:23:573 Starting process session
+06/09 17:58:23:684 Total 0 instances are started
+06/09 17:58:23:686 Total 1 instances are added
+06/09 17:59:23:407 sendNotify: 84922000514 - Quy khach hien dang la khach hang Than Thiet cua Vietnamobile tu 06/40/13, da tich luy duoc 0.0 diem va con 10000 diem. Chi tiet, lien he 789.
+06/09 17:59:23:408 orderId = 125409385 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = TRA DIEM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | commandId = 342 | request =  | response =  | status = 0 | cause = success | description = 
+06/09 18:04:36:509 CRM started
+06/09 18:04:39:295 Testing connection ...
+06/09 18:04:39:295 Created provisioning instance for CRM
+06/09 18:04:39:304 Testing connection are success
+06/09 18:04:39:305 Starting process session
+06/09 18:04:39:406 Total 0 instances are started
+06/09 18:04:39:407 Total 1 instances are added
+06/09 18:05:05:556 sendNotify: 84922000514 - Dich vu da bi huy bo
+06/09 18:05:05:557 orderId = 125409386 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = TRA DIEM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | commandId = 342 | request =  | response =  | status = 4 | cause = expired | description = 
+06/09 18:10:07:862 CRM started
+06/09 18:10:10:937 Testing connection ...
+06/09 18:10:10:939 Created provisioning instance for CRM
+06/09 18:10:10:940 Testing connection are success
+06/09 18:10:10:941 Starting process session
+06/09 18:10:11:044 Total 0 instances are started
+06/09 18:10:11:045 Total 1 instances are added
+06/09 18:11:50:827 sendNotify: 84922000514 - Dich vu da bi huy bo
+06/09 18:11:50:828 orderId = 125409387 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = TRA DIEM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | commandId = 342 | request =  | response =  | status = 4 | cause = expired | description = 

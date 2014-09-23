@@ -1,0 +1,2027 @@
+18/09 10:14:11:643 Order Routing started
+18/09 10:14:11:693 Testing connection ...
+18/09 10:14:11:697 Created provisioning instance for CCWS
+18/09 10:14:11:698 Testing connection are success
+18/09 10:14:11:698 Starting process session
+18/09 10:14:12:334 java.lang.NoSuchMethodException: com.crm.product.impl.UnlimitDataOrderRoutingImpl.registerMPServices(com.crm.provisioning.thread.OrderRoutingInstance, com.crm.product.cache.ProductRoute, com.crm.provisioning.message.CommandMessage)
+18/09 10:14:12:335 Close pool
+18/09 10:14:12:337 End of process session
+18/09 10:14:22:337 Close pool
+18/09 10:14:22:338 Close pool
+18/09 10:14:22:339 Testing connection ...
+18/09 10:14:22:341 Created provisioning instance for CCWS
+18/09 10:14:22:342 Testing connection are success
+18/09 10:14:22:342 Starting process session
+18/09 10:14:22:701 java.lang.NoSuchMethodException: com.crm.product.impl.UnlimitDataOrderRoutingImpl.registerMPServices(com.crm.provisioning.thread.OrderRoutingInstance, com.crm.product.cache.ProductRoute, com.crm.provisioning.message.CommandMessage)
+18/09 10:14:22:701 Close pool
+18/09 10:14:22:702 End of process session
+18/09 10:14:32:703 Close pool
+18/09 10:14:32:704 Close pool
+18/09 10:14:32:705 Testing connection ...
+18/09 10:14:32:707 Created provisioning instance for CCWS
+18/09 10:14:32:707 Testing connection are success
+18/09 10:14:32:708 Starting process session
+18/09 10:14:33:115 java.lang.NoSuchMethodException: com.crm.product.impl.UnlimitDataOrderRoutingImpl.registerMPServices(com.crm.provisioning.thread.OrderRoutingInstance, com.crm.product.cache.ProductRoute, com.crm.provisioning.message.CommandMessage)
+18/09 10:14:33:116 Close pool
+18/09 10:14:33:116 End of process session
+18/09 10:14:43:117 Close pool
+18/09 10:14:43:118 Close pool
+18/09 10:14:43:119 Testing connection ...
+18/09 10:14:43:121 Created provisioning instance for CCWS
+18/09 10:14:43:121 Testing connection are success
+18/09 10:14:43:122 Starting process session
+18/09 10:14:43:447 java.lang.NoSuchMethodException: com.crm.product.impl.UnlimitDataOrderRoutingImpl.registerMPServices(com.crm.provisioning.thread.OrderRoutingInstance, com.crm.product.cache.ProductRoute, com.crm.provisioning.message.CommandMessage)
+18/09 10:14:43:447 Close pool
+18/09 10:14:43:448 End of process session
+18/09 10:14:53:449 Close pool
+18/09 10:14:53:450 Close pool
+18/09 10:14:53:450 Testing connection ...
+18/09 10:14:53:453 Created provisioning instance for CCWS
+18/09 10:14:53:453 Testing connection are success
+18/09 10:14:53:453 Starting process session
+18/09 10:14:53:786 java.lang.NoSuchMethodException: com.crm.product.impl.UnlimitDataOrderRoutingImpl.registerMPServices(com.crm.provisioning.thread.OrderRoutingInstance, com.crm.product.cache.ProductRoute, com.crm.provisioning.message.CommandMessage)
+18/09 10:14:53:786 Close pool
+18/09 10:14:53:787 End of process session
+18/09 10:15:03:788 Close pool
+18/09 10:15:03:789 Close pool
+18/09 10:15:03:789 Testing connection ...
+18/09 10:15:03:792 Created provisioning instance for CCWS
+18/09 10:15:03:792 Testing connection are success
+18/09 10:15:03:792 Starting process session
+18/09 10:15:04:113 java.lang.NoSuchMethodException: com.crm.product.impl.UnlimitDataOrderRoutingImpl.registerMPServices(com.crm.provisioning.thread.OrderRoutingInstance, com.crm.product.cache.ProductRoute, com.crm.provisioning.message.CommandMessage)
+18/09 10:15:04:113 Close pool
+18/09 10:15:04:114 End of process session
+18/09 10:15:14:114 Close pool
+18/09 10:15:14:115 Close pool
+18/09 10:15:14:115 Testing connection ...
+18/09 10:15:14:117 Created provisioning instance for CCWS
+18/09 10:15:14:118 Testing connection are success
+18/09 10:15:14:118 Starting process session
+18/09 10:15:14:440 java.lang.NoSuchMethodException: com.crm.product.impl.UnlimitDataOrderRoutingImpl.registerMPServices(com.crm.provisioning.thread.OrderRoutingInstance, com.crm.product.cache.ProductRoute, com.crm.provisioning.message.CommandMessage)
+18/09 10:15:14:441 Close pool
+18/09 10:15:14:441 End of process session
+18/09 10:15:24:443 Close pool
+18/09 10:15:24:444 Close pool
+18/09 10:15:24:444 Testing connection ...
+18/09 10:15:24:447 Created provisioning instance for CCWS
+18/09 10:15:24:448 Testing connection are success
+18/09 10:15:24:448 Starting process session
+18/09 10:15:24:886 java.lang.NoSuchMethodException: com.crm.product.impl.UnlimitDataOrderRoutingImpl.registerMPServices(com.crm.provisioning.thread.OrderRoutingInstance, com.crm.product.cache.ProductRoute, com.crm.provisioning.message.CommandMessage)
+18/09 10:15:24:887 Close pool
+18/09 10:15:24:887 End of process session
+18/09 10:15:34:970 Close pool
+18/09 10:15:34:971 Close pool
+18/09 10:15:34:971 Testing connection ...
+18/09 10:15:34:973 Created provisioning instance for CCWS
+18/09 10:15:34:974 Testing connection are success
+18/09 10:15:34:974 Starting process session
+18/09 10:15:35:317 java.lang.NoSuchMethodException: com.crm.product.impl.UnlimitDataOrderRoutingImpl.registerMPServices(com.crm.provisioning.thread.OrderRoutingInstance, com.crm.product.cache.ProductRoute, com.crm.provisioning.message.CommandMessage)
+18/09 10:15:35:319 Close pool
+18/09 10:15:35:320 End of process session
+18/09 10:15:45:325 Close pool
+18/09 10:15:45:326 Close pool
+18/09 10:15:45:327 Testing connection ...
+18/09 10:15:45:331 Created provisioning instance for CCWS
+18/09 10:15:45:332 Testing connection are success
+18/09 10:15:45:333 Starting process session
+18/09 10:15:45:649 java.lang.NoSuchMethodException: com.crm.product.impl.UnlimitDataOrderRoutingImpl.registerMPServices(com.crm.provisioning.thread.OrderRoutingInstance, com.crm.product.cache.ProductRoute, com.crm.provisioning.message.CommandMessage)
+18/09 10:15:45:650 Close pool
+18/09 10:15:45:650 End of process session
+18/09 10:15:55:651 Close pool
+18/09 10:15:55:652 Close pool
+18/09 10:15:55:652 Testing connection ...
+18/09 10:15:55:654 Created provisioning instance for CCWS
+18/09 10:15:55:656 Testing connection are success
+18/09 10:15:55:656 Starting process session
+18/09 10:15:55:967 java.lang.NoSuchMethodException: com.crm.product.impl.UnlimitDataOrderRoutingImpl.registerMPServices(com.crm.provisioning.thread.OrderRoutingInstance, com.crm.product.cache.ProductRoute, com.crm.provisioning.message.CommandMessage)
+18/09 10:15:55:968 Close pool
+18/09 10:15:55:968 End of process session
+18/09 10:16:05:969 Close pool
+18/09 10:16:05:970 Close pool
+18/09 10:16:05:971 Testing connection ...
+18/09 10:16:05:973 Created provisioning instance for CCWS
+18/09 10:16:05:973 Testing connection are success
+18/09 10:16:05:973 Starting process session
+18/09 10:16:06:286 java.lang.NoSuchMethodException: com.crm.product.impl.UnlimitDataOrderRoutingImpl.registerMPServices(com.crm.provisioning.thread.OrderRoutingInstance, com.crm.product.cache.ProductRoute, com.crm.provisioning.message.CommandMessage)
+18/09 10:16:06:286 Close pool
+18/09 10:16:06:287 End of process session
+18/09 10:16:16:288 Close pool
+18/09 10:16:16:289 Close pool
+18/09 10:16:16:289 Testing connection ...
+18/09 10:16:16:291 Created provisioning instance for CCWS
+18/09 10:16:16:292 Testing connection are success
+18/09 10:16:16:292 Starting process session
+18/09 10:16:16:606 java.lang.NoSuchMethodException: com.crm.product.impl.UnlimitDataOrderRoutingImpl.registerMPServices(com.crm.provisioning.thread.OrderRoutingInstance, com.crm.product.cache.ProductRoute, com.crm.provisioning.message.CommandMessage)
+18/09 10:16:16:606 Close pool
+18/09 10:16:16:606 End of process session
+18/09 10:16:26:607 Close pool
+18/09 10:16:26:608 Close pool
+18/09 10:16:26:608 Testing connection ...
+18/09 10:16:26:610 Created provisioning instance for CCWS
+18/09 10:16:26:611 Testing connection are success
+18/09 10:16:26:611 Starting process session
+18/09 10:16:26:926 java.lang.NoSuchMethodException: com.crm.product.impl.UnlimitDataOrderRoutingImpl.registerMPServices(com.crm.provisioning.thread.OrderRoutingInstance, com.crm.product.cache.ProductRoute, com.crm.provisioning.message.CommandMessage)
+18/09 10:16:26:927 Close pool
+18/09 10:16:26:927 End of process session
+18/09 10:16:36:928 Close pool
+18/09 10:16:36:929 Close pool
+18/09 10:16:36:929 Testing connection ...
+18/09 10:16:36:931 Created provisioning instance for CCWS
+18/09 10:16:36:932 Testing connection are success
+18/09 10:16:36:932 Starting process session
+18/09 10:16:37:257 java.lang.NoSuchMethodException: com.crm.product.impl.UnlimitDataOrderRoutingImpl.registerMPServices(com.crm.provisioning.thread.OrderRoutingInstance, com.crm.product.cache.ProductRoute, com.crm.provisioning.message.CommandMessage)
+18/09 10:16:37:257 Close pool
+18/09 10:16:37:257 End of process session
+18/09 10:16:47:258 Close pool
+18/09 10:16:47:259 Close pool
+18/09 10:16:47:260 Testing connection ...
+18/09 10:16:47:262 Created provisioning instance for CCWS
+18/09 10:16:47:262 Testing connection are success
+18/09 10:16:47:262 Starting process session
+18/09 10:16:47:575 java.lang.NoSuchMethodException: com.crm.product.impl.UnlimitDataOrderRoutingImpl.registerMPServices(com.crm.provisioning.thread.OrderRoutingInstance, com.crm.product.cache.ProductRoute, com.crm.provisioning.message.CommandMessage)
+18/09 10:16:47:576 Close pool
+18/09 10:16:47:576 End of process session
+18/09 10:16:57:578 Close pool
+18/09 10:16:57:579 Close pool
+18/09 10:16:57:579 Testing connection ...
+18/09 10:16:57:581 Created provisioning instance for CCWS
+18/09 10:16:57:582 Testing connection are success
+18/09 10:16:57:582 Starting process session
+18/09 10:16:57:890 java.lang.NoSuchMethodException: com.crm.product.impl.UnlimitDataOrderRoutingImpl.registerMPServices(com.crm.provisioning.thread.OrderRoutingInstance, com.crm.product.cache.ProductRoute, com.crm.provisioning.message.CommandMessage)
+18/09 10:16:57:891 Close pool
+18/09 10:16:57:891 End of process session
+18/09 10:17:07:892 Close pool
+18/09 10:17:07:893 Close pool
+18/09 10:17:07:893 Testing connection ...
+18/09 10:17:07:895 Created provisioning instance for CCWS
+18/09 10:17:07:895 Testing connection are success
+18/09 10:17:07:896 Starting process session
+18/09 10:17:08:209 java.lang.NoSuchMethodException: com.crm.product.impl.UnlimitDataOrderRoutingImpl.registerMPServices(com.crm.provisioning.thread.OrderRoutingInstance, com.crm.product.cache.ProductRoute, com.crm.provisioning.message.CommandMessage)
+18/09 10:17:08:210 Close pool
+18/09 10:17:08:210 End of process session
+18/09 10:17:18:210 Close pool
+18/09 10:17:18:211 Close pool
+18/09 10:17:18:211 Testing connection ...
+18/09 10:17:18:213 Created provisioning instance for CCWS
+18/09 10:17:18:213 Testing connection are success
+18/09 10:17:18:214 Starting process session
+18/09 10:17:18:508 java.lang.NoSuchMethodException: com.crm.product.impl.UnlimitDataOrderRoutingImpl.registerMPServices(com.crm.provisioning.thread.OrderRoutingInstance, com.crm.product.cache.ProductRoute, com.crm.provisioning.message.CommandMessage)
+18/09 10:17:18:509 Close pool
+18/09 10:17:18:509 End of process session
+18/09 10:17:28:510 Close pool
+18/09 10:17:28:511 Close pool
+18/09 10:17:28:511 Testing connection ...
+18/09 10:17:28:514 Created provisioning instance for CCWS
+18/09 10:17:28:515 Testing connection are success
+18/09 10:17:28:515 Starting process session
+18/09 10:17:28:823 java.lang.NoSuchMethodException: com.crm.product.impl.UnlimitDataOrderRoutingImpl.registerMPServices(com.crm.provisioning.thread.OrderRoutingInstance, com.crm.product.cache.ProductRoute, com.crm.provisioning.message.CommandMessage)
+18/09 10:17:28:824 Close pool
+18/09 10:17:28:824 End of process session
+18/09 10:17:38:824 Close pool
+18/09 10:17:38:825 Close pool
+18/09 10:17:38:825 Testing connection ...
+18/09 10:17:38:827 Created provisioning instance for CCWS
+18/09 10:17:38:827 Testing connection are success
+18/09 10:17:38:828 Starting process session
+18/09 10:17:39:142 java.lang.NoSuchMethodException: com.crm.product.impl.UnlimitDataOrderRoutingImpl.registerMPServices(com.crm.provisioning.thread.OrderRoutingInstance, com.crm.product.cache.ProductRoute, com.crm.provisioning.message.CommandMessage)
+18/09 10:17:39:142 Close pool
+18/09 10:17:39:143 End of process session
+18/09 10:17:49:144 Close pool
+18/09 10:17:49:145 Close pool
+18/09 10:17:49:145 Testing connection ...
+18/09 10:17:49:147 Created provisioning instance for CCWS
+18/09 10:17:49:147 Testing connection are success
+18/09 10:17:49:148 Starting process session
+18/09 10:17:49:458 java.lang.NoSuchMethodException: com.crm.product.impl.UnlimitDataOrderRoutingImpl.registerMPServices(com.crm.provisioning.thread.OrderRoutingInstance, com.crm.product.cache.ProductRoute, com.crm.provisioning.message.CommandMessage)
+18/09 10:17:49:458 Close pool
+18/09 10:17:49:458 End of process session
+18/09 10:17:59:460 Close pool
+18/09 10:17:59:461 Close pool
+18/09 10:17:59:461 Testing connection ...
+18/09 10:17:59:463 Created provisioning instance for CCWS
+18/09 10:17:59:463 Testing connection are success
+18/09 10:17:59:464 Starting process session
+18/09 10:17:59:791 java.lang.NoSuchMethodException: com.crm.product.impl.UnlimitDataOrderRoutingImpl.registerMPServices(com.crm.provisioning.thread.OrderRoutingInstance, com.crm.product.cache.ProductRoute, com.crm.provisioning.message.CommandMessage)
+18/09 10:17:59:791 Close pool
+18/09 10:17:59:792 End of process session
+18/09 10:18:09:792 Close pool
+18/09 10:18:09:793 Close pool
+18/09 10:18:09:793 Testing connection ...
+18/09 10:18:09:795 Created provisioning instance for CCWS
+18/09 10:18:09:795 Testing connection are success
+18/09 10:18:09:796 Starting process session
+18/09 10:18:10:113 java.lang.NoSuchMethodException: com.crm.product.impl.UnlimitDataOrderRoutingImpl.registerMPServices(com.crm.provisioning.thread.OrderRoutingInstance, com.crm.product.cache.ProductRoute, com.crm.provisioning.message.CommandMessage)
+18/09 10:18:10:113 Close pool
+18/09 10:18:10:114 End of process session
+18/09 10:18:20:115 Close pool
+18/09 10:18:20:116 Close pool
+18/09 10:18:20:116 Testing connection ...
+18/09 10:18:20:118 Created provisioning instance for CCWS
+18/09 10:18:20:118 Testing connection are success
+18/09 10:18:20:119 Starting process session
+18/09 10:18:20:431 java.lang.NoSuchMethodException: com.crm.product.impl.UnlimitDataOrderRoutingImpl.registerMPServices(com.crm.provisioning.thread.OrderRoutingInstance, com.crm.product.cache.ProductRoute, com.crm.provisioning.message.CommandMessage)
+18/09 10:18:20:432 Close pool
+18/09 10:18:20:432 End of process session
+18/09 10:18:30:432 Close pool
+18/09 10:18:30:433 Close pool
+18/09 10:18:30:433 Testing connection ...
+18/09 10:18:30:435 Created provisioning instance for CCWS
+18/09 10:18:30:435 Testing connection are success
+18/09 10:18:30:436 Starting process session
+18/09 10:18:30:736 java.lang.NoSuchMethodException: com.crm.product.impl.UnlimitDataOrderRoutingImpl.registerMPServices(com.crm.provisioning.thread.OrderRoutingInstance, com.crm.product.cache.ProductRoute, com.crm.provisioning.message.CommandMessage)
+18/09 10:18:30:736 Close pool
+18/09 10:18:30:737 End of process session
+18/09 10:18:40:738 Close pool
+18/09 10:18:40:739 Close pool
+18/09 10:18:40:739 Testing connection ...
+18/09 10:18:40:741 Created provisioning instance for CCWS
+18/09 10:18:40:742 Testing connection are success
+18/09 10:18:40:742 Starting process session
+18/09 10:18:41:098 java.lang.NoSuchMethodException: com.crm.product.impl.UnlimitDataOrderRoutingImpl.registerMPServices(com.crm.provisioning.thread.OrderRoutingInstance, com.crm.product.cache.ProductRoute, com.crm.provisioning.message.CommandMessage)
+18/09 10:18:41:098 Close pool
+18/09 10:18:41:099 End of process session
+18/09 10:18:51:100 Close pool
+18/09 10:18:51:101 Close pool
+18/09 10:18:51:101 Testing connection ...
+18/09 10:18:51:103 Created provisioning instance for CCWS
+18/09 10:18:51:103 Testing connection are success
+18/09 10:18:51:104 Starting process session
+18/09 10:18:51:413 java.lang.NoSuchMethodException: com.crm.product.impl.UnlimitDataOrderRoutingImpl.registerMPServices(com.crm.provisioning.thread.OrderRoutingInstance, com.crm.product.cache.ProductRoute, com.crm.provisioning.message.CommandMessage)
+18/09 10:18:51:414 Close pool
+18/09 10:18:51:414 End of process session
+18/09 10:19:01:414 Close pool
+18/09 10:19:01:415 Close pool
+18/09 10:19:01:415 Testing connection ...
+18/09 10:19:01:417 Created provisioning instance for CCWS
+18/09 10:19:01:418 Testing connection are success
+18/09 10:19:01:418 Starting process session
+18/09 10:19:01:727 java.lang.NoSuchMethodException: com.crm.product.impl.UnlimitDataOrderRoutingImpl.registerMPServices(com.crm.provisioning.thread.OrderRoutingInstance, com.crm.product.cache.ProductRoute, com.crm.provisioning.message.CommandMessage)
+18/09 10:19:01:727 Close pool
+18/09 10:19:01:727 End of process session
+18/09 10:19:11:729 Close pool
+18/09 10:19:11:730 Close pool
+18/09 10:19:11:730 Testing connection ...
+18/09 10:19:11:732 Created provisioning instance for CCWS
+18/09 10:19:11:732 Testing connection are success
+18/09 10:19:11:733 Starting process session
+18/09 10:19:12:056 java.lang.NoSuchMethodException: com.crm.product.impl.UnlimitDataOrderRoutingImpl.registerMPServices(com.crm.provisioning.thread.OrderRoutingInstance, com.crm.product.cache.ProductRoute, com.crm.provisioning.message.CommandMessage)
+18/09 10:19:12:056 Close pool
+18/09 10:19:12:057 End of process session
+18/09 10:19:22:057 Close pool
+18/09 10:19:22:058 Close pool
+18/09 10:19:22:058 Testing connection ...
+18/09 10:19:22:060 Created provisioning instance for CCWS
+18/09 10:19:22:060 Testing connection are success
+18/09 10:19:22:061 Starting process session
+18/09 10:19:22:373 java.lang.NoSuchMethodException: com.crm.product.impl.UnlimitDataOrderRoutingImpl.registerMPServices(com.crm.provisioning.thread.OrderRoutingInstance, com.crm.product.cache.ProductRoute, com.crm.provisioning.message.CommandMessage)
+18/09 10:19:22:373 Close pool
+18/09 10:19:22:373 End of process session
+18/09 10:19:32:375 Close pool
+18/09 10:19:32:376 Close pool
+18/09 10:19:32:376 Testing connection ...
+18/09 10:19:32:378 Created provisioning instance for CCWS
+18/09 10:19:32:379 Testing connection are success
+18/09 10:19:32:379 Starting process session
+18/09 10:19:32:774 java.lang.NoSuchMethodException: com.crm.product.impl.UnlimitDataOrderRoutingImpl.registerMPServices(com.crm.provisioning.thread.OrderRoutingInstance, com.crm.product.cache.ProductRoute, com.crm.provisioning.message.CommandMessage)
+18/09 10:19:32:775 Close pool
+18/09 10:19:32:775 End of process session
+18/09 10:19:42:776 Close pool
+18/09 10:19:42:777 Close pool
+18/09 10:19:42:777 Testing connection ...
+18/09 10:19:42:779 Created provisioning instance for CCWS
+18/09 10:19:42:779 Testing connection are success
+18/09 10:19:42:780 Starting process session
+18/09 10:19:43:091 java.lang.NoSuchMethodException: com.crm.product.impl.UnlimitDataOrderRoutingImpl.registerMPServices(com.crm.provisioning.thread.OrderRoutingInstance, com.crm.product.cache.ProductRoute, com.crm.provisioning.message.CommandMessage)
+18/09 10:19:43:091 Close pool
+18/09 10:19:43:092 End of process session
+18/09 10:19:53:092 Close pool
+18/09 10:19:53:093 Close pool
+18/09 10:19:53:093 Testing connection ...
+18/09 10:19:53:095 Created provisioning instance for CCWS
+18/09 10:19:53:095 Testing connection are success
+18/09 10:19:53:096 Starting process session
+18/09 10:19:53:407 java.lang.NoSuchMethodException: com.crm.product.impl.UnlimitDataOrderRoutingImpl.registerMPServices(com.crm.provisioning.thread.OrderRoutingInstance, com.crm.product.cache.ProductRoute, com.crm.provisioning.message.CommandMessage)
+18/09 10:19:53:408 Close pool
+18/09 10:19:53:408 End of process session
+18/09 10:20:03:409 Close pool
+18/09 10:20:03:412 Close pool
+18/09 10:20:03:413 Testing connection ...
+18/09 10:20:03:415 Created provisioning instance for CCWS
+18/09 10:20:03:415 Testing connection are success
+18/09 10:20:03:415 Starting process session
+18/09 10:20:03:733 java.lang.NoSuchMethodException: com.crm.product.impl.UnlimitDataOrderRoutingImpl.registerMPServices(com.crm.provisioning.thread.OrderRoutingInstance, com.crm.product.cache.ProductRoute, com.crm.provisioning.message.CommandMessage)
+18/09 10:20:03:733 Close pool
+18/09 10:20:03:734 End of process session
+18/09 10:20:13:735 Close pool
+18/09 10:20:13:738 Close pool
+18/09 10:20:13:739 Testing connection ...
+18/09 10:20:13:741 Created provisioning instance for CCWS
+18/09 10:20:13:741 Testing connection are success
+18/09 10:20:13:741 Starting process session
+18/09 10:20:14:044 java.lang.NoSuchMethodException: com.crm.product.impl.UnlimitDataOrderRoutingImpl.registerMPServices(com.crm.provisioning.thread.OrderRoutingInstance, com.crm.product.cache.ProductRoute, com.crm.provisioning.message.CommandMessage)
+18/09 10:20:14:045 Close pool
+18/09 10:20:14:045 End of process session
+18/09 10:20:24:047 Close pool
+18/09 10:20:24:051 Close pool
+18/09 10:20:24:051 Testing connection ...
+18/09 10:20:24:053 Created provisioning instance for CCWS
+18/09 10:20:24:053 Testing connection are success
+18/09 10:20:24:053 Starting process session
+18/09 10:20:24:400 java.lang.NoSuchMethodException: com.crm.product.impl.UnlimitDataOrderRoutingImpl.registerMPServices(com.crm.provisioning.thread.OrderRoutingInstance, com.crm.product.cache.ProductRoute, com.crm.provisioning.message.CommandMessage)
+18/09 10:20:24:401 Close pool
+18/09 10:20:24:401 End of process session
+18/09 10:20:34:401 Close pool
+18/09 10:20:34:402 Close pool
+18/09 10:20:34:402 Testing connection ...
+18/09 10:20:34:404 Created provisioning instance for CCWS
+18/09 10:20:34:404 Testing connection are success
+18/09 10:20:34:405 Starting process session
+18/09 10:20:34:760 java.lang.NoSuchMethodException: com.crm.product.impl.UnlimitDataOrderRoutingImpl.registerMPServices(com.crm.provisioning.thread.OrderRoutingInstance, com.crm.product.cache.ProductRoute, com.crm.provisioning.message.CommandMessage)
+18/09 10:20:34:761 Close pool
+18/09 10:20:34:761 End of process session
+18/09 10:20:44:762 Close pool
+18/09 10:20:44:763 Close pool
+18/09 10:20:44:763 Testing connection ...
+18/09 10:20:44:765 Created provisioning instance for CCWS
+18/09 10:20:44:766 Testing connection are success
+18/09 10:20:44:766 Starting process session
+18/09 10:20:45:094 java.lang.NoSuchMethodException: com.crm.product.impl.UnlimitDataOrderRoutingImpl.registerMPServices(com.crm.provisioning.thread.OrderRoutingInstance, com.crm.product.cache.ProductRoute, com.crm.provisioning.message.CommandMessage)
+18/09 10:20:45:094 Close pool
+18/09 10:20:45:095 End of process session
+18/09 10:20:55:096 Close pool
+18/09 10:20:55:097 Close pool
+18/09 10:20:55:097 Testing connection ...
+18/09 10:20:55:099 Created provisioning instance for CCWS
+18/09 10:20:55:099 Testing connection are success
+18/09 10:20:55:100 Starting process session
+18/09 10:20:55:413 java.lang.NoSuchMethodException: com.crm.product.impl.UnlimitDataOrderRoutingImpl.registerMPServices(com.crm.provisioning.thread.OrderRoutingInstance, com.crm.product.cache.ProductRoute, com.crm.provisioning.message.CommandMessage)
+18/09 10:20:55:413 Close pool
+18/09 10:20:55:414 End of process session
+18/09 10:21:05:414 Close pool
+18/09 10:21:05:415 Close pool
+18/09 10:21:05:415 Testing connection ...
+18/09 10:21:05:417 Created provisioning instance for CCWS
+18/09 10:21:05:418 Testing connection are success
+18/09 10:21:05:418 Starting process session
+18/09 10:21:05:730 java.lang.NoSuchMethodException: com.crm.product.impl.UnlimitDataOrderRoutingImpl.registerMPServices(com.crm.provisioning.thread.OrderRoutingInstance, com.crm.product.cache.ProductRoute, com.crm.provisioning.message.CommandMessage)
+18/09 10:21:05:730 Close pool
+18/09 10:21:05:730 End of process session
+18/09 10:21:15:742 Close pool
+18/09 10:21:15:743 Close pool
+18/09 10:21:15:744 Testing connection ...
+18/09 10:21:15:746 Created provisioning instance for CCWS
+18/09 10:21:15:746 Testing connection are success
+18/09 10:21:15:746 Starting process session
+18/09 10:21:16:055 java.lang.NoSuchMethodException: com.crm.product.impl.UnlimitDataOrderRoutingImpl.registerMPServices(com.crm.provisioning.thread.OrderRoutingInstance, com.crm.product.cache.ProductRoute, com.crm.provisioning.message.CommandMessage)
+18/09 10:21:16:056 Close pool
+18/09 10:21:16:056 End of process session
+18/09 10:21:26:057 Close pool
+18/09 10:21:26:058 Close pool
+18/09 10:21:26:058 Testing connection ...
+18/09 10:21:26:060 Created provisioning instance for CCWS
+18/09 10:21:26:060 Testing connection are success
+18/09 10:21:26:061 Starting process session
+18/09 10:21:26:373 java.lang.NoSuchMethodException: com.crm.product.impl.UnlimitDataOrderRoutingImpl.registerMPServices(com.crm.provisioning.thread.OrderRoutingInstance, com.crm.product.cache.ProductRoute, com.crm.provisioning.message.CommandMessage)
+18/09 10:21:26:373 Close pool
+18/09 10:21:26:373 End of process session
+18/09 10:21:36:375 Close pool
+18/09 10:21:36:376 Close pool
+18/09 10:21:36:376 Testing connection ...
+18/09 10:21:36:378 Created provisioning instance for CCWS
+18/09 10:21:36:378 Testing connection are success
+18/09 10:21:36:379 Starting process session
+18/09 10:21:36:697 java.lang.NoSuchMethodException: com.crm.product.impl.UnlimitDataOrderRoutingImpl.registerMPServices(com.crm.provisioning.thread.OrderRoutingInstance, com.crm.product.cache.ProductRoute, com.crm.provisioning.message.CommandMessage)
+18/09 10:21:36:698 Close pool
+18/09 10:21:36:698 End of process session
+18/09 10:21:46:699 Close pool
+18/09 10:21:46:700 Close pool
+18/09 10:21:46:700 Testing connection ...
+18/09 10:21:46:702 Created provisioning instance for CCWS
+18/09 10:21:46:702 Testing connection are success
+18/09 10:21:46:703 Starting process session
+18/09 10:21:47:011 java.lang.NoSuchMethodException: com.crm.product.impl.UnlimitDataOrderRoutingImpl.registerMPServices(com.crm.provisioning.thread.OrderRoutingInstance, com.crm.product.cache.ProductRoute, com.crm.provisioning.message.CommandMessage)
+18/09 10:21:47:012 Close pool
+18/09 10:21:47:012 End of process session
+18/09 10:21:57:013 Close pool
+18/09 10:21:57:014 Close pool
+18/09 10:21:57:014 Testing connection ...
+18/09 10:21:57:016 Created provisioning instance for CCWS
+18/09 10:21:57:016 Testing connection are success
+18/09 10:21:57:017 Starting process session
+18/09 10:21:57:325 java.lang.NoSuchMethodException: com.crm.product.impl.UnlimitDataOrderRoutingImpl.registerMPServices(com.crm.provisioning.thread.OrderRoutingInstance, com.crm.product.cache.ProductRoute, com.crm.provisioning.message.CommandMessage)
+18/09 10:21:57:326 Close pool
+18/09 10:21:57:326 End of process session
+18/09 10:22:07:328 Close pool
+18/09 10:22:07:328 Close pool
+18/09 10:22:07:329 Testing connection ...
+18/09 10:22:07:330 Created provisioning instance for CCWS
+18/09 10:22:07:331 Testing connection are success
+18/09 10:22:07:331 Starting process session
+18/09 10:22:07:643 java.lang.NoSuchMethodException: com.crm.product.impl.UnlimitDataOrderRoutingImpl.registerMPServices(com.crm.provisioning.thread.OrderRoutingInstance, com.crm.product.cache.ProductRoute, com.crm.provisioning.message.CommandMessage)
+18/09 10:22:07:644 Close pool
+18/09 10:22:07:645 End of process session
+18/09 10:22:17:646 Close pool
+18/09 10:22:17:647 Close pool
+18/09 10:22:17:647 Testing connection ...
+18/09 10:22:17:649 Created provisioning instance for CCWS
+18/09 10:22:17:649 Testing connection are success
+18/09 10:22:17:650 Starting process session
+18/09 10:22:17:963 java.lang.NoSuchMethodException: com.crm.product.impl.UnlimitDataOrderRoutingImpl.registerMPServices(com.crm.provisioning.thread.OrderRoutingInstance, com.crm.product.cache.ProductRoute, com.crm.provisioning.message.CommandMessage)
+18/09 10:22:17:964 Close pool
+18/09 10:22:17:964 End of process session
+18/09 10:22:27:966 Close pool
+18/09 10:22:27:967 Close pool
+18/09 10:22:27:967 Testing connection ...
+18/09 10:22:27:969 Created provisioning instance for CCWS
+18/09 10:22:27:970 Testing connection are success
+18/09 10:22:27:970 Starting process session
+18/09 10:22:28:344 java.lang.NoSuchMethodException: com.crm.product.impl.UnlimitDataOrderRoutingImpl.registerMPServices(com.crm.provisioning.thread.OrderRoutingInstance, com.crm.product.cache.ProductRoute, com.crm.provisioning.message.CommandMessage)
+18/09 10:22:28:344 Close pool
+18/09 10:22:28:344 End of process session
+18/09 10:22:38:346 Close pool
+18/09 10:22:38:347 Close pool
+18/09 10:22:38:347 Testing connection ...
+18/09 10:22:38:349 Created provisioning instance for CCWS
+18/09 10:22:38:349 Testing connection are success
+18/09 10:22:38:350 Starting process session
+18/09 10:22:38:662 java.lang.NoSuchMethodException: com.crm.product.impl.UnlimitDataOrderRoutingImpl.registerMPServices(com.crm.provisioning.thread.OrderRoutingInstance, com.crm.product.cache.ProductRoute, com.crm.provisioning.message.CommandMessage)
+18/09 10:22:38:663 Close pool
+18/09 10:22:38:663 End of process session
+18/09 10:22:48:666 Close pool
+18/09 10:22:48:667 Close pool
+18/09 10:22:48:667 Testing connection ...
+18/09 10:22:48:669 Created provisioning instance for CCWS
+18/09 10:22:48:669 Testing connection are success
+18/09 10:22:48:670 Starting process session
+18/09 10:22:49:000 java.lang.NoSuchMethodException: com.crm.product.impl.UnlimitDataOrderRoutingImpl.registerMPServices(com.crm.provisioning.thread.OrderRoutingInstance, com.crm.product.cache.ProductRoute, com.crm.provisioning.message.CommandMessage)
+18/09 10:22:49:001 Close pool
+18/09 10:22:49:001 End of process session
+18/09 10:22:59:002 Close pool
+18/09 10:22:59:003 Close pool
+18/09 10:22:59:003 Testing connection ...
+18/09 10:22:59:005 Created provisioning instance for CCWS
+18/09 10:22:59:005 Testing connection are success
+18/09 10:22:59:006 Starting process session
+18/09 10:22:59:311 java.lang.NoSuchMethodException: com.crm.product.impl.UnlimitDataOrderRoutingImpl.registerMPServices(com.crm.provisioning.thread.OrderRoutingInstance, com.crm.product.cache.ProductRoute, com.crm.provisioning.message.CommandMessage)
+18/09 10:22:59:312 Close pool
+18/09 10:22:59:312 End of process session
+18/09 10:23:09:312 Close pool
+18/09 10:23:09:313 Close pool
+18/09 10:23:09:313 Testing connection ...
+18/09 10:23:09:315 Created provisioning instance for CCWS
+18/09 10:23:09:316 Testing connection are success
+18/09 10:23:09:316 Starting process session
+18/09 10:23:09:634 java.lang.NoSuchMethodException: com.crm.product.impl.UnlimitDataOrderRoutingImpl.registerMPServices(com.crm.provisioning.thread.OrderRoutingInstance, com.crm.product.cache.ProductRoute, com.crm.provisioning.message.CommandMessage)
+18/09 10:23:09:635 Close pool
+18/09 10:23:09:636 End of process session
+18/09 10:23:19:638 Close pool
+18/09 10:23:19:639 Close pool
+18/09 10:23:19:640 Testing connection ...
+18/09 10:23:19:641 Created provisioning instance for CCWS
+18/09 10:23:19:642 Testing connection are success
+18/09 10:23:19:642 Starting process session
+18/09 10:23:19:955 java.lang.NoSuchMethodException: com.crm.product.impl.UnlimitDataOrderRoutingImpl.registerMPServices(com.crm.provisioning.thread.OrderRoutingInstance, com.crm.product.cache.ProductRoute, com.crm.provisioning.message.CommandMessage)
+18/09 10:23:19:955 Close pool
+18/09 10:23:19:956 End of process session
+18/09 10:23:29:956 Close pool
+18/09 10:23:29:957 Close pool
+18/09 10:23:29:957 Testing connection ...
+18/09 10:23:29:959 Created provisioning instance for CCWS
+18/09 10:23:29:959 Testing connection are success
+18/09 10:23:29:959 Starting process session
+18/09 10:23:30:272 java.lang.NoSuchMethodException: com.crm.product.impl.UnlimitDataOrderRoutingImpl.registerMPServices(com.crm.provisioning.thread.OrderRoutingInstance, com.crm.product.cache.ProductRoute, com.crm.provisioning.message.CommandMessage)
+18/09 10:23:30:273 Close pool
+18/09 10:23:30:273 End of process session
+18/09 10:23:40:274 Close pool
+18/09 10:23:40:275 Close pool
+18/09 10:23:40:275 Testing connection ...
+18/09 10:23:40:277 Created provisioning instance for CCWS
+18/09 10:23:40:278 Testing connection are success
+18/09 10:23:40:278 Starting process session
+18/09 10:23:40:595 java.lang.NoSuchMethodException: com.crm.product.impl.UnlimitDataOrderRoutingImpl.registerMPServices(com.crm.provisioning.thread.OrderRoutingInstance, com.crm.product.cache.ProductRoute, com.crm.provisioning.message.CommandMessage)
+18/09 10:23:40:596 Close pool
+18/09 10:23:40:596 End of process session
+18/09 10:23:50:598 Close pool
+18/09 10:23:50:599 Close pool
+18/09 10:23:50:599 Testing connection ...
+18/09 10:23:50:601 Created provisioning instance for CCWS
+18/09 10:23:50:601 Testing connection are success
+18/09 10:23:50:602 Starting process session
+18/09 10:23:50:911 java.lang.NoSuchMethodException: com.crm.product.impl.UnlimitDataOrderRoutingImpl.registerMPServices(com.crm.provisioning.thread.OrderRoutingInstance, com.crm.product.cache.ProductRoute, com.crm.provisioning.message.CommandMessage)
+18/09 10:23:50:911 Close pool
+18/09 10:23:50:912 End of process session
+18/09 10:24:00:912 Close pool
+18/09 10:24:00:913 Close pool
+18/09 10:24:00:913 Testing connection ...
+18/09 10:24:00:915 Created provisioning instance for CCWS
+18/09 10:24:00:915 Testing connection are success
+18/09 10:24:00:915 Starting process session
+18/09 10:24:01:224 java.lang.NoSuchMethodException: com.crm.product.impl.UnlimitDataOrderRoutingImpl.registerMPServices(com.crm.provisioning.thread.OrderRoutingInstance, com.crm.product.cache.ProductRoute, com.crm.provisioning.message.CommandMessage)
+18/09 10:24:01:225 Close pool
+18/09 10:24:01:225 End of process session
+18/09 10:24:11:226 Close pool
+18/09 10:24:11:227 Close pool
+18/09 10:24:11:227 Testing connection ...
+18/09 10:24:11:229 Created provisioning instance for CCWS
+18/09 10:24:11:229 Testing connection are success
+18/09 10:24:11:230 Starting process session
+18/09 10:24:11:520 java.lang.NoSuchMethodException: com.crm.product.impl.UnlimitDataOrderRoutingImpl.registerMPServices(com.crm.provisioning.thread.OrderRoutingInstance, com.crm.product.cache.ProductRoute, com.crm.provisioning.message.CommandMessage)
+18/09 10:24:11:520 Close pool
+18/09 10:24:11:521 End of process session
+18/09 10:24:21:521 Close pool
+18/09 10:24:21:522 Close pool
+18/09 10:24:21:522 Testing connection ...
+18/09 10:24:21:524 Created provisioning instance for CCWS
+18/09 10:24:21:524 Testing connection are success
+18/09 10:24:21:525 Starting process session
+18/09 10:24:21:839 java.lang.NoSuchMethodException: com.crm.product.impl.UnlimitDataOrderRoutingImpl.registerMPServices(com.crm.provisioning.thread.OrderRoutingInstance, com.crm.product.cache.ProductRoute, com.crm.provisioning.message.CommandMessage)
+18/09 10:24:21:839 Close pool
+18/09 10:24:21:840 End of process session
+18/09 10:24:31:841 Close pool
+18/09 10:24:31:842 Close pool
+18/09 10:24:31:842 Testing connection ...
+18/09 10:24:31:844 Created provisioning instance for CCWS
+18/09 10:24:31:844 Testing connection are success
+18/09 10:24:31:845 Starting process session
+18/09 10:24:32:148 java.lang.NoSuchMethodException: com.crm.product.impl.UnlimitDataOrderRoutingImpl.registerMPServices(com.crm.provisioning.thread.OrderRoutingInstance, com.crm.product.cache.ProductRoute, com.crm.provisioning.message.CommandMessage)
+18/09 10:24:32:149 Close pool
+18/09 10:24:32:149 End of process session
+18/09 10:24:42:150 Close pool
+18/09 10:24:42:151 Close pool
+18/09 10:24:42:151 Testing connection ...
+18/09 10:24:42:153 Created provisioning instance for CCWS
+18/09 10:24:42:153 Testing connection are success
+18/09 10:24:42:154 Starting process session
+18/09 10:24:42:459 java.lang.NoSuchMethodException: com.crm.product.impl.UnlimitDataOrderRoutingImpl.registerMPServices(com.crm.provisioning.thread.OrderRoutingInstance, com.crm.product.cache.ProductRoute, com.crm.provisioning.message.CommandMessage)
+18/09 10:24:42:459 Close pool
+18/09 10:24:42:459 End of process session
+18/09 10:24:52:460 Close pool
+18/09 10:24:52:461 Close pool
+18/09 10:24:52:461 Testing connection ...
+18/09 10:24:52:465 Created provisioning instance for CCWS
+18/09 10:24:52:465 Testing connection are success
+18/09 10:24:52:466 Starting process session
+18/09 10:24:52:784 java.lang.NoSuchMethodException: com.crm.product.impl.UnlimitDataOrderRoutingImpl.registerMPServices(com.crm.provisioning.thread.OrderRoutingInstance, com.crm.product.cache.ProductRoute, com.crm.provisioning.message.CommandMessage)
+18/09 10:24:52:785 Close pool
+18/09 10:24:52:786 End of process session
+18/09 10:25:02:787 Close pool
+18/09 10:25:02:788 Close pool
+18/09 10:25:02:789 Testing connection ...
+18/09 10:25:02:793 Created provisioning instance for CCWS
+18/09 10:25:02:794 Testing connection are success
+18/09 10:25:02:794 Starting process session
+18/09 10:25:03:114 java.lang.NoSuchMethodException: com.crm.product.impl.UnlimitDataOrderRoutingImpl.registerMPServices(com.crm.provisioning.thread.OrderRoutingInstance, com.crm.product.cache.ProductRoute, com.crm.provisioning.message.CommandMessage)
+18/09 10:25:03:115 Close pool
+18/09 10:25:03:115 End of process session
+18/09 10:25:13:116 Close pool
+18/09 10:25:13:117 Close pool
+18/09 10:25:13:117 Testing connection ...
+18/09 10:25:13:119 Created provisioning instance for CCWS
+18/09 10:25:13:119 Testing connection are success
+18/09 10:25:13:120 Starting process session
+18/09 10:25:13:438 java.lang.NoSuchMethodException: com.crm.product.impl.UnlimitDataOrderRoutingImpl.registerMPServices(com.crm.provisioning.thread.OrderRoutingInstance, com.crm.product.cache.ProductRoute, com.crm.provisioning.message.CommandMessage)
+18/09 10:25:13:438 Close pool
+18/09 10:25:13:438 End of process session
+18/09 10:25:23:440 Close pool
+18/09 10:25:23:441 Close pool
+18/09 10:25:23:441 Testing connection ...
+18/09 10:25:23:443 Created provisioning instance for CCWS
+18/09 10:25:23:443 Testing connection are success
+18/09 10:25:23:444 Starting process session
+18/09 10:25:23:810 java.lang.NoSuchMethodException: com.crm.product.impl.UnlimitDataOrderRoutingImpl.registerMPServices(com.crm.provisioning.thread.OrderRoutingInstance, com.crm.product.cache.ProductRoute, com.crm.provisioning.message.CommandMessage)
+18/09 10:25:23:811 Close pool
+18/09 10:25:23:811 End of process session
+18/09 10:25:33:812 Close pool
+18/09 10:25:33:813 Close pool
+18/09 10:25:33:813 Testing connection ...
+18/09 10:25:33:815 Created provisioning instance for CCWS
+18/09 10:25:33:815 Testing connection are success
+18/09 10:25:33:816 Starting process session
+18/09 10:25:34:134 java.lang.NoSuchMethodException: com.crm.product.impl.UnlimitDataOrderRoutingImpl.registerMPServices(com.crm.provisioning.thread.OrderRoutingInstance, com.crm.product.cache.ProductRoute, com.crm.provisioning.message.CommandMessage)
+18/09 10:25:34:135 Close pool
+18/09 10:25:34:135 End of process session
+18/09 10:25:44:136 Close pool
+18/09 10:25:44:137 Close pool
+18/09 10:25:44:137 Testing connection ...
+18/09 10:25:44:139 Created provisioning instance for CCWS
+18/09 10:25:44:139 Testing connection are success
+18/09 10:25:44:139 Starting process session
+18/09 10:25:44:458 java.lang.NoSuchMethodException: com.crm.product.impl.UnlimitDataOrderRoutingImpl.registerMPServices(com.crm.provisioning.thread.OrderRoutingInstance, com.crm.product.cache.ProductRoute, com.crm.provisioning.message.CommandMessage)
+18/09 10:25:44:458 Close pool
+18/09 10:25:44:458 End of process session
+18/09 10:25:54:460 Close pool
+18/09 10:25:54:461 Close pool
+18/09 10:25:54:461 Testing connection ...
+18/09 10:25:54:463 Created provisioning instance for CCWS
+18/09 10:25:54:463 Testing connection are success
+18/09 10:25:54:464 Starting process session
+18/09 10:25:54:781 java.lang.NoSuchMethodException: com.crm.product.impl.UnlimitDataOrderRoutingImpl.registerMPServices(com.crm.provisioning.thread.OrderRoutingInstance, com.crm.product.cache.ProductRoute, com.crm.provisioning.message.CommandMessage)
+18/09 10:25:54:782 Close pool
+18/09 10:25:54:782 End of process session
+18/09 10:26:04:783 Close pool
+18/09 10:26:04:784 Close pool
+18/09 10:26:04:784 Testing connection ...
+18/09 10:26:04:789 Created provisioning instance for CCWS
+18/09 10:26:04:789 Testing connection are success
+18/09 10:26:04:790 Starting process session
+18/09 10:26:05:089 java.lang.NoSuchMethodException: com.crm.product.impl.UnlimitDataOrderRoutingImpl.registerMPServices(com.crm.provisioning.thread.OrderRoutingInstance, com.crm.product.cache.ProductRoute, com.crm.provisioning.message.CommandMessage)
+18/09 10:26:05:090 Close pool
+18/09 10:26:05:090 End of process session
+18/09 10:26:15:092 Close pool
+18/09 10:26:15:093 Close pool
+18/09 10:26:15:093 Testing connection ...
+18/09 10:26:15:095 Created provisioning instance for CCWS
+18/09 10:26:15:096 Testing connection are success
+18/09 10:26:15:096 Starting process session
+18/09 10:26:15:523 java.lang.NoSuchMethodException: com.crm.product.impl.UnlimitDataOrderRoutingImpl.registerMPServices(com.crm.provisioning.thread.OrderRoutingInstance, com.crm.product.cache.ProductRoute, com.crm.provisioning.message.CommandMessage)
+18/09 10:26:15:524 Close pool
+18/09 10:26:15:524 End of process session
+18/09 10:26:25:525 Close pool
+18/09 10:26:25:526 Close pool
+18/09 10:26:25:526 Testing connection ...
+18/09 10:26:25:528 Created provisioning instance for CCWS
+18/09 10:26:25:528 Testing connection are success
+18/09 10:26:25:529 Starting process session
+18/09 10:26:25:892 java.lang.NoSuchMethodException: com.crm.product.impl.UnlimitDataOrderRoutingImpl.registerMPServices(com.crm.provisioning.thread.OrderRoutingInstance, com.crm.product.cache.ProductRoute, com.crm.provisioning.message.CommandMessage)
+18/09 10:26:25:892 Close pool
+18/09 10:26:25:893 End of process session
+18/09 10:26:35:893 Close pool
+18/09 10:26:35:894 Close pool
+18/09 10:26:35:894 Testing connection ...
+18/09 10:26:35:896 Created provisioning instance for CCWS
+18/09 10:26:35:896 Testing connection are success
+18/09 10:26:35:896 Starting process session
+18/09 10:26:36:711 java.lang.NoSuchMethodException: com.crm.product.impl.UnlimitDataOrderRoutingImpl.registerMPServices(com.crm.provisioning.thread.OrderRoutingInstance, com.crm.product.cache.ProductRoute, com.crm.provisioning.message.CommandMessage)
+18/09 10:26:36:711 Close pool
+18/09 10:26:36:711 End of process session
+18/09 10:26:46:713 Close pool
+18/09 10:26:46:714 Close pool
+18/09 10:26:46:714 Testing connection ...
+18/09 10:26:46:716 Created provisioning instance for CCWS
+18/09 10:26:46:716 Testing connection are success
+18/09 10:26:46:717 Starting process session
+18/09 10:26:47:066 java.lang.NoSuchMethodException: com.crm.product.impl.UnlimitDataOrderRoutingImpl.registerMPServices(com.crm.provisioning.thread.OrderRoutingInstance, com.crm.product.cache.ProductRoute, com.crm.provisioning.message.CommandMessage)
+18/09 10:26:47:067 Close pool
+18/09 10:26:47:067 End of process session
+18/09 10:26:57:070 Close pool
+18/09 10:26:57:071 Close pool
+18/09 10:26:57:071 Testing connection ...
+18/09 10:26:57:073 Created provisioning instance for CCWS
+18/09 10:26:57:074 Testing connection are success
+18/09 10:26:57:074 Starting process session
+18/09 10:26:57:407 java.lang.NoSuchMethodException: com.crm.product.impl.UnlimitDataOrderRoutingImpl.registerMPServices(com.crm.provisioning.thread.OrderRoutingInstance, com.crm.product.cache.ProductRoute, com.crm.provisioning.message.CommandMessage)
+18/09 10:26:57:408 Close pool
+18/09 10:26:57:408 End of process session
+18/09 10:27:07:409 Close pool
+18/09 10:27:07:410 Close pool
+18/09 10:27:07:410 Testing connection ...
+18/09 10:27:07:412 Created provisioning instance for CCWS
+18/09 10:27:07:412 Testing connection are success
+18/09 10:27:07:412 Starting process session
+18/09 10:27:07:748 java.lang.NoSuchMethodException: com.crm.product.impl.UnlimitDataOrderRoutingImpl.registerMPServices(com.crm.provisioning.thread.OrderRoutingInstance, com.crm.product.cache.ProductRoute, com.crm.provisioning.message.CommandMessage)
+18/09 10:27:07:749 Close pool
+18/09 10:27:07:750 End of process session
+18/09 10:27:17:751 Close pool
+18/09 10:27:17:752 Close pool
+18/09 10:27:17:752 Testing connection ...
+18/09 10:27:17:754 Created provisioning instance for CCWS
+18/09 10:27:17:754 Testing connection are success
+18/09 10:27:17:754 Starting process session
+18/09 10:27:18:068 java.lang.NoSuchMethodException: com.crm.product.impl.UnlimitDataOrderRoutingImpl.registerMPServices(com.crm.provisioning.thread.OrderRoutingInstance, com.crm.product.cache.ProductRoute, com.crm.provisioning.message.CommandMessage)
+18/09 10:27:18:068 Close pool
+18/09 10:27:18:069 End of process session
+18/09 10:27:28:069 Close pool
+18/09 10:27:28:070 Close pool
+18/09 10:27:28:071 Testing connection ...
+18/09 10:27:28:072 Created provisioning instance for CCWS
+18/09 10:27:28:073 Testing connection are success
+18/09 10:27:28:073 Starting process session
+18/09 10:27:28:376 java.lang.NoSuchMethodException: com.crm.product.impl.UnlimitDataOrderRoutingImpl.registerMPServices(com.crm.provisioning.thread.OrderRoutingInstance, com.crm.product.cache.ProductRoute, com.crm.provisioning.message.CommandMessage)
+18/09 10:27:28:377 Close pool
+18/09 10:27:28:377 End of process session
+18/09 10:27:38:378 Close pool
+18/09 10:27:38:380 Close pool
+18/09 10:27:38:380 Testing connection ...
+18/09 10:27:38:382 Created provisioning instance for CCWS
+18/09 10:27:38:383 Testing connection are success
+18/09 10:27:38:384 Starting process session
+18/09 10:27:38:688 java.lang.NoSuchMethodException: com.crm.product.impl.UnlimitDataOrderRoutingImpl.registerMPServices(com.crm.provisioning.thread.OrderRoutingInstance, com.crm.product.cache.ProductRoute, com.crm.provisioning.message.CommandMessage)
+18/09 10:27:38:688 Close pool
+18/09 10:27:38:689 End of process session
+18/09 10:27:48:689 Close pool
+18/09 10:27:48:690 Close pool
+18/09 10:27:48:690 Testing connection ...
+18/09 10:27:48:692 Created provisioning instance for CCWS
+18/09 10:27:48:692 Testing connection are success
+18/09 10:27:48:693 Starting process session
+18/09 10:27:48:997 java.lang.NoSuchMethodException: com.crm.product.impl.UnlimitDataOrderRoutingImpl.registerMPServices(com.crm.provisioning.thread.OrderRoutingInstance, com.crm.product.cache.ProductRoute, com.crm.provisioning.message.CommandMessage)
+18/09 10:27:48:998 Close pool
+18/09 10:27:48:998 End of process session
+18/09 10:27:59:000 Close pool
+18/09 10:27:59:001 Close pool
+18/09 10:27:59:001 Testing connection ...
+18/09 10:27:59:005 Created provisioning instance for CCWS
+18/09 10:27:59:006 Testing connection are success
+18/09 10:27:59:006 Starting process session
+18/09 10:27:59:320 java.lang.NoSuchMethodException: com.crm.product.impl.UnlimitDataOrderRoutingImpl.registerMPServices(com.crm.provisioning.thread.OrderRoutingInstance, com.crm.product.cache.ProductRoute, com.crm.provisioning.message.CommandMessage)
+18/09 10:27:59:320 Close pool
+18/09 10:27:59:321 End of process session
+18/09 10:28:09:321 Close pool
+18/09 10:28:09:322 Close pool
+18/09 10:28:09:322 Testing connection ...
+18/09 10:28:09:326 Created provisioning instance for CCWS
+18/09 10:28:09:327 Testing connection are success
+18/09 10:28:09:327 Starting process session
+18/09 10:28:09:645 java.lang.NoSuchMethodException: com.crm.product.impl.UnlimitDataOrderRoutingImpl.registerMPServices(com.crm.provisioning.thread.OrderRoutingInstance, com.crm.product.cache.ProductRoute, com.crm.provisioning.message.CommandMessage)
+18/09 10:28:09:645 Close pool
+18/09 10:28:09:646 End of process session
+18/09 10:28:19:647 Close pool
+18/09 10:28:19:648 Close pool
+18/09 10:28:19:648 Testing connection ...
+18/09 10:28:19:652 Created provisioning instance for CCWS
+18/09 10:28:19:653 Testing connection are success
+18/09 10:28:19:653 Starting process session
+18/09 10:28:19:965 java.lang.NoSuchMethodException: com.crm.product.impl.UnlimitDataOrderRoutingImpl.registerMPServices(com.crm.provisioning.thread.OrderRoutingInstance, com.crm.product.cache.ProductRoute, com.crm.provisioning.message.CommandMessage)
+18/09 10:28:19:965 Close pool
+18/09 10:28:19:966 End of process session
+18/09 10:28:29:967 Close pool
+18/09 10:28:29:968 Close pool
+18/09 10:28:29:968 Testing connection ...
+18/09 10:28:29:970 Created provisioning instance for CCWS
+18/09 10:28:29:970 Testing connection are success
+18/09 10:28:29:971 Starting process session
+18/09 10:28:30:297 java.lang.NoSuchMethodException: com.crm.product.impl.UnlimitDataOrderRoutingImpl.registerMPServices(com.crm.provisioning.thread.OrderRoutingInstance, com.crm.product.cache.ProductRoute, com.crm.provisioning.message.CommandMessage)
+18/09 10:28:30:298 Close pool
+18/09 10:28:30:298 End of process session
+18/09 10:28:40:299 Close pool
+18/09 10:28:40:300 Close pool
+18/09 10:28:40:300 Testing connection ...
+18/09 10:28:40:302 Created provisioning instance for CCWS
+18/09 10:28:40:303 Testing connection are success
+18/09 10:28:40:303 Starting process session
+18/09 10:28:40:625 java.lang.NoSuchMethodException: com.crm.product.impl.UnlimitDataOrderRoutingImpl.registerMPServices(com.crm.provisioning.thread.OrderRoutingInstance, com.crm.product.cache.ProductRoute, com.crm.provisioning.message.CommandMessage)
+18/09 10:28:40:625 Close pool
+18/09 10:28:40:625 End of process session
+18/09 10:28:50:627 Close pool
+18/09 10:28:50:628 Close pool
+18/09 10:28:50:628 Testing connection ...
+18/09 10:28:50:630 Created provisioning instance for CCWS
+18/09 10:28:50:630 Testing connection are success
+18/09 10:28:50:631 Starting process session
+18/09 10:28:50:950 java.lang.NoSuchMethodException: com.crm.product.impl.UnlimitDataOrderRoutingImpl.registerMPServices(com.crm.provisioning.thread.OrderRoutingInstance, com.crm.product.cache.ProductRoute, com.crm.provisioning.message.CommandMessage)
+18/09 10:28:50:950 Close pool
+18/09 10:28:50:951 End of process session
+18/09 10:29:00:951 Close pool
+18/09 10:29:00:952 Close pool
+18/09 10:29:00:953 Testing connection ...
+18/09 10:29:00:955 Created provisioning instance for CCWS
+18/09 10:29:00:955 Testing connection are success
+18/09 10:29:00:956 Starting process session
+18/09 10:29:01:266 java.lang.NoSuchMethodException: com.crm.product.impl.UnlimitDataOrderRoutingImpl.registerMPServices(com.crm.provisioning.thread.OrderRoutingInstance, com.crm.product.cache.ProductRoute, com.crm.provisioning.message.CommandMessage)
+18/09 10:29:01:266 Close pool
+18/09 10:29:01:266 End of process session
+18/09 10:29:11:268 Close pool
+18/09 10:29:11:269 Close pool
+18/09 10:29:11:269 Testing connection ...
+18/09 10:29:11:271 Created provisioning instance for CCWS
+18/09 10:29:11:271 Testing connection are success
+18/09 10:29:11:272 Starting process session
+18/09 10:29:11:662 java.lang.NoSuchMethodException: com.crm.product.impl.UnlimitDataOrderRoutingImpl.registerMPServices(com.crm.provisioning.thread.OrderRoutingInstance, com.crm.product.cache.ProductRoute, com.crm.provisioning.message.CommandMessage)
+18/09 10:29:11:663 Close pool
+18/09 10:29:11:663 End of process session
+18/09 10:29:21:664 Close pool
+18/09 10:29:21:665 Close pool
+18/09 10:29:21:665 Testing connection ...
+18/09 10:29:21:667 Created provisioning instance for CCWS
+18/09 10:29:21:667 Testing connection are success
+18/09 10:29:21:667 Starting process session
+18/09 10:29:22:004 java.lang.NoSuchMethodException: com.crm.product.impl.UnlimitDataOrderRoutingImpl.registerMPServices(com.crm.provisioning.thread.OrderRoutingInstance, com.crm.product.cache.ProductRoute, com.crm.provisioning.message.CommandMessage)
+18/09 10:29:22:005 Close pool
+18/09 10:29:22:005 End of process session
+18/09 10:29:32:006 Close pool
+18/09 10:29:32:007 Close pool
+18/09 10:29:32:007 Testing connection ...
+18/09 10:29:32:009 Created provisioning instance for CCWS
+18/09 10:29:32:010 Testing connection are success
+18/09 10:29:32:010 Starting process session
+18/09 10:29:32:325 java.lang.NoSuchMethodException: com.crm.product.impl.UnlimitDataOrderRoutingImpl.registerMPServices(com.crm.provisioning.thread.OrderRoutingInstance, com.crm.product.cache.ProductRoute, com.crm.provisioning.message.CommandMessage)
+18/09 10:29:32:326 Close pool
+18/09 10:29:32:326 End of process session
+18/09 10:29:42:328 Close pool
+18/09 10:29:42:329 Close pool
+18/09 10:29:42:329 Testing connection ...
+18/09 10:29:42:331 Created provisioning instance for CCWS
+18/09 10:29:42:331 Testing connection are success
+18/09 10:29:42:332 Starting process session
+18/09 10:29:42:636 java.lang.NoSuchMethodException: com.crm.product.impl.UnlimitDataOrderRoutingImpl.registerMPServices(com.crm.provisioning.thread.OrderRoutingInstance, com.crm.product.cache.ProductRoute, com.crm.provisioning.message.CommandMessage)
+18/09 10:29:42:637 Close pool
+18/09 10:29:42:637 End of process session
+18/09 10:29:43:638 Order Routing stopped
+18/09 10:29:44:861 Order Routing started
+18/09 10:29:44:884 Close pool
+18/09 10:29:44:885 Close pool
+18/09 10:29:44:885 Testing connection ...
+18/09 10:29:44:888 Created provisioning instance for CCWS
+18/09 10:29:44:889 Testing connection are success
+18/09 10:29:44:889 Starting process session
+18/09 10:29:45:198 java.lang.NoSuchMethodException: com.crm.product.impl.UnlimitDataOrderRoutingImpl.registerMPServices(com.crm.provisioning.thread.OrderRoutingInstance, com.crm.product.cache.ProductRoute, com.crm.provisioning.message.CommandMessage)
+18/09 10:29:45:198 Close pool
+18/09 10:29:45:199 End of process session
+18/09 10:29:55:200 Close pool
+18/09 10:29:55:201 Close pool
+18/09 10:29:55:201 Testing connection ...
+18/09 10:29:55:203 Created provisioning instance for CCWS
+18/09 10:29:55:203 Testing connection are success
+18/09 10:29:55:203 Starting process session
+18/09 10:29:55:518 java.lang.NoSuchMethodException: com.crm.product.impl.UnlimitDataOrderRoutingImpl.registerMPServices(com.crm.provisioning.thread.OrderRoutingInstance, com.crm.product.cache.ProductRoute, com.crm.provisioning.message.CommandMessage)
+18/09 10:29:55:518 Close pool
+18/09 10:29:55:519 End of process session
+18/09 10:30:05:519 Close pool
+18/09 10:30:05:534 Close pool
+18/09 10:30:05:534 Testing connection ...
+18/09 10:30:05:536 Created provisioning instance for CCWS
+18/09 10:30:05:536 Testing connection are success
+18/09 10:30:05:537 Starting process session
+18/09 10:30:05:841 java.lang.NoSuchMethodException: com.crm.product.impl.UnlimitDataOrderRoutingImpl.registerMPServices(com.crm.provisioning.thread.OrderRoutingInstance, com.crm.product.cache.ProductRoute, com.crm.provisioning.message.CommandMessage)
+18/09 10:30:05:842 Close pool
+18/09 10:30:05:842 End of process session
+18/09 10:30:15:843 Close pool
+18/09 10:30:15:844 Close pool
+18/09 10:30:15:844 Testing connection ...
+18/09 10:30:15:846 Created provisioning instance for CCWS
+18/09 10:30:15:846 Testing connection are success
+18/09 10:30:15:847 Starting process session
+18/09 10:30:16:152 java.lang.NoSuchMethodException: com.crm.product.impl.UnlimitDataOrderRoutingImpl.registerMPServices(com.crm.provisioning.thread.OrderRoutingInstance, com.crm.product.cache.ProductRoute, com.crm.provisioning.message.CommandMessage)
+18/09 10:30:16:152 Close pool
+18/09 10:30:16:153 End of process session
+18/09 10:30:26:153 Close pool
+18/09 10:30:26:154 Close pool
+18/09 10:30:26:154 Testing connection ...
+18/09 10:30:26:156 Created provisioning instance for CCWS
+18/09 10:30:26:156 Testing connection are success
+18/09 10:30:26:157 Starting process session
+18/09 10:30:26:510 java.lang.NoSuchMethodException: com.crm.product.impl.UnlimitDataOrderRoutingImpl.registerMPServices(com.crm.provisioning.thread.OrderRoutingInstance, com.crm.product.cache.ProductRoute, com.crm.provisioning.message.CommandMessage)
+18/09 10:30:26:511 Close pool
+18/09 10:30:26:511 End of process session
+18/09 10:30:36:512 Close pool
+18/09 10:30:36:513 Close pool
+18/09 10:30:36:513 Testing connection ...
+18/09 10:30:36:515 Created provisioning instance for CCWS
+18/09 10:30:36:515 Testing connection are success
+18/09 10:30:36:516 Starting process session
+18/09 10:30:36:852 java.lang.NoSuchMethodException: com.crm.product.impl.UnlimitDataOrderRoutingImpl.registerMPServices(com.crm.provisioning.thread.OrderRoutingInstance, com.crm.product.cache.ProductRoute, com.crm.provisioning.message.CommandMessage)
+18/09 10:30:36:853 Close pool
+18/09 10:30:36:853 End of process session
+18/09 10:30:46:853 Order Routing stopped
+18/09 10:30:48:022 Order Routing started
+18/09 10:30:48:044 Close pool
+18/09 10:30:48:044 Close pool
+18/09 10:30:48:045 Testing connection ...
+18/09 10:30:48:048 Created provisioning instance for CCWS
+18/09 10:30:48:048 Testing connection are success
+18/09 10:30:48:049 Starting process session
+18/09 10:30:48:403 java.lang.NoSuchMethodException: com.crm.product.impl.UnlimitDataOrderRoutingImpl.registerMPServices(com.crm.provisioning.thread.OrderRoutingInstance, com.crm.product.cache.ProductRoute, com.crm.provisioning.message.CommandMessage)
+18/09 10:30:48:404 Close pool
+18/09 10:30:48:404 End of process session
+18/09 10:30:58:404 Close pool
+18/09 10:30:58:405 Close pool
+18/09 10:30:58:405 Testing connection ...
+18/09 10:30:58:407 Created provisioning instance for CCWS
+18/09 10:30:58:407 Testing connection are success
+18/09 10:30:58:408 Starting process session
+18/09 10:30:58:826 java.lang.NoSuchMethodException: com.crm.product.impl.UnlimitDataOrderRoutingImpl.registerMPServices(com.crm.provisioning.thread.OrderRoutingInstance, com.crm.product.cache.ProductRoute, com.crm.provisioning.message.CommandMessage)
+18/09 10:30:58:827 Close pool
+18/09 10:30:58:827 End of process session
+18/09 10:31:08:829 Close pool
+18/09 10:31:08:883 Close pool
+18/09 10:31:08:884 Testing connection ...
+18/09 10:31:08:885 Created provisioning instance for CCWS
+18/09 10:31:08:886 Testing connection are success
+18/09 10:31:08:886 Starting process session
+18/09 10:31:09:188 java.lang.NoSuchMethodException: com.crm.product.impl.UnlimitDataOrderRoutingImpl.registerMPServices(com.crm.provisioning.thread.OrderRoutingInstance, com.crm.product.cache.ProductRoute, com.crm.provisioning.message.CommandMessage)
+18/09 10:31:09:188 Close pool
+18/09 10:31:09:189 End of process session
+18/09 10:31:19:189 Close pool
+18/09 10:31:19:190 Close pool
+18/09 10:31:19:190 Testing connection ...
+18/09 10:31:19:192 Created provisioning instance for CCWS
+18/09 10:31:19:193 Testing connection are success
+18/09 10:31:19:193 Starting process session
+18/09 10:31:19:506 java.lang.NoSuchMethodException: com.crm.product.impl.UnlimitDataOrderRoutingImpl.registerMPServices(com.crm.provisioning.thread.OrderRoutingInstance, com.crm.product.cache.ProductRoute, com.crm.provisioning.message.CommandMessage)
+18/09 10:31:19:506 Close pool
+18/09 10:31:19:507 End of process session
+18/09 10:31:29:508 Close pool
+18/09 10:31:29:509 Close pool
+18/09 10:31:29:509 Testing connection ...
+18/09 10:31:29:511 Created provisioning instance for CCWS
+18/09 10:31:29:511 Testing connection are success
+18/09 10:31:29:512 Starting process session
+18/09 10:31:29:829 java.lang.NoSuchMethodException: com.crm.product.impl.UnlimitDataOrderRoutingImpl.registerMPServices(com.crm.provisioning.thread.OrderRoutingInstance, com.crm.product.cache.ProductRoute, com.crm.provisioning.message.CommandMessage)
+18/09 10:31:29:830 Close pool
+18/09 10:31:29:830 End of process session
+18/09 10:31:39:832 Close pool
+18/09 10:31:39:833 Close pool
+18/09 10:31:39:833 Testing connection ...
+18/09 10:31:39:835 Created provisioning instance for CCWS
+18/09 10:31:39:835 Testing connection are success
+18/09 10:31:39:836 Starting process session
+18/09 10:31:40:199 java.lang.NoSuchMethodException: com.crm.product.impl.UnlimitDataOrderRoutingImpl.registerMPServices(com.crm.provisioning.thread.OrderRoutingInstance, com.crm.product.cache.ProductRoute, com.crm.provisioning.message.CommandMessage)
+18/09 10:31:40:199 Close pool
+18/09 10:31:40:199 End of process session
+18/09 10:31:50:200 Close pool
+18/09 10:31:50:201 Close pool
+18/09 10:31:50:201 Testing connection ...
+18/09 10:31:50:205 Created provisioning instance for CCWS
+18/09 10:31:50:206 Testing connection are success
+18/09 10:31:50:206 Starting process session
+18/09 10:31:50:542 java.lang.NoSuchMethodException: com.crm.product.impl.UnlimitDataOrderRoutingImpl.registerMPServices(com.crm.provisioning.thread.OrderRoutingInstance, com.crm.product.cache.ProductRoute, com.crm.provisioning.message.CommandMessage)
+18/09 10:31:50:543 Close pool
+18/09 10:31:50:543 End of process session
+18/09 10:32:00:545 Close pool
+18/09 10:32:00:548 Close pool
+18/09 10:32:00:548 Testing connection ...
+18/09 10:32:00:550 Created provisioning instance for CCWS
+18/09 10:32:00:551 Testing connection are success
+18/09 10:32:00:551 Starting process session
+18/09 10:32:00:858 java.lang.NoSuchMethodException: com.crm.product.impl.UnlimitDataOrderRoutingImpl.registerMPServices(com.crm.provisioning.thread.OrderRoutingInstance, com.crm.product.cache.ProductRoute, com.crm.provisioning.message.CommandMessage)
+18/09 10:32:00:858 Close pool
+18/09 10:32:00:859 End of process session
+18/09 10:32:10:859 Close pool
+18/09 10:32:10:860 Close pool
+18/09 10:32:10:860 Testing connection ...
+18/09 10:32:10:864 Created provisioning instance for CCWS
+18/09 10:32:10:865 Testing connection are success
+18/09 10:32:10:865 Starting process session
+18/09 10:32:11:176 java.lang.NoSuchMethodException: com.crm.product.impl.UnlimitDataOrderRoutingImpl.registerMPServices(com.crm.provisioning.thread.OrderRoutingInstance, com.crm.product.cache.ProductRoute, com.crm.provisioning.message.CommandMessage)
+18/09 10:32:11:176 Close pool
+18/09 10:32:11:176 End of process session
+18/09 10:32:21:178 Close pool
+18/09 10:32:21:179 Close pool
+18/09 10:32:21:179 Testing connection ...
+18/09 10:32:21:181 Created provisioning instance for CCWS
+18/09 10:32:21:181 Testing connection are success
+18/09 10:32:21:182 Starting process session
+18/09 10:32:21:498 java.lang.NoSuchMethodException: com.crm.product.impl.UnlimitDataOrderRoutingImpl.registerMPServices(com.crm.provisioning.thread.OrderRoutingInstance, com.crm.product.cache.ProductRoute, com.crm.provisioning.message.CommandMessage)
+18/09 10:32:21:499 Close pool
+18/09 10:32:21:499 End of process session
+18/09 10:32:31:499 Close pool
+18/09 10:32:31:500 Close pool
+18/09 10:32:31:500 Testing connection ...
+18/09 10:32:31:502 Created provisioning instance for CCWS
+18/09 10:32:31:502 Testing connection are success
+18/09 10:32:31:503 Starting process session
+18/09 10:32:31:814 java.lang.NoSuchMethodException: com.crm.product.impl.UnlimitDataOrderRoutingImpl.registerMPServices(com.crm.provisioning.thread.OrderRoutingInstance, com.crm.product.cache.ProductRoute, com.crm.provisioning.message.CommandMessage)
+18/09 10:32:31:815 Close pool
+18/09 10:32:31:815 End of process session
+18/09 10:32:41:816 Close pool
+18/09 10:32:41:817 Close pool
+18/09 10:32:41:817 Testing connection ...
+18/09 10:32:41:819 Created provisioning instance for CCWS
+18/09 10:32:41:819 Testing connection are success
+18/09 10:32:41:820 Starting process session
+18/09 10:32:42:131 java.lang.NoSuchMethodException: com.crm.product.impl.UnlimitDataOrderRoutingImpl.registerMPServices(com.crm.provisioning.thread.OrderRoutingInstance, com.crm.product.cache.ProductRoute, com.crm.provisioning.message.CommandMessage)
+18/09 10:32:42:131 Close pool
+18/09 10:32:42:131 End of process session
+18/09 10:32:52:133 Close pool
+18/09 10:32:52:134 Close pool
+18/09 10:32:52:134 Testing connection ...
+18/09 10:32:52:136 Created provisioning instance for CCWS
+18/09 10:32:52:136 Testing connection are success
+18/09 10:32:52:137 Starting process session
+18/09 10:32:52:858 java.lang.NoSuchMethodException: com.crm.product.impl.UnlimitDataOrderRoutingImpl.registerMPServices(com.crm.provisioning.thread.OrderRoutingInstance, com.crm.product.cache.ProductRoute, com.crm.provisioning.message.CommandMessage)
+18/09 10:32:52:859 Close pool
+18/09 10:32:52:859 End of process session
+18/09 10:33:02:860 Close pool
+18/09 10:33:02:861 Close pool
+18/09 10:33:02:861 Testing connection ...
+18/09 10:33:02:863 Created provisioning instance for CCWS
+18/09 10:33:02:863 Testing connection are success
+18/09 10:33:02:864 Starting process session
+18/09 10:33:03:208 java.lang.NoSuchMethodException: com.crm.product.impl.UnlimitDataOrderRoutingImpl.registerMPServices(com.crm.provisioning.thread.OrderRoutingInstance, com.crm.product.cache.ProductRoute, com.crm.provisioning.message.CommandMessage)
+18/09 10:33:03:209 Close pool
+18/09 10:33:03:209 End of process session
+18/09 10:33:13:210 Close pool
+18/09 10:33:13:211 Close pool
+18/09 10:33:13:211 Testing connection ...
+18/09 10:33:13:213 Created provisioning instance for CCWS
+18/09 10:33:13:213 Testing connection are success
+18/09 10:33:13:214 Starting process session
+18/09 10:33:13:548 java.lang.NoSuchMethodException: com.crm.product.impl.UnlimitDataOrderRoutingImpl.registerMPServices(com.crm.provisioning.thread.OrderRoutingInstance, com.crm.product.cache.ProductRoute, com.crm.provisioning.message.CommandMessage)
+18/09 10:33:13:549 Close pool
+18/09 10:33:13:549 End of process session
+18/09 10:33:23:549 Close pool
+18/09 10:33:23:550 Close pool
+18/09 10:33:23:550 Testing connection ...
+18/09 10:33:23:552 Created provisioning instance for CCWS
+18/09 10:33:23:552 Testing connection are success
+18/09 10:33:23:553 Starting process session
+18/09 10:33:23:862 java.lang.NoSuchMethodException: com.crm.product.impl.UnlimitDataOrderRoutingImpl.registerMPServices(com.crm.provisioning.thread.OrderRoutingInstance, com.crm.product.cache.ProductRoute, com.crm.provisioning.message.CommandMessage)
+18/09 10:33:23:863 Close pool
+18/09 10:33:23:863 End of process session
+18/09 10:33:33:865 Close pool
+18/09 10:33:33:866 Close pool
+18/09 10:33:33:866 Testing connection ...
+18/09 10:33:33:868 Created provisioning instance for CCWS
+18/09 10:33:33:868 Testing connection are success
+18/09 10:33:33:869 Starting process session
+18/09 10:33:34:188 java.lang.NoSuchMethodException: com.crm.product.impl.UnlimitDataOrderRoutingImpl.registerMPServices(com.crm.provisioning.thread.OrderRoutingInstance, com.crm.product.cache.ProductRoute, com.crm.provisioning.message.CommandMessage)
+18/09 10:33:34:188 Close pool
+18/09 10:33:34:189 End of process session
+18/09 10:33:44:190 Close pool
+18/09 10:33:44:191 Close pool
+18/09 10:33:44:191 Testing connection ...
+18/09 10:33:44:193 Created provisioning instance for CCWS
+18/09 10:33:44:193 Testing connection are success
+18/09 10:33:44:194 Starting process session
+18/09 10:33:44:504 java.lang.NoSuchMethodException: com.crm.product.impl.UnlimitDataOrderRoutingImpl.registerMPServices(com.crm.provisioning.thread.OrderRoutingInstance, com.crm.product.cache.ProductRoute, com.crm.provisioning.message.CommandMessage)
+18/09 10:33:44:504 Close pool
+18/09 10:33:44:505 End of process session
+18/09 10:33:54:505 Close pool
+18/09 10:33:54:506 Close pool
+18/09 10:33:54:506 Testing connection ...
+18/09 10:33:54:508 Created provisioning instance for CCWS
+18/09 10:33:54:508 Testing connection are success
+18/09 10:33:54:508 Starting process session
+18/09 10:33:54:829 java.lang.NoSuchMethodException: com.crm.product.impl.UnlimitDataOrderRoutingImpl.registerMPServices(com.crm.provisioning.thread.OrderRoutingInstance, com.crm.product.cache.ProductRoute, com.crm.provisioning.message.CommandMessage)
+18/09 10:33:54:830 Close pool
+18/09 10:33:54:830 End of process session
+18/09 10:34:04:831 Close pool
+18/09 10:34:04:832 Close pool
+18/09 10:34:04:832 Testing connection ...
+18/09 10:34:04:834 Created provisioning instance for CCWS
+18/09 10:34:04:834 Testing connection are success
+18/09 10:34:04:835 Starting process session
+18/09 10:34:05:155 java.lang.NoSuchMethodException: com.crm.product.impl.UnlimitDataOrderRoutingImpl.registerMPServices(com.crm.provisioning.thread.OrderRoutingInstance, com.crm.product.cache.ProductRoute, com.crm.provisioning.message.CommandMessage)
+18/09 10:34:05:156 Close pool
+18/09 10:34:05:156 End of process session
+18/09 10:34:15:157 Close pool
+18/09 10:34:15:158 Close pool
+18/09 10:34:15:158 Testing connection ...
+18/09 10:34:15:160 Created provisioning instance for CCWS
+18/09 10:34:15:160 Testing connection are success
+18/09 10:34:15:161 Starting process session
+18/09 10:34:15:469 java.lang.NoSuchMethodException: com.crm.product.impl.UnlimitDataOrderRoutingImpl.registerMPServices(com.crm.provisioning.thread.OrderRoutingInstance, com.crm.product.cache.ProductRoute, com.crm.provisioning.message.CommandMessage)
+18/09 10:34:15:470 Close pool
+18/09 10:34:15:470 End of process session
+18/09 10:34:25:472 Close pool
+18/09 10:34:25:473 Close pool
+18/09 10:34:25:473 Testing connection ...
+18/09 10:34:25:475 Created provisioning instance for CCWS
+18/09 10:34:25:475 Testing connection are success
+18/09 10:34:25:476 Starting process session
+18/09 10:34:25:775 java.lang.NoSuchMethodException: com.crm.product.impl.UnlimitDataOrderRoutingImpl.registerMPServices(com.crm.provisioning.thread.OrderRoutingInstance, com.crm.product.cache.ProductRoute, com.crm.provisioning.message.CommandMessage)
+18/09 10:34:25:776 Close pool
+18/09 10:34:25:776 End of process session
+18/09 10:34:35:777 Close pool
+18/09 10:34:35:778 Close pool
+18/09 10:34:35:778 Testing connection ...
+18/09 10:34:35:780 Created provisioning instance for CCWS
+18/09 10:34:35:780 Testing connection are success
+18/09 10:34:35:781 Starting process session
+18/09 10:34:36:086 java.lang.NoSuchMethodException: com.crm.product.impl.UnlimitDataOrderRoutingImpl.registerMPServices(com.crm.provisioning.thread.OrderRoutingInstance, com.crm.product.cache.ProductRoute, com.crm.provisioning.message.CommandMessage)
+18/09 10:34:36:086 Close pool
+18/09 10:34:36:086 End of process session
+18/09 10:34:46:087 Close pool
+18/09 10:34:46:088 Close pool
+18/09 10:34:46:088 Testing connection ...
+18/09 10:34:46:090 Created provisioning instance for CCWS
+18/09 10:34:46:090 Testing connection are success
+18/09 10:34:46:090 Starting process session
+18/09 10:34:46:398 java.lang.NoSuchMethodException: com.crm.product.impl.UnlimitDataOrderRoutingImpl.registerMPServices(com.crm.provisioning.thread.OrderRoutingInstance, com.crm.product.cache.ProductRoute, com.crm.provisioning.message.CommandMessage)
+18/09 10:34:46:398 Close pool
+18/09 10:34:46:399 End of process session
+18/09 10:34:56:400 Close pool
+18/09 10:34:56:401 Close pool
+18/09 10:34:56:401 Testing connection ...
+18/09 10:34:56:403 Created provisioning instance for CCWS
+18/09 10:34:56:403 Testing connection are success
+18/09 10:34:56:404 Starting process session
+18/09 10:34:56:717 java.lang.NoSuchMethodException: com.crm.product.impl.UnlimitDataOrderRoutingImpl.registerMPServices(com.crm.provisioning.thread.OrderRoutingInstance, com.crm.product.cache.ProductRoute, com.crm.provisioning.message.CommandMessage)
+18/09 10:34:56:718 Close pool
+18/09 10:34:56:718 End of process session
+18/09 10:35:06:719 Close pool
+18/09 10:35:06:720 Close pool
+18/09 10:35:06:720 Testing connection ...
+18/09 10:35:06:722 Created provisioning instance for CCWS
+18/09 10:35:06:722 Testing connection are success
+18/09 10:35:06:723 Starting process session
+18/09 10:35:07:037 java.lang.NoSuchMethodException: com.crm.product.impl.UnlimitDataOrderRoutingImpl.registerMPServices(com.crm.provisioning.thread.OrderRoutingInstance, com.crm.product.cache.ProductRoute, com.crm.provisioning.message.CommandMessage)
+18/09 10:35:07:037 Close pool
+18/09 10:35:07:038 End of process session
+18/09 10:35:17:039 Close pool
+18/09 10:35:17:040 Close pool
+18/09 10:35:17:040 Testing connection ...
+18/09 10:35:17:044 Created provisioning instance for CCWS
+18/09 10:35:17:045 Testing connection are success
+18/09 10:35:17:045 Starting process session
+18/09 10:35:17:360 java.lang.NoSuchMethodException: com.crm.product.impl.UnlimitDataOrderRoutingImpl.registerMPServices(com.crm.provisioning.thread.OrderRoutingInstance, com.crm.product.cache.ProductRoute, com.crm.provisioning.message.CommandMessage)
+18/09 10:35:17:360 Close pool
+18/09 10:35:17:361 End of process session
+18/09 10:35:27:362 Close pool
+18/09 10:35:27:363 Close pool
+18/09 10:35:27:363 Testing connection ...
+18/09 10:35:27:365 Created provisioning instance for CCWS
+18/09 10:35:27:365 Testing connection are success
+18/09 10:35:27:365 Starting process session
+18/09 10:35:27:717 java.lang.NoSuchMethodException: com.crm.product.impl.UnlimitDataOrderRoutingImpl.registerMPServices(com.crm.provisioning.thread.OrderRoutingInstance, com.crm.product.cache.ProductRoute, com.crm.provisioning.message.CommandMessage)
+18/09 10:35:27:717 Close pool
+18/09 10:35:27:718 End of process session
+18/09 10:35:37:718 Close pool
+18/09 10:35:37:719 Close pool
+18/09 10:35:37:719 Testing connection ...
+18/09 10:35:37:724 Created provisioning instance for CCWS
+18/09 10:35:37:724 Testing connection are success
+18/09 10:35:37:725 Starting process session
+18/09 10:35:38:048 java.lang.NoSuchMethodException: com.crm.product.impl.UnlimitDataOrderRoutingImpl.registerMPServices(com.crm.provisioning.thread.OrderRoutingInstance, com.crm.product.cache.ProductRoute, com.crm.provisioning.message.CommandMessage)
+18/09 10:35:38:049 Close pool
+18/09 10:35:38:050 End of process session
+18/09 10:35:48:052 Close pool
+18/09 10:35:48:053 Close pool
+18/09 10:35:48:053 Testing connection ...
+18/09 10:35:48:057 Created provisioning instance for CCWS
+18/09 10:35:48:058 Testing connection are success
+18/09 10:35:48:058 Starting process session
+18/09 10:35:48:361 java.lang.NoSuchMethodException: com.crm.product.impl.UnlimitDataOrderRoutingImpl.registerMPServices(com.crm.provisioning.thread.OrderRoutingInstance, com.crm.product.cache.ProductRoute, com.crm.provisioning.message.CommandMessage)
+18/09 10:35:48:362 Close pool
+18/09 10:35:48:362 End of process session
+18/09 10:35:58:362 Close pool
+18/09 10:35:58:363 Close pool
+18/09 10:35:58:363 Testing connection ...
+18/09 10:35:58:365 Created provisioning instance for CCWS
+18/09 10:35:58:365 Testing connection are success
+18/09 10:35:58:366 Starting process session
+18/09 10:35:58:687 java.lang.NoSuchMethodException: com.crm.product.impl.UnlimitDataOrderRoutingImpl.registerMPServices(com.crm.provisioning.thread.OrderRoutingInstance, com.crm.product.cache.ProductRoute, com.crm.provisioning.message.CommandMessage)
+18/09 10:35:58:687 Close pool
+18/09 10:35:58:688 End of process session
+18/09 10:36:54:036 Order Routing started
+18/09 10:36:54:057 Testing connection ...
+18/09 10:36:54:061 Created provisioning instance for CCWS
+18/09 10:36:54:062 Testing connection are success
+18/09 10:36:54:063 Starting process session
+18/09 10:36:54:940 Total 0 instances are started
+18/09 10:36:54:942 Total 1 instances are added
+18/09 10:36:55:004 Create order(84922000514) cost time: 27ms
+18/09 10:36:55:212 Update order(84922000514) cost time: 11ms
+18/09 10:36:55:214 84922000514: LOYALTY - LOYALTY.BALANCE_QUERY
+18/09 10:36:55:214 orderId = 125409838 | requestId = 0 | orderDate = 2013/09/18 10:36:54 | userName = system | subProductId = 52789557 | channel = SMS | serviceAddress = 268 | keyword = TRA DIEM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 342 | cause =  | status = 1 | description =  | balance = 
+18/09 10:36:55:226 Create order(84922000514) cost time: 8ms
+18/09 10:36:55:324 Update order(84922000514) cost time: 8ms
+18/09 10:36:55:324 84922000514: LOYALTY - LOYALTY.BALANCE_QUERY
+18/09 10:36:55:325 orderId = 125409839 | requestId = 0 | orderDate = 2013/09/18 10:36:55 | userName = system | subProductId = 52789557 | channel = SMS | serviceAddress = 268 | keyword = TRA DIEM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 342 | cause =  | status = 1 | description =  | balance = 
+18/09 10:56:24:133 Order Routing started
+18/09 10:56:24:160 Testing connection ...
+18/09 10:56:29:138 Created provisioning instance for CCWS
+18/09 10:56:29:139 Testing connection are success
+18/09 10:56:29:141 Starting process session
+18/09 10:56:31:226 Total 0 instances are started
+18/09 10:56:31:255 Total 1 instances are added
+18/09 10:56:51:751 Create order(84922000514) cost time: 91ms
+18/09 10:56:51:927 Update order(84922000514) cost time: 19ms
+18/09 10:56:51:952 84922000514: LOYALTY - LOYALTY.BALANCE_QUERY
+18/09 10:56:51:953 orderId = 125409843 | requestId = 0 | orderDate = 2013/09/18 10:56:51 | userName = system | subProductId = 52789557 | channel = SMS | serviceAddress = 268 | keyword = TRA DIEM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 342 | cause =  | status = 1 | description =  | balance = 
+18/09 10:57:28:558 Create order(84922000514) cost time: 9ms
+18/09 10:57:28:564 SEND: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000514}. ID=246002
+18/09 10:57:30:298 RECEIVE:cosname=VMAX,status=Active,active_date=05/09/2013 02:17:51,{84922000514}Core{290900.0;01/03/2015 08:59:59},PROMOTION_60{5220.0;11/11/2013 08:59:59},. ID=246002. costTime=1732
+18/09 10:57:30:310 Update order(84922000514) cost time: 7ms
+18/09 10:57:30:311 84922000514: LOYALTY - LOYALTY.VALIDATE
+18/09 10:57:30:312 orderId = 125409844 | requestId = 0 | orderDate = 2013/09/18 10:57:28 | userName = system | subProductId = 52789557 | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 10000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 1000.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+18/09 10:58:41:613 Create order(84922000514) cost time: 8ms
+18/09 10:58:41:643 SEND: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000514}. ID=246005
+18/09 10:58:41:730 RECEIVE:cosname=VMAX,status=Active,active_date=05/09/2013 02:17:51,{84922000514}Core{290900.0;01/03/2015 08:59:59},PROMOTION_60{6220.0;17/11/2013 08:59:59},. ID=246005. costTime=86
+18/09 10:58:41:736 Update order(84922000514) cost time: 4ms
+18/09 10:58:41:736 84922000514: LOYALTY - LOYALTY.VALIDATE
+18/09 10:58:41:737 orderId = 125409845 | requestId = 0 | orderDate = 2013/09/18 10:58:41 | userName = system | subProductId = 52789557 | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 10000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 1000.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+18/09 11:05:49:472 Order Routing started
+18/09 11:05:49:500 Testing connection ...
+18/09 11:05:49:505 Created provisioning instance for CCWS
+18/09 11:05:49:505 Testing connection are success
+18/09 11:05:49:506 Starting process session
+18/09 11:05:50:340 Total 0 instances are started
+18/09 11:05:50:341 Total 1 instances are added
+18/09 11:06:42:748 Create order(84922000514) cost time: 24ms
+18/09 11:06:42:867 SEND: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000514}. ID=247001
+18/09 11:06:44:009 RECEIVE:cosname=VMAX,status=Active,active_date=05/09/2013 02:17:51,{84922000514}Core{290900.0;01/03/2015 08:59:59},PROMOTION_60{7220.0;17/11/2013 08:59:59},. ID=247001. costTime=1140
+18/09 11:06:44:025 Update order(84922000514) cost time: 11ms
+18/09 11:06:44:026 84922000514: LOYALTY - LOYALTY.VALIDATE
+18/09 11:06:44:027 orderId = 125409846 | requestId = 0 | orderDate = 2013/09/18 11:06:42 | userName = system | subProductId = 52789557 | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 10000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 1000.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+18/09 12:43:56:793 Order Routing started
+18/09 12:43:56:819 Testing connection ...
+18/09 12:44:00:807 Created provisioning instance for CCWS
+18/09 12:44:00:808 Testing connection are success
+18/09 12:44:00:809 Starting process session
+18/09 12:44:02:570 Total 0 instances are started
+18/09 12:44:02:571 Total 1 instances are added
+18/09 12:51:11:905 Close pool
+18/09 12:51:12:006 Close queue connection pool.
+18/09 12:51:12:055 End of process session
+18/09 12:51:12:056 Order Routing stopped
+18/09 12:51:13:927 Order Routing started
+18/09 12:51:13:950 Close pool
+18/09 12:51:13:951 Close pool
+18/09 12:51:13:952 Testing connection ...
+18/09 12:51:13:974 Created provisioning instance for CCWS
+18/09 12:51:13:975 Testing connection are success
+18/09 12:51:13:976 Starting process session
+18/09 12:51:14:777 Total 0 instances are started
+18/09 12:51:14:778 Total 1 instances are added
+18/09 12:51:31:957 Close pool
+18/09 12:51:32:058 Close queue connection pool.
+18/09 12:51:32:063 End of process session
+18/09 12:51:32:064 Order Routing stopped
+18/09 12:51:33:969 Order Routing started
+18/09 12:51:33:992 Close pool
+18/09 12:51:33:992 Close pool
+18/09 12:51:33:993 Testing connection ...
+18/09 12:51:33:997 Created provisioning instance for CCWS
+18/09 12:51:33:998 Testing connection are success
+18/09 12:51:34:000 Starting process session
+18/09 12:51:34:756 Total 0 instances are started
+18/09 12:51:34:757 Total 1 instances are added
+18/09 12:53:54:858 Order Routing started
+18/09 12:53:54:882 Testing connection ...
+18/09 12:53:54:887 Created provisioning instance for CCWS
+18/09 12:53:54:887 Testing connection are success
+18/09 12:53:54:888 Starting process session
+18/09 12:53:55:748 Total 0 instances are started
+18/09 12:53:55:749 Total 1 instances are added
+18/09 12:54:45:930 Close pool
+18/09 12:54:46:030 Close queue connection pool.
+18/09 12:54:46:035 End of process session
+18/09 12:54:46:036 Order Routing stopped
+18/09 12:54:47:944 Order Routing started
+18/09 12:54:47:966 Close pool
+18/09 12:54:47:967 Close pool
+18/09 12:54:47:968 Testing connection ...
+18/09 12:54:47:971 Created provisioning instance for CCWS
+18/09 12:54:47:972 Testing connection are success
+18/09 12:54:47:972 Starting process session
+18/09 12:54:48:663 Total 0 instances are started
+18/09 12:54:48:664 Total 1 instances are added
+18/09 12:55:46:966 Close pool
+18/09 12:55:47:066 Close queue connection pool.
+18/09 12:55:47:071 End of process session
+18/09 12:55:47:072 Order Routing stopped
+18/09 12:55:48:979 Order Routing started
+18/09 12:55:49:000 Close pool
+18/09 12:55:49:001 Close pool
+18/09 12:55:49:001 Testing connection ...
+18/09 12:55:49:005 Created provisioning instance for CCWS
+18/09 12:55:49:006 Testing connection are success
+18/09 12:55:49:006 Starting process session
+18/09 12:55:49:784 Total 0 instances are started
+18/09 12:55:49:785 Total 1 instances are added
+18/09 12:58:38:296 Order Routing started
+18/09 12:58:38:324 Testing connection ...
+18/09 12:58:38:329 Created provisioning instance for CCWS
+18/09 12:58:38:329 Testing connection are success
+18/09 12:58:38:330 Starting process session
+18/09 12:58:39:226 Total 0 instances are started
+18/09 12:58:39:227 Total 1 instances are added
+18/09 12:59:13:646 Create order(84922000514) cost time: 83ms
+18/09 12:59:13:673 SEND: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000514}. ID=249001
+18/09 12:59:15:489 RECEIVE:cosname=VMAX,status=Active,active_date=05/09/2013 02:17:51,{84922000514}Core{290900.0;01/03/2015 08:59:59},PROMOTION_60{1000.0;16/11/2013 08:59:59},. ID=249001. costTime=1815
+18/09 12:59:15:507 Update order(84922000514) cost time: 13ms
+18/09 12:59:15:514 84922000514: LOYALTY - LOYALTY.VALIDATE
+18/09 12:59:15:515 orderId = 125409863 | requestId = 0 | orderDate = 2013/09/18 12:59:13 | userName = system | subProductId = 52789557 | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 10000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 1000.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+18/09 13:57:51:958 Create order(84922000514) cost time: 35ms
+18/09 13:57:51:982 SEND: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000514}. ID=249002
+18/09 13:57:52:074 RECEIVE:cosname=VMAX,status=Active,active_date=05/09/2013 02:17:51,{84922000514}Core{290900.0;01/03/2015 08:59:59},PROMOTION_60{1000.0;16/11/2013 08:59:59},. ID=249002. costTime=91
+18/09 13:57:52:091 Update order(84922000514) cost time: 15ms
+18/09 13:57:52:092 84922000514: LOYALTY - LOYALTY.VALIDATE
+18/09 13:57:52:093 orderId = 125409864 | requestId = 0 | orderDate = 2013/09/18 13:57:51 | userName = system | subProductId = 52789557 | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 10000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 1000.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+18/09 13:59:10:939 Create order(84922000514) cost time: 9ms
+18/09 13:59:10:945 SEND: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000514}. ID=249005
+18/09 13:59:11:024 RECEIVE:cosname=VMAX,status=Active,active_date=05/09/2013 02:17:51,{84922000514}Core{290900.0;01/03/2015 08:59:59},PROMOTION_60{2000.0;17/11/2013 08:59:59},. ID=249005. costTime=79
+18/09 13:59:11:035 Update order(84922000514) cost time: 7ms
+18/09 13:59:11:036 84922000514: LOYALTY - LOYALTY.VALIDATE
+18/09 13:59:11:036 orderId = 125409865 | requestId = 0 | orderDate = 2013/09/18 13:59:10 | userName = system | subProductId = 52789557 | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 10000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 1000.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+18/09 14:12:35:371 Order Routing started
+18/09 14:12:35:394 Testing connection ...
+18/09 14:12:35:402 Created provisioning instance for CCWS
+18/09 14:12:35:403 Testing connection are success
+18/09 14:12:35:403 Starting process session
+18/09 14:12:36:329 Total 0 instances are started
+18/09 14:12:36:330 Total 1 instances are added
+18/09 14:13:09:682 Create order(84922000514) cost time: 24ms
+18/09 14:13:09:765 SEND: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000514}. ID=250001
+18/09 14:13:10:859 RECEIVE:cosname=VMAX,status=Active,active_date=05/09/2013 02:17:51,{84922000514}Core{290900.0;01/03/2015 08:59:59},PROMOTION_60{1000.0;17/11/2013 08:59:59},. ID=250001. costTime=1093
+18/09 14:13:10:879 Update order(84922000514) cost time: 10ms
+18/09 14:13:10:880 84922000514: LOYALTY - LOYALTY.VALIDATE
+18/09 14:13:10:881 orderId = 125409866 | requestId = 0 | orderDate = 2013/09/18 14:13:09 | userName = system | subProductId = 52789557 | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 10000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 1000.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+18/09 14:15:38:646 Create order(84922000514) cost time: 15ms
+18/09 14:15:38:653 SEND: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000514}. ID=250002
+18/09 14:15:38:749 RECEIVE:cosname=VMAX,status=Active,active_date=05/09/2013 02:17:51,{84922000514}Core{290900.0;01/03/2015 08:59:59},PROMOTION_60{1000.0;17/11/2013 08:59:59},. ID=250002. costTime=96
+18/09 14:15:38:757 Update order(84922000514) cost time: 6ms
+18/09 14:15:38:758 84922000514: LOYALTY - LOYALTY.VALIDATE
+18/09 14:15:38:759 orderId = 125409867 | requestId = 0 | orderDate = 2013/09/18 14:15:38 | userName = system | subProductId = 52789557 | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 10000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 1000.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+18/09 14:29:02:652 Close pool
+18/09 14:29:02:753 Close queue connection pool.
+18/09 14:29:02:761 End of process session
+18/09 14:29:02:762 Order Routing stopped
+18/09 14:53:06:760 Order Routing started
+18/09 14:53:06:783 Testing connection ...
+18/09 14:53:06:794 Created provisioning instance for CCWS
+18/09 14:53:06:794 Testing connection are success
+18/09 14:53:06:795 Starting process session
+18/09 14:53:07:732 Total 0 instances are started
+18/09 14:53:07:733 Total 1 instances are added
+18/09 14:53:34:047 Create order(84922000514) cost time: 22ms
+18/09 14:53:34:082 SEND: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000514}. ID=251001
+18/09 14:53:35:146 RECEIVE:cosname=VMAX,status=Active,active_date=05/09/2013 02:17:51,{84922000514}Core{290900.0;01/03/2015 08:59:59},PROMOTION_60{1000.0;17/11/2013 08:59:59},. ID=251001. costTime=1064
+18/09 14:53:35:169 Update order(84922000514) cost time: 13ms
+18/09 14:53:35:171 84922000514: LOYALTY - LOYALTY.VALIDATE
+18/09 14:53:35:171 orderId = 125409868 | requestId = 0 | orderDate = 2013/09/18 14:53:34 | userName = system | subProductId = 52789557 | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 10000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 1000.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+18/09 15:03:09:152 Create order(84922000514) cost time: 28ms
+18/09 15:03:09:176 SEND: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000514}. ID=251004
+18/09 15:03:09:278 RECEIVE:cosname=VMAX,status=Active,active_date=05/09/2013 02:17:51,{84922000514}Core{290900.0;01/03/2015 08:59:59},PROMOTION_60{290900.0;10/10/2013 09:59:59},. ID=251004. costTime=101
+18/09 15:03:09:302 Update order(84922000514) cost time: 21ms
+18/09 15:03:09:302 84922000514: LOYALTY - LOYALTY.VALIDATE
+18/09 15:03:09:303 orderId = 125409869 | requestId = 0 | orderDate = 2013/09/18 15:03:09 | userName = system | subProductId = 52789557 | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 10000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 1000.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+18/09 15:09:44:237 Create order(84922000514) cost time: 23ms
+18/09 15:09:44:258 SEND: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000514}. ID=251007
+18/09 15:09:44:352 RECEIVE:cosname=VMAX,status=Active,active_date=05/09/2013 02:17:51,{84922000514}Core{290900.0;01/03/2015 08:59:59},PROMOTION_60{1000.0;10/10/2013 09:59:59},. ID=251007. costTime=92
+18/09 15:09:44:371 Update order(84922000514) cost time: 17ms
+18/09 15:09:44:372 84922000514: LOYALTY - LOYALTY.VALIDATE
+18/09 15:09:44:372 orderId = 125409870 | requestId = 0 | orderDate = 2013/09/18 15:09:44 | userName = system | subProductId = 52789557 | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 10000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 1000.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+18/09 15:16:33:727 Order Routing started
+18/09 15:16:34:033 Testing connection ...
+18/09 15:16:34:038 Created provisioning instance for CCWS
+18/09 15:16:34:039 Testing connection are success
+18/09 15:16:34:040 Starting process session
+18/09 15:16:34:950 Total 0 instances are started
+18/09 15:16:34:951 Total 1 instances are added
+18/09 15:17:02:084 Create order(84922000514) cost time: 124ms
+18/09 15:17:02:114 SEND: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000514}. ID=252001
+18/09 15:17:03:146 RECEIVE:cosname=VMAX,status=Active,active_date=05/09/2013 02:17:51,{84922000514}Core{290900.0;01/03/2015 08:59:59},PROMOTION_60{10000.0;10/10/2013 09:59:59},. ID=252001. costTime=1031
+18/09 15:17:03:167 Update order(84922000514) cost time: 13ms
+18/09 15:17:03:169 84922000514: LOYALTY - LOYALTY.VALIDATE
+18/09 15:17:03:169 orderId = 125409872 | requestId = 0 | orderDate = 2013/09/18 15:17:01 | userName = system | subProductId = 52789557 | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 10000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 1000.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+18/09 15:17:51:988 Create order(84922000514) cost time: 10ms
+18/09 15:17:51:994 SEND: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000514}. ID=252002
+18/09 15:17:52:107 RECEIVE:cosname=MAIN_COS,status=Active,active_date=05/09/2013 02:17:51,{84922000514}Core{271900.0;01/03/2015 08:59:59},CALLME{600.0;03/10/2013 09:59:59},PROMOTION_60{10000.0;10/10/2013 09:59:59},. ID=252002. costTime=113
+18/09 15:17:52:115 Update order(84922000514) cost time: 5ms
+18/09 15:17:52:116 84922000514: LOYALTY - LOYALTY.VALIDATE
+18/09 15:17:52:116 orderId = 125409874 | requestId = 0 | orderDate = 2013/09/18 15:17:51 | userName = system | subProductId = 52789557 | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 10000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 1000.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+18/09 15:41:09:159 Create order(84922000514) cost time: 22ms
+18/09 15:41:09:181 SEND: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000514}. ID=252005
+18/09 15:41:09:275 RECEIVE:cosname=VMAX,status=Active,active_date=05/09/2013 02:17:51,{84922000514}Core{900.0;01/03/2015 08:59:59},CALLME{5400.0;18/10/2013 09:59:59},PROMOTION_60{10000.0;17/11/2013 08:59:59},. ID=252005. costTime=93
+18/09 15:41:09:293 Update order(84922000514) cost time: 16ms
+18/09 15:41:09:294 84922000514: LOYALTY - LOYALTY.VALIDATE
+18/09 15:41:09:294 orderId = 125409893 | requestId = 0 | orderDate = 2013/09/18 15:41:09 | userName = system | subProductId = 52789557 | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 10000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 1000.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+18/09 15:45:21:219 Create order(84922000514) cost time: 13ms
+18/09 15:45:21:240 SEND: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000514}. ID=252008
+18/09 15:45:21:324 RECEIVE:cosname=VMAX,status=Active,active_date=05/09/2013 02:17:51,{84922000514}Core{900.0;01/03/2015 08:59:59},CALLME{5400.0;18/10/2013 09:59:59},PROMOTION_60{10000.0;17/11/2013 08:59:59},. ID=252008. costTime=84
+18/09 15:45:21:331 Update order(84922000514) cost time: 5ms
+18/09 15:45:21:331 84922000514: LOYALTY - LOYALTY.VALIDATE
+18/09 15:45:21:332 orderId = 125409900 | requestId = 0 | orderDate = 2013/09/18 15:45:21 | userName = system | subProductId = 52789557 | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 10000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 1000.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+18/09 16:27:32:265 Order Routing started
+18/09 16:27:32:292 Testing connection ...
+18/09 16:27:33:977 Created provisioning instance for CCWS
+18/09 16:27:33:982 Testing connection are success
+18/09 16:27:33:987 Starting process session
+18/09 16:27:35:396 Total 0 instances are started
+18/09 16:27:35:397 Total 1 instances are added
+18/09 16:27:55:725 Create order(84922000514) cost time: 92ms
+18/09 16:27:55:755 Update order(84922000514) cost time: 11ms
+18/09 16:27:55:756 orderId = 125409927 | requestId = 0 | orderDate = 2013/09/18 16:27:55 | userName = system | subProductId = 52789557 | channel = SMS | serviceAddress = 268 | keyword = DK CAM | isdn = 84922000514 | subscriberType = -1 | shipTo =  | actionType = register | productId = 274 | amount = 0.0 | provisioningType = SMSC | commandId = 0 | cause = registered | status = 4 | description =  | balance = 
+18/09 16:27:55:838 sendNotify: 84922000514 - Dich vu da duoc dang ky
+18/09 16:29:17:349 Close pool
+18/09 16:29:17:450 Close queue connection pool.
+18/09 16:29:17:455 End of process session
+18/09 16:29:17:456 Order Routing stopped
+18/09 16:29:19:364 Order Routing started
+18/09 16:29:19:387 Close pool
+18/09 16:29:19:387 Close pool
+18/09 16:29:19:388 Testing connection ...
+18/09 16:29:19:392 Created provisioning instance for CCWS
+18/09 16:29:19:392 Testing connection are success
+18/09 16:29:19:393 Starting process session
+18/09 16:29:20:102 Total 0 instances are started
+18/09 16:29:20:103 Total 1 instances are added
+18/09 16:29:21:543 Create order(84922000514) cost time: 8ms
+18/09 16:29:21:575 Update order(84922000514) cost time: 25ms
+18/09 16:29:21:576 orderId = 125409930 | requestId = 0 | orderDate = 2013/09/18 16:29:21 | userName = system | subProductId = 52789557 | channel = SMS | serviceAddress = 268 | keyword = DK CAM | isdn = 84922000514 | subscriberType = -1 | shipTo =  | actionType = register | productId = 274 | amount = 0.0 | provisioningType = SMSC | commandId = 0 | cause = registered | status = 4 | description =  | balance = 
+18/09 16:29:21:583 sendNotify: 84922000514 - Quy khach da la thanh vien cua Cau lac bo CAM cua Vietnamobile. Hay tiep tuc su dung Vietnamobile de tich luy nhieu diem va nhan duoc nhieu uu dai cua chuong trinh. Chi tiet 789
+18/09 16:32:09:580 Create order(84922000514) cost time: 11ms
+18/09 16:32:09:608 Update order(84922000514) cost time: 8ms
+18/09 16:32:09:608 orderId = 125409935 | requestId = 0 | orderDate = 2013/09/18 16:32:09 | userName = system | subProductId = 52789557 | channel = SMS | serviceAddress = 268 | keyword = DK CAM | isdn = 84922000514 | subscriberType = -1 | shipTo =  | actionType = register | productId = 274 | amount = 0.0 | provisioningType = SMSC | commandId = 0 | cause = registered | status = 4 | description =  | balance = 
+18/09 16:32:09:614 sendNotify: 84922000514 - Quy khach da la thanh vien cua Cau lac bo CAM cua Vietnamobile. Hay tiep tuc su dung Vietnamobile de tich luy nhieu diem va nhan duoc nhieu uu dai cua chuong trinh. Chi tiet 789
+18/09 16:36:01:729 Order Routing started
+18/09 16:36:01:754 Testing connection ...
+18/09 16:36:01:759 Created provisioning instance for CCWS
+18/09 16:36:01:759 Testing connection are success
+18/09 16:36:01:760 Starting process session
+18/09 16:36:02:576 Total 0 instances are started
+18/09 16:36:02:577 Total 1 instances are added
+18/09 16:36:13:971 Create order(84922000514) cost time: 23ms
+18/09 16:36:14:001 Update order(84922000514) cost time: 10ms
+18/09 16:36:14:002 orderId = 125409938 | requestId = 0 | orderDate = 2013/09/18 16:36:13 | userName = system | subProductId = 52789557 | channel = SMS | serviceAddress = 268 | keyword = DK CAM | isdn = 84922000514 | subscriberType = -1 | shipTo =  | actionType = register | productId = 274 | amount = 0.0 | provisioningType = SMSC | commandId = 0 | cause = registered | status = 4 | description =  | balance = 
+18/09 16:36:14:013 sendNotify: 84922000514 - Quy khach da la thanh vien cua Cau lac bo CAM cua Vietnamobile. Hay tiep tuc su dung Vietnamobile de tich luy nhieu diem va nhan duoc nhieu uu dai cua chuong trinh. Chi tiet 789
+18/09 16:38:12:975 Create order(84922000511) cost time: 9ms
+18/09 16:38:13:097 Update order(84922000511) cost time: 28ms
+18/09 16:38:13:098 orderId = 125409940 | requestId = 0 | orderDate = 2013/09/18 16:38:12 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = DK CAM | isdn = 84922000511 | subscriberType = 2 | shipTo =  | actionType = register | productId = 274 | amount = 0.0 | provisioningType = SMSC | commandId = 0 | cause = denied-subscriber-type | status = 4 | description =  | balance = 
+18/09 16:38:13:107 sendNotify: 84922000511 - Goi cuoc cua quy khach dang su dung khong hop le. Vui long goi 123 de biet them chi tiet.
+18/09 16:39:22:833 Close pool
+18/09 16:39:22:934 Close queue connection pool.
+18/09 16:39:22:939 End of process session
+18/09 16:39:22:940 Order Routing stopped
+18/09 16:39:24:845 Order Routing started
+18/09 16:39:24:869 Close pool
+18/09 16:39:24:869 Close pool
+18/09 16:39:24:870 Testing connection ...
+18/09 16:39:24:874 Created provisioning instance for CCWS
+18/09 16:39:24:874 Testing connection are success
+18/09 16:39:24:875 Starting process session
+18/09 16:39:25:623 Total 0 instances are started
+18/09 16:39:25:624 Total 1 instances are added
+18/09 16:39:28:020 Create order(84922000511) cost time: 9ms
+18/09 16:39:28:079 Update order(84922000511) cost time: 6ms
+18/09 16:39:28:080 orderId = 125409941 | requestId = 0 | orderDate = 2013/09/18 16:39:28 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = DK CAM | isdn = 84922000511 | subscriberType = 2 | shipTo =  | actionType = register | productId = 274 | amount = 0.0 | provisioningType = SMSC | commandId = 0 | cause = denied-subscriber-type | status = 4 | description =  | balance = 
+18/09 16:39:28:088 sendNotify: 84922000511 - Cau lac bo CAM chua ap dung cho Goi cuoc cua Quy khach. Vietnamobile se thong bao cho Quy khach ngay khi chuong trinh ap dung cho Goi cuoc nay. Mong Quy khach thong cam. Tran trong. Chi tiet 789
+18/09 16:40:36:047 Create order(84922000514) cost time: 11ms
+18/09 16:40:36:069 Update order(84922000514) cost time: 6ms
+18/09 16:40:36:069 orderId = 125409943 | requestId = 0 | orderDate = 2013/09/18 16:40:36 | userName = system | subProductId = 52789557 | channel = SMS | serviceAddress = 268 | keyword = DK CAM | isdn = 84922000514 | subscriberType = -1 | shipTo =  | actionType = register | productId = 274 | amount = 0.0 | provisioningType = SMSC | commandId = 0 | cause = registered | status = 4 | description =  | balance = 
+18/09 16:40:36:075 sendNotify: 84922000514 - Quy khach da la thanh vien cua Cau lac bo CAM cua Vietnamobile. Hay tiep tuc su dung Vietnamobile de tich luy nhieu diem va nhan duoc nhieu uu dai cua chuong trinh. Chi tiet 789
+18/09 16:41:11:069 84922000514: LOYALTY - CRM.SUBSCRIPTION_UNREGIST
+18/09 16:41:11:070 orderId = 0 | requestId = 0 | orderDate = 2013/09/18 16:41:11 | userName = system | subProductId = 52789557 | channel = SMS | serviceAddress = 268 | keyword = HUY CAM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = unregister | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 13121 | cause =  | status = 1 | description =  | balance = 
+18/09 16:41:44:122 Create order(84922000514) cost time: 8ms
+18/09 16:41:44:139 Update order(84922000514) cost time: 6ms
+18/09 16:41:44:140 84922000514: LOYALTY - CRM.SUBSCRIPTION_REGIST
+18/09 16:41:44:142 orderId = 125409945 | requestId = 0 | orderDate = 2013/09/18 16:41:44 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = DK CAM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = register | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 13119 | cause =  | status = 1 | description =  | balance = 
+18/09 16:43:56:139 Create order(84922000512) cost time: 24ms
+18/09 16:43:56:190 Update order(84922000512) cost time: 29ms
+18/09 16:43:56:191 orderId = 125409946 | requestId = 0 | orderDate = 2013/09/18 16:43:56 | userName = system | subProductId = 52789571 | channel = SMS | serviceAddress = 268 | keyword = DK CAM | isdn = 84922000512 | subscriberType = -1 | shipTo =  | actionType = register | productId = 274 | amount = 0.0 | provisioningType = SMSC | commandId = 0 | cause = registered | status = 4 | description =  | balance = 
+18/09 16:43:56:199 sendNotify: 84922000512 - Quy khach da la thanh vien cua Cau lac bo CAM cua Vietnamobile. Hay tiep tuc su dung Vietnamobile de tich luy nhieu diem va nhan duoc nhieu uu dai cua chuong trinh. Chi tiet 789
+18/09 16:44:14:250 84922000512: LOYALTY - CRM.SUBSCRIPTION_UNREGIST
+18/09 16:44:14:250 orderId = 0 | requestId = 0 | orderDate = 2013/09/18 16:44:14 | userName = system | subProductId = 52789571 | channel = SMS | serviceAddress = 268 | keyword = HUY CAM | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = unregister | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 13121 | cause =  | status = 1 | description =  | balance = 
+18/09 16:44:20:989 Close pool
+18/09 16:44:21:090 Close queue connection pool.
+18/09 16:44:21:095 End of process session
+18/09 16:44:21:095 Order Routing stopped
+18/09 16:44:23:008 Order Routing started
+18/09 16:44:23:031 Close pool
+18/09 16:44:23:032 Close pool
+18/09 16:44:23:032 Testing connection ...
+18/09 16:44:23:036 Created provisioning instance for CCWS
+18/09 16:44:23:036 Testing connection are success
+18/09 16:44:23:037 Starting process session
+18/09 16:44:23:797 Total 0 instances are started
+18/09 16:44:23:798 Total 1 instances are added
+18/09 16:44:46:186 Create order(84922000512) cost time: 12ms
+18/09 16:44:46:204 Update order(84922000512) cost time: 7ms
+18/09 16:44:46:206 84922000512: LOYALTY - CRM.SUBSCRIPTION_REGIST
+18/09 16:44:46:206 orderId = 125409947 | requestId = 0 | orderDate = 2013/09/18 16:44:46 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = DK CAM | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = register | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 13119 | cause =  | status = 1 | description =  | balance = 
+18/09 16:45:14:254 Create order(84922000512) cost time: 9ms
+18/09 16:45:14:273 Update order(84922000512) cost time: 11ms
+18/09 16:45:14:274 orderId = 125409949 | requestId = 0 | orderDate = 2013/09/18 16:45:14 | userName = system | subProductId = 52789580 | channel = SMS | serviceAddress = 268 | keyword = DK CAM | isdn = 84922000512 | subscriberType = -1 | shipTo =  | actionType = register | productId = 274 | amount = 0.0 | provisioningType = SMSC | commandId = 0 | cause = registered | status = 4 | description =  | balance = 
+18/09 16:45:14:282 sendNotify: 84922000512 - Quy khach da la thanh vien cua Cau lac bo CAM cua Vietnamobile. Hay tiep tuc su dung Vietnamobile de tich luy nhieu diem va nhan duoc nhieu uu dai cua chuong trinh. Chi tiet 789
+18/09 16:45:43:301 84922000512: LOYALTY - CRM.SUBSCRIPTION_UNREGIST
+18/09 16:45:43:302 orderId = 0 | requestId = 0 | orderDate = 2013/09/18 16:45:43 | userName = system | subProductId = 52789580 | channel = SMS | serviceAddress = 268 | keyword = HUY CAM | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = unregister | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 13121 | cause =  | status = 1 | description =  | balance = 
+18/09 16:46:08:263 orderId = 0 | requestId = 0 | orderDate = 2013/09/18 16:46:08 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = HUY CAM | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = unregister | productId = 274 | amount = 0.0 | provisioningType = SMSC | commandId = 0 | cause = unknow-subscription | status = 4 | description =  | balance = 
+18/09 16:46:08:264 sendNotify: 84922000512 - Dich vu khong ton tai
+18/09 16:46:30:277 Create order(84922000512) cost time: 9ms
+18/09 16:46:30:291 Update order(84922000512) cost time: 5ms
+18/09 16:46:30:291 84922000512: LOYALTY - CRM.SUBSCRIPTION_REGIST
+18/09 16:46:30:292 orderId = 125409951 | requestId = 0 | orderDate = 2013/09/18 16:46:30 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = DK CAM | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = register | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 13119 | cause =  | status = 1 | description =  | balance = 
+18/09 16:47:52:138 Close pool
+18/09 16:47:52:238 Close queue connection pool.
+18/09 16:47:52:242 End of process session
+18/09 16:47:52:243 Order Routing stopped
+18/09 16:47:54:151 Order Routing started
+18/09 16:47:54:172 Close pool
+18/09 16:47:54:173 Close pool
+18/09 16:47:54:174 Testing connection ...
+18/09 16:47:54:179 Created provisioning instance for CCWS
+18/09 16:47:54:180 Testing connection are success
+18/09 16:47:54:180 Starting process session
+18/09 16:47:55:018 Total 0 instances are started
+18/09 16:47:55:019 Total 1 instances are added
+18/09 16:47:57:526 84922000512: LOYALTY - CRM.SUBSCRIPTION_UNREGIST
+18/09 16:47:57:527 orderId = 0 | requestId = 0 | orderDate = 2013/09/18 16:47:57 | userName = system | subProductId = 52789582 | channel = SMS | serviceAddress = 268 | keyword = HUY CAM | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = unregister | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 13121 | cause =  | status = 1 | description =  | balance = 
+18/09 16:48:28:406 Create order(84922000512) cost time: 68ms
+18/09 16:48:28:723 Update order(84922000512) cost time: 25ms
+18/09 16:48:28:724 84922000512: LOYALTY - CRM.SUBSCRIPTION_REGIST
+18/09 16:48:28:725 orderId = 125409954 | requestId = 0 | orderDate = 2013/09/18 16:48:28 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = DK CAM | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = register | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 13119 | cause =  | status = 1 | description =  | balance = 
+18/09 16:50:19:389 Create order(84922000512) cost time: 23ms
+18/09 16:50:19:426 Update order(84922000512) cost time: 14ms
+18/09 16:50:19:427 orderId = 125409956 | requestId = 0 | orderDate = 2013/09/18 16:50:19 | userName = system | subProductId = 52789583 | channel = SMS | serviceAddress = 268 | keyword = DK CAM | isdn = 84922000512 | subscriberType = -1 | shipTo =  | actionType = register | productId = 274 | amount = 0.0 | provisioningType = SMSC | commandId = 0 | cause = registered | status = 4 | description =  | balance = 
+18/09 16:50:19:434 sendNotify: 84922000512 - Quy khach da la thanh vien cua Cau lac bo CAM cua Vietnamobile. Hay tiep tuc su dung Vietnamobile de tich luy nhieu diem va nhan duoc nhieu uu dai cua chuong trinh. Chi tiet 789
+18/09 16:52:00:492 84922000512: LOYALTY - CRM.SUBSCRIPTION_UNREGIST
+18/09 16:52:00:493 orderId = 0 | requestId = 0 | orderDate = 2013/09/18 16:52:00 | userName = system | subProductId = 52789583 | channel = SMS | serviceAddress = 268 | keyword = HUY CAM | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = unregister | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 13121 | cause =  | status = 1 | description =  | balance = 
+18/09 17:06:11:743 Order Routing started
+18/09 17:06:11:941 Testing connection ...
+18/09 17:06:13:279 Created provisioning instance for CCWS
+18/09 17:06:13:281 Testing connection are success
+18/09 17:06:13:281 Starting process session
+18/09 17:06:14:417 Total 0 instances are started
+18/09 17:06:14:418 Total 1 instances are added
+18/09 17:11:55:358 orderId = 0 | requestId = 0 | orderDate = 2013/09/18 17:11:55 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = HUY CAM | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = unregister | productId = 274 | amount = 0.0 | provisioningType = SMSC | commandId = 0 | cause = unknow-subscription | status = 4 | description =  | balance = 
+18/09 17:11:55:362 sendNotify: 84922000512 - Dich vu khong ton tai
+18/09 17:12:23:071 Create order(84922000512) cost time: 25ms
+18/09 17:12:23:228 Update order(84922000512) cost time: 17ms
+18/09 17:12:23:230 84922000512: LOYALTY - CRM.SUBSCRIPTION_REGIST
+18/09 17:12:23:230 orderId = 125409974 | requestId = 0 | orderDate = 2013/09/18 17:12:23 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = DK CAM | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = register | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 13119 | cause =  | status = 1 | description =  | balance = 
+18/09 17:14:19:968 Close pool
+18/09 17:14:20:069 Close queue connection pool.
+18/09 17:14:20:074 End of process session
+18/09 17:14:20:075 Order Routing stopped
+18/09 17:14:21:987 Order Routing started
+18/09 17:14:22:010 Close pool
+18/09 17:14:22:011 Close pool
+18/09 17:14:22:012 Testing connection ...
+18/09 17:14:22:019 Created provisioning instance for CCWS
+18/09 17:14:22:019 Testing connection are success
+18/09 17:14:22:020 Starting process session
+18/09 17:14:23:143 Total 0 instances are started
+18/09 17:14:23:144 Total 1 instances are added
+18/09 17:17:02:240 Order Routing started
+18/09 17:17:02:266 Testing connection ...
+18/09 17:17:02:271 Created provisioning instance for CCWS
+18/09 17:17:02:272 Testing connection are success
+18/09 17:17:02:273 Starting process session
+18/09 17:17:03:195 Total 0 instances are started
+18/09 17:17:03:196 Total 1 instances are added
+18/09 17:18:17:275 Close pool
+18/09 17:18:17:376 Close queue connection pool.
+18/09 17:18:17:386 End of process session
+18/09 17:18:17:388 Order Routing stopped
+18/09 17:18:19:287 Order Routing started
+18/09 17:18:19:310 Close pool
+18/09 17:18:19:311 Close pool
+18/09 17:18:19:311 Testing connection ...
+18/09 17:18:19:315 Created provisioning instance for CCWS
+18/09 17:18:19:316 Testing connection are success
+18/09 17:18:19:316 Starting process session
+18/09 17:18:20:290 Total 0 instances are started
+18/09 17:18:20:291 Total 1 instances are added
+18/09 17:18:21:601 Create order(84922000512) cost time: 23ms
+18/09 17:18:21:629 Update order(84922000512) cost time: 10ms
+18/09 17:18:21:630 orderId = 125409975 | requestId = 0 | orderDate = 2013/09/18 17:18:21 | userName = system | subProductId = 52789588 | channel = SMS | serviceAddress = 268 | keyword = DK CAM | isdn = 84922000512 | subscriberType = -1 | shipTo =  | actionType = register | productId = 274 | amount = 0.0 | provisioningType = SMSC | commandId = 0 | cause = registered | status = 4 | description =  | balance = 
+18/09 17:18:21:641 sendNotify: 84922000512 - Quy khach da la thanh vien cua Cau lac bo CAM cua Vietnamobile. Hay tiep tuc su dung Vietnamobile de tich luy nhieu diem va nhan duoc nhieu uu dai cua chuong trinh. Chi tiet 789
+18/09 17:18:51:591 84922000512: LOYALTY - CRM.SUBSCRIPTION_UNREGIST
+18/09 17:18:51:592 orderId = 0 | requestId = 0 | orderDate = 2013/09/18 17:18:51 | userName = system | subProductId = 52789588 | channel = SMS | serviceAddress = 268 | keyword = HUY CAM | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = unregister | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 13121 | cause =  | status = 1 | description =  | balance = 
+18/09 17:19:42:525 84922000514: LOYALTY - CRM.SUBSCRIPTION_UNREGIST
+18/09 17:19:42:526 orderId = 0 | requestId = 0 | orderDate = 2013/09/18 17:19:42 | userName = system | subProductId = 52789579 | channel = SMS | serviceAddress = 268 | keyword = HUY CAM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = unregister | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 13121 | cause =  | status = 1 | description =  | balance = 
+18/09 17:20:14:355 Close pool
+18/09 17:20:14:456 Close queue connection pool.
+18/09 17:20:14:462 End of process session
+18/09 17:20:14:463 Order Routing stopped
+18/09 17:20:16:376 Order Routing started
+18/09 17:20:16:400 Close pool
+18/09 17:20:16:401 Close pool
+18/09 17:20:16:401 Testing connection ...
+18/09 17:20:16:405 Created provisioning instance for CCWS
+18/09 17:20:16:406 Testing connection are success
+18/09 17:20:16:406 Starting process session
+18/09 17:20:17:116 Total 0 instances are started
+18/09 17:20:17:117 Total 1 instances are added
+18/09 17:20:28:563 Create order(84922000514) cost time: 19ms
+18/09 17:20:28:661 Update order(84922000514) cost time: 6ms
+18/09 17:20:28:663 84922000514: LOYALTY - CRM.SUBSCRIPTION_REGIST
+18/09 17:20:28:663 orderId = 125409976 | requestId = 0 | orderDate = 2013/09/18 17:20:28 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = DK CAM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = register | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 13119 | cause =  | status = 1 | description =  | balance = 
+18/09 17:21:08:584 84922000514: LOYALTY - CRM.SUBSCRIPTION_UNREGIST
+18/09 17:21:08:585 orderId = 0 | requestId = 0 | orderDate = 2013/09/18 17:21:08 | userName = system | subProductId = 52789589 | channel = SMS | serviceAddress = 268 | keyword = HUY CAM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = unregister | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 13121 | cause =  | status = 1 | description =  | balance = 
+18/09 17:23:12:622 Order Routing started
+18/09 17:23:12:842 Testing connection ...
+18/09 17:23:12:937 Created provisioning instance for CCWS
+18/09 17:23:12:939 Testing connection are success
+18/09 17:23:12:939 Starting process session
+18/09 17:23:14:079 Total 0 instances are started
+18/09 17:23:14:080 Total 1 instances are added
+18/09 17:23:35:999 orderId = 0 | requestId = 0 | orderDate = 2013/09/18 17:23:35 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = HUY CAM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = unregister | productId = 274 | amount = 0.0 | provisioningType = SMSC | commandId = 0 | cause = unknow-subscription | status = 4 | description =  | balance = 
+18/09 17:23:36:003 sendNotify: 84922000514 - Dich vu khong ton tai
+18/09 17:24:22:830 Create order(84922000514) cost time: 25ms
+18/09 17:24:22:879 Update order(84922000514) cost time: 19ms
+18/09 17:24:22:880 84922000514: LOYALTY - CRM.SUBSCRIPTION_REGIST
+18/09 17:24:22:881 orderId = 125409977 | requestId = 0 | orderDate = 2013/09/18 17:24:22 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = DK CAM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = register | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 13119 | cause =  | status = 1 | description =  | balance = 
+18/09 17:27:06:672 Close pool
+18/09 17:27:06:774 Close queue connection pool.
+18/09 17:27:06:781 End of process session
+18/09 17:27:06:781 Order Routing stopped
+18/09 17:27:08:693 Order Routing started
+18/09 17:27:08:716 Close pool
+18/09 17:27:08:717 Close pool
+18/09 17:27:08:717 Testing connection ...
+18/09 17:27:08:729 Created provisioning instance for CCWS
+18/09 17:27:08:730 Testing connection are success
+18/09 17:27:08:730 Starting process session
+18/09 17:27:09:467 Total 0 instances are started
+18/09 17:27:09:468 Total 1 instances are added
+18/09 17:28:04:698 Close pool
+18/09 17:28:04:798 Close queue connection pool.
+18/09 17:28:04:804 End of process session
+18/09 17:28:04:805 Order Routing stopped
+18/09 17:28:06:716 Order Routing started
+18/09 17:28:06:739 Close pool
+18/09 17:28:06:740 Close pool
+18/09 17:28:06:740 Testing connection ...
+18/09 17:28:06:752 Created provisioning instance for CCWS
+18/09 17:28:06:753 Testing connection are success
+18/09 17:28:06:753 Starting process session
+18/09 17:28:07:539 Total 0 instances are started
+18/09 17:28:07:540 Total 1 instances are added
+18/09 17:28:09:892 Create order(84922000514) cost time: 11ms
+18/09 17:28:09:904 Update order(84922000514) cost time: 7ms
+18/09 17:28:09:905 orderId = 125409978 | requestId = 0 | orderDate = 2013/09/18 17:28:09 | userName = system | subProductId = 52789590 | channel = SMS | serviceAddress = 268 | keyword = DK CAM | isdn = 84922000514 | subscriberType = -1 | shipTo =  | actionType = register | productId = 274 | amount = 0.0 | provisioningType = SMSC | commandId = 0 | cause = registered | status = 4 | description =  | balance = 
+18/09 17:28:09:912 sendNotify: 84922000514 - Quy khach da la thanh vien cua Cau lac bo CAM cua Vietnamobile. Hay tiep tuc su dung Vietnamobile de tich luy nhieu diem va nhan duoc nhieu uu dai cua chuong trinh. Chi tiet 789
+18/09 17:35:54:788 Close pool
+18/09 17:35:54:888 Close queue connection pool.
+18/09 17:35:54:895 End of process session
+18/09 17:35:54:896 Order Routing stopped
+18/09 17:35:56:811 Order Routing started
+18/09 17:35:56:834 Close pool
+18/09 17:35:56:834 Close pool
+18/09 17:35:56:835 Testing connection ...
+18/09 17:35:56:842 Created provisioning instance for CCWS
+18/09 17:35:56:843 Testing connection are success
+18/09 17:35:56:843 Starting process session
+18/09 17:35:57:712 Total 0 instances are started
+18/09 17:35:57:713 Total 1 instances are added
+18/09 17:36:06:123 84922000514: LOYALTY - CRM.SUBSCRIPTION_UNREGIST
+18/09 17:36:06:124 orderId = 0 | requestId = 0 | orderDate = 2013/09/18 17:36:05 | userName = system | subProductId = 52789590 | channel = SMS | serviceAddress = 268 | keyword = HUY CAM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = unregister | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 13121 | cause =  | status = 1 | description =  | balance = 
+18/09 17:41:50:778 Order Routing started
+18/09 17:41:50:800 Testing connection ...
+18/09 17:41:50:807 Created provisioning instance for CCWS
+18/09 17:41:50:808 Testing connection are success
+18/09 17:41:50:809 Starting process session
+18/09 17:41:51:728 Total 0 instances are started
+18/09 17:41:51:730 Total 1 instances are added
+18/09 17:43:04:122 Create order(84922000514) cost time: 112ms
+18/09 17:46:25:701 Update order(84922000514) cost time: 9191ms
+18/09 17:47:38:127 84922000514: LOYALTY - CRM.SUBSCRIPTION_REGIST
+18/09 17:47:38:519 orderId = 125409979 | requestId = 0 | orderDate = 2013/09/18 17:43:04 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = DK CAM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = register | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 13119 | cause =  | status = 1 | description =  | balance = 
+18/09 17:49:00:858 Close pool
+18/09 17:49:00:959 Close queue connection pool.
+18/09 17:49:00:967 End of process session
+18/09 17:49:00:968 Order Routing stopped
+18/09 17:49:02:873 Order Routing started
+18/09 17:49:02:896 Close pool
+18/09 17:49:02:897 Close pool
+18/09 17:49:02:897 Testing connection ...
+18/09 17:49:02:904 Created provisioning instance for CCWS
+18/09 17:49:02:905 Testing connection are success
+18/09 17:49:02:906 Starting process session
+18/09 17:49:03:693 Total 0 instances are started
+18/09 17:49:03:694 Total 1 instances are added
+18/09 17:49:13:086 Create order(84922000514) cost time: 20ms
+18/09 17:50:36:633 Order Routing started
+18/09 17:50:36:656 Testing connection ...
+18/09 17:50:36:660 Created provisioning instance for CCWS
+18/09 17:50:36:661 Testing connection are success
+18/09 17:50:36:661 Starting process session
+18/09 17:50:37:477 Total 0 instances are started
+18/09 17:50:37:478 Total 1 instances are added
+18/09 17:50:46:000 Create order(84922000514) cost time: 23ms
+18/09 17:50:46:029 Update order(84922000514) cost time: 9ms
+18/09 17:50:46:030 orderId = 125409981 | requestId = 0 | orderDate = 2013/09/18 17:50:45 | userName = system | subProductId = 52789591 | channel = SMS | serviceAddress = 268 | keyword = DK CAM | isdn = 84922000514 | subscriberType = -1 | shipTo =  | actionType = register | productId = 274 | amount = 0.0 | provisioningType = SMSC | commandId = 0 | cause = registered | status = 4 | description =  | balance = 
+18/09 17:50:46:039 sendNotify: 84922000514 - Quy khach da la thanh vien cua Cau lac bo CAM cua Vietnamobile. Hay tiep tuc su dung Vietnamobile de tich luy nhieu diem va nhan duoc nhieu uu dai cua chuong trinh. Chi tiet 789
+18/09 17:51:07:087 84922000514: LOYALTY - CRM.SUBSCRIPTION_UNREGIST
+18/09 17:51:07:088 orderId = 0 | requestId = 0 | orderDate = 2013/09/18 17:51:06 | userName = system | subProductId = 52789591 | channel = SMS | serviceAddress = 268 | keyword = HUY CAM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = unregister | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 13121 | cause =  | status = 1 | description =  | balance = 
+18/09 17:51:34:836 Close pool
+18/09 17:51:34:937 Close queue connection pool.
+18/09 17:51:34:942 End of process session
+18/09 17:51:34:943 Order Routing stopped
+18/09 17:51:36:850 Order Routing started
+18/09 17:51:36:872 Close pool
+18/09 17:51:36:873 Close pool
+18/09 17:51:36:873 Testing connection ...
+18/09 17:51:36:877 Created provisioning instance for CCWS
+18/09 17:51:36:877 Testing connection are success
+18/09 17:51:36:878 Starting process session
+18/09 17:51:37:583 Total 0 instances are started
+18/09 17:51:37:584 Total 1 instances are added
+18/09 17:51:40:036 Create order(84922000514) cost time: 17ms
+18/09 17:51:40:050 SEND: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000514}. ID=258002
+18/09 17:51:41:945 RECEIVE:cosname=MAIN_COS,status=Suspended(S1),active_date=05/09/2013 02:17:51,{84922000514}Core{1000.0;01/03/2015 08:59:59},CALLME{13800.0;18/10/2013 09:59:59},PROMOTION_60{10000.0;17/11/2013 08:59:59},. ID=258002. costTime=1894
+18/09 17:51:41:957 Update order(84922000514) cost time: 9ms
+18/09 17:51:41:958 orderId = 125409982 | requestId = 0 | orderDate = 2013/09/18 17:51:40 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = DK CAM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = register | productId = 274 | amount = 0.0 | provisioningType = SMSC | commandId = 0 | cause = denied-status | status = 4 | description = null | balance = 
+18/09 17:51:41:967 sendNotify: 84922000514 - Dich vu khong ap dung cho cac thue bao bi khoa 1 chieu hoac 2 chieu. Vui long goi 123 de biet them chi tiet.
+18/09 18:00:52:099 Create order(84922000515) cost time: 26ms
+18/09 18:00:52:231 Update order(84922000515) cost time: 11ms
+18/09 18:00:52:232 84922000515: LOYALTY - LOYALTY.BALANCE_QUERY
+18/09 18:00:52:232 orderId = 125409983 | requestId = 0 | orderDate = 2013/09/18 18:00:52 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = TRA DIEM | isdn = 84922000515 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 342 | cause =  | status = 1 | description =  | balance = 
+18/09 18:05:32:251 orderId = 0 | requestId = 0 | orderDate = 2013/09/18 18:05:32 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = HUY CAM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = unregister | productId = 274 | amount = 0.0 | provisioningType = SMSC | commandId = 0 | cause = unknow-subscription | status = 4 | description =  | balance = 
+18/09 18:05:32:252 sendNotify: 84922000514 - Dich vu khong ton tai
+18/09 18:05:58:189 Create order(84922000514) cost time: 26ms
+18/09 18:05:58:227 Update order(84922000514) cost time: 10ms
+18/09 18:05:58:228 84922000514: LOYALTY - LOYALTY.BALANCE_QUERY
+18/09 18:05:58:229 orderId = 125409984 | requestId = 0 | orderDate = 2013/09/18 18:05:58 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = TRA DIEM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 342 | cause =  | status = 1 | description =  | balance = 
+18/09 18:07:02:203 Create order(84922000514) cost time: 23ms
+18/09 18:07:02:328 Update order(84922000514) cost time: 23ms
+18/09 18:07:02:329 84922000514: LOYALTY - LOYALTY.BALANCE_QUERY
+18/09 18:07:02:329 orderId = 125409985 | requestId = 0 | orderDate = 2013/09/18 18:07:02 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = TRA DIEM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 342 | cause =  | status = 1 | description =  | balance = 
+18/09 18:07:16:045 Close pool
+18/09 18:07:16:146 Close queue connection pool.
+18/09 18:07:16:151 End of process session
+18/09 18:07:16:151 Order Routing stopped
+18/09 18:07:18:061 Order Routing started
+18/09 18:07:18:083 Close pool
+18/09 18:07:18:083 Close pool
+18/09 18:07:18:084 Testing connection ...
+18/09 18:07:18:088 Created provisioning instance for CCWS
+18/09 18:07:18:089 Testing connection are success
+18/09 18:07:18:089 Starting process session
+18/09 18:07:18:815 Total 0 instances are started
+18/09 18:07:18:816 Total 1 instances are added
+18/09 18:07:19:240 Create order(84922000514) cost time: 11ms
+18/09 18:07:19:344 Update order(84922000514) cost time: 8ms
+18/09 18:07:19:345 84922000514: LOYALTY - LOYALTY.BALANCE_QUERY
+18/09 18:07:19:345 orderId = 125409986 | requestId = 0 | orderDate = 2013/09/18 18:07:19 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = TRA DIEM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 342 | cause =  | status = 1 | description =  | balance = 
+18/09 18:08:39:264 Create order(84922000515) cost time: 8ms
+18/09 18:08:39:270 SEND: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000515}. ID=258003
+18/09 18:08:39:361 RECEIVE:cosname=VMAX,status=Active,active_date=05/09/2013 02:17:52,{84922000515}Core{500000.0;30/12/2014 09:00:00},PROMOTION{65000.0;03/09/2023 09:59:59},. ID=258003. costTime=91
+18/09 18:08:39:369 Update order(84922000515) cost time: 6ms
+18/09 18:08:39:370 84922000515: LOYALTY - CRM.SUBSCRIPTION_REGIST
+18/09 18:08:39:372 orderId = 125409987 | requestId = 0 | orderDate = 2013/09/18 18:08:39 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = DK CAM | isdn = 84922000515 | subscriberType = 1 | shipTo =  | actionType = register | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 13119 | cause = invalid-syntax | status = 1 | description =  | balance = 
+18/09 18:09:19:387 Create order(84922000515) cost time: 115ms
+18/09 18:09:19:530 Update order(84922000515) cost time: 64ms
+18/09 18:09:19:531 orderId = 125409988 | requestId = 0 | orderDate = 2013/09/18 18:09:19 | userName = system | subProductId = 52789592 | channel = SMS | serviceAddress = 268 | keyword = DK CAM | isdn = 84922000515 | subscriberType = -1 | shipTo =  | actionType = register | productId = 274 | amount = 0.0 | provisioningType = SMSC | commandId = 0 | cause = registered | status = 4 | description =  | balance = 
+18/09 18:09:19:611 sendNotify: 84922000515 - Quy khach da la thanh vien cua Cau lac bo CAM cua Vietnamobile. Hay tiep tuc su dung Vietnamobile de tich luy nhieu diem va nhan duoc nhieu uu dai cua chuong trinh. Chi tiet 789
+18/09 18:10:08:409 84922000515: LOYALTY - CRM.SUBSCRIPTION_UNREGIST
+18/09 18:10:08:409 orderId = 0 | requestId = 0 | orderDate = 2013/09/18 18:10:08 | userName = system | subProductId = 52789592 | channel = SMS | serviceAddress = 268 | keyword = HUY CAM | isdn = 84922000515 | subscriberType = 1 | shipTo =  | actionType = unregister | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 13121 | cause =  | status = 1 | description =  | balance = 
+18/09 18:10:33:345 Create order(84922000515) cost time: 19ms
+18/09 18:10:33:359 SEND: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000515}. ID=258006
+18/09 18:10:33:437 RECEIVE:cosname=VMAX,status=Active,active_date=05/09/2013 02:17:52,{84922000515}Core{500000.0;30/12/2014 09:00:00},PROMOTION{65000.0;03/09/2023 09:59:59},. ID=258006. costTime=77
+18/09 18:10:33:450 Update order(84922000515) cost time: 10ms
+18/09 18:10:33:450 84922000515: LOYALTY - CRM.SUBSCRIPTION_REGIST
+18/09 18:10:33:451 orderId = 125409989 | requestId = 0 | orderDate = 2013/09/18 18:10:33 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = DK CAM | isdn = 84922000515 | subscriberType = 1 | shipTo =  | actionType = register | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 13119 | cause = invalid-syntax | status = 1 | description =  | balance = 
+18/09 18:11:32:363 Create order(84922000515) cost time: 7ms
+18/09 18:11:32:394 Update order(84922000515) cost time: 25ms
+18/09 18:11:32:395 orderId = 125409990 | requestId = 0 | orderDate = 2013/09/18 18:11:32 | userName = system | subProductId = 52789593 | channel = SMS | serviceAddress = 268 | keyword = DK CAM | isdn = 84922000515 | subscriberType = -1 | shipTo =  | actionType = register | productId = 274 | amount = 0.0 | provisioningType = SMSC | commandId = 0 | cause = registered | status = 4 | description =  | balance = 
+18/09 18:11:32:402 sendNotify: 84922000515 - Quy khach da la thanh vien cua Cau lac bo CAM cua Vietnamobile. Hay tiep tuc su dung Vietnamobile de tich luy nhieu diem va nhan duoc nhieu uu dai cua chuong trinh. Chi tiet 789
+18/09 18:12:00:480 84922000515: LOYALTY - CRM.SUBSCRIPTION_UNREGIST
+18/09 18:12:00:481 orderId = 0 | requestId = 0 | orderDate = 2013/09/18 18:12:00 | userName = system | subProductId = 52789593 | channel = SMS | serviceAddress = 268 | keyword = HUY CAM | isdn = 84922000515 | subscriberType = 1 | shipTo =  | actionType = unregister | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 13121 | cause =  | status = 1 | description =  | balance = 
+18/09 18:13:20:904 Order Routing started
+18/09 18:13:20:932 Testing connection ...
+18/09 18:13:20:943 Created provisioning instance for CCWS
+18/09 18:13:20:944 Testing connection are success
+18/09 18:13:20:945 Starting process session
+18/09 18:13:21:946 Total 0 instances are started
+18/09 18:13:21:947 Total 1 instances are added
+18/09 18:13:44:258 Create order(84922000515) cost time: 121ms
+18/09 18:14:05:505 SEND: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000515}. ID=259001
+18/09 18:14:06:551 RECEIVE:cosname=VMAX,status=Active,active_date=05/09/2013 02:17:52,{84922000515}Core{500000.0;30/12/2014 09:00:00},PROMOTION{65000.0;03/09/2023 09:59:59},. ID=259001. costTime=1045
+18/09 18:14:06:807 Update order(84922000515) cost time: 13ms
+18/09 18:14:06:809 84922000515: LOYALTY - CRM.SUBSCRIPTION_REGIST
+18/09 18:14:06:809 orderId = 125409991 | requestId = 0 | orderDate = 2013/09/18 18:13:44 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = DK CAM | isdn = 84922000515 | subscriberType = 1 | shipTo =  | actionType = register | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 13119 | cause = invalid-syntax | status = 1 | description =  | balance = 
+18/09 18:15:17:713 orderId = 0 | requestId = 0 | orderDate = 2013/09/18 18:15:14 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = HUY CAM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = unregister | productId = 274 | amount = 0.0 | provisioningType = SMSC | commandId = 0 | cause = unknow-subscription | status = 4 | description =  | balance = 
+18/09 18:15:17:715 sendNotify: 84922000514 - Dich vu khong ton tai
+18/09 18:15:59:215 Create order(84922000514) cost time: 18ms
+18/09 18:16:09:020 SEND: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000514}. ID=259003
+18/09 18:16:09:150 RECEIVE:cosname=MAIN_COS,status=Suspended(S1),active_date=05/09/2013 02:17:51,{84922000514}Core{1000.0;01/03/2015 08:59:59},CALLME{13800.0;18/10/2013 09:59:59},PROMOTION_60{10000.0;17/11/2013 08:59:59},. ID=259003. costTime=129
+18/09 18:16:09:351 Update order(84922000514) cost time: 11ms
+18/09 18:16:09:352 orderId = 125409992 | requestId = 0 | orderDate = 2013/09/18 18:15:59 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = DK CAM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = register | productId = 274 | amount = 0.0 | provisioningType = SMSC | commandId = 0 | cause = denied-status | status = 4 | description = null | balance = 
+18/09 18:16:09:360 sendNotify: 84922000514 - Dich vu khong ap dung cho cac thue bao bi khoa 1 chieu hoac 2 chieu. Vui long goi 123 de biet them chi tiet.
+18/09 18:16:47:043 Close pool
+18/09 18:16:47:146 Close queue connection pool.
+18/09 18:16:47:151 End of process session
+18/09 18:16:47:152 Order Routing stopped
+18/09 18:16:49:064 Order Routing started
+18/09 18:16:49:086 Close pool
+18/09 18:16:49:087 Close pool
+18/09 18:16:49:087 Testing connection ...
+18/09 18:16:49:101 Created provisioning instance for CCWS
+18/09 18:16:49:102 Testing connection are success
+18/09 18:16:49:102 Starting process session
+18/09 18:16:49:841 Total 0 instances are started
+18/09 18:16:49:842 Total 1 instances are added
+18/09 18:16:51:259 Create order(84922000514) cost time: 9ms
+18/09 18:16:58:581 SEND: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000514}. ID=259004
+18/09 18:16:58:736 RECEIVE:cosname=MAIN_COS,status=Active,active_date=05/09/2013 02:17:51,{84922000514}Core{1000.0;01/03/2015 08:59:59},CALLME{13800.0;18/10/2013 09:59:59},PROMOTION_60{10000.0;17/11/2013 08:59:59},. ID=259004. costTime=153
+18/09 18:16:58:959 Update order(84922000514) cost time: 6ms
+18/09 18:16:58:960 84922000514: LOYALTY - CRM.SUBSCRIPTION_REGIST
+18/09 18:16:58:960 orderId = 125409993 | requestId = 0 | orderDate = 2013/09/18 18:16:51 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = DK CAM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = register | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 13119 | cause = invalid-syntax | status = 1 | description =  | balance = 
+18/09 18:18:39:092 Close pool
+18/09 18:18:39:192 Close queue connection pool.
+18/09 18:18:39:199 End of process session
+18/09 18:18:39:200 Order Routing stopped
+18/09 18:18:41:116 Order Routing started
+18/09 18:18:41:138 Close pool
+18/09 18:18:41:139 Close pool
+18/09 18:18:41:139 Testing connection ...
+18/09 18:18:41:152 Created provisioning instance for CCWS
+18/09 18:18:41:153 Testing connection are success
+18/09 18:18:41:154 Starting process session
+18/09 18:18:42:002 Total 0 instances are started
+18/09 18:18:42:003 Total 1 instances are added
+18/09 18:18:46:306 Create order(84922000514) cost time: 8ms
+18/09 18:18:51:024 Update order(84922000514) cost time: 6ms
+18/09 18:18:51:025 orderId = 125409994 | requestId = 0 | orderDate = 2013/09/18 18:18:46 | userName = system | subProductId = 52789595 | channel = SMS | serviceAddress = 268 | keyword = DK CAM | isdn = 84922000514 | subscriberType = -1 | shipTo =  | actionType = register | productId = 274 | amount = 0.0 | provisioningType = SMSC | commandId = 0 | cause = registered | status = 4 | description =  | balance = 
+18/09 18:18:51:031 sendNotify: 84922000514 - Quy khach da la thanh vien cua Cau lac bo CAM cua Vietnamobile. Hay tiep tuc su dung Vietnamobile de tich luy nhieu diem va nhan duoc nhieu uu dai cua chuong trinh. Chi tiet 789
+18/09 18:19:25:330 Create order(84922000515) cost time: 10ms
+18/09 18:19:34:235 Update order(84922000515) cost time: 43ms
+18/09 18:19:34:236 orderId = 125409995 | requestId = 0 | orderDate = 2013/09/18 18:19:25 | userName = system | subProductId = 52789594 | channel = SMS | serviceAddress = 268 | keyword = DK CAM | isdn = 84922000515 | subscriberType = -1 | shipTo =  | actionType = register | productId = 274 | amount = 0.0 | provisioningType = SMSC | commandId = 0 | cause = registered | status = 4 | description =  | balance = 
+18/09 18:19:34:317 sendNotify: 84922000515 - Quy khach da la thanh vien cua Cau lac bo CAM cua Vietnamobile. Hay tiep tuc su dung Vietnamobile de tich luy nhieu diem va nhan duoc nhieu uu dai cua chuong trinh. Chi tiet 789
+18/09 18:20:25:180 Order Routing started
+18/09 18:20:25:202 Testing connection ...
+18/09 18:20:25:209 Created provisioning instance for CCWS
+18/09 18:20:25:210 Testing connection are success
+18/09 18:20:25:210 Starting process session
+18/09 18:20:26:120 Total 0 instances are started
+18/09 18:20:26:121 Total 1 instances are added
+18/09 18:21:12:413 Create order(84922000515) cost time: 22ms
+18/09 18:21:12:550 Update order(84922000515) cost time: 9ms
+18/09 18:21:12:551 84922000515: LOYALTY - LOYALTY.BALANCE_QUERY
+18/09 18:21:12:552 orderId = 125409996 | requestId = 0 | orderDate = 2013/09/18 18:21:12 | userName = system | subProductId = 52789594 | channel = SMS | serviceAddress = 268 | keyword = TRA DIEM | isdn = 84922000515 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 342 | cause =  | status = 1 | description =  | balance = 
+18/09 18:23:01:445 84922000514: LOYALTY - CRM.SUBSCRIPTION_UNREGIST
+18/09 18:23:01:446 orderId = 0 | requestId = 0 | orderDate = 2013/09/18 18:23:01 | userName = system | subProductId = 52789595 | channel = SMS | serviceAddress = 268 | keyword = HUY CAM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = unregister | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 13121 | cause =  | status = 1 | description =  | balance = 
+18/09 18:23:38:448 Create order(84922000514) cost time: 15ms
+18/09 18:23:38:467 Update order(84922000514) cost time: 5ms
+18/09 18:23:38:468 84922000514: LOYALTY - LOYALTY.BALANCE_QUERY
+18/09 18:23:38:469 orderId = 125409997 | requestId = 0 | orderDate = 2013/09/18 18:23:38 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = TRA DIEM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 342 | cause =  | status = 1 | description =  | balance = 
+18/09 18:25:03:466 84922000515: LOYALTY - CRM.SUBSCRIPTION_UNREGIST
+18/09 18:25:03:467 orderId = 0 | requestId = 0 | orderDate = 2013/09/18 18:25:03 | userName = system | subProductId = 52789594 | channel = SMS | serviceAddress = 268 | keyword = HUY CAM | isdn = 84922000515 | subscriberType = 1 | shipTo =  | actionType = unregister | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 13121 | cause =  | status = 1 | description =  | balance = 
+18/09 18:26:55:488 Order Routing started
+18/09 18:26:55:511 Testing connection ...
+18/09 18:26:55:515 Created provisioning instance for CCWS
+18/09 18:26:55:516 Testing connection are success
+18/09 18:26:55:516 Starting process session
+18/09 18:26:56:322 Total 0 instances are started
+18/09 18:26:56:323 Total 1 instances are added
+18/09 18:27:43:775 Create order(84922000515) cost time: 26ms
+18/09 18:27:43:802 SEND: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000515}. ID=261001
+18/09 18:27:44:689 RECEIVE:cosname=VMAX,status=Active,active_date=05/09/2013 02:17:52,{84922000515}Core{500000.0;30/12/2014 09:00:00},PROMOTION{65000.0;03/09/2023 09:59:59},. ID=261001. costTime=885
+18/09 18:27:44:705 Update order(84922000515) cost time: 11ms
+18/09 18:27:44:707 84922000515: LOYALTY - LOYALTY.VALIDATE
+18/09 18:27:44:707 orderId = 125409998 | requestId = 0 | orderDate = 2013/09/18 18:27:43 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000515 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 100.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+18/09 18:28:41:586 Close pool
+18/09 18:28:41:687 Close queue connection pool.
+18/09 18:28:41:693 End of process session
+18/09 18:28:41:694 Order Routing stopped
+18/09 18:28:43:601 Order Routing started
+18/09 18:28:43:624 Close pool
+18/09 18:28:43:624 Close pool
+18/09 18:28:43:625 Testing connection ...
+18/09 18:28:43:632 Created provisioning instance for CCWS
+18/09 18:28:43:633 Testing connection are success
+18/09 18:28:43:633 Starting process session
+18/09 18:28:44:362 Total 0 instances are started
+18/09 18:28:44:363 Total 1 instances are added
+18/09 18:28:45:793 Create order(84922000515) cost time: 19ms
+18/09 18:28:45:809 SEND: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000515}. ID=261002
+18/09 18:28:45:929 RECEIVE:cosname=VMAX,status=Active,active_date=05/09/2013 02:17:52,{84922000515}Core{500000.0;30/12/2014 09:00:00},PROMOTION{65000.0;03/09/2023 09:59:59},. ID=261002. costTime=119
+18/09 18:28:45:941 Update order(84922000515) cost time: 9ms
+18/09 18:28:45:942 84922000515: LOYALTY - LOYALTY.VALIDATE
+18/09 18:28:45:942 orderId = 125409999 | requestId = 0 | orderDate = 2013/09/18 18:28:45 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000515 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 100.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+18/09 18:29:27:806 Create order(84922000514) cost time: 7ms
+18/09 18:29:27:811 SEND: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000514}. ID=261003
+18/09 18:29:27:907 RECEIVE:cosname=MAIN_COS,status=Active,active_date=05/09/2013 02:17:51,{84922000514}Core{1000.0;01/03/2015 08:59:59},CALLME{13800.0;18/10/2013 09:59:59},PROMOTION_60{10000.0;17/11/2013 08:59:59},. ID=261003. costTime=95
+18/09 18:29:27:915 Update order(84922000514) cost time: 5ms
+18/09 18:29:27:917 84922000514: LOYALTY - LOYALTY.VALIDATE
+18/09 18:29:27:917 orderId = 125410000 | requestId = 0 | orderDate = 2013/09/18 18:29:27 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 100.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+18/09 18:30:13:836 Create order(84922000514) cost time: 9ms
+18/09 18:30:13:841 SEND: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000514}. ID=261004
+18/09 18:30:14:064 RECEIVE:cosname=MAIN_COS,status=Active,active_date=05/09/2013 02:17:51,{84922000514}Core{1000.0;01/03/2015 08:59:59},CALLME{13800.0;18/10/2013 09:59:59},PROMOTION_60{10000.0;17/11/2013 08:59:59},. ID=261004. costTime=223
+18/09 18:30:14:073 Update order(84922000514) cost time: 7ms
+18/09 18:30:14:074 84922000514: LOYALTY - LOYALTY.VALIDATE
+18/09 18:30:14:075 orderId = 125410001 | requestId = 0 | orderDate = 2013/09/18 18:30:13 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 100.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+18/09 18:30:25:675 Close pool
+18/09 18:30:25:775 Close queue connection pool.
+18/09 18:30:25:780 End of process session
+18/09 18:30:25:781 Order Routing stopped
+18/09 18:30:27:692 Order Routing started
+18/09 18:30:27:714 Close pool
+18/09 18:30:27:715 Close pool
+18/09 18:30:27:716 Testing connection ...
+18/09 18:30:27:719 Created provisioning instance for CCWS
+18/09 18:30:27:720 Testing connection are success
+18/09 18:30:27:720 Starting process session
+18/09 18:30:28:435 Total 0 instances are started
+18/09 18:30:28:436 Total 1 instances are added
+18/09 18:30:28:868 Create order(84922000514) cost time: 8ms
+18/09 18:30:28:874 SEND: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000514}. ID=261005
+18/09 18:30:28:968 RECEIVE:cosname=MAIN_COS,status=Active,active_date=05/09/2013 02:17:51,{84922000514}Core{1000.0;01/03/2015 08:59:59},CALLME{13800.0;18/10/2013 09:59:59},PROMOTION_60{10000.0;17/11/2013 08:59:59},. ID=261005. costTime=94
+18/09 18:30:28:976 Update order(84922000514) cost time: 6ms
+18/09 18:30:28:977 84922000514: LOYALTY - LOYALTY.VALIDATE
+18/09 18:30:28:978 orderId = 125410002 | requestId = 0 | orderDate = 2013/09/18 18:30:28 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 100.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+18/09 18:31:00:993 orderId = 0 | requestId = 0 | orderDate = 2013/09/18 18:31:00 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = HUY CAM | isdn = 84922000515 | subscriberType = 1 | shipTo =  | actionType = unregister | productId = 274 | amount = 0.0 | provisioningType = SMSC | commandId = 0 | cause = unknow-subscription | status = 4 | description =  | balance = 
+18/09 18:31:00:995 sendNotify: 84922000515 - Dich vu khong ton tai
+18/09 18:31:31:915 Create order(84922000515) cost time: 9ms
+18/09 18:31:31:920 SEND: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000515}. ID=261006
+18/09 18:31:31:985 RECEIVE:cosname=VMAX,status=Active,active_date=05/09/2013 02:17:52,{84922000515}Core{500000.0;30/12/2014 09:00:00},PROMOTION{65000.0;03/09/2023 09:59:59},. ID=261006. costTime=65
+18/09 18:31:31:993 Update order(84922000515) cost time: 6ms
+18/09 18:31:31:994 84922000515: LOYALTY - CRM.SUBSCRIPTION_REGIST
+18/09 18:31:31:994 orderId = 125410003 | requestId = 0 | orderDate = 2013/09/18 18:31:31 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = DK CAM | isdn = 84922000515 | subscriberType = 1 | shipTo =  | actionType = register | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 13119 | cause =  | status = 1 | description =  | balance = 
+18/09 18:31:53:936 Create order(84922000515) cost time: 8ms
+18/09 18:31:53:941 SEND: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000515}. ID=261008
+18/09 18:31:54:007 RECEIVE:cosname=VMAX,status=Active,active_date=05/09/2013 02:17:52,{84922000515}Core{500000.0;30/12/2014 09:00:00},PROMOTION{65000.0;03/09/2023 09:59:59},. ID=261008. costTime=64
+18/09 18:31:54:014 Update order(84922000515) cost time: 5ms
+18/09 18:31:54:014 84922000515: LOYALTY - LOYALTY.VALIDATE
+18/09 18:31:54:015 orderId = 125410004 | requestId = 0 | orderDate = 2013/09/18 18:31:53 | userName = system | subProductId = 52789596 | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000515 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 100.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+18/09 18:37:41:081 84922000515: LOYALTY - CRM.SUBSCRIPTION_UNREGIST
+18/09 18:37:41:082 orderId = 0 | requestId = 0 | orderDate = 2013/09/18 18:37:40 | userName = system | subProductId = 52789596 | channel = SMS | serviceAddress = 268 | keyword = HUY CAM | isdn = 84922000515 | subscriberType = 1 | shipTo =  | actionType = unregister | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 13121 | cause =  | status = 1 | description =  | balance = 
+18/09 18:39:15:025 Create order(84922000515) cost time: 26ms
+18/09 18:39:15:048 SEND: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000515}. ID=261010
+18/09 18:39:15:112 RECEIVE:cosname=VMAX,status=Active,active_date=05/09/2013 02:17:52,{84922000515}Core{500000.0;30/12/2014 09:00:00},PROMOTION{65000.0;03/09/2023 09:59:59},. ID=261010. costTime=64
+18/09 18:39:15:130 Update order(84922000515) cost time: 16ms
+18/09 18:39:15:131 84922000515: LOYALTY - LOYALTY.VALIDATE
+18/09 18:39:15:131 orderId = 125410005 | requestId = 0 | orderDate = 2013/09/18 18:39:14 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000515 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 100.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+18/09 18:39:52:047 Create order(84922000515) cost time: 23ms
+18/09 18:39:52:066 SEND: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000515}. ID=261011
+18/09 18:39:52:126 RECEIVE:cosname=VMAX,status=Active,active_date=05/09/2013 02:17:52,{84922000515}Core{500000.0;30/12/2014 09:00:00},PROMOTION{65000.0;03/09/2023 09:59:59},. ID=261011. costTime=60
+18/09 18:39:52:142 Update order(84922000515) cost time: 14ms
+18/09 18:39:52:143 84922000515: LOYALTY - LOYALTY.VALIDATE
+18/09 18:39:52:143 orderId = 125410006 | requestId = 0 | orderDate = 2013/09/18 18:39:52 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000515 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 100.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+18/09 18:49:50:312 Order Routing started
+18/09 18:49:50:678 Testing connection ...
+18/09 18:49:51:165 Created provisioning instance for CCWS
+18/09 18:49:51:166 Testing connection are success
+18/09 18:49:51:166 Starting process session
+18/09 18:49:52:130 Total 0 instances are started
+18/09 18:49:52:131 Total 1 instances are added
+18/09 18:49:52:301 orderId = 0 | requestId = 0 | orderDate = 2013/09/18 18:49:44 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = HUY CAM | isdn = 84922000515 | subscriberType = 1 | shipTo =  | actionType = unregister | productId = 274 | amount = 0.0 | provisioningType = SMSC | commandId = 0 | cause = unknow-subscription | status = 4 | description =  | balance = 
+18/09 18:49:52:306 sendNotify: 84922000515 - Dich vu khong ton tai
+18/09 18:50:24:619 Create order(84922000515) cost time: 21ms
+18/09 18:50:24:641 SEND: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000515}. ID=262001
+18/09 18:50:25:561 RECEIVE:cosname=VMAX,status=Active,active_date=05/09/2013 02:17:52,{84922000515}Core{500000.0;30/12/2014 09:00:00},PROMOTION{65000.0;03/09/2023 09:59:59},. ID=262001. costTime=920
+18/09 18:50:25:576 Update order(84922000515) cost time: 12ms
+18/09 18:50:25:577 84922000515: LOYALTY - LOYALTY.VALIDATE
+18/09 18:50:25:578 orderId = 125410007 | requestId = 0 | orderDate = 2013/09/18 18:50:24 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000515 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 100.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+18/09 18:50:55:669 orderId = 0 | requestId = 0 | orderDate = 2013/09/18 18:50:55 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = HUY CAM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = unregister | productId = 274 | amount = 0.0 | provisioningType = SMSC | commandId = 0 | cause = unknow-subscription | status = 4 | description =  | balance = 
+18/09 18:50:55:671 sendNotify: 84922000514 - Dich vu khong ton tai
+18/09 18:52:05:622 Create order(84922000514) cost time: 19ms
+18/09 18:52:05:642 SEND: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000514}. ID=262002
+18/09 18:52:05:744 RECEIVE:cosname=MAIN_COS,status=Active,active_date=05/09/2013 02:17:51,{84922000514}Core{1000.0;01/03/2015 08:59:59},CALLME{13800.0;18/10/2013 09:59:59},PROMOTION_60{10000.0;17/11/2013 08:59:59},. ID=262002. costTime=102
+18/09 18:52:05:762 Update order(84922000514) cost time: 16ms
+18/09 18:52:05:763 84922000514: LOYALTY - LOYALTY.VALIDATE
+18/09 18:52:05:763 orderId = 125410008 | requestId = 0 | orderDate = 2013/09/18 18:52:05 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 100.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+18/09 18:52:40:638 Create order(84922000515) cost time: 10ms
+18/09 18:52:40:643 SEND: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000515}. ID=262003
+18/09 18:52:40:718 RECEIVE:cosname=VMAX,status=Active,active_date=05/09/2013 02:17:52,{84922000515}Core{500000.0;30/12/2014 09:00:00},PROMOTION{65000.0;03/09/2023 09:59:59},. ID=262003. costTime=74
+18/09 18:52:40:726 Update order(84922000515) cost time: 5ms
+18/09 18:52:40:727 84922000515: LOYALTY - CRM.SUBSCRIPTION_REGIST
+18/09 18:52:40:727 orderId = 125410009 | requestId = 0 | orderDate = 2013/09/18 18:52:40 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = DK CAM | isdn = 84922000515 | subscriberType = 1 | shipTo =  | actionType = register | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 13119 | cause =  | status = 1 | description =  | balance = 
+18/09 18:52:57:650 Create order(84922000515) cost time: 7ms
+18/09 18:52:57:656 SEND: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000515}. ID=262005
+18/09 18:52:57:726 RECEIVE:cosname=VMAX,status=Active,active_date=05/09/2013 02:17:52,{84922000515}Core{500000.0;30/12/2014 09:00:00},PROMOTION{65000.0;03/09/2023 09:59:59},. ID=262005. costTime=70
+18/09 18:52:57:732 Update order(84922000515) cost time: 4ms
+18/09 18:52:57:732 84922000515: LOYALTY - LOYALTY.VALIDATE
+18/09 18:52:57:733 orderId = 125410010 | requestId = 0 | orderDate = 2013/09/18 18:52:57 | userName = system | subProductId = 52789597 | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000515 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 100.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+18/09 18:53:24:684 Create order(84922000515) cost time: 9ms
+18/09 18:53:24:697 Update order(84922000515) cost time: 5ms
+18/09 18:53:24:697 orderId = 125410011 | requestId = 0 | orderDate = 2013/09/18 18:53:24 | userName = system | subProductId = 52789597 | channel = SMS | serviceAddress = 268 | keyword = DK CAM | isdn = 84922000515 | subscriberType = -1 | shipTo =  | actionType = register | productId = 274 | amount = 0.0 | provisioningType = SMSC | commandId = 0 | cause = registered | status = 4 | description =  | balance = 
+18/09 18:53:24:701 sendNotify: 84922000515 - Quy khach da la thanh vien cua Cau lac bo CAM cua Vietnamobile. Hay tiep tuc su dung Vietnamobile de tich luy nhieu diem va nhan duoc nhieu uu dai cua chuong trinh. Chi tiet 789
+18/09 18:54:01:532 Close pool
+18/09 18:54:01:633 Close queue connection pool.
+18/09 18:54:01:638 End of process session
+18/09 18:54:01:639 Order Routing stopped
+18/09 18:54:03:548 Order Routing started
+18/09 18:54:03:572 Close pool
+18/09 18:54:03:572 Close pool
+18/09 18:54:03:573 Testing connection ...
+18/09 18:54:03:576 Created provisioning instance for CCWS
+18/09 18:54:03:577 Testing connection are success
+18/09 18:54:03:577 Starting process session
+18/09 18:54:04:308 Total 0 instances are started
+18/09 18:54:04:309 Total 1 instances are added
+18/09 18:54:07:551 Close pool
+18/09 18:54:07:651 Close queue connection pool.
+18/09 18:54:07:657 End of process session
+18/09 18:54:07:658 Order Routing stopped
+18/09 18:54:09:572 Order Routing started
+18/09 18:54:09:595 Close pool
+18/09 18:54:09:595 Close pool
+18/09 18:54:09:596 Testing connection ...
+18/09 18:54:09:599 Created provisioning instance for CCWS
+18/09 18:54:09:600 Testing connection are success
+18/09 18:54:09:600 Starting process session
+18/09 18:54:10:271 Total 0 instances are started
+18/09 18:54:10:272 Total 1 instances are added
+18/09 18:54:10:746 Create order(84922000515) cost time: 6ms
+18/09 18:54:10:751 SEND: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000515}. ID=262006
+18/09 18:54:10:827 RECEIVE:cosname=VMAX,status=Active,active_date=05/09/2013 02:17:52,{84922000515}Core{500000.0;30/12/2014 09:00:00},PROMOTION{65000.0;03/09/2023 09:59:59},. ID=262006. costTime=76
+18/09 18:54:10:833 Update order(84922000515) cost time: 4ms
+18/09 18:54:10:834 84922000515: LOYALTY - LOYALTY.VALIDATE
+18/09 18:54:10:834 orderId = 125410012 | requestId = 0 | orderDate = 2013/09/18 18:54:10 | userName = system | subProductId = 52789597 | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000515 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 100.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+18/09 18:57:48:474 Order Routing started
+18/09 18:57:48:501 Testing connection ...
+18/09 18:57:48:507 Created provisioning instance for CCWS
+18/09 18:57:48:508 Testing connection are success
+18/09 18:57:48:509 Starting process session
+18/09 18:57:49:374 Total 0 instances are started
+18/09 18:57:49:375 Total 1 instances are added
+18/09 18:58:07:738 Create order(84922000515) cost time: 26ms
+18/09 18:58:07:764 SEND: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000515}. ID=263001
+18/09 18:58:08:771 RECEIVE:cosname=VMAX,status=Active,active_date=05/09/2013 02:17:52,{84922000515}Core{500000.0;30/12/2014 09:00:00},PROMOTION{65000.0;03/09/2023 09:59:59},. ID=263001. costTime=1007
+18/09 18:58:08:789 Update order(84922000515) cost time: 14ms
+18/09 18:58:08:790 84922000515: LOYALTY - LOYALTY.VALIDATE
+18/09 18:58:08:791 orderId = 125410013 | requestId = 0 | orderDate = 2013/09/18 18:58:07 | userName = system | subProductId = 52789597 | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000515 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 100.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+18/09 18:58:53:553 Close pool
+18/09 18:58:53:654 Close queue connection pool.
+18/09 18:58:53:659 End of process session
+18/09 18:58:53:660 Order Routing stopped
+18/09 18:58:55:572 Order Routing started
+18/09 18:58:55:594 Close pool
+18/09 18:58:55:595 Close pool
+18/09 18:58:55:595 Testing connection ...
+18/09 18:58:55:600 Created provisioning instance for CCWS
+18/09 18:58:55:600 Testing connection are success
+18/09 18:58:55:601 Starting process session
+18/09 18:58:56:296 Total 0 instances are started
+18/09 18:58:56:297 Total 1 instances are added
+18/09 18:58:56:751 Create order(84922000515) cost time: 9ms
+18/09 18:58:56:757 SEND: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000515}. ID=263002
+18/09 18:58:56:853 RECEIVE:cosname=VMAX,status=Active,active_date=05/09/2013 02:17:52,{84922000515}Core{500000.0;30/12/2014 09:00:00},PROMOTION{65000.0;03/09/2023 09:59:59},. ID=263002. costTime=96
+18/09 18:58:56:860 Update order(84922000515) cost time: 5ms
+18/09 18:58:56:860 84922000515: LOYALTY - LOYALTY.VALIDATE
+18/09 18:58:56:861 orderId = 125410014 | requestId = 0 | orderDate = 2013/09/18 18:58:56 | userName = system | subProductId = 52789597 | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 1000 | isdn = 84922000515 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 100.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 

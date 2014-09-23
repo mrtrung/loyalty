@@ -1,0 +1,484 @@
+31/08 10:38:06:798 CCWS started
+31/08 10:38:11:570 Testing connection ...
+31/08 10:38:12:434 Created provisioning instance for CCWS
+31/08 10:38:12:434 Testing connection are success
+31/08 10:38:12:435 Starting process session
+31/08 10:38:12:535 Total 0 instances are started
+31/08 10:38:12:536 Total 1 instances are added
+31/08 10:38:33:567 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.36:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+31/08 10:38:33:568 Consumer was closed, reconnect.
+31/08 10:38:33:745 Total 0 instances are started
+31/08 10:38:33:745 Total 1 instances are added
+31/08 10:38:54:786 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.36:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+31/08 10:38:54:786 Consumer was closed, reconnect.
+31/08 10:38:54:909 Total 0 instances are started
+31/08 10:38:54:910 Total 1 instances are added
+31/08 10:39:15:935 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.36:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+31/08 10:39:15:935 Consumer was closed, reconnect.
+31/08 10:39:16:136 Total 0 instances are started
+31/08 10:39:16:137 Total 1 instances are added
+31/08 10:40:17:340 CCWS started
+31/08 10:40:19:062 Testing connection ...
+31/08 10:40:21:943 Created provisioning instance for CCWS
+31/08 10:40:21:944 Testing connection are success
+31/08 10:40:21:944 Starting process session
+31/08 10:40:22:045 Total 0 instances are started
+31/08 10:40:22:045 Total 1 instances are added
+31/08 11:06:04:678 Close pool
+31/08 11:06:04:810 Close queue connection pool.
+31/08 11:06:04:816 End of process session
+31/08 11:06:04:817 CCWS stopped
+31/08 11:06:06:661 CCWS started
+31/08 11:06:06:684 Close pool
+31/08 11:06:06:685 Close pool
+31/08 11:06:06:685 Testing connection ...
+31/08 11:06:06:689 Created provisioning instance for CCWS
+31/08 11:06:06:690 Testing connection are success
+31/08 11:06:06:690 Starting process session
+31/08 11:06:06:791 Total 0 instances are started
+31/08 11:06:06:792 Total 1 instances are added
+31/08 11:07:45:099 CCWS started
+31/08 11:07:49:068 Testing connection ...
+31/08 11:07:50:180 Created provisioning instance for CCWS
+31/08 11:07:50:196 Testing connection are success
+31/08 11:07:50:196 Starting process session
+31/08 11:07:50:297 Total 0 instances are started
+31/08 11:07:50:297 Total 1 instances are added
+31/08 11:10:35:662 CCWS started
+31/08 11:10:38:433 Testing connection ...
+31/08 11:10:40:799 Created provisioning instance for CCWS
+31/08 11:10:40:801 Testing connection are success
+31/08 11:10:40:801 Starting process session
+31/08 11:10:40:902 Total 0 instances are started
+31/08 11:10:40:903 Total 1 instances are added
+31/08 11:12:05:739 CCWS started
+31/08 11:12:09:686 Testing connection ...
+31/08 11:12:10:518 Created provisioning instance for CCWS
+31/08 11:12:10:519 Testing connection are success
+31/08 11:12:10:519 Starting process session
+31/08 11:12:10:621 Total 0 instances are started
+31/08 11:12:10:622 Total 1 instances are added
+31/08 11:13:18:940 Created provisioning instance for CCWS
+31/08 11:13:18:953 SEND: ID=84001: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000514}
+31/08 11:13:20:588 RECEIVE: ID=84001: cosname=MAIN_COS,status=Active,active_date=22/08/2013 00:38:45,{84922000514}Core{70000.0;05/12/2013 08:59:59},VOICE_ONNET{6000.0;01/09/2013 09:59:59},GPRS{2.5165824E8;24/11/2013 08:59:59},PROMOTION{1000.0;20/08/2023 09:59:59},VM18{10800.0;31/08/2013 09:59:59},VB600_M{299000.0;20/09/2013 09:59:59},: costTime=1634
+31/08 11:13:20:590 SEND: ID=84002: com.comverse_in.prepaid.ccws.ServiceSoapStub.modifySubscriber:84922000514:PROMOTION_60{300.0;21/10/2013 23:59:59},
+31/08 11:13:21:198 RECEIVE: ID=84002: success: costTime=608
+31/08 11:13:21:200 orderId = 125407871 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 3000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 309 | request = ID=84002: com.comverse_in.prepaid.ccws.ServiceSoapStub.modifySubscriber:84922000514:PROMOTION_60{300.0;21/10/2013 23:59:59}, | response = ID=84002: success: costTime=608 | status = 1 | cause = success | description = success
+31/08 11:31:12:467 CCWS started
+31/08 11:31:16:898 Testing connection ...
+31/08 11:31:17:817 Created provisioning instance for CCWS
+31/08 11:31:17:818 Testing connection are success
+31/08 11:31:17:818 Starting process session
+31/08 11:31:17:921 Total 0 instances are started
+31/08 11:31:17:921 Total 1 instances are added
+31/08 11:42:45:127 CCWS started
+31/08 11:42:49:371 Testing connection ...
+31/08 11:42:50:342 Created provisioning instance for CCWS
+31/08 11:42:50:342 Testing connection are success
+31/08 11:42:50:342 Starting process session
+31/08 11:42:50:446 Total 0 instances are started
+31/08 11:42:50:448 Total 1 instances are added
+31/08 11:44:01:816 CCWS started
+31/08 11:44:06:041 Testing connection ...
+31/08 11:44:06:781 Created provisioning instance for CCWS
+31/08 11:44:06:782 Testing connection are success
+31/08 11:44:06:783 Starting process session
+31/08 11:44:06:883 Total 0 instances are started
+31/08 11:44:06:884 Total 1 instances are added
+31/08 11:45:14:027 CCWS started
+31/08 11:45:18:439 Testing connection ...
+31/08 11:45:19:346 Created provisioning instance for CCWS
+31/08 11:45:19:347 Testing connection are success
+31/08 11:45:19:347 Starting process session
+31/08 11:45:19:450 Total 0 instances are started
+31/08 11:45:19:451 Total 1 instances are added
+31/08 11:49:29:348 CCWS started
+31/08 11:49:33:704 Testing connection ...
+31/08 11:49:34:572 Created provisioning instance for CCWS
+31/08 11:49:34:573 Testing connection are success
+31/08 11:49:34:573 Starting process session
+31/08 11:49:34:674 Total 0 instances are started
+31/08 11:49:34:675 Total 1 instances are added
+31/08 11:53:07:535 CCWS started
+31/08 11:53:11:925 Testing connection ...
+31/08 11:53:12:909 Created provisioning instance for CCWS
+31/08 11:53:12:910 Testing connection are success
+31/08 11:53:12:910 Starting process session
+31/08 11:53:13:011 Total 0 instances are started
+31/08 11:53:13:011 Total 1 instances are added
+31/08 11:54:54:725 CCWS started
+31/08 11:54:58:738 Testing connection ...
+31/08 11:54:59:742 Created provisioning instance for CCWS
+31/08 11:54:59:744 Testing connection are success
+31/08 11:54:59:744 Starting process session
+31/08 11:54:59:845 Total 0 instances are started
+31/08 11:54:59:845 Total 1 instances are added
+31/08 11:57:46:472 CCWS started
+31/08 11:57:50:927 Testing connection ...
+31/08 11:57:51:924 Created provisioning instance for CCWS
+31/08 11:57:51:924 Testing connection are success
+31/08 11:57:51:925 Starting process session
+31/08 11:57:52:025 Total 0 instances are started
+31/08 11:57:52:026 Total 1 instances are added
+31/08 11:58:36:956 CCWS started
+31/08 11:58:40:748 Testing connection ...
+31/08 11:58:41:959 Created provisioning instance for CCWS
+31/08 11:58:41:960 Testing connection are success
+31/08 11:58:41:964 Starting process session
+31/08 11:58:42:065 Total 0 instances are started
+31/08 11:58:42:067 Total 1 instances are added
+31/08 12:19:32:707 CCWS started
+31/08 12:19:37:048 Testing connection ...
+31/08 12:19:37:904 Created provisioning instance for CCWS
+31/08 12:19:37:904 Testing connection are success
+31/08 12:19:37:905 Starting process session
+31/08 12:19:38:009 Total 0 instances are started
+31/08 12:19:38:009 Total 1 instances are added
+31/08 12:23:01:283 CCWS started
+31/08 12:23:05:789 Testing connection ...
+31/08 12:23:06:788 Created provisioning instance for CCWS
+31/08 12:23:06:789 Testing connection are success
+31/08 12:23:06:790 Starting process session
+31/08 12:23:06:892 Total 0 instances are started
+31/08 12:23:06:893 Total 1 instances are added
+31/08 12:24:26:272 CCWS started
+31/08 12:24:30:398 Testing connection ...
+31/08 12:24:31:126 Created provisioning instance for CCWS
+31/08 12:24:31:127 Testing connection are success
+31/08 12:24:31:128 Starting process session
+31/08 12:24:31:228 Total 0 instances are started
+31/08 12:24:31:229 Total 1 instances are added
+31/08 12:27:48:995 CCWS started
+31/08 12:27:53:186 Testing connection ...
+31/08 12:27:54:236 Created provisioning instance for CCWS
+31/08 12:27:54:236 Testing connection are success
+31/08 12:27:54:239 Starting process session
+31/08 12:27:54:340 Total 0 instances are started
+31/08 12:27:54:340 Total 1 instances are added
+31/08 12:32:32:148 CCWS started
+31/08 12:33:14:324 CCWS started
+31/08 12:33:18:624 Testing connection ...
+31/08 12:33:19:470 Created provisioning instance for CCWS
+31/08 12:33:19:471 Testing connection are success
+31/08 12:33:19:471 Starting process session
+31/08 12:33:19:572 Total 0 instances are started
+31/08 12:33:19:572 Total 1 instances are added
+31/08 12:42:29:808 CCWS started
+31/08 12:42:59:602 java.sql.SQLException: An SQLException was provoked by the following failure: com.mchange.v2.resourcepool.ResourcePoolException: A ResourcePool cannot acquire a new resource -- the factory or source appears to be down.
+31/08 12:42:59:602 End of process session
+31/08 12:44:22:309 CCWS started
+31/08 12:44:27:402 Testing connection ...
+31/08 12:44:28:435 Created provisioning instance for CCWS
+31/08 12:44:28:435 Testing connection are success
+31/08 12:44:28:436 Starting process session
+31/08 12:44:28:536 Total 0 instances are started
+31/08 12:44:28:537 Total 1 instances are added
+31/08 12:46:34:385 CCWS started
+31/08 12:46:38:629 Testing connection ...
+31/08 12:46:39:533 Created provisioning instance for CCWS
+31/08 12:46:39:533 Testing connection are success
+31/08 12:46:39:534 Starting process session
+31/08 12:46:39:634 Total 0 instances are started
+31/08 12:46:39:635 Total 1 instances are added
+31/08 12:47:18:249 CCWS started
+31/08 12:47:22:924 Testing connection ...
+31/08 12:47:23:901 Created provisioning instance for CCWS
+31/08 12:47:23:901 Testing connection are success
+31/08 12:47:23:902 Starting process session
+31/08 12:47:24:002 Total 0 instances are started
+31/08 12:47:24:006 Total 1 instances are added
+31/08 12:49:15:772 CCWS started
+31/08 12:49:20:014 Testing connection ...
+31/08 12:49:20:998 Created provisioning instance for CCWS
+31/08 12:49:20:998 Testing connection are success
+31/08 12:49:20:999 Starting process session
+31/08 12:49:21:099 Total 0 instances are started
+31/08 12:49:21:099 Total 1 instances are added
+31/08 12:49:48:559 CCWS started
+31/08 12:49:53:425 Testing connection ...
+31/08 12:49:54:462 Created provisioning instance for CCWS
+31/08 12:49:54:463 Testing connection are success
+31/08 12:49:54:464 Starting process session
+31/08 12:49:54:564 Total 0 instances are started
+31/08 12:49:54:565 Total 1 instances are added
+31/08 12:56:06:051 CCWS started
+31/08 12:56:10:439 Testing connection ...
+31/08 12:56:12:370 Created provisioning instance for CCWS
+31/08 12:56:12:371 Testing connection are success
+31/08 12:56:12:374 Starting process session
+31/08 12:56:12:476 Total 0 instances are started
+31/08 12:56:12:477 Total 1 instances are added
+31/08 12:56:13:521 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.39:7676]. - cause: java.net.ConnectException: Connection refused: connect
+31/08 12:56:13:521 Consumer was closed, reconnect.
+31/08 12:56:13:680 Total 0 instances are started
+31/08 12:56:13:686 Total 1 instances are added
+31/08 12:56:14:717 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.39:7676]. - cause: java.net.ConnectException: Connection refused: connect
+31/08 12:56:14:718 Consumer was closed, reconnect.
+31/08 12:56:14:873 Total 0 instances are started
+31/08 12:56:14:874 Total 1 instances are added
+31/08 12:56:15:906 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.39:7676]. - cause: java.net.ConnectException: Connection refused: connect
+31/08 12:56:15:907 Consumer was closed, reconnect.
+31/08 12:56:16:097 Total 0 instances are started
+31/08 12:56:16:098 Total 1 instances are added
+31/08 12:56:17:180 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.39:7676]. - cause: java.net.ConnectException: Connection refused: connect
+31/08 12:56:17:180 Consumer was closed, reconnect.
+31/08 12:56:17:314 Total 0 instances are started
+31/08 12:56:17:320 Total 1 instances are added
+31/08 12:56:18:350 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.39:7676]. - cause: java.net.ConnectException: Connection refused: connect
+31/08 12:56:18:350 Consumer was closed, reconnect.
+31/08 12:56:18:526 Total 0 instances are started
+31/08 12:56:18:690 Total 1 instances are added
+31/08 12:56:19:549 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.39:7676]. - cause: java.net.ConnectException: Connection refused: connect
+31/08 12:56:19:549 Consumer was closed, reconnect.
+31/08 12:56:19:696 Total 0 instances are started
+31/08 12:56:19:697 Total 1 instances are added
+31/08 12:56:20:730 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.39:7676]. - cause: java.net.ConnectException: Connection refused: connect
+31/08 12:56:20:731 Consumer was closed, reconnect.
+31/08 12:56:20:918 Total 0 instances are started
+31/08 12:56:20:919 Total 1 instances are added
+31/08 12:56:21:962 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.39:7676]. - cause: java.net.ConnectException: Connection refused: connect
+31/08 12:56:21:964 Consumer was closed, reconnect.
+31/08 12:56:22:121 Total 0 instances are started
+31/08 12:56:22:121 Total 1 instances are added
+31/08 12:56:23:150 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.39:7676]. - cause: java.net.ConnectException: Connection refused: connect
+31/08 12:56:23:151 Consumer was closed, reconnect.
+31/08 12:56:23:325 Total 0 instances are started
+31/08 12:56:23:326 Total 1 instances are added
+31/08 12:56:24:350 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.39:7676]. - cause: java.net.ConnectException: Connection refused: connect
+31/08 12:56:24:352 Consumer was closed, reconnect.
+31/08 12:56:24:532 Total 0 instances are started
+31/08 12:56:24:552 Total 1 instances are added
+31/08 12:56:25:561 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.39:7676]. - cause: java.net.ConnectException: Connection refused: connect
+31/08 12:56:25:562 Consumer was closed, reconnect.
+31/08 12:56:25:754 Total 0 instances are started
+31/08 12:56:25:755 Total 1 instances are added
+31/08 12:56:26:794 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.39:7676]. - cause: java.net.ConnectException: Connection refused: connect
+31/08 12:56:26:794 Consumer was closed, reconnect.
+31/08 12:56:26:957 Total 0 instances are started
+31/08 12:56:26:958 Total 1 instances are added
+31/08 12:56:28:000 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.39:7676]. - cause: java.net.ConnectException: Connection refused: connect
+31/08 12:56:28:000 Consumer was closed, reconnect.
+31/08 12:56:28:199 Total 0 instances are started
+31/08 12:56:28:200 Total 1 instances are added
+31/08 12:56:29:222 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.39:7676]. - cause: java.net.ConnectException: Connection refused: connect
+31/08 12:56:29:222 Consumer was closed, reconnect.
+31/08 12:56:29:402 Total 0 instances are started
+31/08 12:56:29:403 Total 1 instances are added
+31/08 12:56:30:520 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.39:7676]. - cause: java.net.ConnectException: Connection refused: connect
+31/08 12:56:30:521 Consumer was closed, reconnect.
+31/08 12:56:30:703 Total 0 instances are started
+31/08 12:56:30:704 Total 1 instances are added
+31/08 12:56:31:714 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.39:7676]. - cause: java.net.ConnectException: Connection refused: connect
+31/08 12:56:31:714 Consumer was closed, reconnect.
+31/08 12:56:31:904 Total 0 instances are started
+31/08 12:56:31:904 Total 1 instances are added
+31/08 12:56:32:933 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.39:7676]. - cause: java.net.ConnectException: Connection refused: connect
+31/08 12:56:32:934 Consumer was closed, reconnect.
+31/08 12:56:33:106 Total 0 instances are started
+31/08 12:56:33:107 Total 1 instances are added
+31/08 12:56:34:138 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.39:7676]. - cause: java.net.ConnectException: Connection refused: connect
+31/08 12:56:34:138 Consumer was closed, reconnect.
+31/08 12:56:34:308 Total 0 instances are started
+31/08 12:56:34:309 Total 1 instances are added
+31/08 12:56:35:332 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.39:7676]. - cause: java.net.ConnectException: Connection refused: connect
+31/08 12:56:35:333 Consumer was closed, reconnect.
+31/08 12:56:35:509 Total 0 instances are started
+31/08 12:56:35:510 Total 1 instances are added
+31/08 12:56:36:626 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.39:7676]. - cause: java.net.ConnectException: Connection refused: connect
+31/08 12:56:36:627 Consumer was closed, reconnect.
+31/08 12:56:36:825 Total 0 instances are started
+31/08 12:56:36:825 Total 1 instances are added
+31/08 12:56:37:845 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.39:7676]. - cause: java.net.ConnectException: Connection refused: connect
+31/08 12:56:37:845 Consumer was closed, reconnect.
+31/08 12:56:38:032 Total 0 instances are started
+31/08 12:56:38:041 Total 1 instances are added
+31/08 12:56:39:080 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.39:7676]. - cause: java.net.ConnectException: Connection refused: connect
+31/08 12:56:39:081 Consumer was closed, reconnect.
+31/08 12:56:39:271 Total 0 instances are started
+31/08 12:56:39:272 Total 1 instances are added
+31/08 12:56:40:286 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.39:7676]. - cause: java.net.ConnectException: Connection refused: connect
+31/08 12:56:40:286 Consumer was closed, reconnect.
+31/08 12:56:40:472 Total 0 instances are started
+31/08 12:56:40:501 Total 1 instances are added
+31/08 12:56:41:512 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.39:7676]. - cause: java.net.ConnectException: Connection refused: connect
+31/08 12:56:41:513 Consumer was closed, reconnect.
+31/08 12:56:41:701 Total 0 instances are started
+31/08 12:56:41:701 Total 1 instances are added
+31/08 12:56:42:740 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.39:7676]. - cause: java.net.ConnectException: Connection refused: connect
+31/08 12:56:42:740 Consumer was closed, reconnect.
+31/08 12:56:42:902 Total 0 instances are started
+31/08 12:56:42:902 Total 1 instances are added
+31/08 12:56:43:944 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.39:7676]. - cause: java.net.ConnectException: Connection refused: connect
+31/08 12:56:43:945 Consumer was closed, reconnect.
+31/08 12:56:44:103 Total 0 instances are started
+31/08 12:56:44:104 Total 1 instances are added
+31/08 12:56:45:156 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.39:7676]. - cause: java.net.ConnectException: Connection refused: connect
+31/08 12:56:45:157 Consumer was closed, reconnect.
+31/08 12:56:45:304 Total 0 instances are started
+31/08 12:56:45:304 Total 1 instances are added
+31/08 12:56:46:329 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.39:7676]. - cause: java.net.ConnectException: Connection refused: connect
+31/08 12:56:46:330 Consumer was closed, reconnect.
+31/08 12:56:46:504 Total 0 instances are started
+31/08 12:56:46:563 Total 1 instances are added
+31/08 12:56:47:538 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.39:7676]. - cause: java.net.ConnectException: Connection refused: connect
+31/08 12:56:47:539 Consumer was closed, reconnect.
+31/08 12:56:47:666 Total 0 instances are started
+31/08 12:56:47:667 Total 1 instances are added
+31/08 12:56:48:704 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.39:7676]. - cause: java.net.ConnectException: Connection refused: connect
+31/08 12:56:48:705 Consumer was closed, reconnect.
+31/08 13:02:21:052 CCWS started
+31/08 13:02:23:363 Testing connection ...
+31/08 13:02:25:985 Created provisioning instance for CCWS
+31/08 13:02:25:986 Testing connection are success
+31/08 13:02:25:986 Starting process session
+31/08 13:02:26:087 Total 0 instances are started
+31/08 13:02:26:088 Total 1 instances are added
+31/08 13:04:53:938 CCWS started
+31/08 13:04:58:324 Testing connection ...
+31/08 13:04:59:319 Created provisioning instance for CCWS
+31/08 13:04:59:320 Testing connection are success
+31/08 13:04:59:320 Starting process session
+31/08 13:04:59:421 Total 0 instances are started
+31/08 13:04:59:421 Total 1 instances are added
+31/08 13:14:29:347 CCWS started
+31/08 13:14:34:103 Testing connection ...
+31/08 13:14:35:060 Created provisioning instance for CCWS
+31/08 13:14:35:060 Testing connection are success
+31/08 13:14:35:062 Starting process session
+31/08 13:14:35:163 Total 0 instances are started
+31/08 13:14:35:163 Total 1 instances are added
+31/08 13:15:36:042 CCWS started
+31/08 13:15:40:102 Testing connection ...
+31/08 13:15:40:787 Created provisioning instance for CCWS
+31/08 13:15:40:788 Testing connection are success
+31/08 13:15:40:788 Starting process session
+31/08 13:15:40:888 Total 0 instances are started
+31/08 13:15:40:888 Total 1 instances are added
+31/08 13:19:52:765 CCWS started
+31/08 13:19:57:852 Testing connection ...
+31/08 13:19:58:785 Created provisioning instance for CCWS
+31/08 13:19:58:787 Testing connection are success
+31/08 13:19:58:788 Starting process session
+31/08 13:19:58:892 Total 0 instances are started
+31/08 13:19:58:893 Total 1 instances are added
+31/08 13:21:23:356 CCWS started
+31/08 13:21:27:748 Testing connection ...
+31/08 13:21:28:647 Created provisioning instance for CCWS
+31/08 13:21:28:647 Testing connection are success
+31/08 13:21:28:647 Starting process session
+31/08 13:21:28:748 Total 0 instances are started
+31/08 13:21:28:749 Total 1 instances are added
+31/08 13:22:35:677 CCWS started
+31/08 13:22:39:719 Testing connection ...
+31/08 13:22:40:657 Created provisioning instance for CCWS
+31/08 13:22:40:659 Testing connection are success
+31/08 13:22:40:661 Starting process session
+31/08 13:22:40:762 Total 0 instances are started
+31/08 13:22:40:763 Total 1 instances are added
+31/08 13:33:38:527 CCWS started
+31/08 13:33:42:584 Testing connection ...
+31/08 13:33:43:267 Created provisioning instance for CCWS
+31/08 13:33:43:267 Testing connection are success
+31/08 13:33:43:268 Starting process session
+31/08 13:33:43:368 Total 0 instances are started
+31/08 13:33:43:369 Total 1 instances are added
+31/08 13:45:54:073 CCWS started
+31/08 13:45:58:382 Testing connection ...
+31/08 13:45:59:110 Created provisioning instance for CCWS
+31/08 13:45:59:111 Testing connection are success
+31/08 13:45:59:112 Starting process session
+31/08 13:45:59:212 Total 0 instances are started
+31/08 13:45:59:213 Total 1 instances are added
+31/08 13:49:41:180 CCWS started
+31/08 13:49:45:639 Testing connection ...
+31/08 13:49:46:600 Created provisioning instance for CCWS
+31/08 13:49:46:605 Testing connection are success
+31/08 13:49:46:605 Starting process session
+31/08 13:49:46:705 Total 0 instances are started
+31/08 13:49:46:705 Total 1 instances are added
+31/08 13:53:35:236 CCWS started
+31/08 13:53:39:424 Testing connection ...
+31/08 13:53:40:063 Created provisioning instance for CCWS
+31/08 13:53:40:063 Testing connection are success
+31/08 13:53:40:063 Starting process session
+31/08 13:53:40:164 Total 0 instances are started
+31/08 13:53:40:165 Total 1 instances are added
+31/08 13:56:45:110 CCWS started
+31/08 13:56:49:658 Testing connection ...
+31/08 13:56:50:551 Created provisioning instance for CCWS
+31/08 13:56:50:552 Testing connection are success
+31/08 13:56:50:554 Starting process session
+31/08 13:56:50:654 Total 0 instances are started
+31/08 13:56:50:655 Total 1 instances are added
+31/08 13:58:47:012 CCWS started
+31/08 13:58:51:407 Testing connection ...
+31/08 13:58:52:350 Created provisioning instance for CCWS
+31/08 13:58:52:351 Testing connection are success
+31/08 13:58:52:352 Starting process session
+31/08 13:58:52:453 Total 0 instances are started
+31/08 13:58:52:454 Total 1 instances are added
+31/08 13:59:12:588 CCWS started
+31/08 13:59:17:612 Testing connection ...
+31/08 13:59:18:634 Created provisioning instance for CCWS
+31/08 13:59:18:634 Testing connection are success
+31/08 13:59:18:635 Starting process session
+31/08 13:59:18:735 Total 0 instances are started
+31/08 13:59:18:736 Total 1 instances are added
+31/08 14:01:27:061 CCWS started
+31/08 14:01:31:358 Testing connection ...
+31/08 14:01:32:301 Created provisioning instance for CCWS
+31/08 14:01:32:302 Testing connection are success
+31/08 14:01:32:302 Starting process session
+31/08 14:01:32:402 Total 0 instances are started
+31/08 14:01:32:402 Total 1 instances are added
+31/08 14:08:10:364 CCWS started
+31/08 14:08:14:450 Testing connection ...
+31/08 14:08:15:064 Created provisioning instance for CCWS
+31/08 14:08:15:065 Testing connection are success
+31/08 14:08:15:066 Starting process session
+31/08 14:08:15:167 Total 0 instances are started
+31/08 14:08:15:168 Total 1 instances are added
+31/08 14:20:30:651 CCWS started
+31/08 14:20:31:809 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:20:31:809 End of process session
+31/08 14:22:11:896 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:22:11:896 End of process session
+31/08 14:23:51:940 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:23:51:941 End of process session
+31/08 14:25:31:973 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:25:31:974 End of process session
+31/08 14:27:12:046 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:27:12:047 End of process session
+31/08 14:28:52:077 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:28:52:078 End of process session
+31/08 14:30:32:117 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:30:32:118 End of process session
+31/08 14:32:12:163 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:32:12:164 End of process session
+31/08 14:33:52:188 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:33:52:189 End of process session
+31/08 14:35:32:217 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:35:32:218 End of process session
+31/08 14:37:12:250 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:37:12:251 End of process session
+31/08 14:38:52:284 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:38:52:285 End of process session
+31/08 14:40:32:322 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:40:32:323 End of process session
+31/08 14:42:12:352 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:42:12:353 End of process session
+31/08 14:43:52:390 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:43:52:391 End of process session
+31/08 14:45:32:855 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:45:32:856 End of process session
+31/08 14:46:44:997 CCWS started
+31/08 14:46:49:356 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:46:49:357 End of process session
+31/08 14:48:29:390 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:48:29:391 End of process session
+31/08 14:50:09:420 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:50:09:420 End of process session
+31/08 14:51:49:462 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:51:49:462 End of process session
+31/08 14:53:29:493 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:53:29:493 End of process session

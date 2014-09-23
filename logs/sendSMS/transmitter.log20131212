@@ -1,0 +1,160 @@
+12/12 14:37:13:076 Testing connection ...
+
+12/12 14:37:13:125 Connecting to SMSC 
+
+12/12 14:37:13:214 Bind request (bindreq: (pdu: 0 2 0 [1]) PPV ppv@321 SMPP 52 (addrrang: 1 1 345) ) 
+
+12/12 14:37:13:239 Bind response (bindresp: (pdu: 36 80000002 0 1) ANAM_ESME_LINK 52) 
+
+12/12 14:37:13:240 SMSC connection is established 
+
+12/12 14:37:13:240 Created provisioning instance for SMSC
+
+12/12 14:37:13:240 Testing connection are success
+
+12/12 14:37:13:240 Starting process session
+
+12/12 14:37:13:347 Total 0 instances are started
+
+12/12 14:37:13:347 Init queue connection pool 1386833833347
+
+12/12 14:37:13:348 Total 1 instances are added
+
+12/12 14:37:43:118 Enquirelink request: (enquirelink: (pdu: 0 15 0 [2]) ) 
+
+12/12 14:37:43:121 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 2) ) 
+
+12/12 14:38:13:075 Enquirelink request: (enquirelink: (pdu: 0 15 0 [3]) ) 
+
+12/12 14:38:13:077 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 3) ) 
+
+12/12 14:38:43:077 Enquirelink request: (enquirelink: (pdu: 0 15 0 [4]) ) 
+
+12/12 14:38:43:079 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 4) ) 
+
+12/12 14:39:13:078 Enquirelink request: (enquirelink: (pdu: 0 15 0 [5]) ) 
+
+12/12 14:39:13:081 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 5) ) 
+
+12/12 14:39:43:079 Enquirelink request: (enquirelink: (pdu: 0 15 0 [6]) ) 
+
+12/12 14:39:43:081 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 6) ) 
+
+12/12 14:40:13:079 Enquirelink request: (enquirelink: (pdu: 0 15 0 [7]) ) 
+
+12/12 14:40:13:081 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 7) ) 
+
+12/12 14:40:43:080 Enquirelink request: (enquirelink: (pdu: 0 15 0 [8]) ) 
+
+12/12 14:40:43:087 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 8) ) 
+
+12/12 14:41:13:081 Enquirelink request: (enquirelink: (pdu: 0 15 0 [9]) ) 
+
+12/12 14:41:13:089 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 9) ) 
+
+12/12 14:41:43:082 Enquirelink request: (enquirelink: (pdu: 0 15 0 [10]) ) 
+
+12/12 14:41:43:085 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 10) ) 
+
+12/12 14:42:13:082 Enquirelink request: (enquirelink: (pdu: 0 15 0 [11]) ) 
+
+12/12 14:42:13:087 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 11) ) 
+
+12/12 14:42:43:083 Enquirelink request: (enquirelink: (pdu: 0 15 0 [12]) ) 
+
+12/12 14:42:43:085 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 12) ) 
+
+12/12 14:42:53:489 Close pool
+
+12/12 14:42:53:490 It can take a while to stop.
+
+12/12 14:42:53:532 Unbind response (unbind_resp: (pdu: 16 80000006 0 13) ) 
+
+12/12 14:42:53:633 Close queue connection pool.
+
+12/12 14:42:53:633 End of process session
+
+12/12 14:42:53:634 Bind Transmitter 01 stopped
+
+12/12 14:42:55:431 Bind Transmitter 01 started
+
+12/12 14:42:55:449 Close pool
+
+12/12 14:42:55:449 Close pool
+
+12/12 14:42:55:449 Testing connection ...
+
+12/12 14:42:55:450 Connecting to SMSC 
+
+12/12 14:42:55:450 Bind request (bindreq: (pdu: 0 2 0 [14]) PPV ppv@321 SMPP 52 (addrrang: 1 1 345) ) 
+
+12/12 14:42:55:456 Bind response (bindresp: (pdu: 36 80000002 0 14) ANAM_ESME_LINK 52) 
+
+12/12 14:42:55:456 SMSC connection is established 
+
+12/12 14:42:55:457 Created provisioning instance for SMSC
+
+12/12 14:42:55:457 Testing connection are success
+
+12/12 14:42:55:457 Starting process session
+
+12/12 14:42:55:558 Total 0 instances are started
+
+12/12 14:42:55:558 Total 1 instances are added
+
+12/12 14:43:25:449 Enquirelink request: (enquirelink: (pdu: 0 15 0 [15]) ) 
+
+12/12 14:43:25:454 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 15) ) 
+
+12/12 14:43:55:450 Enquirelink request: (enquirelink: (pdu: 0 15 0 [16]) ) 
+
+12/12 14:43:55:452 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 16) ) 
+
+12/12 14:44:25:451 Enquirelink request: (enquirelink: (pdu: 0 15 0 [17]) ) 
+
+12/12 14:44:25:454 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 17) ) 
+
+12/12 14:44:55:452 Enquirelink request: (enquirelink: (pdu: 0 15 0 [18]) ) 
+
+12/12 14:44:55:457 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 18) ) 
+
+12/12 14:45:25:453 Enquirelink request: (enquirelink: (pdu: 0 15 0 [19]) ) 
+
+12/12 14:45:25:455 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 19) ) 
+
+12/12 14:45:55:454 Enquirelink request: (enquirelink: (pdu: 0 15 0 [20]) ) 
+
+12/12 14:45:55:456 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 20) ) 
+
+12/12 14:46:25:454 Enquirelink request: (enquirelink: (pdu: 0 15 0 [21]) ) 
+
+12/12 14:46:25:457 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 21) ) 
+
+12/12 14:46:55:455 Enquirelink request: (enquirelink: (pdu: 0 15 0 [22]) ) 
+
+12/12 14:46:55:457 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 22) ) 
+
+12/12 14:47:25:455 Enquirelink request: (enquirelink: (pdu: 0 15 0 [23]) ) 
+
+12/12 14:47:25:457 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 23) ) 
+
+12/12 14:47:55:456 Enquirelink request: (enquirelink: (pdu: 0 15 0 [24]) ) 
+
+12/12 14:47:55:459 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 24) ) 
+
+12/12 14:48:25:457 Enquirelink request: (enquirelink: (pdu: 0 15 0 [25]) ) 
+
+12/12 14:48:25:460 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 25) ) 
+
+12/12 14:48:55:458 Enquirelink request: (enquirelink: (pdu: 0 15 0 [26]) ) 
+
+12/12 14:48:55:460 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 26) ) 
+
+12/12 14:49:25:459 Enquirelink request: (enquirelink: (pdu: 0 15 0 [27]) ) 
+
+12/12 14:49:25:460 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 27) ) 
+
+12/12 14:49:55:460 Enquirelink request: (enquirelink: (pdu: 0 15 0 [28]) ) 
+
+12/12 14:49:55:462 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 28) ) 
+

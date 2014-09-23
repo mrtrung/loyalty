@@ -1,0 +1,146 @@
+22/11 16:28:19:263 Update DB Daily started
+22/11 16:28:19:294 Starting process session
+22/11 16:28:40:559 javax.mail.MessagingException: Could not connect to SMTP host: han-dns-01.htmobile.net.vn, port: 25
+22/11 16:28:40:561 End of process session
+22/11 16:28:46:569 Update DB Daily stopped
+22/11 16:31:11:521 Update DB Daily started
+22/11 16:31:12:541 Starting process session
+22/11 16:31:33:740 javax.mail.MessagingException: Could not connect to SMTP host: han-dns-01.htmobile.net.vn, port: 25
+22/11 16:31:33:791 End of process session
+22/11 16:32:19:059 Thread destroyed
+22/11 16:32:22:625 Update DB Daily started
+22/11 16:32:22:664 Starting process session
+22/11 16:32:23:851 javax.mail.MessagingException: Could not connect to SMTP host: localhost, port: 25
+22/11 16:32:23:854 End of process session
+22/11 16:32:28:860 Update DB Daily stopped
+22/11 16:32:30:669 Update DB Daily started
+22/11 16:32:30:697 Starting process session
+22/11 16:32:31:884 javax.mail.MessagingException: Could not connect to SMTP host: localhost, port: 25
+22/11 16:32:31:887 End of process session
+22/11 16:32:36:896 Update DB Daily stopped
+22/11 16:33:53:363 Update DB Daily started
+22/11 16:33:54:350 Starting process session
+22/11 16:33:55:556 javax.mail.MessagingException: Could not connect to SMTP host: localhost, port: 25
+22/11 16:33:55:561 End of process session
+22/11 16:51:05:436 Update DB Daily started
+22/11 16:51:05:492 Starting process session
+22/11 16:51:05:604 Starting InterestrateMonthly...
+22/11 16:51:05:663 Updated 0 InterestrateMonthly to SubscriberBalance is successfully!!!
+22/11 16:51:05:669 End of process session
+22/11 16:51:10:679 Update DB Daily stopped
+22/11 16:52:31:893 Update DB Daily started
+22/11 16:52:32:994 Starting process session
+22/11 16:52:33:143 Starting InterestrateMonthly...
+22/11 16:52:33:205 Updated 0 InterestrateMonthly to SubscriberBalance is successfully!!!
+22/11 16:52:33:211 End of process session
+22/11 16:54:41:910 Update DB Daily started
+22/11 16:54:42:841 Starting process session
+22/11 16:54:42:983 Starting inout_network...
+22/11 16:54:43:002 registered done
+22/11 16:54:43:006 set time done
+22/11 16:54:43:010 rate done
+22/11 16:54:43:060 Updated 0 inout_network to SubscriberBalance is successfully!!!
+22/11 16:54:43:066 End of process session
+22/11 16:56:05:632 Update DB Daily started
+22/11 16:56:06:724 Starting process session
+22/11 16:56:20:939 Starting inout_network...
+22/11 16:56:22:066 registered done
+22/11 16:56:22:675 set time done
+22/11 16:56:31:498 rate done
+22/11 16:56:36:100 Updated 0 inout_network to SubscriberBalance is successfully!!!
+22/11 16:56:42:021 End of process session
+22/11 16:58:34:903 Update DB Daily started
+22/11 16:58:35:869 Starting process session
+22/11 16:58:36:012 Starting inout_network...
+22/11 16:58:36:030 registered done
+22/11 16:58:36:035 set time done
+22/11 16:58:36:038 rate done
+22/11 16:58:36:123 Updated 1 inout_network to SubscriberBalance is successfully!!!
+22/11 16:58:36:133 End of process session
+22/11 16:58:43:147 Update DB Daily stopped
+22/11 17:01:48:118 Update DB Daily started
+22/11 17:01:48:160 Starting process session
+22/11 17:01:48:163 Starting inout_network...
+22/11 17:01:48:167 registered done
+22/11 17:01:48:170 set time done
+22/11 17:01:48:173 rate done
+22/11 17:01:48:225 Updated 1 inout_network to SubscriberBalance is successfully!!!
+22/11 17:01:48:229 End of process session
+22/11 17:01:54:237 Update DB Daily stopped
+22/11 17:01:56:151 Update DB Daily started
+22/11 17:01:56:178 Starting process session
+22/11 17:01:56:182 Starting inout_network...
+22/11 17:01:56:185 registered done
+22/11 17:01:56:189 set time done
+22/11 17:01:56:192 rate done
+22/11 17:01:56:241 Updated 1 inout_network to SubscriberBalance is successfully!!!
+22/11 17:01:56:245 End of process session
+22/11 17:08:33:606 Update DB Daily stopped
+22/11 17:08:35:542 Update DB Daily started
+22/11 17:08:35:578 Starting process session
+22/11 17:08:35:581 Starting inout_network...
+22/11 17:08:35:585 registered done
+22/11 17:08:35:588 set time done
+22/11 17:08:35:636 rate done
+22/11 17:08:35:686 Updated 1 inout_network to SubscriberBalance is successfully!!!
+22/11 17:08:35:694 End of process session
+22/11 17:08:48:715 Update DB Daily stopped
+22/11 17:08:50:592 Update DB Daily started
+22/11 17:08:50:620 Starting process session
+22/11 17:08:50:624 Starting inout_network...
+22/11 17:08:50:627 registered done
+22/11 17:08:50:631 set time done
+22/11 17:08:50:634 rate done
+22/11 17:08:50:683 Updated 1 inout_network to SubscriberBalance is successfully!!!
+22/11 17:08:50:690 End of process session
+22/11 17:16:16:397 Update DB Daily started
+22/11 17:16:17:354 Starting process session
+22/11 17:16:17:497 Starting InterestrateMonthly...
+22/11 17:16:17:557 Updated 0 InterestrateMonthly to SubscriberBalance is successfully!!!
+22/11 17:16:17:561 Starting inout_network...
+22/11 17:16:17:564 registered done
+22/11 17:16:17:569 set time done
+22/11 17:16:17:574 rate done
+22/11 17:16:17:594 Updated 1 inout_network to SubscriberBalance is successfully!!!
+22/11 17:16:17:600 End of process session
+22/11 17:16:28:614 Update DB Daily stopped
+22/11 17:25:09:879 Update DB Daily started
+22/11 17:25:10:833 Starting process session
+22/11 17:25:10:981 Starting InterestrateMonthly...
+22/11 17:25:11:048 Updated 0 InterestrateMonthly to SubscriberBalance is successfully!!!
+22/11 17:25:11:052 Starting inout_network...
+22/11 17:25:11:056 registered done
+22/11 17:25:11:059 set time done
+22/11 17:25:11:063 rate done
+22/11 17:25:11:085 Updated 1 inout_network to SubscriberBalance is successfully!!!
+22/11 17:25:11:088 Starting collect_usage...
+22/11 17:25:11:113 An SQLException was provoked by the following failure: java.lang.StringIndexOutOfBoundsException: String index out of range: 44
+22/11 17:25:11:118 End of process session
+22/11 17:25:25:135 Update DB Daily stopped
+22/11 17:26:39:522 Update DB Daily started
+22/11 17:26:40:580 Starting process session
+22/11 17:26:40:729 Starting InterestrateMonthly...
+22/11 17:26:40:793 Updated 0 InterestrateMonthly to SubscriberBalance is successfully!!!
+22/11 17:26:40:799 Starting inout_network...
+22/11 17:26:40:821 Updated 1 inout_network to SubscriberBalance is successfully!!!
+22/11 17:26:40:827 Starting collect_usage...
+22/11 17:26:40:855 An SQLException was provoked by the following failure: java.lang.StringIndexOutOfBoundsException: String index out of range: 44
+22/11 17:26:40:860 End of process session
+22/11 17:27:28:938 Update DB Daily started
+22/11 17:27:30:100 Starting process session
+22/11 17:28:22:774 Update DB Daily started
+22/11 17:28:23:856 Starting process session
+22/11 17:28:30:623 Starting InterestrateMonthly...
+22/11 17:28:34:629 Updated 0 InterestrateMonthly to SubscriberBalance is successfully!!!
+22/11 17:28:35:743 Starting inout_network...
+22/11 17:28:41:206 Updated 1 inout_network to SubscriberBalance is successfully!!!
+22/11 17:28:41:627 Starting collect_usage...
+22/11 17:30:04:885 Update DB Daily started
+22/11 17:30:05:968 Starting process session
+22/11 17:30:11:717 Starting InterestrateMonthly...
+22/11 17:30:13:577 Updated 0 InterestrateMonthly to SubscriberBalance is successfully!!!
+22/11 17:30:13:778 Starting inout_network...
+22/11 17:30:16:572 Updated 1 inout_network to SubscriberBalance is successfully!!!
+22/11 17:30:16:808 Starting collect_usage...
+22/11 17:30:56:261 An SQLException was provoked by the following failure: java.lang.StringIndexOutOfBoundsException: String index out of range: 44
+22/11 17:30:56:270 End of process session

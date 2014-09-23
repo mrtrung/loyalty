@@ -1,0 +1,1286 @@
+25/11 09:23:12:554 Weekly Report started
+25/11 09:23:12:630 Error occured: Value of 'SQLWeeklyReport' can not be null
+Context: ManageableThread.loadMandatory
+Additional info: SQLWeeklyReport
+25/11 09:23:13:723 Error occured: Value of 'SQLWeeklyReport' can not be null
+Context: ManageableThread.loadMandatory
+Additional info: SQLWeeklyReport
+25/11 09:23:14:824 Error occured: Value of 'SQLWeeklyReport' can not be null
+Context: ManageableThread.loadMandatory
+Additional info: SQLWeeklyReport
+25/11 09:23:15:925 Error occured: Value of 'SQLWeeklyReport' can not be null
+Context: ManageableThread.loadMandatory
+Additional info: SQLWeeklyReport
+25/11 09:23:17:027 Error occured: Value of 'SQLWeeklyReport' can not be null
+Context: ManageableThread.loadMandatory
+Additional info: SQLWeeklyReport
+25/11 09:23:18:133 Error occured: Value of 'SQLWeeklyReport' can not be null
+Context: ManageableThread.loadMandatory
+Additional info: SQLWeeklyReport
+25/11 09:23:19:235 Error occured: Value of 'SQLWeeklyReport' can not be null
+Context: ManageableThread.loadMandatory
+Additional info: SQLWeeklyReport
+25/11 09:23:20:337 Error occured: Value of 'SQLWeeklyReport' can not be null
+Context: ManageableThread.loadMandatory
+Additional info: SQLWeeklyReport
+25/11 09:23:21:403 Error occured: Value of 'SQLWeeklyReport' can not be null
+Context: ManageableThread.loadMandatory
+Additional info: SQLWeeklyReport
+25/11 09:23:22:503 Error occured: Value of 'SQLWeeklyReport' can not be null
+Context: ManageableThread.loadMandatory
+Additional info: SQLWeeklyReport
+25/11 09:23:23:590 Error occured: Value of 'SQLWeeklyReport' can not be null
+Context: ManageableThread.loadMandatory
+Additional info: SQLWeeklyReport
+25/11 09:23:24:666 Error occured: Value of 'SQLWeeklyReport' can not be null
+Context: ManageableThread.loadMandatory
+Additional info: SQLWeeklyReport
+25/11 09:23:25:743 Error occured: Value of 'SQLWeeklyReport' can not be null
+Context: ManageableThread.loadMandatory
+Additional info: SQLWeeklyReport
+25/11 09:23:26:816 Error occured: Value of 'SQLWeeklyReport' can not be null
+Context: ManageableThread.loadMandatory
+Additional info: SQLWeeklyReport
+25/11 09:23:27:820 Weekly Report stopped
+25/11 09:24:20:669 Update DB Daily started
+25/11 09:24:20:691 Starting process session
+25/11 09:24:20:711 Starting InterestrateMonthly...
+25/11 09:24:38:111 Updated 0 InterestrateMonthly to SubscriberBalance is successfully!!!
+25/11 09:24:38:549 Starting inout_network...
+25/11 09:24:44:212 Updated 0 inout_network to SubscriberBalance is successfully!!!
+25/11 09:24:44:929 Starting collect_usage...
+25/11 09:41:59:167 Update DB Daily started
+25/11 09:41:59:199 Starting process session
+25/11 09:41:59:219 Starting InterestrateMonthly...
+25/11 09:42:11:278 Updated 0 InterestrateMonthly to SubscriberBalance is successfully!!!
+25/11 09:42:11:584 Starting inout_network...
+25/11 09:42:15:862 Updated 0 inout_network to SubscriberBalance is successfully!!!
+25/11 09:42:16:195 Starting collect_usage...
+25/11 09:42:31:705 An SQLException was provoked by the following failure: java.lang.StringIndexOutOfBoundsException: String index out of range: 44
+25/11 09:42:31:717 End of process session
+25/11 09:42:46:739 Update DB Daily stopped
+25/11 09:45:06:747 Update DB Daily started
+25/11 09:45:06:799 Starting process session
+25/11 09:45:06:960 Starting collect_usage...
+25/11 09:45:24:339 An SQLException was provoked by the following failure: java.lang.StringIndexOutOfBoundsException: String index out of range: 44
+25/11 09:45:24:354 End of process session
+25/11 09:45:29:365 Update DB Daily stopped
+25/11 09:45:30:818 Update DB Daily started
+25/11 09:45:30:847 Starting process session
+25/11 09:45:30:883 Starting collect_usage...
+25/11 09:50:15:311 null
+25/11 09:50:15:323 End of process session
+25/11 09:51:44:412 Update DB Daily stopped
+25/11 09:51:46:192 Update DB Daily started
+25/11 09:51:46:227 Starting process session
+25/11 09:51:46:231 Starting collect_usage...
+25/11 09:51:56:272 null
+25/11 09:51:59:664 End of process session
+25/11 09:53:55:386 Update DB Daily started
+25/11 09:53:56:454 Starting process session
+25/11 09:53:56:603 Starting collect_usage...
+25/11 09:54:17:858 An SQLException was provoked by the following failure: java.lang.StringIndexOutOfBoundsException: String index out of range: 44
+25/11 09:54:17:872 End of process session
+25/11 09:59:00:212 Update DB Daily started
+25/11 09:59:01:198 Starting process session
+25/11 09:59:01:333 Starting collect_usage...
+25/11 09:59:01:376 An SQLException was provoked by the following failure: java.lang.StringIndexOutOfBoundsException: String index out of range: 44
+25/11 09:59:01:380 End of process session
+25/11 09:59:11:393 Update DB Daily stopped
+25/11 10:13:07:001 Update DB Daily started
+25/11 10:13:07:030 Starting process session
+25/11 10:13:07:034 Starting collect_usage...
+25/11 10:13:07:037 null
+25/11 10:13:07:041 End of process session
+25/11 10:13:12:049 Update DB Daily stopped
+25/11 10:13:14:047 Update DB Daily started
+25/11 10:13:14:076 Starting process session
+25/11 10:13:14:080 Starting collect_usage...
+25/11 10:13:14:083 null
+25/11 10:13:14:086 End of process session
+25/11 10:13:19:094 Update DB Daily stopped
+25/11 10:15:13:336 Update DB Daily started
+25/11 10:15:14:313 Starting process session
+25/11 10:15:14:455 Starting collect_usage...
+25/11 10:15:14:633 An SQLException was provoked by the following failure: java.lang.StringIndexOutOfBoundsException: String index out of range: 44
+25/11 10:15:14:638 End of process session
+25/11 10:15:22:648 Update DB Daily stopped
+25/11 10:15:59:463 Update DB Daily started
+25/11 10:15:59:490 Starting process session
+25/11 10:15:59:493 Starting collect_usage...
+25/11 10:15:59:559 null
+25/11 10:15:59:562 End of process session
+25/11 10:16:03:569 Update DB Daily stopped
+25/11 10:17:21:971 Update DB Daily started
+25/11 10:17:22:981 Starting process session
+25/11 10:17:23:129 Starting collect_usage...
+25/11 10:17:23:300 An SQLException was provoked by the following failure: java.lang.StringIndexOutOfBoundsException: String index out of range: 44
+25/11 10:17:23:304 End of process session
+25/11 10:17:28:312 Update DB Daily stopped
+25/11 10:25:19:409 Update DB Daily started
+25/11 10:25:20:351 Starting process session
+25/11 10:25:20:494 Starting collect_usage...
+25/11 10:25:20:676 Missing IN or OUT parameter at index:: 3
+25/11 10:25:20:681 End of process session
+25/11 10:26:18:567 Update DB Daily started
+25/11 10:26:19:520 Starting process session
+25/11 10:26:19:673 Starting collect_usage...
+25/11 10:26:19:845 An SQLException was provoked by the following failure: java.lang.StringIndexOutOfBoundsException: String index out of range: 44
+25/11 10:26:19:850 End of process session
+25/11 10:26:25:859 Update DB Daily stopped
+25/11 10:30:37:149 Update DB Daily started
+25/11 10:30:38:159 Starting process session
+25/11 10:30:38:298 Starting collect_usage...
+25/11 10:30:38:472 An SQLException was provoked by the following failure: java.lang.StringIndexOutOfBoundsException: String index out of range: 44
+25/11 10:30:38:477 End of process session
+25/11 10:30:50:491 Update DB Daily stopped
+25/11 10:37:14:698 Update DB Daily started
+25/11 10:37:15:708 Starting process session
+25/11 10:37:26:961 Starting collect_usage...
+25/11 10:40:54:822 An SQLException was provoked by the following failure: java.lang.StringIndexOutOfBoundsException: String index out of range: 44
+25/11 10:40:54:828 End of process session
+25/11 10:52:28:909 Update DB Daily started
+25/11 10:52:29:943 Starting process session
+25/11 10:52:34:467 Starting collect_usage...
+25/11 10:52:44:710 Updated 1 collect_usage to SubscriberBalance is successfully!!!
+25/11 10:52:44:725 End of process session
+25/11 10:55:53:770 Update DB Daily started
+25/11 10:55:54:685 Starting process session
+25/11 10:55:54:822 Starting collect_age...
+25/11 10:55:54:933 Updated 491 collect_age to SubscriberBalance is successfully!!!
+25/11 10:55:54:943 End of process session
+25/11 10:56:59:553 Update DB Daily started
+25/11 10:57:00:505 Starting process session
+25/11 10:57:00:661 Starting collect_topup...
+25/11 10:57:00:832 An SQLException was provoked by the following failure: java.lang.StringIndexOutOfBoundsException: String index out of range: 46
+25/11 10:57:00:838 End of process session
+25/11 10:57:59:843 Update DB Daily started
+25/11 10:58:00:823 Starting process session
+25/11 10:58:00:962 Starting collect_topup...
+25/11 10:58:01:041 Updated 0 collect_topup to SubscriberBalance is successfully!!!
+25/11 10:58:01:052 End of process session
+25/11 11:00:37:346 Update DB Daily started
+25/11 11:00:37:423 Starting process session
+25/11 11:00:37:511 Starting collect_topup...
+25/11 11:00:37:557 Updated 0 collect_topup to SubscriberBalance is successfully!!!
+25/11 11:00:37:563 End of process session
+25/11 11:00:42:572 Update DB Daily stopped
+25/11 11:00:50:408 Update DB Daily started
+25/11 11:00:50:436 Starting process session
+25/11 11:00:51:711 javax.mail.MessagingException: Could not connect to SMTP host: localhost, port: 25
+25/11 11:00:51:714 End of process session
+25/11 11:01:02:727 Update DB Daily stopped
+25/11 12:05:02:297 Auto invited SMS started
+25/11 12:05:02:326 Starting process session
+25/11 12:05:02:346 CumulationPoint: 24835 ISDN: 84927000675 Message: Chuc mung Quy khach da tich luy duoc 24835 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:02:350 CumulationPoint: 24620 ISDN: 84927000676 Message: Chuc mung Quy khach da tich luy duoc 24620 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:02:353 CumulationPoint: 24820 ISDN: 84927000678 Message: Chuc mung Quy khach da tich luy duoc 24820 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:02:357 CumulationPoint: 24920 ISDN: 84927000679 Message: Chuc mung Quy khach da tich luy duoc 24920 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:02:361 CumulationPoint: 25020 ISDN: 84927000680 Message: Chuc mung Quy khach da tich luy duoc 25020 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:02:364 CumulationPoint: 25120 ISDN: 84927000681 Message: Chuc mung Quy khach da tich luy duoc 25120 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:02:368 CumulationPoint: 25220 ISDN: 84927000682 Message: Chuc mung Quy khach da tich luy duoc 25220 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:02:373 CumulationPoint: 25320 ISDN: 84927000683 Message: Chuc mung Quy khach da tich luy duoc 25320 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:02:376 CumulationPoint: 25420 ISDN: 84927000684 Message: Chuc mung Quy khach da tich luy duoc 25420 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:02:380 CumulationPoint: 25620 ISDN: 84927000686 Message: Chuc mung Quy khach da tich luy duoc 25620 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:02:385 CumulationPoint: 25720 ISDN: 84927000687 Message: Chuc mung Quy khach da tich luy duoc 25720 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:02:390 CumulationPoint: 25820 ISDN: 84927000688 Message: Chuc mung Quy khach da tich luy duoc 25820 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:02:396 CumulationPoint: 25920 ISDN: 84927000689 Message: Chuc mung Quy khach da tich luy duoc 25920 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:02:401 CumulationPoint: 26020 ISDN: 84927000690 Message: Chuc mung Quy khach da tich luy duoc 26020 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:02:406 CumulationPoint: 26120 ISDN: 84927000691 Message: Chuc mung Quy khach da tich luy duoc 26120 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:02:412 CumulationPoint: 26220 ISDN: 84927000692 Message: Chuc mung Quy khach da tich luy duoc 26220 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:02:417 CumulationPoint: 26420 ISDN: 84927000694 Message: Chuc mung Quy khach da tich luy duoc 26420 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:02:421 CumulationPoint: 26520 ISDN: 84927000695 Message: Chuc mung Quy khach da tich luy duoc 26520 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:02:425 CumulationPoint: 26620 ISDN: 84927000696 Message: Chuc mung Quy khach da tich luy duoc 26620 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:02:428 CumulationPoint: 26720 ISDN: 84927000697 Message: Chuc mung Quy khach da tich luy duoc 26720 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:02:434 CumulationPoint: 26820 ISDN: 84927000698 Message: Chuc mung Quy khach da tich luy duoc 26820 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:02:437 CumulationPoint: 26920 ISDN: 84927000699 Message: Chuc mung Quy khach da tich luy duoc 26920 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:02:440 CumulationPoint: 27020 ISDN: 84927000700 Message: Chuc mung Quy khach da tich luy duoc 27020 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:02:444 CumulationPoint: 27220 ISDN: 84927000702 Message: Chuc mung Quy khach da tich luy duoc 27220 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:02:448 CumulationPoint: 27420 ISDN: 84927000704 Message: Chuc mung Quy khach da tich luy duoc 27420 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:02:451 CumulationPoint: 27520 ISDN: 84927000705 Message: Chuc mung Quy khach da tich luy duoc 27520 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:02:455 CumulationPoint: 27620 ISDN: 84927000706 Message: Chuc mung Quy khach da tich luy duoc 27620 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:02:458 CumulationPoint: 27720 ISDN: 84927000707 Message: Chuc mung Quy khach da tich luy duoc 27720 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:02:461 CumulationPoint: 27820 ISDN: 84927000708 Message: Chuc mung Quy khach da tich luy duoc 27820 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:02:464 CumulationPoint: 27920 ISDN: 84927000709 Message: Chuc mung Quy khach da tich luy duoc 27920 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:02:469 CumulationPoint: 28020 ISDN: 84927000710 Message: Chuc mung Quy khach da tich luy duoc 28020 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:02:473 CumulationPoint: 28220 ISDN: 84927000712 Message: Chuc mung Quy khach da tich luy duoc 28220 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:02:477 CumulationPoint: 28320 ISDN: 84927000713 Message: Chuc mung Quy khach da tich luy duoc 28320 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:02:481 CumulationPoint: 28420 ISDN: 84927000714 Message: Chuc mung Quy khach da tich luy duoc 28420 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:02:485 CumulationPoint: 28520 ISDN: 84927000715 Message: Chuc mung Quy khach da tich luy duoc 28520 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:02:490 CumulationPoint: 28620 ISDN: 84927000716 Message: Chuc mung Quy khach da tich luy duoc 28620 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:02:495 CumulationPoint: 28720 ISDN: 84927000717 Message: Chuc mung Quy khach da tich luy duoc 28720 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:02:500 CumulationPoint: 28820 ISDN: 84927000718 Message: Chuc mung Quy khach da tich luy duoc 28820 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:02:506 CumulationPoint: 28920 ISDN: 84927000719 Message: Chuc mung Quy khach da tich luy duoc 28920 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:02:512 CumulationPoint: 29120 ISDN: 84927000721 Message: Chuc mung Quy khach da tich luy duoc 29120 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:02:518 CumulationPoint: 29220 ISDN: 84927000722 Message: Chuc mung Quy khach da tich luy duoc 29220 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:02:522 CumulationPoint: 29320 ISDN: 84927000723 Message: Chuc mung Quy khach da tich luy duoc 29320 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:02:527 CumulationPoint: 29420 ISDN: 84927000724 Message: Chuc mung Quy khach da tich luy duoc 29420 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:02:532 CumulationPoint: 29520 ISDN: 84927000725 Message: Chuc mung Quy khach da tich luy duoc 29520 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:02:538 CumulationPoint: 29620 ISDN: 84927000726 Message: Chuc mung Quy khach da tich luy duoc 29620 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:02:543 CumulationPoint: 29720 ISDN: 84927000727 Message: Chuc mung Quy khach da tich luy duoc 29720 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:02:548 CumulationPoint: 29920 ISDN: 84927000729 Message: Chuc mung Quy khach da tich luy duoc 29920 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:02:553 CumulationPoint: 30020 ISDN: 84927000730 Message: Chuc mung Quy khach da tich luy duoc 30020 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:02:558 CumulationPoint: 30120 ISDN: 84927000731 Message: Chuc mung Quy khach da tich luy duoc 30120 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:02:563 CumulationPoint: 30220 ISDN: 84927000732 Message: Chuc mung Quy khach da tich luy duoc 30220 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:02:569 CumulationPoint: 30320 ISDN: 84927000733 Message: Chuc mung Quy khach da tich luy duoc 30320 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:02:573 CumulationPoint: 30420 ISDN: 84927000734 Message: Chuc mung Quy khach da tich luy duoc 30420 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:02:578 CumulationPoint: 30520 ISDN: 84927000735 Message: Chuc mung Quy khach da tich luy duoc 30520 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:02:583 CumulationPoint: 30720 ISDN: 84927000737 Message: Chuc mung Quy khach da tich luy duoc 30720 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:02:588 CumulationPoint: 30820 ISDN: 84927000738 Message: Chuc mung Quy khach da tich luy duoc 30820 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:02:593 CumulationPoint: 30920 ISDN: 84927000739 Message: Chuc mung Quy khach da tich luy duoc 30920 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:02:599 CumulationPoint: 31020 ISDN: 84927000740 Message: Chuc mung Quy khach da tich luy duoc 31020 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:02:605 CumulationPoint: 31120 ISDN: 84927000741 Message: Chuc mung Quy khach da tich luy duoc 31120 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:02:610 CumulationPoint: 31220 ISDN: 84927000742 Message: Chuc mung Quy khach da tich luy duoc 31220 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:02:615 CumulationPoint: 31320 ISDN: 84927000743 Message: Chuc mung Quy khach da tich luy duoc 31320 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:02:623 CumulationPoint: 31420 ISDN: 84927000744 Message: Chuc mung Quy khach da tich luy duoc 31420 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:02:627 CumulationPoint: 31620 ISDN: 84927000746 Message: Chuc mung Quy khach da tich luy duoc 31620 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:02:633 CumulationPoint: 31720 ISDN: 84927000747 Message: Chuc mung Quy khach da tich luy duoc 31720 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:02:638 CumulationPoint: 31920 ISDN: 84927000749 Message: Chuc mung Quy khach da tich luy duoc 31920 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:02:643 CumulationPoint: 32020 ISDN: 84927000750 Message: Chuc mung Quy khach da tich luy duoc 32020 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:02:648 CumulationPoint: 32120 ISDN: 84927000751 Message: Chuc mung Quy khach da tich luy duoc 32120 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:02:652 CumulationPoint: 32220 ISDN: 84927000752 Message: Chuc mung Quy khach da tich luy duoc 32220 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:02:657 CumulationPoint: 32320 ISDN: 84927000753 Message: Chuc mung Quy khach da tich luy duoc 32320 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:02:662 CumulationPoint: 32520 ISDN: 84927000755 Message: Chuc mung Quy khach da tich luy duoc 32520 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:02:668 CumulationPoint: 32620 ISDN: 84927000756 Message: Chuc mung Quy khach da tich luy duoc 32620 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:02:683 CumulationPoint: 32720 ISDN: 84927000757 Message: Chuc mung Quy khach da tich luy duoc 32720 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:02:692 CumulationPoint: 24720 ISDN: 84927000677 Message: Chuc mung Quy khach da tich luy duoc 24720 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:02:698 CumulationPoint: 25520 ISDN: 84927000685 Message: Chuc mung Quy khach da tich luy duoc 25520 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:02:702 CumulationPoint: 26320 ISDN: 84927000693 Message: Chuc mung Quy khach da tich luy duoc 26320 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:02:707 CumulationPoint: 27320 ISDN: 84927000703 Message: Chuc mung Quy khach da tich luy duoc 27320 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:02:712 CumulationPoint: 28120 ISDN: 84927000711 Message: Chuc mung Quy khach da tich luy duoc 28120 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:02:719 CumulationPoint: 29020 ISDN: 84927000720 Message: Chuc mung Quy khach da tich luy duoc 29020 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:02:725 CumulationPoint: 29820 ISDN: 84927000728 Message: Chuc mung Quy khach da tich luy duoc 29820 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:02:729 CumulationPoint: 30620 ISDN: 84927000736 Message: Chuc mung Quy khach da tich luy duoc 30620 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:02:736 CumulationPoint: 31520 ISDN: 84927000745 Message: Chuc mung Quy khach da tich luy duoc 31520 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:02:746 CumulationPoint: 32420 ISDN: 84927000754 Message: Chuc mung Quy khach da tich luy duoc 32420 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:02:751 CumulationPoint: 33220 ISDN: 84927000762 Message: Chuc mung Quy khach da tich luy duoc 33220 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:02:756 CumulationPoint: 34020 ISDN: 84927000770 Message: Chuc mung Quy khach da tich luy duoc 34020 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:02:761 CumulationPoint: 34920 ISDN: 84927000779 Message: Chuc mung Quy khach da tich luy duoc 34920 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:02:765 CumulationPoint: 35720 ISDN: 84927000787 Message: Chuc mung Quy khach da tich luy duoc 35720 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:02:771 CumulationPoint: 36620 ISDN: 84927000796 Message: Chuc mung Quy khach da tich luy duoc 36620 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:02:775 CumulationPoint: 37520 ISDN: 84927000805 Message: Chuc mung Quy khach da tich luy duoc 37520 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:02:780 CumulationPoint: 38320 ISDN: 84927000813 Message: Chuc mung Quy khach da tich luy duoc 38320 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:02:785 CumulationPoint: 39220 ISDN: 84927000822 Message: Chuc mung Quy khach da tich luy duoc 39220 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:02:790 CumulationPoint: 40020 ISDN: 84927000830 Message: Chuc mung Quy khach da tich luy duoc 40020 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:02:797 CumulationPoint: 40920 ISDN: 84927000839 Message: Chuc mung Quy khach da tich luy duoc 40920 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:02:801 CumulationPoint: 41420 ISDN: 84927000844 Message: Chuc mung Quy khach da tich luy duoc 41420 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:02:805 CumulationPoint: 42220 ISDN: 84927000852 Message: Chuc mung Quy khach da tich luy duoc 42220 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:02:810 CumulationPoint: 43120 ISDN: 84927000861 Message: Chuc mung Quy khach da tich luy duoc 43120 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:02:815 CumulationPoint: 43920 ISDN: 84927000869 Message: Chuc mung Quy khach da tich luy duoc 43920 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:02:820 CumulationPoint: 44720 ISDN: 84927000877 Message: Chuc mung Quy khach da tich luy duoc 44720 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:02:825 CumulationPoint: 45720 ISDN: 84927000887 Message: Chuc mung Quy khach da tich luy duoc 45720 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:02:831 CumulationPoint: 46520 ISDN: 84927000895 Message: Chuc mung Quy khach da tich luy duoc 46520 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:02:835 CumulationPoint: 47420 ISDN: 84927000904 Message: Chuc mung Quy khach da tich luy duoc 47420 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:02:841 CumulationPoint: 48220 ISDN: 84927000912 Message: Chuc mung Quy khach da tich luy duoc 48220 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:04:847 CumulationPoint: 49120 ISDN: 84927000921 Message: Chuc mung Quy khach da tich luy duoc 49120 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:04:850 CumulationPoint: 50620 ISDN: 84927000936 Message: Chuc mung Quy khach da tich luy duoc 50620 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:04:854 CumulationPoint: 51420 ISDN: 84927000944 Message: Chuc mung Quy khach da tich luy duoc 51420 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:04:858 CumulationPoint: 52320 ISDN: 84927000953 Message: Chuc mung Quy khach da tich luy duoc 52320 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:04:862 CumulationPoint: 53120 ISDN: 84927000961 Message: Chuc mung Quy khach da tich luy duoc 53120 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:04:866 CumulationPoint: 54020 ISDN: 84927000970 Message: Chuc mung Quy khach da tich luy duoc 54020 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:04:870 CumulationPoint: 54820 ISDN: 84927000978 Message: Chuc mung Quy khach da tich luy duoc 54820 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:04:875 CumulationPoint: 55620 ISDN: 84927000986 Message: Chuc mung Quy khach da tich luy duoc 55620 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:04:879 CumulationPoint: 56520 ISDN: 84927000995 Message: Chuc mung Quy khach da tich luy duoc 56520 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:04:884 CumulationPoint: 8620 ISDN: 84927000516 Message: Chuc mung Quy khach da tich luy duoc 8620 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:04:890 CumulationPoint: 9420 ISDN: 84927000524 Message: Chuc mung Quy khach da tich luy duoc 9420 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:04:894 CumulationPoint: 10220 ISDN: 84927000532 Message: Chuc mung Quy khach da tich luy duoc 10220 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:04:898 CumulationPoint: 11020 ISDN: 84927000540 Message: Chuc mung Quy khach da tich luy duoc 11020 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:04:902 CumulationPoint: 11820 ISDN: 84927000548 Message: Chuc mung Quy khach da tich luy duoc 11820 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:04:907 CumulationPoint: 12820 ISDN: 84927000558 Message: Chuc mung Quy khach da tich luy duoc 12820 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:04:914 CumulationPoint: 13620 ISDN: 84927000566 Message: Chuc mung Quy khach da tich luy duoc 13620 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:04:919 CumulationPoint: 14420 ISDN: 84927000574 Message: Chuc mung Quy khach da tich luy duoc 14420 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:04:923 CumulationPoint: 15320 ISDN: 84927000583 Message: Chuc mung Quy khach da tich luy duoc 15320 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:04:926 CumulationPoint: 16220 ISDN: 84927000592 Message: Chuc mung Quy khach da tich luy duoc 16220 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:04:931 CumulationPoint: 16620 ISDN: 84927000596 Message: Chuc mung Quy khach da tich luy duoc 16620 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:04:942 CumulationPoint: 17520 ISDN: 84927000605 Message: Chuc mung Quy khach da tich luy duoc 17520 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:04:947 CumulationPoint: 18320 ISDN: 84927000613 Message: Chuc mung Quy khach da tich luy duoc 18320 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:04:951 CumulationPoint: 32820 ISDN: 84927000758 Message: Chuc mung Quy khach da tich luy duoc 32820 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:04:956 CumulationPoint: 32920 ISDN: 84927000759 Message: Chuc mung Quy khach da tich luy duoc 32920 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:04:961 CumulationPoint: 33020 ISDN: 84927000760 Message: Chuc mung Quy khach da tich luy duoc 33020 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:04:966 CumulationPoint: 33120 ISDN: 84927000761 Message: Chuc mung Quy khach da tich luy duoc 33120 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:04:970 CumulationPoint: 33320 ISDN: 84927000763 Message: Chuc mung Quy khach da tich luy duoc 33320 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:04:974 CumulationPoint: 33420 ISDN: 84927000764 Message: Chuc mung Quy khach da tich luy duoc 33420 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:04:979 CumulationPoint: 33520 ISDN: 84927000765 Message: Chuc mung Quy khach da tich luy duoc 33520 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:04:985 CumulationPoint: 33620 ISDN: 84927000766 Message: Chuc mung Quy khach da tich luy duoc 33620 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:04:991 CumulationPoint: 33720 ISDN: 84927000767 Message: Chuc mung Quy khach da tich luy duoc 33720 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:04:996 CumulationPoint: 33820 ISDN: 84927000768 Message: Chuc mung Quy khach da tich luy duoc 33820 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:05:001 CumulationPoint: 33920 ISDN: 84927000769 Message: Chuc mung Quy khach da tich luy duoc 33920 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:05:005 CumulationPoint: 34120 ISDN: 84927000771 Message: Chuc mung Quy khach da tich luy duoc 34120 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:05:010 CumulationPoint: 34220 ISDN: 84927000772 Message: Chuc mung Quy khach da tich luy duoc 34220 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:05:015 CumulationPoint: 34320 ISDN: 84927000773 Message: Chuc mung Quy khach da tich luy duoc 34320 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:05:020 CumulationPoint: 34420 ISDN: 84927000774 Message: Chuc mung Quy khach da tich luy duoc 34420 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:05:025 CumulationPoint: 34520 ISDN: 84927000775 Message: Chuc mung Quy khach da tich luy duoc 34520 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:05:030 CumulationPoint: 34620 ISDN: 84927000776 Message: Chuc mung Quy khach da tich luy duoc 34620 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:05:035 CumulationPoint: 34720 ISDN: 84927000777 Message: Chuc mung Quy khach da tich luy duoc 34720 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:05:041 CumulationPoint: 34820 ISDN: 84927000778 Message: Chuc mung Quy khach da tich luy duoc 34820 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:05:046 CumulationPoint: 35020 ISDN: 84927000780 Message: Chuc mung Quy khach da tich luy duoc 35020 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:05:051 CumulationPoint: 35120 ISDN: 84927000781 Message: Chuc mung Quy khach da tich luy duoc 35120 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:05:056 CumulationPoint: 35220 ISDN: 84927000782 Message: Chuc mung Quy khach da tich luy duoc 35220 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:05:060 CumulationPoint: 35320 ISDN: 84927000783 Message: Chuc mung Quy khach da tich luy duoc 35320 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:05:064 CumulationPoint: 35420 ISDN: 84927000784 Message: Chuc mung Quy khach da tich luy duoc 35420 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:05:069 CumulationPoint: 35520 ISDN: 84927000785 Message: Chuc mung Quy khach da tich luy duoc 35520 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:05:074 CumulationPoint: 35620 ISDN: 84927000786 Message: Chuc mung Quy khach da tich luy duoc 35620 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:05:079 CumulationPoint: 35820 ISDN: 84927000788 Message: Chuc mung Quy khach da tich luy duoc 35820 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:05:084 CumulationPoint: 35920 ISDN: 84927000789 Message: Chuc mung Quy khach da tich luy duoc 35920 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:05:091 CumulationPoint: 36020 ISDN: 84927000790 Message: Chuc mung Quy khach da tich luy duoc 36020 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:05:095 CumulationPoint: 36120 ISDN: 84927000791 Message: Chuc mung Quy khach da tich luy duoc 36120 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:05:100 CumulationPoint: 36220 ISDN: 84927000792 Message: Chuc mung Quy khach da tich luy duoc 36220 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:05:104 CumulationPoint: 36320 ISDN: 84927000793 Message: Chuc mung Quy khach da tich luy duoc 36320 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:05:108 CumulationPoint: 36420 ISDN: 84927000794 Message: Chuc mung Quy khach da tich luy duoc 36420 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:05:113 CumulationPoint: 36520 ISDN: 84927000795 Message: Chuc mung Quy khach da tich luy duoc 36520 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:05:118 CumulationPoint: 36720 ISDN: 84927000797 Message: Chuc mung Quy khach da tich luy duoc 36720 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:05:124 CumulationPoint: 36820 ISDN: 84927000798 Message: Chuc mung Quy khach da tich luy duoc 36820 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:05:128 CumulationPoint: 36920 ISDN: 84927000799 Message: Chuc mung Quy khach da tich luy duoc 36920 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:05:133 CumulationPoint: 37020 ISDN: 84927000800 Message: Chuc mung Quy khach da tich luy duoc 37020 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:05:140 CumulationPoint: 37120 ISDN: 84927000801 Message: Chuc mung Quy khach da tich luy duoc 37120 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:05:145 CumulationPoint: 37320 ISDN: 84927000803 Message: Chuc mung Quy khach da tich luy duoc 37320 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:05:149 CumulationPoint: 37420 ISDN: 84927000804 Message: Chuc mung Quy khach da tich luy duoc 37420 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:05:154 CumulationPoint: 37620 ISDN: 84927000806 Message: Chuc mung Quy khach da tich luy duoc 37620 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:05:158 CumulationPoint: 37720 ISDN: 84927000807 Message: Chuc mung Quy khach da tich luy duoc 37720 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:05:163 CumulationPoint: 37820 ISDN: 84927000808 Message: Chuc mung Quy khach da tich luy duoc 37820 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:05:167 CumulationPoint: 37920 ISDN: 84927000809 Message: Chuc mung Quy khach da tich luy duoc 37920 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:05:171 CumulationPoint: 38020 ISDN: 84927000810 Message: Chuc mung Quy khach da tich luy duoc 38020 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:05:176 CumulationPoint: 38120 ISDN: 84927000811 Message: Chuc mung Quy khach da tich luy duoc 38120 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:05:180 CumulationPoint: 38220 ISDN: 84927000812 Message: Chuc mung Quy khach da tich luy duoc 38220 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:05:187 CumulationPoint: 38420 ISDN: 84927000814 Message: Chuc mung Quy khach da tich luy duoc 38420 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:05:192 CumulationPoint: 38520 ISDN: 84927000815 Message: Chuc mung Quy khach da tich luy duoc 38520 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:05:196 CumulationPoint: 38620 ISDN: 84927000816 Message: Chuc mung Quy khach da tich luy duoc 38620 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:05:201 CumulationPoint: 38720 ISDN: 84927000817 Message: Chuc mung Quy khach da tich luy duoc 38720 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:05:206 CumulationPoint: 38820 ISDN: 84927000818 Message: Chuc mung Quy khach da tich luy duoc 38820 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:05:210 CumulationPoint: 38920 ISDN: 84927000819 Message: Chuc mung Quy khach da tich luy duoc 38920 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:05:216 CumulationPoint: 39020 ISDN: 84927000820 Message: Chuc mung Quy khach da tich luy duoc 39020 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:05:221 CumulationPoint: 39120 ISDN: 84927000821 Message: Chuc mung Quy khach da tich luy duoc 39120 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:05:225 CumulationPoint: 39320 ISDN: 84927000823 Message: Chuc mung Quy khach da tich luy duoc 39320 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:05:231 CumulationPoint: 39420 ISDN: 84927000824 Message: Chuc mung Quy khach da tich luy duoc 39420 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:05:239 CumulationPoint: 39520 ISDN: 84927000825 Message: Chuc mung Quy khach da tich luy duoc 39520 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:05:244 CumulationPoint: 39620 ISDN: 84927000826 Message: Chuc mung Quy khach da tich luy duoc 39620 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:05:248 CumulationPoint: 39720 ISDN: 84927000827 Message: Chuc mung Quy khach da tich luy duoc 39720 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:05:253 CumulationPoint: 39820 ISDN: 84927000828 Message: Chuc mung Quy khach da tich luy duoc 39820 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:05:258 CumulationPoint: 39920 ISDN: 84927000829 Message: Chuc mung Quy khach da tich luy duoc 39920 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:05:264 CumulationPoint: 40120 ISDN: 84927000831 Message: Chuc mung Quy khach da tich luy duoc 40120 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:05:270 CumulationPoint: 40220 ISDN: 84927000832 Message: Chuc mung Quy khach da tich luy duoc 40220 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:05:275 CumulationPoint: 40420 ISDN: 84927000834 Message: Chuc mung Quy khach da tich luy duoc 40420 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:05:279 CumulationPoint: 40520 ISDN: 84927000835 Message: Chuc mung Quy khach da tich luy duoc 40520 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:05:284 CumulationPoint: 40620 ISDN: 84927000836 Message: Chuc mung Quy khach da tich luy duoc 40620 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:05:291 CumulationPoint: 40720 ISDN: 84927000837 Message: Chuc mung Quy khach da tich luy duoc 40720 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:05:295 CumulationPoint: 40820 ISDN: 84927000838 Message: Chuc mung Quy khach da tich luy duoc 40820 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:05:300 CumulationPoint: 41020 ISDN: 84927000840 Message: Chuc mung Quy khach da tich luy duoc 41020 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:05:304 CumulationPoint: 41120 ISDN: 84927000841 Message: Chuc mung Quy khach da tich luy duoc 41120 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:05:309 CumulationPoint: 41220 ISDN: 84927000842 Message: Chuc mung Quy khach da tich luy duoc 41220 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:05:313 CumulationPoint: 41320 ISDN: 84927000843 Message: Chuc mung Quy khach da tich luy duoc 41320 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:05:318 CumulationPoint: 41520 ISDN: 84927000845 Message: Chuc mung Quy khach da tich luy duoc 41520 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:05:322 CumulationPoint: 41620 ISDN: 84927000846 Message: Chuc mung Quy khach da tich luy duoc 41620 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:05:326 CumulationPoint: 41720 ISDN: 84927000847 Message: Chuc mung Quy khach da tich luy duoc 41720 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:05:331 CumulationPoint: 41820 ISDN: 84927000848 Message: Chuc mung Quy khach da tich luy duoc 41820 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:07:338 CumulationPoint: 41920 ISDN: 84927000849 Message: Chuc mung Quy khach da tich luy duoc 41920 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:07:342 CumulationPoint: 42020 ISDN: 84927000850 Message: Chuc mung Quy khach da tich luy duoc 42020 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:07:345 CumulationPoint: 42120 ISDN: 84927000851 Message: Chuc mung Quy khach da tich luy duoc 42120 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:07:350 CumulationPoint: 42320 ISDN: 84927000853 Message: Chuc mung Quy khach da tich luy duoc 42320 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:07:354 CumulationPoint: 42420 ISDN: 84927000854 Message: Chuc mung Quy khach da tich luy duoc 42420 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:07:359 CumulationPoint: 42520 ISDN: 84927000855 Message: Chuc mung Quy khach da tich luy duoc 42520 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:07:365 CumulationPoint: 42620 ISDN: 84927000856 Message: Chuc mung Quy khach da tich luy duoc 42620 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:07:371 CumulationPoint: 42720 ISDN: 84927000857 Message: Chuc mung Quy khach da tich luy duoc 42720 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:07:383 CumulationPoint: 42820 ISDN: 84927000858 Message: Chuc mung Quy khach da tich luy duoc 42820 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:07:389 CumulationPoint: 42920 ISDN: 84927000859 Message: Chuc mung Quy khach da tich luy duoc 42920 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:07:398 CumulationPoint: 43020 ISDN: 84927000860 Message: Chuc mung Quy khach da tich luy duoc 43020 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:07:403 CumulationPoint: 43220 ISDN: 84927000862 Message: Chuc mung Quy khach da tich luy duoc 43220 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:07:408 CumulationPoint: 43320 ISDN: 84927000863 Message: Chuc mung Quy khach da tich luy duoc 43320 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:07:413 CumulationPoint: 43420 ISDN: 84927000864 Message: Chuc mung Quy khach da tich luy duoc 43420 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:07:418 CumulationPoint: 43520 ISDN: 84927000865 Message: Chuc mung Quy khach da tich luy duoc 43520 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:07:422 CumulationPoint: 43620 ISDN: 84927000866 Message: Chuc mung Quy khach da tich luy duoc 43620 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:07:427 CumulationPoint: 43720 ISDN: 84927000867 Message: Chuc mung Quy khach da tich luy duoc 43720 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:07:432 CumulationPoint: 43820 ISDN: 84927000868 Message: Chuc mung Quy khach da tich luy duoc 43820 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:07:436 CumulationPoint: 44020 ISDN: 84927000870 Message: Chuc mung Quy khach da tich luy duoc 44020 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:07:441 CumulationPoint: 44120 ISDN: 84927000871 Message: Chuc mung Quy khach da tich luy duoc 44120 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:07:448 CumulationPoint: 44220 ISDN: 84927000872 Message: Chuc mung Quy khach da tich luy duoc 44220 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:07:452 CumulationPoint: 44320 ISDN: 84927000873 Message: Chuc mung Quy khach da tich luy duoc 44320 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:07:457 CumulationPoint: 44420 ISDN: 84927000874 Message: Chuc mung Quy khach da tich luy duoc 44420 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:07:461 CumulationPoint: 44520 ISDN: 84927000875 Message: Chuc mung Quy khach da tich luy duoc 44520 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:07:465 CumulationPoint: 44620 ISDN: 84927000876 Message: Chuc mung Quy khach da tich luy duoc 44620 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:07:471 CumulationPoint: 44820 ISDN: 84927000878 Message: Chuc mung Quy khach da tich luy duoc 44820 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:07:475 CumulationPoint: 44920 ISDN: 84927000879 Message: Chuc mung Quy khach da tich luy duoc 44920 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:07:480 CumulationPoint: 45020 ISDN: 84927000880 Message: Chuc mung Quy khach da tich luy duoc 45020 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:07:485 CumulationPoint: 45120 ISDN: 84927000881 Message: Chuc mung Quy khach da tich luy duoc 45120 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:07:490 CumulationPoint: 45320 ISDN: 84927000883 Message: Chuc mung Quy khach da tich luy duoc 45320 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:07:496 CumulationPoint: 45420 ISDN: 84927000884 Message: Chuc mung Quy khach da tich luy duoc 45420 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:07:501 CumulationPoint: 45520 ISDN: 84927000885 Message: Chuc mung Quy khach da tich luy duoc 45520 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:07:506 CumulationPoint: 45620 ISDN: 84927000886 Message: Chuc mung Quy khach da tich luy duoc 45620 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:07:510 CumulationPoint: 45820 ISDN: 84927000888 Message: Chuc mung Quy khach da tich luy duoc 45820 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:07:515 CumulationPoint: 45920 ISDN: 84927000889 Message: Chuc mung Quy khach da tich luy duoc 45920 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:07:520 CumulationPoint: 46020 ISDN: 84927000890 Message: Chuc mung Quy khach da tich luy duoc 46020 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:07:525 CumulationPoint: 46120 ISDN: 84927000891 Message: Chuc mung Quy khach da tich luy duoc 46120 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:07:530 CumulationPoint: 46220 ISDN: 84927000892 Message: Chuc mung Quy khach da tich luy duoc 46220 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:07:534 CumulationPoint: 46320 ISDN: 84927000893 Message: Chuc mung Quy khach da tich luy duoc 46320 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:07:538 CumulationPoint: 46420 ISDN: 84927000894 Message: Chuc mung Quy khach da tich luy duoc 46420 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:07:545 CumulationPoint: 46620 ISDN: 84927000896 Message: Chuc mung Quy khach da tich luy duoc 46620 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:07:550 CumulationPoint: 46720 ISDN: 84927000897 Message: Chuc mung Quy khach da tich luy duoc 46720 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:07:554 CumulationPoint: 46820 ISDN: 84927000898 Message: Chuc mung Quy khach da tich luy duoc 46820 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:07:558 CumulationPoint: 46920 ISDN: 84927000899 Message: Chuc mung Quy khach da tich luy duoc 46920 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:07:563 CumulationPoint: 47020 ISDN: 84927000900 Message: Chuc mung Quy khach da tich luy duoc 47020 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:07:567 CumulationPoint: 47120 ISDN: 84927000901 Message: Chuc mung Quy khach da tich luy duoc 47120 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:07:572 CumulationPoint: 47220 ISDN: 84927000902 Message: Chuc mung Quy khach da tich luy duoc 47220 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:07:576 CumulationPoint: 47320 ISDN: 84927000903 Message: Chuc mung Quy khach da tich luy duoc 47320 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:07:581 CumulationPoint: 47520 ISDN: 84927000905 Message: Chuc mung Quy khach da tich luy duoc 47520 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:07:586 CumulationPoint: 47620 ISDN: 84927000906 Message: Chuc mung Quy khach da tich luy duoc 47620 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:07:592 CumulationPoint: 47720 ISDN: 84927000907 Message: Chuc mung Quy khach da tich luy duoc 47720 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:07:597 CumulationPoint: 47820 ISDN: 84927000908 Message: Chuc mung Quy khach da tich luy duoc 47820 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:07:601 CumulationPoint: 47920 ISDN: 84927000909 Message: Chuc mung Quy khach da tich luy duoc 47920 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:07:605 CumulationPoint: 48020 ISDN: 84927000910 Message: Chuc mung Quy khach da tich luy duoc 48020 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:07:609 CumulationPoint: 48120 ISDN: 84927000911 Message: Chuc mung Quy khach da tich luy duoc 48120 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:07:614 CumulationPoint: 48320 ISDN: 84927000913 Message: Chuc mung Quy khach da tich luy duoc 48320 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:07:618 CumulationPoint: 48420 ISDN: 84927000914 Message: Chuc mung Quy khach da tich luy duoc 48420 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:07:623 CumulationPoint: 48620 ISDN: 84927000916 Message: Chuc mung Quy khach da tich luy duoc 48620 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:07:627 CumulationPoint: 48720 ISDN: 84927000917 Message: Chuc mung Quy khach da tich luy duoc 48720 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:07:632 CumulationPoint: 48820 ISDN: 84927000918 Message: Chuc mung Quy khach da tich luy duoc 48820 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:07:640 CumulationPoint: 48920 ISDN: 84927000919 Message: Chuc mung Quy khach da tich luy duoc 48920 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:07:645 CumulationPoint: 49020 ISDN: 84927000920 Message: Chuc mung Quy khach da tich luy duoc 49020 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:07:650 CumulationPoint: 49220 ISDN: 84927000922 Message: Chuc mung Quy khach da tich luy duoc 49220 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:07:654 CumulationPoint: 49320 ISDN: 84927000923 Message: Chuc mung Quy khach da tich luy duoc 49320 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:07:659 CumulationPoint: 49420 ISDN: 84927000924 Message: Chuc mung Quy khach da tich luy duoc 49420 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:07:663 CumulationPoint: 49520 ISDN: 84927000925 Message: Chuc mung Quy khach da tich luy duoc 49520 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:07:668 CumulationPoint: 49620 ISDN: 84927000926 Message: Chuc mung Quy khach da tich luy duoc 49620 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:07:673 CumulationPoint: 49720 ISDN: 84927000927 Message: Chuc mung Quy khach da tich luy duoc 49720 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:07:677 CumulationPoint: 49820 ISDN: 84927000928 Message: Chuc mung Quy khach da tich luy duoc 49820 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:07:682 CumulationPoint: 49920 ISDN: 84927000929 Message: Chuc mung Quy khach da tich luy duoc 49920 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:07:689 CumulationPoint: 50020 ISDN: 84927000930 Message: Chuc mung Quy khach da tich luy duoc 50020 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:07:694 CumulationPoint: 50120 ISDN: 84927000931 Message: Chuc mung Quy khach da tich luy duoc 50120 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:07:698 CumulationPoint: 50220 ISDN: 84927000932 Message: Chuc mung Quy khach da tich luy duoc 50220 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:07:703 CumulationPoint: 50320 ISDN: 84927000933 Message: Chuc mung Quy khach da tich luy duoc 50320 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:07:707 CumulationPoint: 50420 ISDN: 84927000934 Message: Chuc mung Quy khach da tich luy duoc 50420 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:07:712 CumulationPoint: 50520 ISDN: 84927000935 Message: Chuc mung Quy khach da tich luy duoc 50520 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:07:717 CumulationPoint: 50720 ISDN: 84927000937 Message: Chuc mung Quy khach da tich luy duoc 50720 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:07:722 CumulationPoint: 50820 ISDN: 84927000938 Message: Chuc mung Quy khach da tich luy duoc 50820 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:07:727 CumulationPoint: 50920 ISDN: 84927000939 Message: Chuc mung Quy khach da tich luy duoc 50920 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:07:732 CumulationPoint: 51020 ISDN: 84927000940 Message: Chuc mung Quy khach da tich luy duoc 51020 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:07:739 CumulationPoint: 51120 ISDN: 84927000941 Message: Chuc mung Quy khach da tich luy duoc 51120 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:07:743 CumulationPoint: 51220 ISDN: 84927000942 Message: Chuc mung Quy khach da tich luy duoc 51220 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:07:747 CumulationPoint: 51320 ISDN: 84927000943 Message: Chuc mung Quy khach da tich luy duoc 51320 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:07:751 CumulationPoint: 51520 ISDN: 84927000945 Message: Chuc mung Quy khach da tich luy duoc 51520 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:07:756 CumulationPoint: 51620 ISDN: 84927000946 Message: Chuc mung Quy khach da tich luy duoc 51620 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:07:761 CumulationPoint: 51720 ISDN: 84927000947 Message: Chuc mung Quy khach da tich luy duoc 51720 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:07:765 CumulationPoint: 51820 ISDN: 84927000948 Message: Chuc mung Quy khach da tich luy duoc 51820 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:07:770 CumulationPoint: 51920 ISDN: 84927000949 Message: Chuc mung Quy khach da tich luy duoc 51920 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:07:775 CumulationPoint: 52020 ISDN: 84927000950 Message: Chuc mung Quy khach da tich luy duoc 52020 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:07:779 CumulationPoint: 52120 ISDN: 84927000951 Message: Chuc mung Quy khach da tich luy duoc 52120 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:07:786 CumulationPoint: 52220 ISDN: 84927000952 Message: Chuc mung Quy khach da tich luy duoc 52220 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:07:791 CumulationPoint: 52420 ISDN: 84927000954 Message: Chuc mung Quy khach da tich luy duoc 52420 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:07:795 CumulationPoint: 52520 ISDN: 84927000955 Message: Chuc mung Quy khach da tich luy duoc 52520 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:07:800 CumulationPoint: 52620 ISDN: 84927000956 Message: Chuc mung Quy khach da tich luy duoc 52620 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:07:806 CumulationPoint: 52720 ISDN: 84927000957 Message: Chuc mung Quy khach da tich luy duoc 52720 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:07:811 CumulationPoint: 52820 ISDN: 84927000958 Message: Chuc mung Quy khach da tich luy duoc 52820 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:07:816 CumulationPoint: 52920 ISDN: 84927000959 Message: Chuc mung Quy khach da tich luy duoc 52920 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:07:821 CumulationPoint: 53020 ISDN: 84927000960 Message: Chuc mung Quy khach da tich luy duoc 53020 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:07:827 CumulationPoint: 53220 ISDN: 84927000962 Message: Chuc mung Quy khach da tich luy duoc 53220 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:07:832 CumulationPoint: 53320 ISDN: 84927000963 Message: Chuc mung Quy khach da tich luy duoc 53320 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:09:840 CumulationPoint: 53420 ISDN: 84927000964 Message: Chuc mung Quy khach da tich luy duoc 53420 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:09:845 CumulationPoint: 53520 ISDN: 84927000965 Message: Chuc mung Quy khach da tich luy duoc 53520 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:09:850 CumulationPoint: 53620 ISDN: 84927000966 Message: Chuc mung Quy khach da tich luy duoc 53620 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:09:856 CumulationPoint: 53720 ISDN: 84927000967 Message: Chuc mung Quy khach da tich luy duoc 53720 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:09:863 CumulationPoint: 53820 ISDN: 84927000968 Message: Chuc mung Quy khach da tich luy duoc 53820 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:09:871 CumulationPoint: 53920 ISDN: 84927000969 Message: Chuc mung Quy khach da tich luy duoc 53920 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:09:877 CumulationPoint: 54120 ISDN: 84927000971 Message: Chuc mung Quy khach da tich luy duoc 54120 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:09:883 CumulationPoint: 54220 ISDN: 84927000972 Message: Chuc mung Quy khach da tich luy duoc 54220 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:09:888 CumulationPoint: 54320 ISDN: 84927000973 Message: Chuc mung Quy khach da tich luy duoc 54320 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:09:893 CumulationPoint: 54420 ISDN: 84927000974 Message: Chuc mung Quy khach da tich luy duoc 54420 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:09:900 CumulationPoint: 54520 ISDN: 84927000975 Message: Chuc mung Quy khach da tich luy duoc 54520 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:09:905 CumulationPoint: 54620 ISDN: 84927000976 Message: Chuc mung Quy khach da tich luy duoc 54620 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:09:910 CumulationPoint: 54720 ISDN: 84927000977 Message: Chuc mung Quy khach da tich luy duoc 54720 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:09:916 CumulationPoint: 54920 ISDN: 84927000979 Message: Chuc mung Quy khach da tich luy duoc 54920 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:09:921 CumulationPoint: 55020 ISDN: 84927000980 Message: Chuc mung Quy khach da tich luy duoc 55020 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:09:926 CumulationPoint: 55120 ISDN: 84927000981 Message: Chuc mung Quy khach da tich luy duoc 55120 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:09:931 CumulationPoint: 55220 ISDN: 84927000982 Message: Chuc mung Quy khach da tich luy duoc 55220 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:09:936 CumulationPoint: 55320 ISDN: 84927000983 Message: Chuc mung Quy khach da tich luy duoc 55320 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:09:942 CumulationPoint: 55420 ISDN: 84927000984 Message: Chuc mung Quy khach da tich luy duoc 55420 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:09:947 CumulationPoint: 55520 ISDN: 84927000985 Message: Chuc mung Quy khach da tich luy duoc 55520 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:09:954 CumulationPoint: 55720 ISDN: 84927000987 Message: Chuc mung Quy khach da tich luy duoc 55720 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:09:960 CumulationPoint: 55820 ISDN: 84927000988 Message: Chuc mung Quy khach da tich luy duoc 55820 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:09:966 CumulationPoint: 55920 ISDN: 84927000989 Message: Chuc mung Quy khach da tich luy duoc 55920 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:09:970 CumulationPoint: 56020 ISDN: 84927000990 Message: Chuc mung Quy khach da tich luy duoc 56020 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:09:976 CumulationPoint: 56120 ISDN: 84927000991 Message: Chuc mung Quy khach da tich luy duoc 56120 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:09:982 CumulationPoint: 56220 ISDN: 84927000992 Message: Chuc mung Quy khach da tich luy duoc 56220 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:09:988 CumulationPoint: 56320 ISDN: 84927000993 Message: Chuc mung Quy khach da tich luy duoc 56320 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:09:993 CumulationPoint: 56420 ISDN: 84927000994 Message: Chuc mung Quy khach da tich luy duoc 56420 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:09:999 CumulationPoint: 56620 ISDN: 84927000996 Message: Chuc mung Quy khach da tich luy duoc 56620 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:10:005 CumulationPoint: 56720 ISDN: 84927000997 Message: Chuc mung Quy khach da tich luy duoc 56720 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:10:014 CumulationPoint: 56820 ISDN: 84927000998 Message: Chuc mung Quy khach da tich luy duoc 56820 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:10:019 CumulationPoint: 56920 ISDN: 84927000999 Message: Chuc mung Quy khach da tich luy duoc 56920 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:10:024 CumulationPoint: 57020 ISDN: 84927001000 Message: Chuc mung Quy khach da tich luy duoc 57020 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:10:029 CumulationPoint: 31820 ISDN: 84927000748 Message: Chuc mung Quy khach da tich luy duoc 31820 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:10:034 CumulationPoint: 40320 ISDN: 84927000833 Message: Chuc mung Quy khach da tich luy duoc 40320 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:10:039 CumulationPoint: 48520 ISDN: 84927000915 Message: Chuc mung Quy khach da tich luy duoc 48520 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:10:046 CumulationPoint: 16020 ISDN: 84927000590 Message: Chuc mung Quy khach da tich luy duoc 16020 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:10:051 CumulationPoint: 19120 ISDN: 84927000621 Message: Chuc mung Quy khach da tich luy duoc 19120 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:10:057 CumulationPoint: 20020 ISDN: 84927000630 Message: Chuc mung Quy khach da tich luy duoc 20020 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:10:063 CumulationPoint: 20920 ISDN: 84927000639 Message: Chuc mung Quy khach da tich luy duoc 20920 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:10:073 CumulationPoint: 21720 ISDN: 84927000647 Message: Chuc mung Quy khach da tich luy duoc 21720 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:10:078 CumulationPoint: 22520 ISDN: 84927000655 Message: Chuc mung Quy khach da tich luy duoc 22520 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:10:082 CumulationPoint: 23420 ISDN: 84927000664 Message: Chuc mung Quy khach da tich luy duoc 23420 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:10:087 CumulationPoint: 24220 ISDN: 84927000672 Message: Chuc mung Quy khach da tich luy duoc 24220 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:10:092 CumulationPoint: 27120 ISDN: 84927000701 Message: Chuc mung Quy khach da tich luy duoc 27120 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:10:097 CumulationPoint: 37220 ISDN: 84927000802 Message: Chuc mung Quy khach da tich luy duoc 37220 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:10:101 CumulationPoint: 45220 ISDN: 84927000882 Message: Chuc mung Quy khach da tich luy duoc 45220 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:10:107 CumulationPoint: 12620 ISDN: 84927000556 Message: Chuc mung Quy khach da tich luy duoc 12620 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:10:111 CumulationPoint: 20120 ISDN: 84927000631 Message: Chuc mung Quy khach da tich luy duoc 20120 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:10:116 CumulationPoint: 8020 ISDN: 84927000510 Message: Chuc mung Quy khach da tich luy duoc 8020 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:10:123 CumulationPoint: 8120 ISDN: 84927000511 Message: Chuc mung Quy khach da tich luy duoc 8120 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:10:128 CumulationPoint: 8220 ISDN: 84927000512 Message: Chuc mung Quy khach da tich luy duoc 8220 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:10:133 CumulationPoint: 8320 ISDN: 84927000513 Message: Chuc mung Quy khach da tich luy duoc 8320 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:10:138 CumulationPoint: 8420 ISDN: 84927000514 Message: Chuc mung Quy khach da tich luy duoc 8420 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:10:142 CumulationPoint: 8520 ISDN: 84927000515 Message: Chuc mung Quy khach da tich luy duoc 8520 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:10:147 CumulationPoint: 8720 ISDN: 84927000517 Message: Chuc mung Quy khach da tich luy duoc 8720 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:10:152 CumulationPoint: 8820 ISDN: 84927000518 Message: Chuc mung Quy khach da tich luy duoc 8820 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:10:156 CumulationPoint: 8920 ISDN: 84927000519 Message: Chuc mung Quy khach da tich luy duoc 8920 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:10:160 CumulationPoint: 9020 ISDN: 84927000520 Message: Chuc mung Quy khach da tich luy duoc 9020 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:10:165 CumulationPoint: 9120 ISDN: 84927000521 Message: Chuc mung Quy khach da tich luy duoc 9120 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:10:172 CumulationPoint: 9220 ISDN: 84927000522 Message: Chuc mung Quy khach da tich luy duoc 9220 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:10:176 CumulationPoint: 9320 ISDN: 84927000523 Message: Chuc mung Quy khach da tich luy duoc 9320 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:10:180 CumulationPoint: 9520 ISDN: 84927000525 Message: Chuc mung Quy khach da tich luy duoc 9520 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:10:184 CumulationPoint: 9620 ISDN: 84927000526 Message: Chuc mung Quy khach da tich luy duoc 9620 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:10:189 CumulationPoint: 9720 ISDN: 84927000527 Message: Chuc mung Quy khach da tich luy duoc 9720 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:10:194 CumulationPoint: 9820 ISDN: 84927000528 Message: Chuc mung Quy khach da tich luy duoc 9820 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:10:198 CumulationPoint: 9920 ISDN: 84927000529 Message: Chuc mung Quy khach da tich luy duoc 9920 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:10:203 CumulationPoint: 10020 ISDN: 84927000530 Message: Chuc mung Quy khach da tich luy duoc 10020 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:10:207 CumulationPoint: 10120 ISDN: 84927000531 Message: Chuc mung Quy khach da tich luy duoc 10120 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:10:212 CumulationPoint: 10320 ISDN: 84927000533 Message: Chuc mung Quy khach da tich luy duoc 10320 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:10:218 CumulationPoint: 10420 ISDN: 84927000534 Message: Chuc mung Quy khach da tich luy duoc 10420 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:10:222 CumulationPoint: 10520 ISDN: 84927000535 Message: Chuc mung Quy khach da tich luy duoc 10520 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:10:226 CumulationPoint: 10620 ISDN: 84927000536 Message: Chuc mung Quy khach da tich luy duoc 10620 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:10:230 CumulationPoint: 10720 ISDN: 84927000537 Message: Chuc mung Quy khach da tich luy duoc 10720 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:10:235 CumulationPoint: 10820 ISDN: 84927000538 Message: Chuc mung Quy khach da tich luy duoc 10820 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:10:240 CumulationPoint: 10920 ISDN: 84927000539 Message: Chuc mung Quy khach da tich luy duoc 10920 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:10:244 CumulationPoint: 11120 ISDN: 84927000541 Message: Chuc mung Quy khach da tich luy duoc 11120 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:10:249 CumulationPoint: 11220 ISDN: 84927000542 Message: Chuc mung Quy khach da tich luy duoc 11220 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:10:253 CumulationPoint: 11320 ISDN: 84927000543 Message: Chuc mung Quy khach da tich luy duoc 11320 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:10:257 CumulationPoint: 11420 ISDN: 84927000544 Message: Chuc mung Quy khach da tich luy duoc 11420 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:10:263 CumulationPoint: 11520 ISDN: 84927000545 Message: Chuc mung Quy khach da tich luy duoc 11520 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:10:267 CumulationPoint: 11620 ISDN: 84927000546 Message: Chuc mung Quy khach da tich luy duoc 11620 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:10:271 CumulationPoint: 11720 ISDN: 84927000547 Message: Chuc mung Quy khach da tich luy duoc 11720 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:10:276 CumulationPoint: 11920 ISDN: 84927000549 Message: Chuc mung Quy khach da tich luy duoc 11920 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:10:279 CumulationPoint: 12020 ISDN: 84927000550 Message: Chuc mung Quy khach da tich luy duoc 12020 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:10:284 CumulationPoint: 12120 ISDN: 84927000551 Message: Chuc mung Quy khach da tich luy duoc 12120 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:10:288 CumulationPoint: 12220 ISDN: 84927000552 Message: Chuc mung Quy khach da tich luy duoc 12220 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:10:293 CumulationPoint: 12320 ISDN: 84927000553 Message: Chuc mung Quy khach da tich luy duoc 12320 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:10:297 CumulationPoint: 12420 ISDN: 84927000554 Message: Chuc mung Quy khach da tich luy duoc 12420 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:10:301 CumulationPoint: 12520 ISDN: 84927000555 Message: Chuc mung Quy khach da tich luy duoc 12520 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:10:309 CumulationPoint: 12720 ISDN: 84927000557 Message: Chuc mung Quy khach da tich luy duoc 12720 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:10:313 CumulationPoint: 12920 ISDN: 84927000559 Message: Chuc mung Quy khach da tich luy duoc 12920 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:10:317 CumulationPoint: 13020 ISDN: 84927000560 Message: Chuc mung Quy khach da tich luy duoc 13020 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:10:321 CumulationPoint: 13120 ISDN: 84927000561 Message: Chuc mung Quy khach da tich luy duoc 13120 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:10:326 CumulationPoint: 13220 ISDN: 84927000562 Message: Chuc mung Quy khach da tich luy duoc 13220 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:10:330 CumulationPoint: 13320 ISDN: 84927000563 Message: Chuc mung Quy khach da tich luy duoc 13320 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:10:334 CumulationPoint: 13420 ISDN: 84927000564 Message: Chuc mung Quy khach da tich luy duoc 13420 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:10:338 CumulationPoint: 13520 ISDN: 84927000565 Message: Chuc mung Quy khach da tich luy duoc 13520 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:10:343 CumulationPoint: 13720 ISDN: 84927000567 Message: Chuc mung Quy khach da tich luy duoc 13720 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:10:347 CumulationPoint: 13820 ISDN: 84927000568 Message: Chuc mung Quy khach da tich luy duoc 13820 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:12:354 CumulationPoint: 13920 ISDN: 84927000569 Message: Chuc mung Quy khach da tich luy duoc 13920 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:12:361 CumulationPoint: 14020 ISDN: 84927000570 Message: Chuc mung Quy khach da tich luy duoc 14020 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:12:369 CumulationPoint: 14120 ISDN: 84927000571 Message: Chuc mung Quy khach da tich luy duoc 14120 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:12:378 CumulationPoint: 14220 ISDN: 84927000572 Message: Chuc mung Quy khach da tich luy duoc 14220 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:12:387 CumulationPoint: 14320 ISDN: 84927000573 Message: Chuc mung Quy khach da tich luy duoc 14320 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:12:397 CumulationPoint: 14520 ISDN: 84927000575 Message: Chuc mung Quy khach da tich luy duoc 14520 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:12:402 CumulationPoint: 14620 ISDN: 84927000576 Message: Chuc mung Quy khach da tich luy duoc 14620 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:12:407 CumulationPoint: 14720 ISDN: 84927000577 Message: Chuc mung Quy khach da tich luy duoc 14720 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:12:411 CumulationPoint: 14820 ISDN: 84927000578 Message: Chuc mung Quy khach da tich luy duoc 14820 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:12:416 CumulationPoint: 14920 ISDN: 84927000579 Message: Chuc mung Quy khach da tich luy duoc 14920 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:12:422 CumulationPoint: 15020 ISDN: 84927000580 Message: Chuc mung Quy khach da tich luy duoc 15020 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:12:427 CumulationPoint: 15120 ISDN: 84927000581 Message: Chuc mung Quy khach da tich luy duoc 15120 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:12:431 CumulationPoint: 15220 ISDN: 84927000582 Message: Chuc mung Quy khach da tich luy duoc 15220 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:12:435 CumulationPoint: 15420 ISDN: 84927000584 Message: Chuc mung Quy khach da tich luy duoc 15420 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:12:439 CumulationPoint: 15520 ISDN: 84927000585 Message: Chuc mung Quy khach da tich luy duoc 15520 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:12:443 CumulationPoint: 15620 ISDN: 84927000586 Message: Chuc mung Quy khach da tich luy duoc 15620 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:12:448 CumulationPoint: 15720 ISDN: 84927000587 Message: Chuc mung Quy khach da tich luy duoc 15720 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:12:452 CumulationPoint: 15820 ISDN: 84927000588 Message: Chuc mung Quy khach da tich luy duoc 15820 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:12:457 CumulationPoint: 15920 ISDN: 84927000589 Message: Chuc mung Quy khach da tich luy duoc 15920 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:12:462 CumulationPoint: 16120 ISDN: 84927000591 Message: Chuc mung Quy khach da tich luy duoc 16120 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:12:470 CumulationPoint: 16320 ISDN: 84927000593 Message: Chuc mung Quy khach da tich luy duoc 16320 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:12:474 CumulationPoint: 16420 ISDN: 84927000594 Message: Chuc mung Quy khach da tich luy duoc 16420 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:12:479 CumulationPoint: 16520 ISDN: 84927000595 Message: Chuc mung Quy khach da tich luy duoc 16520 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:12:484 CumulationPoint: 16720 ISDN: 84927000597 Message: Chuc mung Quy khach da tich luy duoc 16720 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:12:488 CumulationPoint: 16820 ISDN: 84927000598 Message: Chuc mung Quy khach da tich luy duoc 16820 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:12:493 CumulationPoint: 16920 ISDN: 84927000599 Message: Chuc mung Quy khach da tich luy duoc 16920 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:12:497 CumulationPoint: 17020 ISDN: 84927000600 Message: Chuc mung Quy khach da tich luy duoc 17020 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:12:502 CumulationPoint: 17120 ISDN: 84927000601 Message: Chuc mung Quy khach da tich luy duoc 17120 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:12:507 CumulationPoint: 17220 ISDN: 84927000602 Message: Chuc mung Quy khach da tich luy duoc 17220 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:12:512 CumulationPoint: 17320 ISDN: 84927000603 Message: Chuc mung Quy khach da tich luy duoc 17320 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:12:517 CumulationPoint: 17420 ISDN: 84927000604 Message: Chuc mung Quy khach da tich luy duoc 17420 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:12:522 CumulationPoint: 17620 ISDN: 84927000606 Message: Chuc mung Quy khach da tich luy duoc 17620 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:12:527 CumulationPoint: 17720 ISDN: 84927000607 Message: Chuc mung Quy khach da tich luy duoc 17720 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:12:531 CumulationPoint: 17820 ISDN: 84927000608 Message: Chuc mung Quy khach da tich luy duoc 17820 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:12:535 CumulationPoint: 17920 ISDN: 84927000609 Message: Chuc mung Quy khach da tich luy duoc 17920 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:12:539 CumulationPoint: 18020 ISDN: 84927000610 Message: Chuc mung Quy khach da tich luy duoc 18020 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:12:543 CumulationPoint: 18120 ISDN: 84927000611 Message: Chuc mung Quy khach da tich luy duoc 18120 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:12:548 CumulationPoint: 18220 ISDN: 84927000612 Message: Chuc mung Quy khach da tich luy duoc 18220 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:12:553 CumulationPoint: 18420 ISDN: 84927000614 Message: Chuc mung Quy khach da tich luy duoc 18420 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:12:557 CumulationPoint: 18520 ISDN: 84927000615 Message: Chuc mung Quy khach da tich luy duoc 18520 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:12:564 CumulationPoint: 18620 ISDN: 84927000616 Message: Chuc mung Quy khach da tich luy duoc 18620 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:12:568 CumulationPoint: 18720 ISDN: 84927000617 Message: Chuc mung Quy khach da tich luy duoc 18720 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:12:573 CumulationPoint: 18820 ISDN: 84927000618 Message: Chuc mung Quy khach da tich luy duoc 18820 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:12:578 CumulationPoint: 18920 ISDN: 84927000619 Message: Chuc mung Quy khach da tich luy duoc 18920 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:12:618 CumulationPoint: 19020 ISDN: 84927000620 Message: Chuc mung Quy khach da tich luy duoc 19020 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:12:623 CumulationPoint: 19220 ISDN: 84927000622 Message: Chuc mung Quy khach da tich luy duoc 19220 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:12:627 CumulationPoint: 19320 ISDN: 84927000623 Message: Chuc mung Quy khach da tich luy duoc 19320 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:12:632 CumulationPoint: 19420 ISDN: 84927000624 Message: Chuc mung Quy khach da tich luy duoc 19420 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:12:637 CumulationPoint: 19520 ISDN: 84927000625 Message: Chuc mung Quy khach da tich luy duoc 19520 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:12:643 CumulationPoint: 19620 ISDN: 84927000626 Message: Chuc mung Quy khach da tich luy duoc 19620 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:12:660 CumulationPoint: 19720 ISDN: 84927000627 Message: Chuc mung Quy khach da tich luy duoc 19720 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:12:665 CumulationPoint: 19820 ISDN: 84927000628 Message: Chuc mung Quy khach da tich luy duoc 19820 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:12:670 CumulationPoint: 19920 ISDN: 84927000629 Message: Chuc mung Quy khach da tich luy duoc 19920 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:12:676 CumulationPoint: 20220 ISDN: 84927000632 Message: Chuc mung Quy khach da tich luy duoc 20220 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:12:681 CumulationPoint: 20320 ISDN: 84927000633 Message: Chuc mung Quy khach da tich luy duoc 20320 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:12:685 CumulationPoint: 20420 ISDN: 84927000634 Message: Chuc mung Quy khach da tich luy duoc 20420 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:12:690 CumulationPoint: 20520 ISDN: 84927000635 Message: Chuc mung Quy khach da tich luy duoc 20520 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:12:695 CumulationPoint: 20620 ISDN: 84927000636 Message: Chuc mung Quy khach da tich luy duoc 20620 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:12:700 CumulationPoint: 20720 ISDN: 84927000637 Message: Chuc mung Quy khach da tich luy duoc 20720 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:12:705 CumulationPoint: 20820 ISDN: 84927000638 Message: Chuc mung Quy khach da tich luy duoc 20820 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:12:712 CumulationPoint: 21020 ISDN: 84927000640 Message: Chuc mung Quy khach da tich luy duoc 21020 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:12:717 CumulationPoint: 21120 ISDN: 84927000641 Message: Chuc mung Quy khach da tich luy duoc 21120 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:12:722 CumulationPoint: 21220 ISDN: 84927000642 Message: Chuc mung Quy khach da tich luy duoc 21220 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:12:727 CumulationPoint: 21320 ISDN: 84927000643 Message: Chuc mung Quy khach da tich luy duoc 21320 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:12:732 CumulationPoint: 21420 ISDN: 84927000644 Message: Chuc mung Quy khach da tich luy duoc 21420 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:12:736 CumulationPoint: 21520 ISDN: 84927000645 Message: Chuc mung Quy khach da tich luy duoc 21520 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:12:741 CumulationPoint: 21620 ISDN: 84927000646 Message: Chuc mung Quy khach da tich luy duoc 21620 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:12:746 CumulationPoint: 21820 ISDN: 84927000648 Message: Chuc mung Quy khach da tich luy duoc 21820 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:12:750 CumulationPoint: 21920 ISDN: 84927000649 Message: Chuc mung Quy khach da tich luy duoc 21920 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:12:754 CumulationPoint: 22020 ISDN: 84927000650 Message: Chuc mung Quy khach da tich luy duoc 22020 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:12:760 CumulationPoint: 22120 ISDN: 84927000651 Message: Chuc mung Quy khach da tich luy duoc 22120 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:12:764 CumulationPoint: 22220 ISDN: 84927000652 Message: Chuc mung Quy khach da tich luy duoc 22220 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:12:768 CumulationPoint: 22320 ISDN: 84927000653 Message: Chuc mung Quy khach da tich luy duoc 22320 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:12:773 CumulationPoint: 22420 ISDN: 84927000654 Message: Chuc mung Quy khach da tich luy duoc 22420 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:12:778 CumulationPoint: 22620 ISDN: 84927000656 Message: Chuc mung Quy khach da tich luy duoc 22620 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:12:782 CumulationPoint: 22720 ISDN: 84927000657 Message: Chuc mung Quy khach da tich luy duoc 22720 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:12:787 CumulationPoint: 22820 ISDN: 84927000658 Message: Chuc mung Quy khach da tich luy duoc 22820 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:12:791 CumulationPoint: 22920 ISDN: 84927000659 Message: Chuc mung Quy khach da tich luy duoc 22920 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:12:796 CumulationPoint: 23020 ISDN: 84927000660 Message: Chuc mung Quy khach da tich luy duoc 23020 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:12:801 CumulationPoint: 23120 ISDN: 84927000661 Message: Chuc mung Quy khach da tich luy duoc 23120 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:12:807 CumulationPoint: 23220 ISDN: 84927000662 Message: Chuc mung Quy khach da tich luy duoc 23220 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:12:812 CumulationPoint: 23320 ISDN: 84927000663 Message: Chuc mung Quy khach da tich luy duoc 23320 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:12:815 CumulationPoint: 23520 ISDN: 84927000665 Message: Chuc mung Quy khach da tich luy duoc 23520 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:12:819 CumulationPoint: 23620 ISDN: 84927000666 Message: Chuc mung Quy khach da tich luy duoc 23620 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:12:824 CumulationPoint: 23720 ISDN: 84927000667 Message: Chuc mung Quy khach da tich luy duoc 23720 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:12:827 CumulationPoint: 23820 ISDN: 84927000668 Message: Chuc mung Quy khach da tich luy duoc 23820 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:12:832 CumulationPoint: 23920 ISDN: 84927000669 Message: Chuc mung Quy khach da tich luy duoc 23920 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:12:835 CumulationPoint: 24020 ISDN: 84927000670 Message: Chuc mung Quy khach da tich luy duoc 24020 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:12:840 CumulationPoint: 24120 ISDN: 84927000671 Message: Chuc mung Quy khach da tich luy duoc 24120 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:12:844 CumulationPoint: 24320 ISDN: 84927000673 Message: Chuc mung Quy khach da tich luy duoc 24320 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:12:855 CumulationPoint: 24420 ISDN: 84927000674 Message: Chuc mung Quy khach da tich luy duoc 24420 diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ky tham gia Cau lac bo CAM cua Vietnamobile de nhan duoc nhieu uu dai bat ngo (CAM gui 268). Chi tiet 789.
+25/11 12:05:12:859 Tong so ban ghi la:491
+25/11 12:05:12:863 End of process session
+25/11 12:05:20:875 Auto invited SMS stopped
+25/11 17:55:09:092 Weekly Report started
+25/11 17:55:09:142 Starting process session
+25/11 17:55:09:244 Starting collect_topup...
+25/11 17:55:09:336 null
+25/11 17:55:09:341 End of process session
+25/11 17:55:10:346 Starting process session
+25/11 17:55:10:354 Starting collect_topup...
+25/11 17:55:10:448 null
+25/11 17:55:10:452 End of process session
+25/11 17:55:11:458 Starting process session
+25/11 17:55:11:466 Starting collect_topup...
+25/11 17:55:11:547 null
+25/11 17:55:11:551 End of process session
+25/11 17:55:12:556 Starting process session
+25/11 17:55:12:562 Starting collect_topup...
+25/11 17:55:12:646 null
+25/11 17:55:12:650 End of process session
+25/11 17:55:13:656 Starting process session
+25/11 17:55:13:664 Starting collect_topup...
+25/11 17:55:13:786 null
+25/11 17:55:13:790 End of process session
+25/11 17:55:14:796 Starting process session
+25/11 17:55:14:804 Starting collect_topup...
+25/11 17:55:14:913 null
+25/11 17:55:14:916 End of process session
+25/11 17:55:15:922 Starting process session
+25/11 17:55:15:930 Starting collect_topup...
+25/11 17:55:16:024 null
+25/11 17:55:16:028 End of process session
+25/11 17:55:17:035 Starting process session
+25/11 17:55:17:043 Starting collect_topup...
+25/11 17:55:17:148 null
+25/11 17:55:17:152 End of process session
+25/11 17:55:18:157 Starting process session
+25/11 17:55:18:166 Starting collect_topup...
+25/11 17:55:18:256 null
+25/11 17:55:18:259 End of process session
+25/11 17:55:19:265 Starting process session
+25/11 17:55:19:273 Starting collect_topup...
+25/11 17:55:19:422 null
+25/11 17:55:19:425 End of process session
+25/11 17:55:20:431 Starting process session
+25/11 17:55:20:439 Starting collect_topup...
+25/11 17:55:20:550 null
+25/11 17:55:20:554 End of process session
+25/11 17:55:21:559 Starting process session
+25/11 17:55:21:564 Starting collect_topup...
+25/11 17:55:21:637 null
+25/11 17:55:21:640 End of process session
+25/11 17:55:22:646 Starting process session
+25/11 17:55:22:654 Starting collect_topup...
+25/11 17:55:22:777 null
+25/11 17:55:22:782 End of process session
+25/11 17:55:23:789 Starting process session
+25/11 17:55:23:797 Starting collect_topup...
+25/11 17:55:23:877 null
+25/11 17:55:23:880 End of process session
+25/11 17:55:24:885 Starting process session
+25/11 17:55:24:893 Starting collect_topup...
+25/11 17:55:25:014 null
+25/11 17:55:25:018 End of process session
+25/11 17:55:26:025 Starting process session
+25/11 17:55:26:034 Starting collect_topup...
+25/11 17:55:26:138 null
+25/11 17:55:26:142 End of process session
+25/11 17:55:27:148 Starting process session
+25/11 17:55:27:152 Starting collect_topup...
+25/11 17:55:27:226 null
+25/11 17:55:27:229 End of process session
+25/11 17:55:28:235 Starting process session
+25/11 17:55:28:243 Starting collect_topup...
+25/11 17:55:28:330 null
+25/11 17:55:28:334 End of process session
+25/11 17:55:29:341 Starting process session
+25/11 17:55:29:349 Starting collect_topup...
+25/11 17:55:29:444 null
+25/11 17:55:29:449 End of process session
+25/11 17:55:30:455 Starting process session
+25/11 17:55:30:465 Starting collect_topup...
+25/11 17:55:30:562 null
+25/11 17:55:30:567 End of process session
+25/11 17:55:31:572 Starting process session
+25/11 17:55:31:580 Starting collect_topup...
+25/11 17:55:31:678 null
+25/11 17:55:31:682 End of process session
+25/11 17:55:32:689 Starting process session
+25/11 17:55:32:697 Starting collect_topup...
+25/11 17:55:32:788 null
+25/11 17:55:32:791 End of process session
+25/11 17:55:33:798 Starting process session
+25/11 17:55:33:806 Starting collect_topup...
+25/11 17:55:33:908 null
+25/11 17:55:33:911 End of process session
+25/11 17:55:34:917 Starting process session
+25/11 17:55:34:925 Starting collect_topup...
+25/11 17:55:35:033 null
+25/11 17:55:35:037 End of process session
+25/11 17:55:36:042 Starting process session
+25/11 17:55:36:048 Starting collect_topup...
+25/11 17:55:36:139 null
+25/11 17:55:36:143 End of process session
+25/11 17:55:37:150 Starting process session
+25/11 17:55:37:155 Starting collect_topup...
+25/11 17:55:37:234 null
+25/11 17:55:37:239 End of process session
+25/11 17:55:38:245 Starting process session
+25/11 17:55:38:253 Starting collect_topup...
+25/11 17:55:38:334 null
+25/11 17:55:38:337 End of process session
+25/11 17:55:39:343 Starting process session
+25/11 17:55:39:352 Starting collect_topup...
+25/11 17:55:39:441 null
+25/11 17:55:39:445 End of process session
+25/11 17:55:40:451 Starting process session
+25/11 17:55:40:459 Starting collect_topup...
+25/11 17:55:40:552 null
+25/11 17:55:40:555 End of process session
+25/11 17:55:41:561 Starting process session
+25/11 17:55:41:569 Starting collect_topup...
+25/11 17:55:41:697 null
+25/11 17:55:41:703 End of process session
+25/11 17:55:42:711 Starting process session
+25/11 17:55:42:719 Starting collect_topup...
+25/11 17:55:42:874 null
+25/11 17:55:42:880 End of process session
+25/11 17:55:43:887 Starting process session
+25/11 17:55:43:894 Starting collect_topup...
+25/11 17:55:43:981 null
+25/11 17:55:43:984 End of process session
+25/11 17:55:44:990 Starting process session
+25/11 17:55:44:998 Starting collect_topup...
+25/11 17:55:45:098 null
+25/11 17:55:45:101 End of process session
+25/11 17:55:46:106 Starting process session
+25/11 17:55:46:114 Starting collect_topup...
+25/11 17:55:46:217 null
+25/11 17:55:46:221 End of process session
+25/11 17:55:47:226 Starting process session
+25/11 17:55:47:230 Starting collect_topup...
+25/11 17:55:47:311 null
+25/11 17:55:47:315 End of process session
+25/11 17:55:48:320 Starting process session
+25/11 17:55:48:328 Starting collect_topup...
+25/11 17:55:48:458 null
+25/11 17:55:48:462 End of process session
+25/11 17:55:49:467 Starting process session
+25/11 17:55:49:474 Starting collect_topup...
+25/11 17:55:49:563 null
+25/11 17:55:49:567 End of process session
+25/11 17:55:50:572 Starting process session
+25/11 17:55:50:576 Starting collect_topup...
+25/11 17:55:50:653 null
+25/11 17:55:50:657 End of process session
+25/11 17:55:51:663 Starting process session
+25/11 17:55:51:670 Starting collect_topup...
+25/11 17:55:51:761 null
+25/11 17:55:51:764 End of process session
+25/11 17:55:52:770 Starting process session
+25/11 17:55:52:779 Starting collect_topup...
+25/11 17:55:52:876 null
+25/11 17:55:52:880 End of process session
+25/11 17:55:53:886 Starting process session
+25/11 17:55:53:896 Starting collect_topup...
+25/11 17:55:53:993 null
+25/11 17:55:53:997 End of process session
+25/11 17:55:55:004 Starting process session
+25/11 17:55:55:012 Starting collect_topup...
+25/11 17:55:55:098 null
+25/11 17:55:55:101 End of process session
+25/11 17:55:56:107 Starting process session
+25/11 17:55:56:111 Starting collect_topup...
+25/11 17:55:56:200 null
+25/11 17:55:56:203 End of process session
+25/11 17:55:57:208 Starting process session
+25/11 17:55:57:212 Starting collect_topup...
+25/11 17:55:57:296 null
+25/11 17:55:57:301 End of process session
+25/11 17:55:58:307 Starting process session
+25/11 17:55:58:314 Starting collect_topup...
+25/11 17:55:58:406 null
+25/11 17:55:58:410 End of process session
+25/11 17:55:59:415 Starting process session
+25/11 17:55:59:422 Starting collect_topup...
+25/11 17:55:59:527 null
+25/11 17:55:59:531 End of process session
+25/11 17:56:00:536 Starting process session
+25/11 17:56:00:541 Starting collect_topup...
+25/11 17:56:00:623 null
+25/11 17:56:00:627 End of process session
+25/11 17:56:01:633 Starting process session
+25/11 17:56:01:640 Starting collect_topup...
+25/11 17:56:01:764 null
+25/11 17:56:01:769 End of process session
+25/11 17:56:02:775 Starting process session
+25/11 17:56:02:782 Starting collect_topup...
+25/11 17:56:02:884 null
+25/11 17:56:02:888 End of process session
+25/11 17:56:03:893 Starting process session
+25/11 17:56:03:901 Starting collect_topup...
+25/11 17:56:03:979 null
+25/11 17:56:03:983 End of process session
+25/11 17:56:04:988 Starting process session
+25/11 17:56:04:995 Starting collect_topup...
+25/11 17:56:05:097 null
+25/11 17:56:05:101 End of process session
+25/11 17:56:06:106 Starting process session
+25/11 17:56:06:114 Starting collect_topup...
+25/11 17:56:06:221 null
+25/11 17:56:06:224 End of process session
+25/11 17:56:07:230 Starting process session
+25/11 17:56:07:237 Starting collect_topup...
+25/11 17:56:07:349 null
+25/11 17:56:07:353 End of process session
+25/11 17:56:08:359 Starting process session
+25/11 17:56:08:366 Starting collect_topup...
+25/11 17:56:08:448 null
+25/11 17:56:08:452 End of process session
+25/11 17:56:09:457 Starting process session
+25/11 17:56:09:465 Starting collect_topup...
+25/11 17:56:09:556 null
+25/11 17:56:09:561 End of process session
+25/11 17:56:10:566 Starting process session
+25/11 17:56:10:572 Starting collect_topup...
+25/11 17:56:10:645 null
+25/11 17:56:10:649 End of process session
+25/11 17:56:11:654 Starting process session
+25/11 17:56:11:661 Starting collect_topup...
+25/11 17:56:11:783 null
+25/11 17:56:11:786 End of process session
+25/11 17:56:12:792 Starting process session
+25/11 17:56:12:800 Starting collect_topup...
+25/11 17:56:12:921 null
+25/11 17:56:12:926 End of process session
+25/11 17:56:13:931 Starting process session
+25/11 17:56:13:938 Starting collect_topup...
+25/11 17:56:14:037 null
+25/11 17:56:14:041 End of process session
+25/11 17:56:15:046 Starting process session
+25/11 17:56:15:049 Starting collect_topup...
+25/11 17:56:15:119 null
+25/11 17:56:15:122 End of process session
+25/11 17:56:16:128 Starting process session
+25/11 17:56:16:135 Starting collect_topup...
+25/11 17:56:16:255 null
+25/11 17:56:16:259 End of process session
+25/11 17:56:17:264 Starting process session
+25/11 17:56:17:268 Starting collect_topup...
+25/11 17:56:17:355 null
+25/11 17:56:17:359 End of process session
+25/11 17:56:18:365 Starting process session
+25/11 17:56:18:373 Starting collect_topup...
+25/11 17:56:18:467 null
+25/11 17:56:18:472 End of process session
+25/11 17:56:19:477 Starting process session
+25/11 17:56:19:485 Starting collect_topup...
+25/11 17:56:19:576 null
+25/11 17:56:19:580 End of process session
+25/11 17:56:20:585 Starting process session
+25/11 17:56:20:592 Starting collect_topup...
+25/11 17:56:20:686 null
+25/11 17:56:20:689 End of process session
+25/11 17:56:21:695 Starting process session
+25/11 17:56:21:699 Starting collect_topup...
+25/11 17:56:21:768 null
+25/11 17:56:21:772 End of process session
+25/11 17:56:22:777 Starting process session
+25/11 17:56:22:784 Starting collect_topup...
+25/11 17:56:22:890 null
+25/11 17:56:22:894 End of process session
+25/11 17:56:23:899 Starting process session
+25/11 17:56:23:907 Starting collect_topup...
+25/11 17:56:24:010 null
+25/11 17:56:24:014 End of process session
+25/11 17:56:25:020 Starting process session
+25/11 17:56:25:027 Starting collect_topup...
+25/11 17:56:25:117 null
+25/11 17:56:25:121 End of process session
+25/11 17:56:26:127 Starting process session
+25/11 17:56:26:134 Starting collect_topup...
+25/11 17:56:26:239 null
+25/11 17:56:26:243 End of process session
+25/11 17:56:27:249 Starting process session
+25/11 17:56:27:256 Starting collect_topup...
+25/11 17:56:27:382 null
+25/11 17:56:27:385 End of process session
+25/11 17:56:28:391 Starting process session
+25/11 17:56:28:399 Starting collect_topup...
+25/11 17:56:28:494 null
+25/11 17:56:28:498 End of process session
+25/11 17:56:29:503 Starting process session
+25/11 17:56:29:510 Starting collect_topup...
+25/11 17:56:29:608 null
+25/11 17:56:29:612 End of process session
+25/11 17:56:30:617 Starting process session
+25/11 17:56:30:626 Starting collect_topup...
+25/11 17:56:30:706 null
+25/11 17:56:30:709 End of process session
+25/11 17:56:31:716 Starting process session
+25/11 17:56:31:723 Starting collect_topup...
+25/11 17:56:31:821 null
+25/11 17:56:31:825 End of process session
+25/11 17:56:32:830 Starting process session
+25/11 17:56:32:837 Starting collect_topup...
+25/11 17:56:32:926 null
+25/11 17:56:32:930 End of process session
+25/11 17:56:33:935 Starting process session
+25/11 17:56:33:942 Starting collect_topup...
+25/11 17:56:34:044 null
+25/11 17:56:34:048 End of process session
+25/11 17:56:35:053 Starting process session
+25/11 17:56:35:058 Starting collect_topup...
+25/11 17:56:35:140 null
+25/11 17:56:35:144 End of process session
+25/11 17:56:36:149 Starting process session
+25/11 17:56:36:156 Starting collect_topup...
+25/11 17:56:36:283 null
+25/11 17:56:36:287 End of process session
+25/11 17:56:37:292 Starting process session
+25/11 17:56:37:300 Starting collect_topup...
+25/11 17:56:37:392 null
+25/11 17:56:37:396 End of process session
+25/11 17:56:38:401 Starting process session
+25/11 17:56:38:409 Starting collect_topup...
+25/11 17:56:38:512 null
+25/11 17:56:38:516 End of process session
+25/11 17:56:39:521 Starting process session
+25/11 17:56:39:528 Starting collect_topup...
+25/11 17:56:39:618 null
+25/11 17:56:39:622 End of process session
+25/11 17:56:40:626 Starting process session
+25/11 17:56:40:633 Starting collect_topup...
+25/11 17:56:40:732 null
+25/11 17:56:40:736 End of process session
+25/11 17:56:41:741 Starting process session
+25/11 17:56:41:748 Starting collect_topup...
+25/11 17:56:41:850 null
+25/11 17:56:41:853 End of process session
+25/11 17:56:42:859 Starting process session
+25/11 17:56:42:866 Starting collect_topup...
+25/11 17:56:42:982 null
+25/11 17:56:42:986 End of process session
+25/11 17:56:43:991 Starting process session
+25/11 17:56:43:998 Starting collect_topup...
+25/11 17:56:44:182 null
+25/11 17:56:44:185 End of process session
+25/11 17:56:45:191 Starting process session
+25/11 17:56:45:198 Starting collect_topup...
+25/11 17:56:45:307 null
+25/11 17:56:45:311 End of process session
+25/11 17:56:46:316 Starting process session
+25/11 17:56:46:320 Starting collect_topup...
+25/11 17:56:46:392 null
+25/11 17:56:46:396 End of process session
+25/11 17:56:47:402 Starting process session
+25/11 17:56:47:410 Starting collect_topup...
+25/11 17:56:47:537 null
+25/11 17:56:47:544 End of process session
+25/11 17:56:48:551 Starting process session
+25/11 17:56:48:555 Starting collect_topup...
+25/11 17:56:48:627 null
+25/11 17:56:48:631 End of process session
+25/11 17:56:49:636 Starting process session
+25/11 17:56:49:640 Starting collect_topup...
+25/11 17:56:49:729 null
+25/11 17:56:49:734 End of process session
+25/11 17:56:50:740 Starting process session
+25/11 17:56:50:747 Starting collect_topup...
+25/11 17:56:50:873 null
+25/11 17:56:50:877 End of process session
+25/11 17:56:51:882 Starting process session
+25/11 17:56:51:889 Starting collect_topup...
+25/11 17:56:52:026 null
+25/11 17:56:52:031 End of process session
+25/11 17:56:53:037 Starting process session
+25/11 17:56:53:044 Starting collect_topup...
+25/11 17:56:53:122 null
+25/11 17:56:53:126 End of process session
+25/11 17:56:54:131 Starting process session
+25/11 17:56:54:139 Starting collect_topup...
+25/11 17:56:54:231 null
+25/11 17:56:54:235 End of process session
+25/11 17:56:55:240 Starting process session
+25/11 17:56:55:247 Starting collect_topup...
+25/11 17:56:55:338 null
+25/11 17:56:55:342 End of process session
+25/11 17:56:56:347 Starting process session
+25/11 17:56:56:351 Starting collect_topup...
+25/11 17:56:56:428 null
+25/11 17:56:56:431 End of process session
+25/11 17:56:57:437 Starting process session
+25/11 17:56:57:444 Starting collect_topup...
+25/11 17:56:57:553 null
+25/11 17:56:57:557 End of process session
+25/11 17:56:58:562 Starting process session
+25/11 17:56:58:569 Starting collect_topup...
+25/11 17:56:58:643 null
+25/11 17:56:58:647 End of process session
+25/11 17:56:59:652 Starting process session
+25/11 17:56:59:660 Starting collect_topup...
+25/11 17:56:59:755 null
+25/11 17:56:59:759 End of process session
+25/11 17:57:00:764 Starting process session
+25/11 17:57:00:771 Starting collect_topup...
+25/11 17:57:00:922 Updated collect_topup to SubscriberBalance is not successfully!!!
+25/11 17:57:00:929 null
+25/11 17:57:00:936 End of process session
+25/11 17:57:01:945 Starting process session
+25/11 17:57:01:952 Starting collect_topup...
+25/11 17:57:02:042 Updated collect_topup to SubscriberBalance is not successfully!!!
+25/11 17:57:02:045 null
+25/11 17:57:02:049 End of process session
+25/11 17:57:03:054 Starting process session
+25/11 17:57:03:058 Starting collect_topup...
+25/11 17:57:03:128 Updated collect_topup to SubscriberBalance is not successfully!!!
+25/11 17:57:03:131 null
+25/11 17:57:03:134 End of process session
+25/11 17:57:04:140 Starting process session
+25/11 17:57:04:147 Starting collect_topup...
+25/11 17:57:04:248 Updated collect_topup to SubscriberBalance is not successfully!!!
+25/11 17:57:04:251 null
+25/11 17:57:04:255 End of process session
+25/11 17:57:05:260 Starting process session
+25/11 17:57:05:267 Starting collect_topup...
+25/11 17:57:05:363 Updated collect_topup to SubscriberBalance is not successfully!!!
+25/11 17:57:05:367 null
+25/11 17:57:05:370 End of process session
+25/11 17:57:06:376 Starting process session
+25/11 17:57:06:384 Starting collect_topup...
+25/11 17:57:06:489 Updated collect_topup to SubscriberBalance is not successfully!!!
+25/11 17:57:06:492 null
+25/11 17:57:06:495 End of process session
+25/11 17:57:07:501 Starting process session
+25/11 17:57:07:508 Starting collect_topup...
+25/11 17:57:07:600 Updated collect_topup to SubscriberBalance is not successfully!!!
+25/11 17:57:07:603 null
+25/11 17:57:07:607 End of process session
+25/11 17:57:08:612 Starting process session
+25/11 17:57:08:619 Starting collect_topup...
+25/11 17:57:08:709 Updated collect_topup to SubscriberBalance is not successfully!!!
+25/11 17:57:08:713 null
+25/11 17:57:08:716 End of process session
+25/11 17:57:09:721 Starting process session
+25/11 17:57:09:746 Starting collect_topup...
+25/11 17:57:09:837 Updated collect_topup to SubscriberBalance is not successfully!!!
+25/11 17:57:09:840 null
+25/11 17:57:09:844 End of process session
+25/11 17:57:10:849 Starting process session
+25/11 17:57:10:857 Starting collect_topup...
+25/11 17:57:10:997 Updated collect_topup to SubscriberBalance is not successfully!!!
+25/11 17:57:11:000 null
+25/11 17:57:11:005 End of process session
+25/11 17:57:12:012 Starting process session
+25/11 17:57:12:019 Starting collect_topup...
+25/11 17:57:12:102 Updated collect_topup to SubscriberBalance is not successfully!!!
+25/11 17:57:12:105 null
+25/11 17:57:12:108 End of process session
+25/11 17:57:13:114 Starting process session
+25/11 17:57:13:121 Starting collect_topup...
+25/11 17:57:13:220 Updated collect_topup to SubscriberBalance is not successfully!!!
+25/11 17:57:13:224 null
+25/11 17:57:13:226 End of process session
+25/11 17:57:14:231 Weekly Report stopped
+25/11 17:59:37:132 Weekly Report started
+25/11 17:59:38:121 Starting process session
+25/11 17:59:38:266 Starting collect_topup...
+25/11 17:59:38:434 An SQLException was provoked by the following failure: java.lang.StringIndexOutOfBoundsException: String index out of range: 46
+25/11 17:59:38:440 End of process session
+25/11 17:59:39:445 Starting process session
+25/11 17:59:39:454 Starting collect_topup...
+25/11 17:59:39:572 null
+25/11 17:59:39:576 End of process session
+25/11 17:59:40:582 Starting process session
+25/11 17:59:40:587 Starting collect_topup...
+25/11 17:59:40:667 null
+25/11 17:59:40:671 End of process session
+25/11 17:59:41:677 Starting process session
+25/11 17:59:41:683 Starting collect_topup...
+25/11 17:59:41:771 null
+25/11 17:59:41:775 End of process session
+25/11 17:59:42:780 Starting process session
+25/11 17:59:42:788 Starting collect_topup...
+25/11 17:59:42:898 null
+25/11 17:59:42:902 End of process session
+25/11 17:59:43:908 Starting process session
+25/11 17:59:43:916 Starting collect_topup...
+25/11 17:59:44:051 null
+25/11 17:59:44:055 End of process session
+25/11 17:59:45:062 Starting process session
+25/11 17:59:45:070 Starting collect_topup...
+25/11 17:59:45:174 null
+25/11 17:59:45:178 End of process session
+25/11 17:59:46:183 Starting process session
+25/11 17:59:46:191 Starting collect_topup...
+25/11 17:59:46:299 null
+25/11 17:59:46:303 End of process session
+25/11 17:59:47:307 Starting process session
+25/11 17:59:47:312 Starting collect_topup...
+25/11 17:59:47:401 null
+25/11 17:59:47:405 End of process session
+25/11 17:59:48:411 Starting process session
+25/11 17:59:48:419 Starting collect_topup...
+25/11 17:59:48:511 null
+25/11 17:59:48:515 End of process session
+25/11 17:59:49:521 Starting process session
+25/11 17:59:49:529 Starting collect_topup...
+25/11 17:59:49:607 null
+25/11 17:59:49:611 End of process session
+25/11 17:59:50:617 Starting process session
+25/11 17:59:50:625 Starting collect_topup...
+25/11 17:59:50:732 null
+25/11 17:59:50:735 End of process session
+25/11 17:59:51:741 Starting process session
+25/11 17:59:51:749 Starting collect_topup...
+25/11 17:59:51:828 null
+25/11 17:59:51:832 End of process session
+25/11 17:59:52:839 Starting process session
+25/11 17:59:52:847 Starting collect_topup...
+25/11 17:59:52:978 null
+25/11 17:59:52:981 End of process session
+25/11 17:59:53:987 Starting process session
+25/11 17:59:53:995 Starting collect_topup...
+25/11 17:59:54:096 null
+25/11 17:59:54:100 End of process session
+25/11 17:59:55:105 Starting process session
+25/11 17:59:55:113 Starting collect_topup...
+25/11 17:59:55:205 null
+25/11 17:59:55:210 End of process session
+25/11 17:59:56:216 Starting process session
+25/11 17:59:56:224 Starting collect_topup...
+25/11 17:59:56:323 null
+25/11 17:59:56:326 End of process session
+25/11 17:59:57:332 Starting process session
+25/11 17:59:57:340 Starting collect_topup...
+25/11 17:59:57:468 null
+25/11 17:59:57:472 End of process session
+25/11 17:59:58:478 Starting process session
+25/11 17:59:58:486 Starting collect_topup...
+25/11 17:59:58:579 null
+25/11 17:59:58:583 End of process session
+25/11 17:59:59:588 Starting process session
+25/11 17:59:59:595 Starting collect_topup...
+25/11 17:59:59:693 null
+25/11 17:59:59:697 End of process session
+25/11 18:00:00:702 Starting process session
+25/11 18:00:00:710 Starting collect_topup...
+25/11 18:00:00:797 Updated collect_topup to SubscriberBalance is not successfully!!!
+25/11 18:00:00:800 null
+25/11 18:00:00:804 End of process session
+25/11 18:00:01:809 Starting process session
+25/11 18:00:01:817 Starting collect_topup...
+25/11 18:00:01:946 null
+25/11 18:00:01:951 End of process session
+25/11 18:00:02:957 Starting process session
+25/11 18:00:02:965 Starting collect_topup...
+25/11 18:00:03:063 null
+25/11 18:00:03:067 End of process session
+25/11 18:00:04:073 Starting process session
+25/11 18:00:04:078 Starting collect_topup...
+25/11 18:00:04:150 null
+25/11 18:00:04:154 End of process session
+25/11 18:00:05:159 Starting process session
+25/11 18:00:05:167 Starting collect_topup...
+25/11 18:00:05:252 null
+25/11 18:00:05:256 End of process session
+25/11 18:00:06:262 Starting process session
+25/11 18:00:06:270 Starting collect_topup...
+25/11 18:00:06:360 null
+25/11 18:00:06:363 End of process session
+25/11 18:00:07:369 Starting process session
+25/11 18:00:07:378 Starting collect_topup...
+25/11 18:00:07:492 null
+25/11 18:00:07:499 End of process session
+25/11 18:00:08:506 Starting process session
+25/11 18:00:08:514 Starting collect_topup...
+25/11 18:00:08:592 null
+25/11 18:00:08:596 End of process session
+25/11 18:00:09:601 Starting process session
+25/11 18:00:09:609 Starting collect_topup...
+25/11 18:00:09:727 null
+25/11 18:00:09:731 End of process session
+25/11 18:00:10:736 Starting process session
+25/11 18:00:10:744 Starting collect_topup...
+25/11 18:00:10:822 null
+25/11 18:00:10:826 End of process session
+25/11 18:00:11:831 Starting process session
+25/11 18:00:11:838 Starting collect_topup...
+25/11 18:00:11:950 null
+25/11 18:00:11:954 End of process session
+25/11 18:00:12:959 Starting process session
+25/11 18:00:12:964 Starting collect_topup...
+25/11 18:00:13:043 null
+25/11 18:00:13:047 End of process session
+25/11 18:00:14:053 Starting process session
+25/11 18:00:14:061 Starting collect_topup...
+25/11 18:00:14:147 null
+25/11 18:00:14:151 End of process session
+25/11 18:00:15:156 Starting process session
+25/11 18:00:15:164 Starting collect_topup...
+25/11 18:00:15:304 null
+25/11 18:00:15:309 End of process session
+25/11 18:00:16:314 Starting process session
+25/11 18:00:16:322 Starting collect_topup...
+25/11 18:00:16:420 null
+25/11 18:00:16:424 End of process session
+25/11 18:00:17:430 Starting process session
+25/11 18:00:17:438 Starting collect_topup...
+25/11 18:00:17:534 null
+25/11 18:00:17:538 End of process session
+25/11 18:00:18:543 Starting process session
+25/11 18:00:18:547 Starting collect_topup...
+25/11 18:00:18:617 null
+25/11 18:00:18:621 End of process session
+25/11 18:00:19:625 Weekly Report stopped
+25/11 18:01:34:554 Weekly Report started
+25/11 18:01:35:561 Starting process session
+25/11 18:01:46:264 Starting collect_topup...
+25/11 18:01:53:253 An SQLException was provoked by the following failure: java.lang.StringIndexOutOfBoundsException: String index out of range: 46
+25/11 18:01:59:195 End of process session

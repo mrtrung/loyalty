@@ -1,0 +1,1322 @@
+31/08 10:38:06:883 Order Routing started
+31/08 10:38:11:570 Testing connection ...
+31/08 10:38:12:434 Created provisioning instance for CCWS
+31/08 10:38:12:434 Testing connection are success
+31/08 10:38:12:435 Starting process session
+31/08 10:38:14:273 Total 0 instances are started
+31/08 10:38:14:274 Total 1 instances are added
+31/08 10:38:35:304 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.36:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+31/08 10:38:35:305 Consumer was closed, reconnect.
+31/08 10:38:35:412 Total 0 instances are started
+31/08 10:38:35:429 Total 1 instances are added
+31/08 10:38:56:451 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.36:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+31/08 10:38:56:452 Consumer was closed, reconnect.
+31/08 10:38:56:561 Total 0 instances are started
+31/08 10:38:56:562 Total 1 instances are added
+31/08 10:39:05:778 Close pool
+31/08 10:39:05:879 Close queue connection pool.
+31/08 10:39:05:880 End of process session
+31/08 10:39:05:882 Order Routing stopped
+31/08 10:39:07:812 Order Routing started
+31/08 10:39:07:835 Close pool
+31/08 10:39:07:836 Close pool
+31/08 10:39:07:836 Testing connection ...
+31/08 10:39:07:840 Created provisioning instance for CCWS
+31/08 10:39:07:840 Testing connection are success
+31/08 10:39:07:841 Starting process session
+31/08 10:39:08:621 Total 0 instances are started
+31/08 10:39:08:623 Total 1 instances are added
+31/08 10:39:17:575 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.36:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+31/08 10:39:17:576 Consumer was closed, reconnect.
+31/08 10:39:29:655 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.36:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+31/08 10:39:29:656 Consumer was closed, reconnect.
+31/08 10:39:29:759 Total 0 instances are started
+31/08 10:39:29:760 Total 1 instances are added
+31/08 10:40:17:377 Order Routing started
+31/08 10:40:19:065 Testing connection ...
+31/08 10:40:21:944 Created provisioning instance for CCWS
+31/08 10:40:21:945 Testing connection are success
+31/08 10:40:21:945 Starting process session
+31/08 10:40:23:709 Total 0 instances are started
+31/08 10:40:23:709 Total 1 instances are added
+31/08 10:42:55:108 Close pool
+31/08 10:42:55:209 Close queue connection pool.
+31/08 10:42:55:217 End of process session
+31/08 10:42:55:218 Order Routing stopped
+31/08 10:42:57:139 Order Routing started
+31/08 10:42:57:163 Close pool
+31/08 10:42:57:164 Close pool
+31/08 10:42:57:164 Testing connection ...
+31/08 10:42:57:168 Created provisioning instance for CCWS
+31/08 10:42:57:168 Testing connection are success
+31/08 10:42:57:169 Starting process session
+31/08 10:42:57:912 Total 0 instances are started
+31/08 10:42:57:913 Total 1 instances are added
+31/08 10:43:01:740 Create order(84922000512) cost time: 196ms
+31/08 10:43:01:819 Update order(84922000512) cost time: 6ms
+31/08 10:43:01:821 orderId = 125407866 | requestId = 0 | orderDate = 2013/08/31 10:43:01 | userName = system | subProductId = 52789378 | channel = SMS | serviceAddress = 268 | keyword = DK CAM | isdn = 84922000512 | subscriberType = -1 | shipTo =  | actionType = register | productId = 274 | amount = 0.0 | provisioningType = SMSC | commandId = 0 | cause = registered | status = 4 | description =  | balance = 
+31/08 10:43:01:892 sendNotify: 84922000512 - Dich vu da duoc dang ky
+31/08 10:47:48:256 Close pool
+31/08 10:47:48:387 Close queue connection pool.
+31/08 10:47:48:393 End of process session
+31/08 10:47:48:394 Order Routing stopped
+31/08 10:47:50:285 Order Routing started
+31/08 10:47:50:306 Close pool
+31/08 10:47:50:306 Close pool
+31/08 10:47:50:307 Testing connection ...
+31/08 10:47:50:310 Created provisioning instance for CCWS
+31/08 10:47:50:311 Testing connection are success
+31/08 10:47:50:311 Starting process session
+31/08 10:47:51:149 Total 0 instances are started
+31/08 10:47:51:150 Total 1 instances are added
+31/08 10:47:57:517 Create order(84922000514) cost time: 17ms
+31/08 10:47:57:724 Update order(84922000514) cost time: 7ms
+31/08 10:47:57:725 84922000514: LOYALTY - CRM.SUBSCRIPTION_REGIST
+31/08 10:47:57:726 orderId = 125407867 | requestId = 0 | orderDate = 2013/08/31 10:47:57 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = DK CAM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = register | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 13119 | cause =  | status = 1 | description =  | balance = 
+31/08 10:47:57:734 sendNotify: 84922000514 - Chuc mung quy khach da gia nhap Cau lac bo CAM cua Vietnamobile.Hay tiep tuc su dung Vietnamobile de tich luy nhieu diem va nhan duoc nhieu uu dai cua chuong trinh. Chi tiet 789
+31/08 10:49:19:340 Close pool
+31/08 10:49:19:441 Close queue connection pool.
+31/08 10:49:19:447 End of process session
+31/08 10:49:19:448 Order Routing stopped
+31/08 10:49:21:375 Order Routing started
+31/08 10:49:21:400 Close pool
+31/08 10:49:21:401 Close pool
+31/08 10:49:21:401 Testing connection ...
+31/08 10:49:21:405 Created provisioning instance for CCWS
+31/08 10:49:21:405 Testing connection are success
+31/08 10:49:21:406 Starting process session
+31/08 10:49:22:138 Total 0 instances are started
+31/08 10:49:22:139 Total 1 instances are added
+31/08 11:04:14:768 Create order(84922000514) cost time: 22ms
+31/08 11:04:14:889 Update order(84922000514) cost time: 10ms
+31/08 11:04:14:890 84922000514: LOYALTY - LOYALTY.VALIDATE
+31/08 11:04:14:891 orderId = 125407868 | requestId = 0 | orderDate = 2013/08/31 11:04:14 | userName = system | subProductId = 52789379 | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 3000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+31/08 11:07:45:142 Order Routing started
+31/08 11:07:49:042 Testing connection ...
+31/08 11:07:50:180 Created provisioning instance for CCWS
+31/08 11:07:50:194 Testing connection are success
+31/08 11:07:50:195 Starting process session
+31/08 11:07:51:306 Total 0 instances are started
+31/08 11:07:51:307 Total 1 instances are added
+31/08 11:08:15:166 Create order(84922000514) cost time: 28ms
+31/08 11:08:15:310 Update order(84922000514) cost time: 9ms
+31/08 11:08:15:312 84922000514: LOYALTY - LOYALTY.VALIDATE
+31/08 11:08:15:312 orderId = 125407869 | requestId = 0 | orderDate = 2013/08/31 11:08:15 | userName = system | subProductId = 52789379 | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 3000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+31/08 11:10:35:700 Order Routing started
+31/08 11:10:38:427 Testing connection ...
+31/08 11:10:40:799 Created provisioning instance for CCWS
+31/08 11:10:40:801 Testing connection are success
+31/08 11:10:40:801 Starting process session
+31/08 11:10:42:159 Total 0 instances are started
+31/08 11:10:42:160 Total 1 instances are added
+31/08 11:11:07:577 Create order(84922000514) cost time: 27ms
+31/08 11:11:07:733 Update order(84922000514) cost time: 15ms
+31/08 11:11:07:738 84922000514: LOYALTY - LOYALTY.VALIDATE
+31/08 11:11:07:739 orderId = 125407870 | requestId = 0 | orderDate = 2013/08/31 11:11:07 | userName = system | subProductId = 52789379 | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 3000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+31/08 11:12:05:775 Order Routing started
+31/08 11:12:09:687 Testing connection ...
+31/08 11:12:10:520 Created provisioning instance for CCWS
+31/08 11:12:10:520 Testing connection are success
+31/08 11:12:10:520 Starting process session
+31/08 11:12:11:818 Total 0 instances are started
+31/08 11:12:11:818 Total 1 instances are added
+31/08 11:13:18:656 Create order(84922000514) cost time: 24ms
+31/08 11:13:18:811 Update order(84922000514) cost time: 20ms
+31/08 11:13:18:813 84922000514: LOYALTY - LOYALTY.VALIDATE
+31/08 11:13:18:814 orderId = 125407871 | requestId = 0 | orderDate = 2013/08/31 11:13:18 | userName = system | subProductId = 52789379 | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 3000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+31/08 11:17:18:516 Close pool
+31/08 11:17:18:617 Close queue connection pool.
+31/08 11:17:18:622 End of process session
+31/08 11:17:18:623 Order Routing stopped
+31/08 11:17:20:546 Order Routing started
+31/08 11:17:20:569 Close pool
+31/08 11:17:20:569 Close pool
+31/08 11:17:20:570 Testing connection ...
+31/08 11:17:20:573 Created provisioning instance for CCWS
+31/08 11:17:20:573 Testing connection are success
+31/08 11:17:20:574 Starting process session
+31/08 11:17:21:334 Total 0 instances are started
+31/08 11:17:21:335 Total 1 instances are added
+31/08 11:17:36:812 Create order(84922000514) cost time: 18ms
+31/08 11:17:36:909 Update order(84922000514) cost time: 5ms
+31/08 11:17:36:910 unknow-command
+31/08 11:17:36:911 orderId = 125407872 | requestId = 0 | orderDate = 2013/08/31 11:17:36 | userName = system | subProductId = 52789379 | channel = SMS | serviceAddress = 268 | keyword = TRADIEM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | amount = 0.0 | provisioningType = SMSC | commandId = 0 | cause = unknow-command | status = 4 | description = null | balance = 
+31/08 11:17:36:917 sendNotify: 84922000514 - Xin loi, he thong dang ban. Xin quy khach vui long nhan tin lai sau.
+31/08 11:19:16:894 Create order(84922000514) cost time: 21ms
+31/08 11:19:17:026 Update order(84922000514) cost time: 12ms
+31/08 11:19:17:027 unknow-command
+31/08 11:19:17:028 orderId = 125407873 | requestId = 0 | orderDate = 2013/08/31 11:19:16 | userName = system | subProductId = 52789379 | channel = SMS | serviceAddress = 268 | keyword = TRADIEM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | amount = 0.0 | provisioningType = SMSC | commandId = 0 | cause = unknow-command | status = 4 | description = null | balance = 
+31/08 11:19:17:051 sendNotify: 84922000514 - Xin loi, he thong dang ban. Xin quy khach vui long nhan tin lai sau.
+31/08 11:25:33:076 84922000514: LOYALTY - CRM.SUBSCRIPTION_UNREGIST
+31/08 11:25:33:076 orderId = 0 | requestId = 0 | orderDate = 2013/08/31 11:25:32 | userName = system | subProductId = 52789379 | channel = SMS | serviceAddress = 268 | keyword = HUY CAM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = unregister | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 13121 | cause =  | status = 1 | description =  | balance = 
+31/08 11:26:18:022 Create order(84922000514) cost time: 16ms
+31/08 11:26:18:137 Update order(84922000514) cost time: 8ms
+31/08 11:26:18:138 84922000514: LOYALTY - LOYALTY.VALIDATE
+31/08 11:26:18:139 orderId = 125407874 | requestId = 0 | orderDate = 2013/08/31 11:26:18 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+31/08 11:31:12:509 Order Routing started
+31/08 11:31:16:897 Testing connection ...
+31/08 11:31:17:817 Created provisioning instance for CCWS
+31/08 11:31:17:818 Testing connection are success
+31/08 11:31:17:818 Starting process session
+31/08 11:31:19:579 Total 0 instances are started
+31/08 11:31:19:580 Total 1 instances are added
+31/08 11:31:51:422 Create order(84922000514) cost time: 26ms
+31/08 11:31:51:578 Update order(84922000514) cost time: 10ms
+31/08 11:31:51:580 84922000514: LOYALTY - LOYALTY.VALIDATE
+31/08 11:31:51:582 orderId = 125407875 | requestId = 0 | orderDate = 2013/08/31 11:31:51 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+31/08 11:42:45:164 Order Routing started
+31/08 11:42:49:365 Testing connection ...
+31/08 11:42:50:342 Created provisioning instance for CCWS
+31/08 11:42:50:344 Testing connection are success
+31/08 11:42:50:344 Starting process session
+31/08 11:42:51:791 Total 0 instances are started
+31/08 11:42:51:792 Total 1 instances are added
+31/08 11:43:05:941 Create order(84922000514) cost time: 28ms
+31/08 11:43:06:101 Update order(84922000514) cost time: 22ms
+31/08 11:43:06:103 84922000514: LOYALTY - LOYALTY.VALIDATE
+31/08 11:43:06:104 orderId = 125407876 | requestId = 0 | orderDate = 2013/08/31 11:43:05 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+31/08 11:44:01:852 Order Routing started
+31/08 11:44:06:041 Testing connection ...
+31/08 11:44:06:781 Created provisioning instance for CCWS
+31/08 11:44:06:782 Testing connection are success
+31/08 11:44:06:782 Starting process session
+31/08 11:44:08:081 Total 0 instances are started
+31/08 11:44:08:082 Total 1 instances are added
+31/08 11:44:19:653 Create order(84922000514) cost time: 37ms
+31/08 11:44:19:817 Update order(84922000514) cost time: 22ms
+31/08 11:44:19:820 84922000514: LOYALTY - LOYALTY.VALIDATE
+31/08 11:44:19:822 orderId = 125407877 | requestId = 0 | orderDate = 2013/08/31 11:44:19 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+31/08 11:45:14:046 Order Routing started
+31/08 11:45:18:446 Testing connection ...
+31/08 11:45:19:346 Created provisioning instance for CCWS
+31/08 11:45:19:347 Testing connection are success
+31/08 11:45:19:347 Starting process session
+31/08 11:45:20:782 Total 0 instances are started
+31/08 11:45:20:783 Total 1 instances are added
+31/08 11:45:34:758 Close pool
+31/08 11:45:34:859 Close queue connection pool.
+31/08 11:45:34:865 End of process session
+31/08 11:45:34:866 Order Routing stopped
+31/08 11:45:36:789 Order Routing started
+31/08 11:45:36:810 Close pool
+31/08 11:45:36:811 Close pool
+31/08 11:45:36:812 Testing connection ...
+31/08 11:45:36:819 Created provisioning instance for CCWS
+31/08 11:45:36:820 Testing connection are success
+31/08 11:45:36:820 Starting process session
+31/08 11:45:37:607 Total 0 instances are started
+31/08 11:45:37:608 Total 1 instances are added
+31/08 11:45:54:109 Create order(84922000514) cost time: 24ms
+31/08 11:45:54:259 Update order(84922000514) cost time: 16ms
+31/08 11:45:54:262 84922000514: LOYALTY - LOYALTY.VALIDATE
+31/08 11:45:54:262 orderId = 125407878 | requestId = 0 | orderDate = 2013/08/31 11:45:54 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+31/08 11:49:29:388 Order Routing started
+31/08 11:49:33:700 Testing connection ...
+31/08 11:49:34:572 Created provisioning instance for CCWS
+31/08 11:49:34:573 Testing connection are success
+31/08 11:49:34:573 Starting process session
+31/08 11:49:35:876 Total 0 instances are started
+31/08 11:49:35:876 Total 1 instances are added
+31/08 11:50:43:183 Create order(84922000514) cost time: 24ms
+31/08 11:50:43:334 Update order(84922000514) cost time: 8ms
+31/08 11:50:43:336 84922000514: LOYALTY - LOYALTY.VALIDATE
+31/08 11:50:43:337 orderId = 125407879 | requestId = 0 | orderDate = 2013/08/31 11:50:43 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+31/08 11:53:07:573 Order Routing started
+31/08 11:53:11:918 Testing connection ...
+31/08 11:53:12:909 Created provisioning instance for CCWS
+31/08 11:53:12:910 Testing connection are success
+31/08 11:53:12:911 Starting process session
+31/08 11:53:14:352 Total 0 instances are started
+31/08 11:53:14:352 Total 1 instances are added
+31/08 11:54:54:766 Order Routing started
+31/08 11:54:58:738 Testing connection ...
+31/08 11:54:59:742 Created provisioning instance for CCWS
+31/08 11:54:59:743 Testing connection are success
+31/08 11:54:59:744 Starting process session
+31/08 11:55:00:884 Total 0 instances are started
+31/08 11:55:00:885 Total 1 instances are added
+31/08 11:55:17:310 Close pool
+31/08 11:55:17:411 Close queue connection pool.
+31/08 11:55:17:422 End of process session
+31/08 11:55:17:424 Order Routing stopped
+31/08 11:55:19:347 Order Routing started
+31/08 11:55:19:375 Close pool
+31/08 11:55:19:377 Close pool
+31/08 11:55:19:377 Testing connection ...
+31/08 11:55:19:384 Created provisioning instance for CCWS
+31/08 11:55:19:385 Testing connection are success
+31/08 11:55:19:385 Starting process session
+31/08 11:55:20:125 Total 0 instances are started
+31/08 11:55:20:126 Total 1 instances are added
+31/08 11:55:23:591 Create order(84922000514) cost time: 20ms
+31/08 11:55:23:732 Update order(84922000514) cost time: 14ms
+31/08 11:55:23:734 84922000514: LOYALTY - LOYALTY.VALIDATE
+31/08 11:55:23:736 orderId = 125407880 | requestId = 0 | orderDate = 2013/08/31 11:55:23 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+31/08 11:57:46:513 Order Routing started
+31/08 11:57:50:927 Testing connection ...
+31/08 11:57:51:925 Created provisioning instance for CCWS
+31/08 11:57:51:925 Testing connection are success
+31/08 11:57:51:926 Starting process session
+31/08 11:57:53:971 Total 0 instances are started
+31/08 11:57:53:972 Total 1 instances are added
+31/08 11:58:36:995 Order Routing started
+31/08 11:58:40:748 Testing connection ...
+31/08 11:58:41:959 Created provisioning instance for CCWS
+31/08 11:58:41:965 Testing connection are success
+31/08 11:58:41:967 Starting process session
+31/08 11:58:43:391 Total 0 instances are started
+31/08 11:58:43:392 Total 1 instances are added
+31/08 11:58:54:574 Close pool
+31/08 11:58:54:675 Close queue connection pool.
+31/08 11:58:54:684 End of process session
+31/08 11:58:54:685 Order Routing stopped
+31/08 11:58:56:612 Order Routing started
+31/08 11:58:56:632 Close pool
+31/08 11:58:56:633 Close pool
+31/08 11:58:56:634 Testing connection ...
+31/08 11:58:56:641 Created provisioning instance for CCWS
+31/08 11:58:56:641 Testing connection are success
+31/08 11:58:56:642 Starting process session
+31/08 11:58:57:553 Total 0 instances are started
+31/08 11:58:57:554 Total 1 instances are added
+31/08 11:58:58:855 Create order(84922000514) cost time: 23ms
+31/08 11:58:59:008 Update order(84922000514) cost time: 14ms
+31/08 11:58:59:011 84922000514: LOYALTY - LOYALTY.VALIDATE
+31/08 11:58:59:013 orderId = 125407881 | requestId = 0 | orderDate = 2013/08/31 11:58:58 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+31/08 12:19:32:727 Order Routing started
+31/08 12:19:37:048 Testing connection ...
+31/08 12:19:37:904 Created provisioning instance for CCWS
+31/08 12:19:37:904 Testing connection are success
+31/08 12:19:37:905 Starting process session
+31/08 12:19:39:487 Total 0 instances are started
+31/08 12:19:39:488 Total 1 instances are added
+31/08 12:20:34:764 Create order(84922000514) cost time: 29ms
+31/08 12:20:34:920 Update order(84922000514) cost time: 11ms
+31/08 12:20:34:922 84922000514: LOYALTY - LOYALTY.VALIDATE
+31/08 12:20:34:923 orderId = 125407882 | requestId = 0 | orderDate = 2013/08/31 12:20:34 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+31/08 12:21:02:718 Create order(84922000514) cost time: 9ms
+31/08 12:21:02:817 Update order(84922000514) cost time: 4ms
+31/08 12:21:02:817 84922000514: LOYALTY - LOYALTY.VALIDATE
+31/08 12:21:02:818 orderId = 125407883 | requestId = 0 | orderDate = 2013/08/31 12:21:02 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+31/08 12:23:01:320 Order Routing started
+31/08 12:23:05:789 Testing connection ...
+31/08 12:23:06:788 Created provisioning instance for CCWS
+31/08 12:23:06:788 Testing connection are success
+31/08 12:23:06:789 Starting process session
+31/08 12:23:07:958 Total 0 instances are started
+31/08 12:23:07:959 Total 1 instances are added
+31/08 12:23:30:157 Create order(84922000514) cost time: 26ms
+31/08 12:23:30:307 Update order(84922000514) cost time: 16ms
+31/08 12:23:30:312 84922000514: LOYALTY - LOYALTY.VALIDATE
+31/08 12:23:30:313 orderId = 125407884 | requestId = 0 | orderDate = 2013/08/31 12:23:30 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+31/08 12:24:26:306 Order Routing started
+31/08 12:24:30:403 Testing connection ...
+31/08 12:24:31:127 Created provisioning instance for CCWS
+31/08 12:24:31:128 Testing connection are success
+31/08 12:24:31:129 Starting process session
+31/08 12:24:32:985 Total 0 instances are started
+31/08 12:24:32:986 Total 1 instances are added
+31/08 12:24:39:285 Create order(84922000514) cost time: 28ms
+31/08 12:24:39:445 Update order(84922000514) cost time: 20ms
+31/08 12:24:39:448 84922000514: LOYALTY - LOYALTY.VALIDATE
+31/08 12:24:39:449 orderId = 125407885 | requestId = 0 | orderDate = 2013/08/31 12:24:39 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+31/08 12:27:49:034 Order Routing started
+31/08 12:27:53:186 Testing connection ...
+31/08 12:27:54:236 Created provisioning instance for CCWS
+31/08 12:27:54:236 Testing connection are success
+31/08 12:27:54:237 Starting process session
+31/08 12:27:55:416 Total 0 instances are started
+31/08 12:27:55:417 Total 1 instances are added
+31/08 12:28:15:734 Create order(84922000514) cost time: 29ms
+31/08 12:28:15:884 Update order(84922000514) cost time: 8ms
+31/08 12:28:15:886 84922000514: LOYALTY - LOYALTY.VALIDATE
+31/08 12:28:15:886 orderId = 125407886 | requestId = 0 | orderDate = 2013/08/31 12:28:15 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+31/08 12:32:32:186 Order Routing started
+31/08 12:33:14:361 Order Routing started
+31/08 12:33:18:614 Testing connection ...
+31/08 12:33:19:470 Created provisioning instance for CCWS
+31/08 12:33:19:471 Testing connection are success
+31/08 12:33:19:471 Starting process session
+31/08 12:33:21:043 Total 0 instances are started
+31/08 12:33:21:044 Total 1 instances are added
+31/08 12:33:43:154 Create order(84922000514) cost time: 27ms
+31/08 12:33:43:321 Update order(84922000514) cost time: 23ms
+31/08 12:33:43:323 84922000514: LOYALTY - LOYALTY.VALIDATE
+31/08 12:33:43:324 orderId = 125407887 | requestId = 0 | orderDate = 2013/08/31 12:33:43 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+31/08 12:42:29:847 Order Routing started
+31/08 12:42:59:467 java.sql.SQLException: Connections could not be acquired from the underlying database!
+31/08 12:42:59:468 End of process session
+31/08 12:42:59:470 Order Routing stopped
+31/08 12:43:00:544 Order Routing started
+31/08 12:43:19:352 java.sql.SQLException: An SQLException was provoked by the following failure: com.mchange.v2.resourcepool.ResourcePoolException: A ResourcePool cannot acquire a new resource -- the factory or source appears to be down.
+31/08 12:43:19:352 End of process session
+31/08 12:43:24:353 Order Routing stopped
+31/08 12:43:25:658 Order Routing started
+31/08 12:43:25:680 Testing connection ...
+31/08 12:43:26:410 Created provisioning instance for CCWS
+31/08 12:43:26:410 Testing connection are success
+31/08 12:43:26:411 Starting process session
+31/08 12:43:27:403 Total 0 instances are started
+31/08 12:43:27:404 Total 1 instances are added
+31/08 12:43:27:482 Create order(84922000514) cost time: 27ms
+31/08 12:43:27:644 Update order(84922000514) cost time: 11ms
+31/08 12:43:27:648 84922000514: LOYALTY - LOYALTY.VALIDATE
+31/08 12:43:27:649 orderId = 125407888 | requestId = 0 | orderDate = 2013/08/31 12:43:27 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+31/08 12:43:41:869 Create order(84922000514) cost time: 25ms
+31/08 12:43:42:006 Update order(84922000514) cost time: 22ms
+31/08 12:43:42:007 84922000514: LOYALTY - LOYALTY.VALIDATE
+31/08 12:43:42:008 orderId = 125407889 | requestId = 0 | orderDate = 2013/08/31 12:43:41 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+31/08 12:43:59:683 Close pool
+31/08 12:43:59:784 Close queue connection pool.
+31/08 12:43:59:789 End of process session
+31/08 12:43:59:789 Order Routing stopped
+31/08 12:44:01:716 Order Routing started
+31/08 12:44:01:737 Close pool
+31/08 12:44:01:737 Close pool
+31/08 12:44:01:738 Testing connection ...
+31/08 12:44:01:745 Created provisioning instance for CCWS
+31/08 12:44:01:745 Testing connection are success
+31/08 12:44:01:746 Starting process session
+31/08 12:44:02:526 Total 0 instances are started
+31/08 12:44:02:527 Total 1 instances are added
+31/08 12:44:06:923 Create order(84922000514) cost time: 10ms
+31/08 12:44:06:953 Update order(84922000514) cost time: 5ms
+31/08 12:44:06:954 84922000514: LOYALTY - LOYALTY.VALIDATE
+31/08 12:44:06:954 orderId = 125407890 | requestId = 0 | orderDate = 2013/08/31 12:44:06 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+31/08 12:44:22:348 Order Routing started
+31/08 12:44:27:402 Testing connection ...
+31/08 12:44:28:435 Created provisioning instance for CCWS
+31/08 12:44:28:436 Testing connection are success
+31/08 12:44:28:436 Starting process session
+31/08 12:44:29:750 Total 0 instances are started
+31/08 12:44:29:752 Total 1 instances are added
+31/08 12:44:50:317 Create order(84922000514) cost time: 28ms
+31/08 12:44:50:465 Update order(84922000514) cost time: 12ms
+31/08 12:44:50:467 84922000514: LOYALTY - LOYALTY.VALIDATE
+31/08 12:44:50:467 orderId = 125407891 | requestId = 0 | orderDate = 2013/08/31 12:44:50 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+31/08 12:45:26:156 Close pool
+31/08 12:45:26:257 Close queue connection pool.
+31/08 12:45:26:267 End of process session
+31/08 12:45:26:268 Order Routing stopped
+31/08 12:45:28:184 Order Routing started
+31/08 12:45:28:205 Close pool
+31/08 12:45:28:206 Close pool
+31/08 12:45:28:206 Testing connection ...
+31/08 12:45:28:213 Created provisioning instance for CCWS
+31/08 12:45:28:214 Testing connection are success
+31/08 12:45:28:215 Starting process session
+31/08 12:45:28:938 Total 0 instances are started
+31/08 12:45:28:939 Total 1 instances are added
+31/08 12:45:43:433 Create order(84922000514) cost time: 9ms
+31/08 12:45:43:452 Update order(84922000514) cost time: 7ms
+31/08 12:45:43:453 84922000514: LOYALTY - LOYALTY.VALIDATE
+31/08 12:45:43:454 orderId = 125407892 | requestId = 0 | orderDate = 2013/08/31 12:45:43 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+31/08 12:46:34:423 Order Routing started
+31/08 12:46:38:631 Testing connection ...
+31/08 12:46:39:533 Created provisioning instance for CCWS
+31/08 12:46:39:534 Testing connection are success
+31/08 12:46:39:534 Starting process session
+31/08 12:46:41:718 Total 0 instances are started
+31/08 12:46:41:726 Total 1 instances are added
+31/08 12:47:18:300 Order Routing started
+31/08 12:47:22:924 Testing connection ...
+31/08 12:47:23:901 Created provisioning instance for CCWS
+31/08 12:47:23:901 Testing connection are success
+31/08 12:47:23:902 Starting process session
+31/08 12:47:25:671 Total 0 instances are started
+31/08 12:47:25:671 Total 1 instances are added
+31/08 12:47:37:256 Create order(84922000514) cost time: 30ms
+31/08 12:47:37:411 Update order(84922000514) cost time: 11ms
+31/08 12:47:37:413 84922000514: LOYALTY - LOYALTY.VALIDATE
+31/08 12:47:37:414 orderId = 125407893 | requestId = 0 | orderDate = 2013/08/31 12:47:37 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+31/08 12:47:44:259 Create order(84922000514) cost time: 10ms
+31/08 12:47:44:278 Update order(84922000514) cost time: 5ms
+31/08 12:47:44:279 84922000514: LOYALTY - LOYALTY.VALIDATE
+31/08 12:47:44:279 orderId = 125407894 | requestId = 0 | orderDate = 2013/08/31 12:47:44 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+31/08 12:49:15:810 Order Routing started
+31/08 12:49:20:021 Testing connection ...
+31/08 12:49:20:999 Created provisioning instance for CCWS
+31/08 12:49:20:999 Testing connection are success
+31/08 12:49:21:000 Starting process session
+31/08 12:49:22:772 Total 0 instances are started
+31/08 12:49:22:773 Total 1 instances are added
+31/08 12:49:48:601 Order Routing started
+31/08 12:49:53:444 Testing connection ...
+31/08 12:49:54:462 Created provisioning instance for CCWS
+31/08 12:49:54:462 Testing connection are success
+31/08 12:49:54:463 Starting process session
+31/08 12:49:55:802 Total 0 instances are started
+31/08 12:49:55:802 Total 1 instances are added
+31/08 12:56:06:112 Order Routing started
+31/08 12:56:10:455 Testing connection ...
+31/08 12:56:12:370 Created provisioning instance for CCWS
+31/08 12:56:12:372 Testing connection are success
+31/08 12:56:12:373 Starting process session
+31/08 12:56:14:620 Total 0 instances are started
+31/08 12:56:14:621 Total 1 instances are added
+31/08 12:56:15:642 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.39:7676]. - cause: java.net.ConnectException: Connection refused: connect
+31/08 12:56:15:642 Consumer was closed, reconnect.
+31/08 12:56:15:745 Total 0 instances are started
+31/08 12:56:15:747 Total 1 instances are added
+31/08 12:56:16:769 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.39:7676]. - cause: java.net.ConnectException: Connection refused: connect
+31/08 12:56:16:769 Consumer was closed, reconnect.
+31/08 12:56:16:880 Total 0 instances are started
+31/08 12:56:16:881 Total 1 instances are added
+31/08 12:56:17:905 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.39:7676]. - cause: java.net.ConnectException: Connection refused: connect
+31/08 12:56:17:905 Consumer was closed, reconnect.
+31/08 12:56:18:054 Total 0 instances are started
+31/08 12:56:18:056 Total 1 instances are added
+31/08 12:56:19:075 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.39:7676]. - cause: java.net.ConnectException: Connection refused: connect
+31/08 12:56:19:076 Consumer was closed, reconnect.
+31/08 12:56:19:177 Total 0 instances are started
+31/08 12:56:19:179 Total 1 instances are added
+31/08 12:56:20:230 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.39:7676]. - cause: java.net.ConnectException: Connection refused: connect
+31/08 12:56:20:231 Consumer was closed, reconnect.
+31/08 12:56:20:340 Total 0 instances are started
+31/08 12:56:20:342 Total 1 instances are added
+31/08 12:56:21:402 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.39:7676]. - cause: java.net.ConnectException: Connection refused: connect
+31/08 12:56:21:402 Consumer was closed, reconnect.
+31/08 12:56:21:504 Total 0 instances are started
+31/08 12:56:21:505 Total 1 instances are added
+31/08 12:56:22:863 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.39:7676]. - cause: java.net.ConnectException: Connection refused: connect
+31/08 12:56:22:863 Consumer was closed, reconnect.
+31/08 12:56:22:971 Total 0 instances are started
+31/08 12:56:22:971 Total 1 instances are added
+31/08 12:56:23:983 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.39:7676]. - cause: java.net.ConnectException: Connection refused: connect
+31/08 12:56:23:984 Consumer was closed, reconnect.
+31/08 12:56:24:085 Total 0 instances are started
+31/08 12:56:24:086 Total 1 instances are added
+31/08 12:56:25:126 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.39:7676]. - cause: java.net.ConnectException: Connection refused: connect
+31/08 12:56:25:126 Consumer was closed, reconnect.
+31/08 12:56:25:228 Total 0 instances are started
+31/08 12:56:25:229 Total 1 instances are added
+31/08 12:56:26:281 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.39:7676]. - cause: java.net.ConnectException: Connection refused: connect
+31/08 12:56:26:281 Consumer was closed, reconnect.
+31/08 12:56:26:387 Total 0 instances are started
+31/08 12:56:26:387 Total 1 instances are added
+31/08 12:56:27:507 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.39:7676]. - cause: java.net.ConnectException: Connection refused: connect
+31/08 12:56:27:508 Consumer was closed, reconnect.
+31/08 12:56:27:615 Total 0 instances are started
+31/08 12:56:27:615 Total 1 instances are added
+31/08 12:56:28:703 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.39:7676]. - cause: java.net.ConnectException: Connection refused: connect
+31/08 12:56:28:704 Consumer was closed, reconnect.
+31/08 12:56:28:811 Total 0 instances are started
+31/08 12:56:28:812 Total 1 instances are added
+31/08 12:56:29:891 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.39:7676]. - cause: java.net.ConnectException: Connection refused: connect
+31/08 12:56:29:892 Consumer was closed, reconnect.
+31/08 12:56:29:995 Total 0 instances are started
+31/08 12:56:29:995 Total 1 instances are added
+31/08 12:56:31:024 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.39:7676]. - cause: java.net.ConnectException: Connection refused: connect
+31/08 12:56:31:025 Consumer was closed, reconnect.
+31/08 12:56:31:127 Total 0 instances are started
+31/08 12:56:31:128 Total 1 instances are added
+31/08 12:56:32:153 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.39:7676]. - cause: java.net.ConnectException: Connection refused: connect
+31/08 12:56:32:153 Consumer was closed, reconnect.
+31/08 12:56:32:264 Total 0 instances are started
+31/08 12:56:32:264 Total 1 instances are added
+31/08 12:56:33:272 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.39:7676]. - cause: java.net.ConnectException: Connection refused: connect
+31/08 12:56:33:273 Consumer was closed, reconnect.
+31/08 12:56:33:382 Total 0 instances are started
+31/08 12:56:33:383 Total 1 instances are added
+31/08 12:56:34:485 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.39:7676]. - cause: java.net.ConnectException: Connection refused: connect
+31/08 12:56:34:485 Consumer was closed, reconnect.
+31/08 12:56:34:588 Total 0 instances are started
+31/08 12:56:34:589 Total 1 instances are added
+31/08 12:56:35:607 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.39:7676]. - cause: java.net.ConnectException: Connection refused: connect
+31/08 12:56:35:608 Consumer was closed, reconnect.
+31/08 12:56:35:713 Total 0 instances are started
+31/08 12:56:35:714 Total 1 instances are added
+31/08 12:56:36:816 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.39:7676]. - cause: java.net.ConnectException: Connection refused: connect
+31/08 12:56:36:816 Consumer was closed, reconnect.
+31/08 12:56:36:917 Total 0 instances are started
+31/08 12:56:36:918 Total 1 instances are added
+31/08 12:56:38:127 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.39:7676]. - cause: java.net.ConnectException: Connection refused: connect
+31/08 12:56:38:128 Consumer was closed, reconnect.
+31/08 12:56:38:254 Total 0 instances are started
+31/08 12:56:38:254 Total 1 instances are added
+31/08 12:56:39:295 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.39:7676]. - cause: java.net.ConnectException: Connection refused: connect
+31/08 12:56:39:295 Consumer was closed, reconnect.
+31/08 12:56:39:407 Total 0 instances are started
+31/08 12:56:39:409 Total 1 instances are added
+31/08 12:56:40:501 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.39:7676]. - cause: java.net.ConnectException: Connection refused: connect
+31/08 12:56:40:501 Consumer was closed, reconnect.
+31/08 12:56:40:607 Total 0 instances are started
+31/08 12:56:40:608 Total 1 instances are added
+31/08 12:56:41:638 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.39:7676]. - cause: java.net.ConnectException: Connection refused: connect
+31/08 12:56:41:639 Consumer was closed, reconnect.
+31/08 12:56:41:747 Total 0 instances are started
+31/08 12:56:41:748 Total 1 instances are added
+31/08 12:56:42:770 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.39:7676]. - cause: java.net.ConnectException: Connection refused: connect
+31/08 12:56:42:770 Consumer was closed, reconnect.
+31/08 12:56:42:877 Total 0 instances are started
+31/08 12:56:42:878 Total 1 instances are added
+31/08 12:56:43:911 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.39:7676]. - cause: java.net.ConnectException: Connection refused: connect
+31/08 12:56:43:911 Consumer was closed, reconnect.
+31/08 12:56:44:019 Total 0 instances are started
+31/08 12:56:44:020 Total 1 instances are added
+31/08 12:56:45:097 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.39:7676]. - cause: java.net.ConnectException: Connection refused: connect
+31/08 12:56:45:097 Consumer was closed, reconnect.
+31/08 12:56:45:204 Total 0 instances are started
+31/08 12:56:45:204 Total 1 instances are added
+31/08 12:56:46:237 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.39:7676]. - cause: java.net.ConnectException: Connection refused: connect
+31/08 12:56:46:238 Consumer was closed, reconnect.
+31/08 12:56:46:338 Total 0 instances are started
+31/08 12:56:46:338 Total 1 instances are added
+31/08 12:56:47:370 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.39:7676]. - cause: java.net.ConnectException: Connection refused: connect
+31/08 12:56:47:371 Consumer was closed, reconnect.
+31/08 12:56:47:476 Total 0 instances are started
+31/08 12:56:47:476 Total 1 instances are added
+31/08 12:56:48:603 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.39:7676]. - cause: java.net.ConnectException: Connection refused: connect
+31/08 12:56:48:604 Consumer was closed, reconnect.
+31/08 12:56:48:710 Total 0 instances are started
+31/08 12:56:48:710 Total 1 instances are added
+31/08 13:02:21:069 Order Routing started
+31/08 13:02:23:361 Testing connection ...
+31/08 13:02:25:985 Created provisioning instance for CCWS
+31/08 13:02:25:986 Testing connection are success
+31/08 13:02:25:986 Starting process session
+31/08 13:02:27:513 Total 0 instances are started
+31/08 13:02:27:514 Total 1 instances are added
+31/08 13:03:09:188 Close pool
+31/08 13:03:09:289 Close queue connection pool.
+31/08 13:03:09:297 End of process session
+31/08 13:03:09:299 Order Routing stopped
+31/08 13:03:11:223 Order Routing started
+31/08 13:03:11:246 Close pool
+31/08 13:03:11:247 Close pool
+31/08 13:03:11:247 Testing connection ...
+31/08 13:03:11:251 Created provisioning instance for CCWS
+31/08 13:03:11:251 Testing connection are success
+31/08 13:03:11:252 Starting process session
+31/08 13:03:12:019 Total 0 instances are started
+31/08 13:03:12:020 Total 1 instances are added
+31/08 13:03:19:595 Create order(84922000514) cost time: 22ms
+31/08 13:03:19:772 Update order(84922000514) cost time: 9ms
+31/08 13:03:19:774 84922000514: LOYALTY - LOYALTY.VALIDATE
+31/08 13:03:19:775 orderId = 125407895 | requestId = 0 | orderDate = 2013/08/31 13:03:19 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+31/08 13:04:20:474 Create order(84922000514) cost time: 10ms
+31/08 13:04:20:576 Update order(84922000514) cost time: 5ms
+31/08 13:04:20:577 84922000514: LOYALTY - LOYALTY.VALIDATE
+31/08 13:04:20:578 orderId = 125407896 | requestId = 0 | orderDate = 2013/08/31 13:04:20 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+31/08 13:04:27:501 Create order(84922000514) cost time: 14ms
+31/08 13:04:27:536 Update order(84922000514) cost time: 8ms
+31/08 13:04:27:536 84922000514: LOYALTY - LOYALTY.VALIDATE
+31/08 13:04:27:537 orderId = 125407897 | requestId = 0 | orderDate = 2013/08/31 13:04:27 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+31/08 13:04:34:536 Create order(84922000514) cost time: 10ms
+31/08 13:04:34:552 Update order(84922000514) cost time: 5ms
+31/08 13:04:34:553 84922000514: LOYALTY - LOYALTY.VALIDATE
+31/08 13:04:34:554 orderId = 125407898 | requestId = 0 | orderDate = 2013/08/31 13:04:34 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+31/08 13:04:53:957 Order Routing started
+31/08 13:04:58:322 Testing connection ...
+31/08 13:04:59:319 Created provisioning instance for CCWS
+31/08 13:04:59:320 Testing connection are success
+31/08 13:04:59:320 Starting process session
+31/08 13:05:00:944 Total 0 instances are started
+31/08 13:05:00:945 Total 1 instances are added
+31/08 13:05:15:627 Close pool
+31/08 13:05:15:728 Close queue connection pool.
+31/08 13:05:15:735 End of process session
+31/08 13:05:15:737 Order Routing stopped
+31/08 13:05:17:660 Order Routing started
+31/08 13:05:17:682 Close pool
+31/08 13:05:17:682 Close pool
+31/08 13:05:17:683 Testing connection ...
+31/08 13:05:17:690 Created provisioning instance for CCWS
+31/08 13:05:17:690 Testing connection are success
+31/08 13:05:17:691 Starting process session
+31/08 13:05:18:666 Total 0 instances are started
+31/08 13:05:18:667 Total 1 instances are added
+31/08 13:05:22:919 Create order(84922000514) cost time: 22ms
+31/08 13:05:23:055 Update order(84922000514) cost time: 10ms
+31/08 13:05:23:057 84922000514: LOYALTY - LOYALTY.VALIDATE
+31/08 13:05:23:058 orderId = 125407899 | requestId = 0 | orderDate = 2013/08/31 13:05:22 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+31/08 13:14:29:384 Order Routing started
+31/08 13:14:34:108 Testing connection ...
+31/08 13:14:35:060 Created provisioning instance for CCWS
+31/08 13:14:35:061 Testing connection are success
+31/08 13:14:35:061 Starting process session
+31/08 13:14:36:550 Total 0 instances are started
+31/08 13:14:36:551 Total 1 instances are added
+31/08 13:14:48:886 Close pool
+31/08 13:14:48:987 Close queue connection pool.
+31/08 13:14:48:994 End of process session
+31/08 13:14:48:995 Order Routing stopped
+31/08 13:14:50:922 Order Routing started
+31/08 13:14:50:943 Close pool
+31/08 13:14:50:944 Close pool
+31/08 13:14:50:944 Testing connection ...
+31/08 13:14:50:951 Created provisioning instance for CCWS
+31/08 13:14:50:952 Testing connection are success
+31/08 13:14:50:952 Starting process session
+31/08 13:14:51:714 Total 0 instances are started
+31/08 13:14:51:715 Total 1 instances are added
+31/08 13:14:54:160 Create order(84922000514) cost time: 23ms
+31/08 13:14:54:314 Update order(84922000514) cost time: 10ms
+31/08 13:14:54:316 84922000514: LOYALTY - LOYALTY.VALIDATE
+31/08 13:14:54:317 orderId = 125407900 | requestId = 0 | orderDate = 2013/08/31 13:14:54 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+31/08 13:15:36:076 Order Routing started
+31/08 13:15:40:103 Testing connection ...
+31/08 13:15:40:789 Created provisioning instance for CCWS
+31/08 13:15:40:790 Testing connection are success
+31/08 13:15:40:790 Starting process session
+31/08 13:15:42:317 Total 0 instances are started
+31/08 13:15:42:318 Total 1 instances are added
+31/08 13:15:53:891 Create order(84922000514) cost time: 32ms
+31/08 13:15:54:009 Update order(84922000514) cost time: 11ms
+31/08 13:15:54:011 84922000514: LOYALTY - LOYALTY.VALIDATE
+31/08 13:15:54:011 orderId = 125407901 | requestId = 0 | orderDate = 2013/08/31 13:15:53 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+31/08 13:19:10:736 Close pool
+31/08 13:19:10:837 Close queue connection pool.
+31/08 13:19:10:843 End of process session
+31/08 13:19:10:844 Order Routing stopped
+31/08 13:19:12:771 Order Routing started
+31/08 13:19:12:795 Close pool
+31/08 13:19:12:796 Close pool
+31/08 13:19:12:796 Testing connection ...
+31/08 13:19:12:799 Created provisioning instance for CCWS
+31/08 13:19:12:800 Testing connection are success
+31/08 13:19:12:800 Starting process session
+31/08 13:19:13:519 Total 0 instances are started
+31/08 13:19:13:520 Total 1 instances are added
+31/08 13:19:16:975 Create order(84922000514) cost time: 7ms
+31/08 13:19:17:032 Update order(84922000514) cost time: 4ms
+31/08 13:19:17:034 84922000514: LOYALTY - LOYALTY.VALIDATE
+31/08 13:19:17:034 orderId = 125407902 | requestId = 0 | orderDate = 2013/08/31 13:19:16 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+31/08 13:19:24:017 Create order(84922000514) cost time: 8ms
+31/08 13:19:24:033 Update order(84922000514) cost time: 4ms
+31/08 13:19:24:033 84922000514: LOYALTY - LOYALTY.VALIDATE
+31/08 13:19:24:034 orderId = 125407903 | requestId = 0 | orderDate = 2013/08/31 13:19:24 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+31/08 13:19:52:802 Order Routing started
+31/08 13:19:57:828 Testing connection ...
+31/08 13:19:58:785 Created provisioning instance for CCWS
+31/08 13:19:58:786 Testing connection are success
+31/08 13:19:58:786 Starting process session
+31/08 13:20:00:027 Total 0 instances are started
+31/08 13:20:00:027 Total 1 instances are added
+31/08 13:20:15:518 Close pool
+31/08 13:20:15:619 Close queue connection pool.
+31/08 13:20:15:630 End of process session
+31/08 13:20:15:633 Order Routing stopped
+31/08 13:20:17:557 Order Routing started
+31/08 13:20:17:578 Close pool
+31/08 13:20:17:579 Close pool
+31/08 13:20:17:580 Testing connection ...
+31/08 13:20:17:586 Created provisioning instance for CCWS
+31/08 13:20:17:587 Testing connection are success
+31/08 13:20:17:587 Starting process session
+31/08 13:20:18:377 Total 0 instances are started
+31/08 13:20:18:378 Total 1 instances are added
+31/08 13:20:40:876 Create order(84922000514) cost time: 23ms
+31/08 13:20:41:024 Update order(84922000514) cost time: 17ms
+31/08 13:20:41:026 84922000514: LOYALTY - LOYALTY.VALIDATE
+31/08 13:20:41:027 orderId = 125407904 | requestId = 0 | orderDate = 2013/08/31 13:20:40 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+31/08 13:21:23:393 Order Routing started
+31/08 13:21:27:749 Testing connection ...
+31/08 13:21:28:645 Created provisioning instance for CCWS
+31/08 13:21:28:645 Testing connection are success
+31/08 13:21:28:645 Starting process session
+31/08 13:21:30:410 Total 0 instances are started
+31/08 13:21:30:412 Total 1 instances are added
+31/08 13:22:11:420 Create order(84922000514) cost time: 26ms
+31/08 13:22:11:579 Update order(84922000514) cost time: 15ms
+31/08 13:22:11:581 84922000514: LOYALTY - LOYALTY.VALIDATE
+31/08 13:22:11:582 orderId = 125407905 | requestId = 0 | orderDate = 2013/08/31 13:22:11 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+31/08 13:22:35:732 Order Routing started
+31/08 13:22:39:719 Testing connection ...
+31/08 13:22:40:657 Created provisioning instance for CCWS
+31/08 13:22:40:658 Testing connection are success
+31/08 13:22:40:660 Starting process session
+31/08 13:22:41:771 Total 0 instances are started
+31/08 13:22:41:771 Total 1 instances are added
+31/08 13:22:50:720 Create order(84922000514) cost time: 25ms
+31/08 13:22:50:883 Update order(84922000514) cost time: 19ms
+31/08 13:22:50:885 84922000514: LOYALTY - LOYALTY.VALIDATE
+31/08 13:22:50:886 orderId = 125407906 | requestId = 0 | orderDate = 2013/08/31 13:22:50 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+31/08 13:27:58:762 Create order(84922000514) cost time: 11ms
+31/08 13:27:59:150 Update order(84922000514) cost time: 341ms
+31/08 13:27:59:151 unknow-command
+31/08 13:27:59:152 orderId = 125407907 | requestId = 0 | orderDate = 2013/08/31 13:27:58 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = TRADIEM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | amount = 0.0 | provisioningType = SMSC | commandId = 0 | cause = unknow-command | status = 4 | description = null | balance = 
+31/08 13:27:59:192 sendNotify: 84922000514 - Xin loi, he thong dang ban. Xin quy khach vui long nhan tin lai sau.
+31/08 13:28:43:808 Create order(84922000514) cost time: 24ms
+31/08 13:28:43:936 Update order(84922000514) cost time: 13ms
+31/08 13:28:43:937 unknow-command
+31/08 13:28:43:938 orderId = 125407908 | requestId = 0 | orderDate = 2013/08/31 13:28:43 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = TRADIEM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | amount = 0.0 | provisioningType = SMSC | commandId = 0 | cause = unknow-command | status = 4 | description = null | balance = 
+31/08 13:28:43:947 sendNotify: 84922000514 - Xin loi, he thong dang ban. Xin quy khach vui long nhan tin lai sau.
+31/08 13:30:35:832 Create order(84922000514) cost time: 9ms
+31/08 13:30:35:945 Update order(84922000514) cost time: 22ms
+31/08 13:30:35:946 unknow-command
+31/08 13:30:35:947 orderId = 125407909 | requestId = 0 | orderDate = 2013/08/31 13:30:35 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = TRADIEM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | amount = 0.0 | provisioningType = SMSC | commandId = 0 | cause = unknow-command | status = 4 | description = null | balance = 
+31/08 13:30:35:959 sendNotify: 84922000514 - Xin loi, he thong dang ban. Xin quy khach vui long nhan tin lai sau.
+31/08 13:30:44:672 Close pool
+31/08 13:30:44:773 Close queue connection pool.
+31/08 13:30:44:779 End of process session
+31/08 13:30:44:781 Order Routing stopped
+31/08 13:30:46:697 Order Routing started
+31/08 13:30:46:716 Close pool
+31/08 13:30:46:717 Close pool
+31/08 13:30:46:718 Testing connection ...
+31/08 13:30:46:721 Created provisioning instance for CCWS
+31/08 13:30:46:721 Testing connection are success
+31/08 13:30:46:722 Starting process session
+31/08 13:30:47:467 Total 0 instances are started
+31/08 13:30:47:469 Total 1 instances are added
+31/08 13:30:50:896 Create order(84922000514) cost time: 9ms
+31/08 13:30:50:912 Update order(84922000514) cost time: 5ms
+31/08 13:30:50:913 84922000514: LOYALTY - LOYALTY.VALIDATE
+31/08 13:30:50:913 orderId = 125407910 | requestId = 0 | orderDate = 2013/08/31 13:30:50 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = TRADIEM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+31/08 13:33:38:545 Order Routing started
+31/08 13:33:42:584 Testing connection ...
+31/08 13:33:43:269 Created provisioning instance for CCWS
+31/08 13:33:43:270 Testing connection are success
+31/08 13:33:43:270 Starting process session
+31/08 13:33:44:797 Total 0 instances are started
+31/08 13:33:44:798 Total 1 instances are added
+31/08 13:34:09:331 Create order(84922000514) cost time: 30ms
+31/08 13:34:09:449 Update order(84922000514) cost time: 14ms
+31/08 13:34:09:451 84922000514: LOYALTY - LOYALTY.VALIDATE
+31/08 13:34:09:452 orderId = 125407911 | requestId = 0 | orderDate = 2013/08/31 13:34:09 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = TRADIEM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+31/08 13:45:54:073 Order Routing started
+31/08 13:45:58:358 Testing connection ...
+31/08 13:45:59:110 Created provisioning instance for CCWS
+31/08 13:45:59:111 Testing connection are success
+31/08 13:45:59:111 Starting process session
+31/08 13:46:00:473 Total 0 instances are started
+31/08 13:46:00:473 Total 1 instances are added
+31/08 13:46:16:610 Close pool
+31/08 13:46:16:711 Close queue connection pool.
+31/08 13:46:16:717 End of process session
+31/08 13:46:16:718 Order Routing stopped
+31/08 13:46:18:639 Order Routing started
+31/08 13:46:18:662 Close pool
+31/08 13:46:18:663 Close pool
+31/08 13:46:18:663 Testing connection ...
+31/08 13:46:18:666 Created provisioning instance for CCWS
+31/08 13:46:18:667 Testing connection are success
+31/08 13:46:18:668 Starting process session
+31/08 13:46:19:434 Total 0 instances are started
+31/08 13:46:19:435 Total 1 instances are added
+31/08 13:46:21:877 Create order(84922000514) cost time: 27ms
+31/08 13:46:22:054 Update order(84922000514) cost time: 20ms
+31/08 13:46:22:056 84922000514: LOYALTY - LOYALTY.VALIDATE
+31/08 13:46:22:058 orderId = 125407912 | requestId = 0 | orderDate = 2013/08/31 13:46:21 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = TRADIEM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+31/08 13:47:08:869 Create order(84922000514) cost time: 10ms
+31/08 13:47:08:885 Update order(84922000514) cost time: 5ms
+31/08 13:47:08:886 84922000514: LOYALTY - CRM.SUBSCRIPTION_REGIST
+31/08 13:47:08:887 orderId = 125407913 | requestId = 0 | orderDate = 2013/08/31 13:47:08 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = DK CAM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = register | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 13119 | cause =  | status = 1 | description =  | balance = 
+31/08 13:47:08:897 sendNotify: 84922000514 - Chuc mung quy khach da gia nhap Cau lac bo CAM cua Vietnamobile.Hay tiep tuc su dung Vietnamobile de tich luy nhieu diem va nhan duoc nhieu uu dai cua chuong trinh. Chi tiet 789
+31/08 13:47:38:904 Create order(84922000514) cost time: 11ms
+31/08 13:47:38:928 Update order(84922000514) cost time: 4ms
+31/08 13:47:38:929 84922000514: LOYALTY - LOYALTY.VALIDATE
+31/08 13:47:38:930 orderId = 125407914 | requestId = 0 | orderDate = 2013/08/31 13:47:38 | userName = system | subProductId = 52789380 | channel = SMS | serviceAddress = 268 | keyword = TRADIEM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+31/08 13:49:41:224 Order Routing started
+31/08 13:49:45:640 Testing connection ...
+31/08 13:49:46:600 Created provisioning instance for CCWS
+31/08 13:49:46:605 Testing connection are success
+31/08 13:49:46:605 Starting process session
+31/08 13:49:48:535 Total 0 instances are started
+31/08 13:49:48:536 Total 1 instances are added
+31/08 13:50:01:217 Create order(84922000514) cost time: 30ms
+31/08 13:50:01:377 Update order(84922000514) cost time: 27ms
+31/08 13:50:01:379 84922000514: LOYALTY - LOYALTY.VALIDATE
+31/08 13:50:01:380 orderId = 125407915 | requestId = 0 | orderDate = 2013/08/31 13:50:01 | userName = system | subProductId = 52789380 | channel = SMS | serviceAddress = 268 | keyword = TRADIEM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+31/08 13:53:35:252 Order Routing started
+31/08 13:53:39:428 Testing connection ...
+31/08 13:53:40:063 Created provisioning instance for CCWS
+31/08 13:53:40:063 Testing connection are success
+31/08 13:53:40:064 Starting process session
+31/08 13:53:41:716 Total 0 instances are started
+31/08 13:53:41:716 Total 1 instances are added
+31/08 13:53:56:367 Create order(84922000514) cost time: 29ms
+31/08 13:53:56:521 Update order(84922000514) cost time: 13ms
+31/08 13:53:56:524 84922000514: LOYALTY - LOYALTY.VALIDATE
+31/08 13:53:56:525 orderId = 125407916 | requestId = 0 | orderDate = 2013/08/31 13:53:56 | userName = system | subProductId = 52789380 | channel = SMS | serviceAddress = 268 | keyword = TRADIEM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+31/08 13:56:45:147 Order Routing started
+31/08 13:56:49:664 Testing connection ...
+31/08 13:56:50:551 Created provisioning instance for CCWS
+31/08 13:56:50:552 Testing connection are success
+31/08 13:56:50:552 Starting process session
+31/08 13:56:51:719 Total 0 instances are started
+31/08 13:56:51:726 Total 1 instances are added
+31/08 13:57:05:063 Create order(84922000514) cost time: 32ms
+31/08 13:57:05:221 Update order(84922000514) cost time: 22ms
+31/08 13:57:05:223 84922000514: LOYALTY - LOYALTY.VALIDATE
+31/08 13:57:05:224 orderId = 125407917 | requestId = 0 | orderDate = 2013/08/31 13:57:05 | userName = system | subProductId = 52789380 | channel = SMS | serviceAddress = 268 | keyword = TRADIEM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+31/08 13:57:47:056 Create order(84922000514) cost time: 13ms
+31/08 13:57:47:090 Update order(84922000514) cost time: 5ms
+31/08 13:57:47:090 84922000514: LOYALTY - LOYALTY.VALIDATE
+31/08 13:57:47:091 orderId = 125407918 | requestId = 0 | orderDate = 2013/08/31 13:57:47 | userName = system | subProductId = 52789380 | channel = SMS | serviceAddress = 268 | keyword = TRADIEM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+31/08 13:57:54:093 Create order(84922000514) cost time: 9ms
+31/08 13:57:54:112 Update order(84922000514) cost time: 5ms
+31/08 13:57:54:113 84922000514: LOYALTY - LOYALTY.VALIDATE
+31/08 13:57:54:113 orderId = 125407919 | requestId = 0 | orderDate = 2013/08/31 13:57:54 | userName = system | subProductId = 52789380 | channel = SMS | serviceAddress = 268 | keyword = TRADIEM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+31/08 13:58:47:050 Order Routing started
+31/08 13:58:51:410 Testing connection ...
+31/08 13:58:52:353 Created provisioning instance for CCWS
+31/08 13:58:52:354 Testing connection are success
+31/08 13:58:52:354 Starting process session
+31/08 13:58:53:778 Total 0 instances are started
+31/08 13:58:53:779 Total 1 instances are added
+31/08 13:59:12:627 Order Routing started
+31/08 13:59:17:637 Testing connection ...
+31/08 13:59:18:636 Created provisioning instance for CCWS
+31/08 13:59:18:637 Testing connection are success
+31/08 13:59:18:638 Starting process session
+31/08 13:59:20:009 Total 0 instances are started
+31/08 13:59:20:010 Total 1 instances are added
+31/08 14:01:27:099 Order Routing started
+31/08 14:01:31:359 Testing connection ...
+31/08 14:01:32:301 Created provisioning instance for CCWS
+31/08 14:01:32:302 Testing connection are success
+31/08 14:01:32:302 Starting process session
+31/08 14:01:34:224 Total 0 instances are started
+31/08 14:01:34:225 Total 1 instances are added
+31/08 14:01:54:871 Create order(84922000514) cost time: 27ms
+31/08 14:01:55:026 Update order(84922000514) cost time: 13ms
+31/08 14:01:55:028 84922000514: LOYALTY - LOYALTY.VALIDATE
+31/08 14:01:55:029 orderId = 125407920 | requestId = 0 | orderDate = 2013/08/31 14:01:54 | userName = system | subProductId = 52789380 | channel = SMS | serviceAddress = 268 | keyword = TRADIEM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+31/08 14:08:10:367 Order Routing started
+31/08 14:08:14:447 Testing connection ...
+31/08 14:08:15:064 Created provisioning instance for CCWS
+31/08 14:08:15:065 Testing connection are success
+31/08 14:08:15:065 Starting process session
+31/08 14:08:16:550 Total 0 instances are started
+31/08 14:08:16:551 Total 1 instances are added
+31/08 14:08:35:038 Close pool
+31/08 14:08:35:139 Close queue connection pool.
+31/08 14:08:35:146 End of process session
+31/08 14:08:35:148 Order Routing stopped
+31/08 14:08:37:059 Order Routing started
+31/08 14:08:37:080 Close pool
+31/08 14:08:37:081 Close pool
+31/08 14:08:37:082 Testing connection ...
+31/08 14:08:37:086 Created provisioning instance for CCWS
+31/08 14:08:37:087 Testing connection are success
+31/08 14:08:37:087 Starting process session
+31/08 14:08:37:840 Total 0 instances are started
+31/08 14:08:37:842 Total 1 instances are added
+31/08 14:08:40:291 Create order(84922000514) cost time: 24ms
+31/08 14:08:40:430 Update order(84922000514) cost time: 10ms
+31/08 14:08:40:432 84922000514: LOYALTY - LOYALTY.VALIDATE
+31/08 14:08:40:433 orderId = 125407921 | requestId = 0 | orderDate = 2013/08/31 14:08:40 | userName = system | subProductId = 52789380 | channel = SMS | serviceAddress = 268 | keyword = TRADIEM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+31/08 14:20:30:685 Order Routing started
+31/08 14:20:32:882 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:20:32:882 End of process session
+31/08 14:20:42:986 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:20:42:987 End of process session
+31/08 14:20:53:024 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:20:53:025 End of process session
+31/08 14:20:59:025 Order Routing stopped
+31/08 14:21:00:421 Order Routing started
+31/08 14:21:00:467 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:21:00:468 End of process session
+31/08 14:21:10:492 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:21:10:493 End of process session
+31/08 14:21:20:519 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:21:20:520 End of process session
+31/08 14:21:21:520 Order Routing stopped
+31/08 14:21:23:454 Order Routing started
+31/08 14:21:23:497 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:21:23:498 End of process session
+31/08 14:21:33:524 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:21:33:525 End of process session
+31/08 14:21:43:552 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:21:43:553 End of process session
+31/08 14:21:53:578 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:21:53:580 End of process session
+31/08 14:22:03:607 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:22:03:608 End of process session
+31/08 14:22:13:633 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:22:13:634 End of process session
+31/08 14:22:23:658 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:22:23:659 End of process session
+31/08 14:22:33:685 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:22:33:687 End of process session
+31/08 14:22:43:772 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:22:43:773 End of process session
+31/08 14:22:53:798 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:22:53:799 End of process session
+31/08 14:23:03:823 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:23:03:824 End of process session
+31/08 14:23:04:825 Order Routing stopped
+31/08 14:23:06:502 Order Routing started
+31/08 14:23:06:545 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:23:06:546 End of process session
+31/08 14:23:16:571 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:23:16:572 End of process session
+31/08 14:23:26:599 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:23:26:600 End of process session
+31/08 14:23:36:623 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:23:36:624 End of process session
+31/08 14:23:46:648 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:23:46:649 End of process session
+31/08 14:23:56:678 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:23:56:679 End of process session
+31/08 14:24:06:705 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:24:06:705 End of process session
+31/08 14:24:16:729 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:24:16:730 End of process session
+31/08 14:24:26:764 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:24:26:765 End of process session
+31/08 14:24:28:766 Order Routing stopped
+31/08 14:24:30:546 Order Routing started
+31/08 14:24:30:606 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:24:30:607 End of process session
+31/08 14:24:40:638 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:24:40:639 End of process session
+31/08 14:24:50:662 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:24:50:663 End of process session
+31/08 14:25:00:688 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:25:00:690 End of process session
+31/08 14:25:10:716 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:25:10:717 End of process session
+31/08 14:25:20:741 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:25:20:742 End of process session
+31/08 14:25:30:767 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:25:30:768 End of process session
+31/08 14:25:40:792 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:25:40:793 End of process session
+31/08 14:25:50:820 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:25:50:821 End of process session
+31/08 14:26:00:848 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:26:00:849 End of process session
+31/08 14:26:10:893 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:26:10:894 End of process session
+31/08 14:26:20:918 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:26:20:919 End of process session
+31/08 14:26:21:921 Order Routing stopped
+31/08 14:26:23:606 Order Routing started
+31/08 14:26:23:647 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:26:23:648 End of process session
+31/08 14:26:33:672 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:26:33:673 End of process session
+31/08 14:26:43:697 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:26:43:698 End of process session
+31/08 14:26:53:731 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:26:53:732 End of process session
+31/08 14:27:03:757 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:27:03:759 End of process session
+31/08 14:27:13:783 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:27:13:784 End of process session
+31/08 14:27:23:809 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:27:23:810 End of process session
+31/08 14:27:33:838 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:27:33:839 End of process session
+31/08 14:27:43:864 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:27:43:865 End of process session
+31/08 14:27:53:888 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:27:53:889 End of process session
+31/08 14:28:03:913 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:28:03:914 End of process session
+31/08 14:28:13:942 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:28:13:943 End of process session
+31/08 14:28:23:969 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:28:23:970 End of process session
+31/08 14:28:33:997 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:28:33:998 End of process session
+31/08 14:28:44:056 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:28:44:056 End of process session
+31/08 14:28:54:081 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:28:54:082 End of process session
+31/08 14:29:04:107 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:29:04:109 End of process session
+31/08 14:29:14:133 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:29:14:134 End of process session
+31/08 14:29:24:161 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:29:24:162 End of process session
+31/08 14:29:34:188 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:29:34:189 End of process session
+31/08 14:29:44:213 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:29:44:214 End of process session
+31/08 14:29:54:239 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:29:54:240 End of process session
+31/08 14:30:04:264 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:30:04:265 End of process session
+31/08 14:30:14:289 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:30:14:291 End of process session
+31/08 14:30:24:315 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:30:24:316 End of process session
+31/08 14:30:34:342 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:30:34:343 End of process session
+31/08 14:30:44:367 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:30:44:368 End of process session
+31/08 14:30:54:390 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:30:54:391 End of process session
+31/08 14:30:59:391 Order Routing stopped
+31/08 14:31:00:657 Order Routing started
+31/08 14:31:00:702 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:31:00:702 End of process session
+31/08 14:31:10:725 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:31:10:726 End of process session
+31/08 14:31:20:752 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:31:20:753 End of process session
+31/08 14:31:30:777 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:31:30:778 End of process session
+31/08 14:31:40:804 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:31:40:805 End of process session
+31/08 14:31:50:833 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:31:50:834 End of process session
+31/08 14:32:00:856 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:32:00:857 End of process session
+31/08 14:32:10:887 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:32:10:888 End of process session
+31/08 14:32:20:913 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:32:20:914 End of process session
+31/08 14:32:30:940 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:32:30:941 End of process session
+31/08 14:32:40:965 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:32:40:965 End of process session
+31/08 14:32:50:987 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:32:50:988 End of process session
+31/08 14:33:01:049 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:33:01:050 End of process session
+31/08 14:33:11:109 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:33:11:109 End of process session
+31/08 14:33:21:134 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:33:21:135 End of process session
+31/08 14:33:31:170 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:33:31:171 End of process session
+31/08 14:33:41:199 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:33:41:200 End of process session
+31/08 14:33:51:225 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:33:51:226 End of process session
+31/08 14:34:01:251 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:34:01:252 End of process session
+31/08 14:34:11:275 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:34:11:276 End of process session
+31/08 14:34:21:298 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:34:21:299 End of process session
+31/08 14:34:31:324 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:34:31:325 End of process session
+31/08 14:34:41:375 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:34:41:376 End of process session
+31/08 14:34:51:402 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:34:51:403 End of process session
+31/08 14:35:01:440 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:35:01:440 End of process session
+31/08 14:35:11:464 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:35:11:465 End of process session
+31/08 14:35:21:488 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:35:21:489 End of process session
+31/08 14:35:31:517 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:35:31:518 End of process session
+31/08 14:35:41:542 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:35:41:543 End of process session
+31/08 14:35:51:570 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:35:51:571 End of process session
+31/08 14:36:01:596 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:36:01:597 End of process session
+31/08 14:36:11:648 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:36:11:649 End of process session
+31/08 14:36:21:674 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:36:21:675 End of process session
+31/08 14:36:31:697 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:36:31:698 End of process session
+31/08 14:36:41:723 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:36:41:724 End of process session
+31/08 14:36:51:753 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:36:51:754 End of process session
+31/08 14:37:01:784 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:37:01:785 End of process session
+31/08 14:37:11:815 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:37:11:816 End of process session
+31/08 14:37:21:844 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:37:21:845 End of process session
+31/08 14:37:31:874 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:37:31:875 End of process session
+31/08 14:37:41:904 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:37:41:905 End of process session
+31/08 14:37:51:933 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:37:51:934 End of process session
+31/08 14:38:01:956 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:38:01:957 End of process session
+31/08 14:38:11:980 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:38:11:982 End of process session
+31/08 14:38:22:019 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:38:22:019 End of process session
+31/08 14:38:32:044 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:38:32:045 End of process session
+31/08 14:38:39:047 Order Routing stopped
+31/08 14:38:40:812 Order Routing started
+31/08 14:38:40:852 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:38:40:853 End of process session
+31/08 14:38:50:873 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:38:50:874 End of process session
+31/08 14:39:00:894 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:39:00:895 End of process session
+31/08 14:39:10:917 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:39:10:918 End of process session
+31/08 14:39:20:953 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:39:20:954 End of process session
+31/08 14:39:31:012 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:39:31:013 End of process session
+31/08 14:39:41:042 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:39:41:043 End of process session
+31/08 14:39:51:066 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:39:51:067 End of process session
+31/08 14:40:01:086 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:40:01:087 End of process session
+31/08 14:40:11:116 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:40:11:116 End of process session
+31/08 14:40:21:147 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:40:21:148 End of process session
+31/08 14:40:31:178 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:40:31:179 End of process session
+31/08 14:40:41:203 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:40:41:204 End of process session
+31/08 14:40:51:225 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:40:51:226 End of process session
+31/08 14:41:01:249 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:41:01:250 End of process session
+31/08 14:41:11:273 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:41:11:275 End of process session
+31/08 14:41:21:301 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:41:21:302 End of process session
+31/08 14:41:31:328 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:41:31:329 End of process session
+31/08 14:41:41:357 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:41:41:358 End of process session
+31/08 14:41:51:388 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:41:51:389 End of process session
+31/08 14:42:01:420 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:42:01:421 End of process session
+31/08 14:42:11:444 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:42:11:445 End of process session
+31/08 14:42:21:475 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:42:21:476 End of process session
+31/08 14:42:31:508 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:42:31:509 End of process session
+31/08 14:42:41:537 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:42:41:538 End of process session
+31/08 14:42:51:565 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:42:51:566 End of process session
+31/08 14:43:01:609 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:43:01:610 End of process session
+31/08 14:43:11:634 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:43:11:635 End of process session
+31/08 14:43:21:661 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:43:21:662 End of process session
+31/08 14:43:31:686 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:43:31:688 End of process session
+31/08 14:43:41:713 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:43:41:714 End of process session
+31/08 14:43:51:739 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:43:51:740 End of process session
+31/08 14:44:01:764 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:44:01:765 End of process session
+31/08 14:44:11:790 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:44:11:791 End of process session
+31/08 14:44:21:832 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:44:21:833 End of process session
+31/08 14:44:31:863 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:44:31:865 End of process session
+31/08 14:44:41:892 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:44:41:893 End of process session
+31/08 14:44:51:921 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:44:51:922 End of process session
+31/08 14:45:01:949 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:45:01:950 End of process session
+31/08 14:45:11:980 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:45:11:981 End of process session
+31/08 14:45:22:007 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:45:22:008 End of process session
+31/08 14:45:32:901 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:45:32:902 End of process session
+31/08 14:45:42:943 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:45:42:944 End of process session
+31/08 14:45:52:967 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:45:52:968 End of process session
+31/08 14:46:03:004 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:46:03:005 End of process session
+31/08 14:46:13:029 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:46:13:030 End of process session
+31/08 14:46:23:055 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:46:23:056 End of process session
+31/08 14:46:45:017 Order Routing started
+31/08 14:46:49:377 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:46:49:378 End of process session
+31/08 14:46:59:421 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:46:59:422 End of process session
+31/08 14:47:09:449 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:47:09:451 End of process session
+31/08 14:47:19:474 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:47:19:475 End of process session
+31/08 14:47:28:502 Order Routing stopped
+31/08 14:47:29:783 Order Routing started
+31/08 14:47:29:828 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:47:29:828 End of process session
+31/08 14:47:39:851 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:47:39:851 End of process session
+31/08 14:47:49:893 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:47:49:894 End of process session
+31/08 14:47:59:924 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:47:59:925 End of process session
+31/08 14:48:09:954 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:48:09:955 End of process session
+31/08 14:48:19:981 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:48:19:982 End of process session
+31/08 14:48:30:012 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:48:30:012 End of process session
+31/08 14:48:40:043 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:48:40:046 End of process session
+31/08 14:48:50:070 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:48:50:071 End of process session
+31/08 14:49:00:104 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:49:00:105 End of process session
+31/08 14:49:10:126 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:49:10:127 End of process session
+31/08 14:49:20:156 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:49:20:157 End of process session
+31/08 14:49:30:183 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:49:30:184 End of process session
+31/08 14:49:40:216 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:49:40:217 End of process session
+31/08 14:49:50:238 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:49:50:239 End of process session
+31/08 14:50:00:263 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:50:00:264 End of process session
+31/08 14:50:10:292 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:50:10:293 End of process session
+31/08 14:50:20:324 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:50:20:325 End of process session
+31/08 14:50:30:358 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:50:30:359 End of process session
+31/08 14:50:40:396 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:50:40:397 End of process session
+31/08 14:50:50:422 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:50:50:423 End of process session
+31/08 14:51:00:452 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:51:00:453 End of process session
+31/08 14:51:10:487 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:51:10:488 End of process session
+31/08 14:51:20:526 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:51:20:527 End of process session
+31/08 14:51:30:560 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:51:30:561 End of process session
+31/08 14:51:40:587 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:51:40:588 End of process session
+31/08 14:51:50:626 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:51:50:627 End of process session
+31/08 14:52:00:665 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:52:00:666 End of process session
+31/08 14:52:10:699 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:52:10:700 End of process session
+31/08 14:52:20:740 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:52:20:742 End of process session
+31/08 14:52:30:774 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:52:30:775 End of process session
+31/08 14:52:40:807 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:52:40:807 End of process session
+31/08 14:52:50:837 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:52:50:838 End of process session
+31/08 14:53:02:452 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:53:02:453 End of process session
+31/08 14:53:12:492 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:53:12:493 End of process session
+31/08 14:53:22:520 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:53:22:521 End of process session
+31/08 14:53:32:553 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:53:32:554 End of process session
+31/08 14:53:42:586 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:53:42:587 End of process session
+31/08 14:53:52:611 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:53:52:612 End of process session

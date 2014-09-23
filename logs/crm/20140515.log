@@ -1,0 +1,382 @@
+15/05 09:25:22:335 CRM started
+15/05 09:25:22:373 Testing connection ...
+15/05 09:25:22:374 Created provisioning instance for CRM
+15/05 09:25:22:374 Testing connection are success
+15/05 09:25:22:375 Starting process session
+15/05 09:25:22:475 Init queue connection pool 1400120722475
+15/05 09:25:22:875 Total 0 instances are started
+15/05 09:25:22:876 Total 5 instances are added
+15/05 09:25:43:497 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:25:43:498 Consumer was closed, reconnect.
+15/05 09:25:43:682 Total 4 instances are started
+15/05 09:25:43:683 Total 1 instances are added
+15/05 09:26:04:494 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:26:04:518 Consumer was closed, reconnect.
+15/05 09:26:04:686 Total 4 instances are started
+15/05 09:26:04:687 Total 1 instances are added
+15/05 09:26:25:502 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:26:25:525 Consumer was closed, reconnect.
+15/05 09:26:25:695 Total 4 instances are started
+15/05 09:26:25:696 Total 1 instances are added
+15/05 09:26:43:483 java.util.NoSuchElementException: Timeout waiting for idle object
+15/05 09:26:43:597 Total 4 instances are started
+15/05 09:26:43:598 Total 1 instances are added
+15/05 09:26:43:687 java.util.NoSuchElementException: Timeout waiting for idle object
+15/05 09:26:43:798 Total 4 instances are started
+15/05 09:26:43:799 Total 1 instances are added
+15/05 09:26:46:518 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:26:46:519 Consumer was closed, reconnect.
+15/05 09:26:46:701 Total 4 instances are started
+15/05 09:26:46:702 Total 1 instances are added
+15/05 09:27:07:518 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:27:07:519 Consumer was closed, reconnect.
+15/05 09:27:07:658 Total 4 instances are started
+15/05 09:27:07:659 Total 1 instances are added
+15/05 09:27:28:511 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:27:28:512 Consumer was closed, reconnect.
+15/05 09:27:28:670 Total 4 instances are started
+15/05 09:27:28:671 Total 1 instances are added
+15/05 09:27:43:803 java.util.NoSuchElementException: Timeout waiting for idle object
+15/05 09:27:43:977 Total 4 instances are started
+15/05 09:27:43:977 Total 1 instances are added
+15/05 09:27:46:706 java.util.NoSuchElementException: Timeout waiting for idle object
+15/05 09:27:46:883 Total 4 instances are started
+15/05 09:27:46:884 Total 1 instances are added
+15/05 09:27:49:518 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:27:49:519 Consumer was closed, reconnect.
+15/05 09:27:49:684 Total 4 instances are started
+15/05 09:27:49:685 Total 1 instances are added
+15/05 09:28:10:530 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:28:10:531 Consumer was closed, reconnect.
+15/05 09:28:10:688 Total 4 instances are started
+15/05 09:28:10:689 Total 1 instances are added
+15/05 09:28:31:551 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:28:31:552 Consumer was closed, reconnect.
+15/05 09:28:31:694 Total 4 instances are started
+15/05 09:28:31:694 Total 1 instances are added
+15/05 09:28:46:888 java.util.NoSuchElementException: Timeout waiting for idle object
+15/05 09:28:46:999 Total 4 instances are started
+15/05 09:28:47:000 Total 1 instances are added
+15/05 09:28:49:690 java.util.NoSuchElementException: Timeout waiting for idle object
+15/05 09:28:49:800 Total 4 instances are started
+15/05 09:28:49:804 Total 1 instances are added
+15/05 09:28:52:552 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:28:52:552 Consumer was closed, reconnect.
+15/05 09:28:52:704 Total 4 instances are started
+15/05 09:28:52:705 Total 1 instances are added
+15/05 09:29:13:555 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:29:13:556 Consumer was closed, reconnect.
+15/05 09:29:13:711 Total 4 instances are started
+15/05 09:29:13:712 Total 1 instances are added
+15/05 09:29:34:548 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:29:34:549 Consumer was closed, reconnect.
+15/05 09:29:34:737 Total 4 instances are started
+15/05 09:29:34:738 Total 1 instances are added
+15/05 09:29:49:808 java.util.NoSuchElementException: Timeout waiting for idle object
+15/05 09:29:49:948 Total 4 instances are started
+15/05 09:29:49:949 Total 1 instances are added
+15/05 09:29:52:709 java.util.NoSuchElementException: Timeout waiting for idle object
+15/05 09:29:52:852 Total 4 instances are started
+15/05 09:29:52:853 Total 1 instances are added
+15/05 09:29:55:563 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:29:55:564 Consumer was closed, reconnect.
+15/05 09:29:55:760 Total 4 instances are started
+15/05 09:29:55:761 Total 1 instances are added
+15/05 09:30:16:575 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:30:16:576 Consumer was closed, reconnect.
+15/05 09:30:16:684 Total 4 instances are started
+15/05 09:30:16:684 Total 1 instances are added
+15/05 09:30:37:574 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:30:37:575 Consumer was closed, reconnect.
+15/05 09:30:37:696 Total 4 instances are started
+15/05 09:30:37:697 Total 1 instances are added
+15/05 09:30:52:859 java.util.NoSuchElementException: Timeout waiting for idle object
+15/05 09:30:53:011 Total 4 instances are started
+15/05 09:30:53:012 Total 1 instances are added
+15/05 09:30:55:768 java.util.NoSuchElementException: Timeout waiting for idle object
+15/05 09:30:55:912 Total 4 instances are started
+15/05 09:30:55:912 Total 1 instances are added
+15/05 09:30:58:584 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:30:58:584 Consumer was closed, reconnect.
+15/05 09:30:58:714 Total 4 instances are started
+15/05 09:30:58:714 Total 1 instances are added
+15/05 09:31:19:596 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:31:19:596 Consumer was closed, reconnect.
+15/05 09:31:19:728 Total 4 instances are started
+15/05 09:31:19:729 Total 1 instances are added
+15/05 09:31:40:610 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:31:40:610 Consumer was closed, reconnect.
+15/05 09:31:40:742 Total 4 instances are started
+15/05 09:31:40:742 Total 1 instances are added
+15/05 09:31:55:914 java.util.NoSuchElementException: Timeout waiting for idle object
+15/05 09:31:56:044 Total 4 instances are started
+15/05 09:31:56:044 Total 1 instances are added
+15/05 09:31:58:720 java.util.NoSuchElementException: Timeout waiting for idle object
+15/05 09:31:58:845 Total 4 instances are started
+15/05 09:31:58:846 Total 1 instances are added
+15/05 09:32:01:608 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:32:01:609 Consumer was closed, reconnect.
+15/05 09:32:01:747 Total 4 instances are started
+15/05 09:32:01:748 Total 1 instances are added
+15/05 09:32:22:615 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:32:22:616 Consumer was closed, reconnect.
+15/05 09:32:22:751 Total 4 instances are started
+15/05 09:32:22:752 Total 1 instances are added
+15/05 09:32:43:624 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:32:43:625 Consumer was closed, reconnect.
+15/05 09:32:43:762 Total 4 instances are started
+15/05 09:32:43:763 Total 1 instances are added
+15/05 09:32:58:848 java.util.NoSuchElementException: Timeout waiting for idle object
+15/05 09:32:58:982 Total 4 instances are started
+15/05 09:32:58:983 Total 1 instances are added
+15/05 09:33:01:749 java.util.NoSuchElementException: Timeout waiting for idle object
+15/05 09:33:01:889 Total 4 instances are started
+15/05 09:33:01:889 Total 1 instances are added
+15/05 09:33:04:641 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:33:04:642 Consumer was closed, reconnect.
+15/05 09:33:04:820 Total 4 instances are started
+15/05 09:33:04:820 Total 1 instances are added
+15/05 09:33:25:648 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:33:25:648 Consumer was closed, reconnect.
+15/05 09:33:25:752 Total 4 instances are started
+15/05 09:33:25:754 Total 1 instances are added
+15/05 09:33:46:646 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:33:46:646 Consumer was closed, reconnect.
+15/05 09:33:46:760 Total 4 instances are started
+15/05 09:33:46:760 Total 1 instances are added
+15/05 09:34:01:895 java.util.NoSuchElementException: Timeout waiting for idle object
+15/05 09:34:01:997 Total 4 instances are started
+15/05 09:34:01:998 Total 1 instances are added
+15/05 09:34:04:828 java.util.NoSuchElementException: Timeout waiting for idle object
+15/05 09:34:04:998 Total 4 instances are started
+15/05 09:34:04:998 Total 1 instances are added
+15/05 09:34:07:672 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:34:07:673 Consumer was closed, reconnect.
+15/05 09:34:07:799 Total 4 instances are started
+15/05 09:34:07:800 Total 1 instances are added
+15/05 09:34:28:677 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:34:28:678 Consumer was closed, reconnect.
+15/05 09:34:28:808 Total 4 instances are started
+15/05 09:34:28:809 Total 1 instances are added
+15/05 09:34:49:682 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:34:49:682 Consumer was closed, reconnect.
+15/05 09:34:49:827 Total 4 instances are started
+15/05 09:34:49:828 Total 1 instances are added
+15/05 09:35:05:004 java.util.NoSuchElementException: Timeout waiting for idle object
+15/05 09:35:05:146 Total 4 instances are started
+15/05 09:35:05:147 Total 1 instances are added
+15/05 09:35:07:841 java.util.NoSuchElementException: Timeout waiting for idle object
+15/05 09:35:07:956 Total 4 instances are started
+15/05 09:35:07:957 Total 1 instances are added
+15/05 09:35:10:705 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:35:10:706 Consumer was closed, reconnect.
+15/05 09:35:10:858 Total 4 instances are started
+15/05 09:35:10:858 Total 1 instances are added
+15/05 09:35:31:719 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:35:31:719 Consumer was closed, reconnect.
+15/05 09:35:31:885 Total 4 instances are started
+15/05 09:35:31:886 Total 1 instances are added
+15/05 09:35:52:717 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:35:52:717 Consumer was closed, reconnect.
+15/05 09:35:52:898 Total 4 instances are started
+15/05 09:35:52:899 Total 1 instances are added
+15/05 09:36:07:959 java.util.NoSuchElementException: Timeout waiting for idle object
+15/05 09:36:08:104 Total 4 instances are started
+15/05 09:36:08:105 Total 1 instances are added
+15/05 09:36:10:864 java.util.NoSuchElementException: Timeout waiting for idle object
+15/05 09:36:11:008 Total 4 instances are started
+15/05 09:36:11:009 Total 1 instances are added
+15/05 09:36:13:722 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:36:13:723 Consumer was closed, reconnect.
+15/05 09:36:13:910 Total 4 instances are started
+15/05 09:36:13:911 Total 1 instances are added
+15/05 09:36:34:722 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:36:34:723 Consumer was closed, reconnect.
+15/05 09:36:34:912 Total 4 instances are started
+15/05 09:36:34:912 Total 1 instances are added
+15/05 09:36:55:723 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:36:55:724 Consumer was closed, reconnect.
+15/05 09:36:55:915 Total 4 instances are started
+15/05 09:36:55:916 Total 1 instances are added
+15/05 09:37:11:013 java.util.NoSuchElementException: Timeout waiting for idle object
+15/05 09:37:11:127 Total 4 instances are started
+15/05 09:37:11:128 Total 1 instances are added
+15/05 09:37:13:913 java.util.NoSuchElementException: Timeout waiting for idle object
+15/05 09:37:14:029 Total 4 instances are started
+15/05 09:37:14:029 Total 1 instances are added
+15/05 09:37:16:724 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:37:16:725 Consumer was closed, reconnect.
+15/05 09:37:16:829 Total 4 instances are started
+15/05 09:37:16:829 Total 1 instances are added
+15/05 09:37:37:717 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:37:37:718 Consumer was closed, reconnect.
+15/05 09:37:37:831 Total 4 instances are started
+15/05 09:37:37:832 Total 1 instances are added
+15/05 09:37:58:727 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:37:58:728 Consumer was closed, reconnect.
+15/05 09:37:58:836 Total 4 instances are started
+15/05 09:37:58:837 Total 1 instances are added
+15/05 09:38:14:034 java.util.NoSuchElementException: Timeout waiting for idle object
+15/05 09:38:14:139 Total 4 instances are started
+15/05 09:38:14:140 Total 1 instances are added
+15/05 09:38:16:832 java.util.NoSuchElementException: Timeout waiting for idle object
+15/05 09:38:16:940 Total 4 instances are started
+15/05 09:38:16:941 Total 1 instances are added
+15/05 09:38:19:732 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:38:19:732 Consumer was closed, reconnect.
+15/05 09:38:19:841 Total 4 instances are started
+15/05 09:38:19:842 Total 1 instances are added
+15/05 09:38:40:742 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:38:40:743 Consumer was closed, reconnect.
+15/05 09:38:40:861 Total 4 instances are started
+15/05 09:38:40:862 Total 1 instances are added
+15/05 09:39:01:750 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:39:01:751 Consumer was closed, reconnect.
+15/05 09:39:01:889 Total 4 instances are started
+15/05 09:39:01:890 Total 1 instances are added
+15/05 09:39:16:948 java.util.NoSuchElementException: Timeout waiting for idle object
+15/05 09:39:17:108 Total 4 instances are started
+15/05 09:39:17:109 Total 1 instances are added
+15/05 09:39:19:847 java.util.NoSuchElementException: Timeout waiting for idle object
+15/05 09:39:20:009 Total 4 instances are started
+15/05 09:39:20:010 Total 1 instances are added
+15/05 09:39:22:747 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:39:22:747 Consumer was closed, reconnect.
+15/05 09:39:22:910 Total 4 instances are started
+15/05 09:39:22:911 Total 1 instances are added
+15/05 09:39:43:745 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:39:43:746 Consumer was closed, reconnect.
+15/05 09:39:43:922 Total 4 instances are started
+15/05 09:39:43:923 Total 1 instances are added
+15/05 09:40:04:742 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:40:04:743 Consumer was closed, reconnect.
+15/05 09:40:04:924 Total 4 instances are started
+15/05 09:40:04:925 Total 1 instances are added
+15/05 09:40:20:015 java.util.NoSuchElementException: Timeout waiting for idle object
+15/05 09:40:20:126 Total 4 instances are started
+15/05 09:40:20:126 Total 1 instances are added
+15/05 09:40:22:915 java.util.NoSuchElementException: Timeout waiting for idle object
+15/05 09:40:23:027 Total 4 instances are started
+15/05 09:40:23:028 Total 1 instances are added
+15/05 09:40:25:753 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:40:25:753 Consumer was closed, reconnect.
+15/05 09:40:25:928 Total 4 instances are started
+15/05 09:40:25:929 Total 1 instances are added
+15/05 09:40:46:755 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:40:46:756 Consumer was closed, reconnect.
+15/05 09:40:46:931 Total 4 instances are started
+15/05 09:40:46:932 Total 1 instances are added
+15/05 09:41:07:777 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:41:07:778 Consumer was closed, reconnect.
+15/05 09:41:07:935 Total 4 instances are started
+15/05 09:41:07:936 Total 1 instances are added
+15/05 09:41:23:033 java.util.NoSuchElementException: Timeout waiting for idle object
+15/05 09:41:23:137 Total 4 instances are started
+15/05 09:41:23:138 Total 1 instances are added
+15/05 09:41:25:934 java.util.NoSuchElementException: Timeout waiting for idle object
+15/05 09:41:26:038 Total 4 instances are started
+15/05 09:41:26:039 Total 1 instances are added
+15/05 09:41:28:784 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:41:28:784 Consumer was closed, reconnect.
+15/05 09:41:28:939 Total 4 instances are started
+15/05 09:41:28:940 Total 1 instances are added
+15/05 09:41:49:781 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:41:49:781 Consumer was closed, reconnect.
+15/05 09:41:49:943 Total 4 instances are started
+15/05 09:41:49:944 Total 1 instances are added
+15/05 09:42:10:776 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.44:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+15/05 09:42:10:777 Consumer was closed, reconnect.
+15/05 09:42:10:950 Total 4 instances are started
+15/05 09:42:10:951 Total 1 instances are added
+15/05 09:43:56:756 CRM started
+15/05 09:43:56:772 Testing connection ...
+15/05 09:43:56:773 Created provisioning instance for CRM
+15/05 09:43:56:775 Testing connection are success
+15/05 09:43:56:776 Starting process session
+15/05 09:43:56:876 Init queue connection pool 1400121836876
+15/05 09:43:57:277 Total 0 instances are started
+15/05 09:43:57:278 Total 5 instances are added
+15/05 09:44:45:933 sendNotify: 84922000512 - Tai khoan cua Quy khach da het hieu luc. Lien he 789. Xin chan thanh cam on.
+15/05 09:44:45:933 orderId = 128070914 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = TRA DIEM | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | commandId = 300 | request =  | response =  | status = 4 | cause = expired | description = 
+15/05 09:46:34:863 orderId = 128070916 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = TRA DIEM | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+15/05 09:46:34:944 sendNotify: 84922000512 - Quy khach hien dang la khach hang Than Thiet cua Vietnamobile tu 14/05/2014, da tich luy duoc 1000 diem va con 500 diem. Chi tiet, lien he 789.
+15/05 09:46:34:945 orderId = 128070916 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = TRA DIEM | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | commandId = 342 | request =  | response =  | status = 0 | cause = success | description = 
+15/05 09:47:27:848 sendNotify: 84922000512 - Chuong trinh DOI DIEM chi ap dung cho thue bao dang ky tham gia Cau lac bo CAM tu 03 thang tro len. Chi tiet 789
+15/05 09:47:27:849 orderId = 128070917 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 100 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 4 | cause = invalid-active-date | description = 
+15/05 09:48:55:346 sendNotify: 84922000512 - Chuong trinh DOI DIEM chi ap dung cho thue bao dang ky tham gia Cau lac bo CAM tu 03 thang tro len. Chi tiet 789
+15/05 09:48:55:347 orderId = 128070918 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 100 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 4 | cause = invalid-active-date | description = 
+15/05 09:49:48:411 orderId = 128070919 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 100 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+15/05 09:49:48:894 sendNotify: 84922000512 - Quy khach da doi thanh cong 100 diem thanh tien su dung dich vu. So tien tuong ung 100 diem la 5000 vnd da duoc cong  vao tai khoan TKLM2, su dung goi va nhan tin lien mang, data.
+15/05 09:49:48:895 orderId = 128070919 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 100 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 384 | request =  | response =  | status = 0 | cause = success | description = 
+15/05 09:52:06:450 orderId = 128070920 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 100 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+15/05 09:52:06:631 sendNotify: 84922000512 - Quy khach da doi thanh cong 100 diem thanh tien su dung dich vu. So tien tuong ung 100 diem la 5000 vnd da duoc cong  vao tai khoan TKLM2, su dung goi va nhan tin lien mang, data.
+15/05 09:52:06:632 orderId = 128070920 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 100 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 384 | request =  | response =  | status = 0 | cause = success | description = 
+15/05 09:52:55:979 SEND: ID=322010: com.crm.provisioning.impl.CommandImpl.register{84922000512, 274}
+15/05 09:52:56:004 SEND: ID=322011: com.crm.provisioning.impl.CommandImpl.unregister{84922000512, 274}
+15/05 09:52:56:015 RECEIVE: ID=322011: success: costTime=low
+15/05 09:52:56:017 sendNotify: 84922000512 - Dich vu da duoc dang ky
+15/05 09:52:56:017 orderId = 128070921 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = HUY CAM | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = unregister | productId = 274 | commandId = 570 | request = ID=322011: com.crm.provisioning.impl.CommandImpl.unregister{84922000512, 274} | response = ID=322011: success: costTime=low | status = 4 | cause = registered | description = success
+15/05 09:54:22:362 SEND: ID=322013: com.crm.provisioning.impl.CommandImpl.register{84922000512, 274}
+15/05 09:54:22:398 RECEIVE: ID=322013: success: costTime=low
+15/05 09:54:22:403 sendNotify: 84922000512 - Chuc mung Quy khach da ra nhap Cau lac bo CAM cua Vietnamobile. Hay tiep tuc su dung Vietnamobile de tich luy nhieu diem va nhan duoc nhieu uu dai cua chuong trinh. Chi tiet 789
+15/05 09:54:22:404 orderId = 128070922 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = CAM | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = register | productId = 274 | commandId = 521 | request = ID=322013: com.crm.provisioning.impl.CommandImpl.register{84922000512, 274} | response = ID=322013: success: costTime=low | status = 0 | cause = success | description = success
+15/05 10:13:22:658 CRM started
+15/05 10:13:22:666 Testing connection ...
+15/05 10:13:22:666 Created provisioning instance for CRM
+15/05 10:13:22:667 Testing connection are success
+15/05 10:13:22:667 Starting process session
+15/05 10:13:22:768 Init queue connection pool 1400123602768
+15/05 10:13:23:168 Total 0 instances are started
+15/05 10:13:23:169 Total 5 instances are added
+15/05 10:14:27:833 orderId = 128070925 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = TRA DIEM | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+15/05 10:14:27:895 sendNotify: 84922000512 - Quy khach hien dang la khach hang Than Thiet cua Vietnamobile tu 15/05/2014, da tich luy duoc 1000 diem va con 300 diem. Chi tiet, lien he 789.
+15/05 10:14:27:895 orderId = 128070925 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = TRA DIEM | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | commandId = 342 | request =  | response =  | status = 0 | cause = success | description = 
+15/05 10:14:53:177 sendNotify: 84922000512 - Chuong trinh DOI DIEM chi ap dung cho thue bao dang ky tham gia Cau lac bo CAM tu 03 thang tro len. Chi tiet 789
+15/05 10:14:53:178 orderId = 128070926 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 100 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 4 | cause = invalid-active-date | description = 
+15/05 10:31:33:317 sendNotify: 84922000512 - Chuong trinh DOI DIEM chi ap dung cho thue bao dang ky tham gia Cau lac bo CAM tu 03 thang tro len. Chi tiet 789
+15/05 10:31:33:318 orderId = 128070928 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 100 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 4 | cause = invalid-active-date | description = 
+15/05 10:35:02:824 sendNotify: 84922000514 - Quy khach chua dang ky tham gia Cau lac bo CAM, vui long dang ky: DK CAM gui 268 de duoc tich luy va doi diem cua chuong trinh. Chi tiet 789
+15/05 10:35:02:825 orderId = 128070931 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 100 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 4 | cause = unknow-member | description = 
+15/05 10:35:02:827 sendNotify: 84922000512 - Chuong trinh DOI DIEM chi ap dung cho thue bao dang ky tham gia Cau lac bo CAM tu 03 thang tro len. Chi tiet 789
+15/05 10:35:02:828 orderId = 128070929 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 100 | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 4 | cause = invalid-active-date | description = 
+15/05 10:35:03:442 sendNotify: 84922000515 - Quy khach chua dang ky tham gia Cau lac bo CAM, vui long dang ky: DK CAM gui 268 de duoc tich luy va doi diem cua chuong trinh. Chi tiet 789
+15/05 10:35:03:442 orderId = 128070932 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 100 | isdn = 84922000515 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 4 | cause = unknow-member | description = 
+15/05 10:35:04:540 sendNotify: 84922000522 - Quy khach chua dang ky tham gia Cau lac bo CAM, vui long dang ky: DK CAM gui 268 de duoc tich luy va doi diem cua chuong trinh. Chi tiet 789
+15/05 10:35:04:541 orderId = 128070945 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOI DIEM 100 | isdn = 84922000522 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 4 | cause = unknow-member | description = 
+15/05 13:48:43:620 CRM started
+15/05 13:48:43:635 Testing connection ...
+15/05 13:48:43:636 Created provisioning instance for CRM
+15/05 13:48:43:637 Testing connection are success
+15/05 13:48:43:638 Starting process session
+15/05 13:48:43:738 Init queue connection pool 1400136523738
+15/05 13:48:44:138 Total 0 instances are started
+15/05 13:48:44:139 Total 5 instances are added
+15/05 13:49:11:783 orderId = 128071348 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = TRA DIEM | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+15/05 13:49:11:862 sendNotify: 84922000512 - Quy khach hien dang la khach hang Than Thiet cua Vietnamobile tu 15/05/2014, da tich luy duoc 1000 diem va con 300 diem. Chi tiet, lien he 789.
+15/05 13:49:11:863 orderId = 128071348 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = TRA DIEM | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | commandId = 342 | request =  | response =  | status = 0 | cause = success | description = 
+15/05 14:05:52:862 orderId = 128071352 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = TRA DIEM | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+15/05 14:05:52:942 sendNotify: 84922000512 - Quy khach hien dang la khach hang Than Thiet cua Vietnamobile tu 15/05/2014, da tich luy duoc 1000 diem va con 300 diem. Chi tiet, lien he 789.
+15/05 14:05:52:942 orderId = 128071352 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = TRA DIEM | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | commandId = 342 | request =  | response =  | status = 0 | cause = success | description = 
+15/05 14:22:33:933 orderId = 128071354 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = TRA DIEM | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+15/05 14:22:33:972 sendNotify: 84922000512 - Quy khach hien dang la khach hang Than Thiet cua Vietnamobile tu 15/05/2014, da tich luy duoc 1000 diem va con 300 diem. Chi tiet, lien he 789.
+15/05 14:22:33:973 orderId = 128071354 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = TRA DIEM | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | commandId = 342 | request =  | response =  | status = 0 | cause = success | description = 
+15/05 14:39:15:066 orderId = 128071357 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = TRA DIEM | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+15/05 14:39:15:140 sendNotify: 84922000512 - Quy khach hien dang la khach hang Than Thiet cua Vietnamobile tu 15/05/2014, da tich luy duoc 1000 diem va con 300 diem. Chi tiet, lien he 789.
+15/05 14:39:15:141 orderId = 128071357 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = TRA DIEM | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | commandId = 342 | request =  | response =  | status = 0 | cause = success | description = 
+15/05 14:55:57:002 orderId = 128071359 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = TRA DIEM | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+15/05 14:55:57:045 sendNotify: 84922000512 - Quy khach hien dang la khach hang Than Thiet cua Vietnamobile tu 15/05/2014, da tich luy duoc 1000 diem va con 300 diem. Chi tiet, lien he 789.
+15/05 14:55:57:046 orderId = 128071359 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = TRA DIEM | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | commandId = 342 | request =  | response =  | status = 0 | cause = success | description = 
+15/05 15:08:26:088 orderId = 128071367 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = TRA DIEM | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+15/05 15:08:26:171 sendNotify: 84922000512 - Quy khach hien dang la khach hang Than Thiet cua Vietnamobile tu 15/05/2014, da tich luy duoc 1000 diem va con 200 diem. Chi tiet, lien he 789.
+15/05 15:08:26:172 orderId = 128071367 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = TRA DIEM | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | commandId = 342 | request =  | response =  | status = 0 | cause = success | description = 
+15/05 15:25:07:205 orderId = 128071368 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = TRA DIEM | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+15/05 15:25:07:241 sendNotify: 84922000512 - Quy khach hien dang la khach hang Than Thiet cua Vietnamobile tu 15/05/2014, da tich luy duoc 1000 diem va con 200 diem. Chi tiet, lien he 789.
+15/05 15:25:07:242 orderId = 128071368 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = TRA DIEM | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | commandId = 342 | request =  | response =  | status = 0 | cause = success | description = 
+15/05 16:44:36:742 CRM started
+15/05 16:44:36:752 Testing connection ...
+15/05 16:44:36:752 Created provisioning instance for CRM
+15/05 16:44:36:752 Testing connection are success
+15/05 16:44:36:752 Starting process session
+15/05 16:44:36:862 Init queue connection pool 1400147076862
+15/05 16:44:37:262 Total 0 instances are started
+15/05 16:44:37:262 Total 5 instances are added

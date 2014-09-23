@@ -1,0 +1,80 @@
+09/10 09:09:38:730 Weekly Report started
+09/10 09:10:15:189 Error occured: Connections could not be acquired from the underlying database!
+09/10 09:10:15:190 Weekly Report stopped
+09/10 09:10:16:756 Weekly Report started
+09/10 09:10:44:149 Error occured: Connections could not be acquired from the underlying database!
+09/10 09:10:44:150 Weekly Report stopped
+09/10 09:14:59:824 Weekly Report started
+09/10 09:15:23:179 Thread destroyed
+09/10 09:15:28:853 Weekly Report started
+09/10 09:16:31:032 Error occured: Connections could not be acquired from the underlying database!
+09/10 09:16:31:034 Weekly Report stopped
+09/10 09:16:32:887 Weekly Report started
+09/10 09:16:37:721 Error occured: Connections could not be acquired from the underlying database!
+09/10 09:16:40:723 Weekly Report stopped
+09/10 15:41:12:846 Weekly Report started
+09/10 15:41:12:888 Starting process session
+09/10 15:41:14:233 javax.mail.MessagingException: Could not connect to SMTP host: nms.com.vn, port: 25
+09/10 15:41:14:234 End of process session
+09/10 15:47:32:261 Weekly Report stopped
+09/10 15:47:33:896 Weekly Report started
+09/10 15:47:33:923 Starting process session
+09/10 15:47:55:981 javax.mail.MessagingException: Could not connect to SMTP host: nms.com.vn, port: 25
+09/10 15:47:55:982 End of process session
+09/10 15:47:55:983 Weekly Report stopped
+09/10 15:47:57:918 Weekly Report started
+09/10 15:47:57:945 Starting process session
+09/10 15:48:19:002 javax.mail.MessagingException: Could not connect to SMTP host: nms.com.vn, port: 25
+09/10 15:48:19:003 End of process session
+09/10 15:51:47:016 Weekly Report stopped
+09/10 15:51:48:959 Weekly Report started
+09/10 15:51:48:983 Starting process session
+09/10 15:52:09:999 javax.mail.MessagingException: Could not connect to SMTP host: nms.com.vn, port: 587
+09/10 15:52:10:003 End of process session
+09/10 15:52:10:003 Weekly Report stopped
+09/10 15:52:11:981 Weekly Report started
+09/10 15:52:12:004 Starting process session
+09/10 15:52:33:022 javax.mail.MessagingException: Could not connect to SMTP host: nms.com.vn, port: 587
+09/10 15:52:33:023 End of process session
+09/10 15:57:18:047 Weekly Report stopped
+09/10 15:57:20:057 Weekly Report started
+09/10 15:57:20:081 Starting process session
+09/10 15:57:21:505 Loi xay ra khi tao noi dung file excel:Missing IN or OUT parameter at index:: 1
+09/10 15:57:21:522 Loi xay ra khi tao file excel:null
+09/10 15:57:22:227 Loi xay ra khi tao noi dung file excel:null
+09/10 15:57:22:272 Loi xay ra khi tao file excel:null
+09/10 15:57:22:782 Send mail [Weekly Report09-10-2013 15] to [trungnq@nms.com.vn] from [trungnq@nms.com.vn].
+09/10 15:57:23:069 End of process session
+09/10 16:16:11:301 Weekly Report started
+09/10 16:16:11:339 Starting process session
+09/10 16:16:12:387 javax.mail.MessagingException: Could not connect to SMTP host: mail.nms.com.vn, port: 587
+09/10 16:16:12:388 End of process session
+09/10 16:16:32:389 Weekly Report stopped
+09/10 16:16:34:338 Weekly Report started
+09/10 16:16:34:361 Starting process session
+09/10 16:16:36:573 Loi xay ra khi tao noi dung file excel:null
+09/10 16:16:36:577 Loi xay ra khi tao file excel:null
+09/10 16:16:36:648 Send mail [Weekly Report09-10-2013 16] to [trungnq@nms.com.vn] from [trungnq@nms.com.vn].
+09/10 16:16:37:177 End of process session
+09/10 16:16:44:177 Weekly Report stopped
+09/10 16:19:37:543 Weekly Report started
+09/10 16:19:47:688 Starting process session
+09/10 16:22:02:985 Loi xay ra khi tao noi dung file excel:null
+09/10 16:22:02:989 Loi xay ra khi tao file excel:null
+09/10 16:22:03:077 Send mail [Weekly Report09-10-2013 16] to [trungnq@nms.com.vn] from [trungnq@nms.com.vn].
+09/10 16:22:04:153 End of process session
+09/10 16:24:21:164 Weekly Report stopped
+09/10 16:24:22:600 Weekly Report started
+09/10 16:24:28:552 Starting process session
+09/10 16:28:41:100 Loi xay ra khi tao noi dung  excel:null
+09/10 16:28:41:105 Loi xay ra khi tao file excel:null
+09/10 16:28:41:117 Send mail [Weekly Report09-10-2013 16] to [trungnq@nms.com.vn] from [trungnq@nms.com.vn].
+09/10 16:36:48:476 Weekly Report started
+09/10 16:36:56:136 Starting process session
+09/10 16:37:03:131 javax.mail.MessagingException: Could not connect to SMTP host: mail.nms.com.vn, port: 587
+09/10 16:37:41:126 End of process session
+09/10 16:37:41:127 Weekly Report stopped
+09/10 16:37:42:506 Weekly Report started
+09/10 16:37:44:757 Starting process session
+09/10 16:38:45:430 Weekly Report started
+09/10 16:38:51:640 Starting process session

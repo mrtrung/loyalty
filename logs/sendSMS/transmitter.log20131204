@@ -1,0 +1,1022 @@
+04/12 13:40:33:259 Testing connection ...
+
+04/12 13:40:33:271 Connecting to SMSC 
+
+04/12 13:40:33:298 Bind request (bindreq: (pdu: 0 2 0 [1]) PPV ppv@321 SMPP 52 (addrrang: 1 1 345) ) 
+
+04/12 13:40:33:307 Bind response (bindresp: (pdu: 36 80000002 0 1) ANAM_ESME_LINK 52) 
+
+04/12 13:40:33:308 SMSC connection is established 
+
+04/12 13:40:33:308 Created provisioning instance for SMSC
+
+04/12 13:40:33:308 Testing connection are success
+
+04/12 13:40:33:309 Starting process session
+
+04/12 13:40:33:409 Total 0 instances are started
+
+04/12 13:40:33:409 Init queue connection pool 1386139233409
+
+04/12 13:40:33:409 Total 1 instances are added
+
+04/12 13:40:51:103 Close pool
+
+04/12 13:40:51:104 It can take a while to stop.
+
+04/12 13:40:51:118 Unbind response (unbind_resp: (pdu: 16 80000006 0 9) ) 
+
+04/12 13:40:51:138 Thread destroyed
+
+04/12 13:40:51:219 Close queue connection pool.
+
+04/12 13:40:51:224 End of process session
+
+04/12 15:11:58:289 Testing connection ...
+
+04/12 15:11:58:290 Connecting to SMSC 
+
+04/12 15:11:58:291 Bind request (bindreq: (pdu: 0 2 0 [8]) PPV ppv@321 SMPP 52 (addrrang: 1 1 345) ) 
+
+04/12 15:11:58:297 Bind response (bindresp: (pdu: 36 80000002 0 8) ANAM_ESME_LINK 52) 
+
+04/12 15:11:58:298 SMSC connection is established 
+
+04/12 15:11:58:298 Created provisioning instance for SMSC
+
+04/12 15:11:58:299 Testing connection are success
+
+04/12 15:11:58:299 Starting process session
+
+04/12 15:11:58:401 Total 0 instances are started
+
+04/12 15:11:58:401 Init queue connection pool 1386144718401
+
+04/12 15:11:58:402 Total 1 instances are added
+
+04/12 15:12:28:289 Enquirelink request: (enquirelink: (pdu: 0 15 0 [39]) ) 
+
+04/12 15:12:28:292 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 39) ) 
+
+04/12 15:12:58:292 Enquirelink request: (enquirelink: (pdu: 0 15 0 [70]) ) 
+
+04/12 15:12:58:295 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 70) ) 
+
+04/12 15:13:28:293 Enquirelink request: (enquirelink: (pdu: 0 15 0 [100]) ) 
+
+04/12 15:13:28:294 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 100) ) 
+
+04/12 15:13:58:293 Enquirelink request: (enquirelink: (pdu: 0 15 0 [131]) ) 
+
+04/12 15:13:58:295 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 131) ) 
+
+04/12 15:14:28:293 Enquirelink request: (enquirelink: (pdu: 0 15 0 [162]) ) 
+
+04/12 15:14:28:296 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 162) ) 
+
+04/12 17:04:28:219 Testing connection ...
+
+04/12 17:04:28:231 Connecting to SMSC 
+
+04/12 17:04:28:257 Bind request (bindreq: (pdu: 0 2 0 [1]) PPV ppv@321 SMPP 52 (addrrang: 1 1 345) ) 
+
+04/12 17:04:28:269 Bind response (bindresp: (pdu: 36 80000002 0 1) ANAM_ESME_LINK 52) 
+
+04/12 17:04:28:270 SMSC connection is established 
+
+04/12 17:04:28:270 Created provisioning instance for SMSC
+
+04/12 17:04:28:270 Testing connection are success
+
+04/12 17:04:28:270 Starting process session
+
+04/12 17:04:28:371 Total 0 instances are started
+
+04/12 17:04:28:372 Total 1 instances are added
+
+04/12 17:04:28:375 Init queue connection pool 1386151468374
+
+04/12 17:04:35:279 Close pool
+
+04/12 17:04:35:280 It can take a while to stop.
+
+04/12 17:04:35:296 Unbind response (unbind_resp: (pdu: 16 80000006 0 2) ) 
+
+04/12 17:04:35:398 Close queue connection pool.
+
+04/12 17:04:35:401 End of process session
+
+04/12 17:04:35:401 Bind Transmitter 01 stopped
+
+04/12 17:04:37:212 Bind Transmitter 01 started
+
+04/12 17:04:37:237 Close pool
+
+04/12 17:04:37:238 Close pool
+
+04/12 17:04:37:238 Testing connection ...
+
+04/12 17:04:37:238 Connecting to SMSC 
+
+04/12 17:04:37:239 Bind request (bindreq: (pdu: 0 2 0 [3]) PPV ppv@321 SMPP 52 (addrrang: 1 1 345) ) 
+
+04/12 17:04:37:248 Bind response (bindresp: (pdu: 36 80000002 0 3) ANAM_ESME_LINK 52) 
+
+04/12 17:04:37:249 SMSC connection is established 
+
+04/12 17:04:37:249 Created provisioning instance for SMSC
+
+04/12 17:04:37:249 Testing connection are success
+
+04/12 17:04:37:250 Starting process session
+
+04/12 17:04:37:350 Total 0 instances are started
+
+04/12 17:04:37:350 Init queue connection pool 1386151477350
+
+04/12 17:04:37:351 Total 1 instances are added
+
+04/12 17:05:07:240 Enquirelink request: (enquirelink: (pdu: 0 15 0 [4]) ) 
+
+04/12 17:05:07:243 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 4) ) 
+
+04/12 17:05:37:240 Enquirelink request: (enquirelink: (pdu: 0 15 0 [5]) ) 
+
+04/12 17:05:37:242 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 5) ) 
+
+04/12 17:06:07:241 Enquirelink request: (enquirelink: (pdu: 0 15 0 [6]) ) 
+
+04/12 17:06:07:243 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 6) ) 
+
+04/12 17:06:37:246 Enquirelink request: (enquirelink: (pdu: 0 15 0 [7]) ) 
+
+04/12 17:06:37:249 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 7) ) 
+
+04/12 17:07:07:243 Enquirelink request: (enquirelink: (pdu: 0 15 0 [8]) ) 
+
+04/12 17:07:07:245 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 8) ) 
+
+04/12 17:07:37:244 Enquirelink request: (enquirelink: (pdu: 0 15 0 [9]) ) 
+
+04/12 17:07:37:247 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 9) ) 
+
+04/12 17:08:07:245 Enquirelink request: (enquirelink: (pdu: 0 15 0 [10]) ) 
+
+04/12 17:08:07:248 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 10) ) 
+
+04/12 17:08:37:246 Enquirelink request: (enquirelink: (pdu: 0 15 0 [11]) ) 
+
+04/12 17:08:37:249 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 11) ) 
+
+04/12 17:09:07:247 Enquirelink request: (enquirelink: (pdu: 0 15 0 [12]) ) 
+
+04/12 17:09:07:249 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 12) ) 
+
+04/12 17:09:27:526 Close pool
+
+04/12 17:09:27:526 It can take a while to stop.
+
+04/12 17:09:27:540 Unbind response (unbind_resp: (pdu: 16 80000006 0 13) ) 
+
+04/12 17:09:27:641 Close queue connection pool.
+
+04/12 17:09:27:644 End of process session
+
+04/12 17:09:27:645 Bind Transmitter 01 stopped
+
+04/12 17:09:29:510 Bind Transmitter 01 started
+
+04/12 17:09:29:535 Close pool
+
+04/12 17:09:29:535 Close pool
+
+04/12 17:09:29:536 Testing connection ...
+
+04/12 17:09:29:536 Connecting to SMSC 
+
+04/12 17:09:29:537 Bind request (bindreq: (pdu: 0 2 0 [14]) PPV ppv@321 SMPP 52 (addrrang: 1 1 345) ) 
+
+04/12 17:09:29:542 Bind response (bindresp: (pdu: 36 80000002 0 14) ANAM_ESME_LINK 52) 
+
+04/12 17:09:29:543 SMSC connection is established 
+
+04/12 17:09:29:543 Created provisioning instance for SMSC
+
+04/12 17:09:29:544 Testing connection are success
+
+04/12 17:09:29:544 Starting process session
+
+04/12 17:09:29:645 Total 0 instances are started
+
+04/12 17:09:29:645 Init queue connection pool 1386151769645
+
+04/12 17:09:29:646 Total 1 instances are added
+
+04/12 17:09:29:760 Submit request (submit: (pdu: 0 4 0 15) (addr: 0 0 268)  (addr: 0 0 84922000512)  (sm: msg: Xin loi, he thong dang ban. Xin quy khach vui long nhan tin lai sau.)  (opt: ) ) 
+
+04/12 17:09:29:774 Reponse: async response received (submit_resp: (pdu: 17 80000004 8 15)  ) 
+
+04/12 17:09:29:794 Submit request (submit: (pdu: 0 4 0 16) (addr: 0 0 268)  (addr: 0 0 84922000512)  (sm: msg: Xin loi, he thong dang ban. Xin quy khach vui long nhan tin lai sau.)  (opt: ) ) 
+
+04/12 17:09:29:800 Submit request (submit: (pdu: 0 4 0 17) (addr: 0 0 268)  (addr: 0 0 84922000512)  (sm: msg: Xin loi, he thong dang ban. Xin quy khach vui long nhan tin lai sau.)  (opt: ) ) 
+
+04/12 17:09:29:806 Submit request (submit: (pdu: 0 4 0 18) (addr: 0 0 268)  (addr: 0 0 84922000512)  (sm: msg: Xin loi, he thong dang ban. Xin quy khach vui long nhan tin lai sau.)  (opt: ) ) 
+
+04/12 17:09:29:812 Submit request (submit: (pdu: 0 4 0 19) (addr: 0 0 268)  (addr: 0 0 84922000512)  (sm: msg: Xin loi, he thong dang ban. Xin quy khach vui long nhan tin lai sau.)  (opt: ) ) 
+
+04/12 17:09:29:814 Reponse: async response received (submit_resp: (pdu: 17 80000004 8 16)  ) 
+
+04/12 17:09:29:816 Submit concatenated request (submit: (pdu: 0 4 0 20) (addr: 0 0 345)  (addr: 0 0 84922000514)  (sm: msg:  Xin thong bao, tai khoan du lieu cua Quy khach khong duoc gia han thanh cong. Vui long nap them tien va dang ky goi cuoc du lieu. Tai khoan du lieu con: )  (opt: ) ) 
+
+04/12 17:09:29:820 Submit concatenated request (submit: (pdu: 0 4 0 21) (addr: 0 0 345)  (addr: 0 0 84922000514)  (sm: msg:  80 MB. Het han ngay 28/11/2013. He thong se tinh phi 4.5vnd/KB sau thoi diem het han. Xin cam on!)  (opt: ) ) 
+
+04/12 17:09:29:824 Submit request (submit: (pdu: 0 4 0 22) (addr: 0 0 508)  (addr: 0 0 84922000514)  (sm: msg: Dich vu MP1 cua quy khach da duoc gia han thanh cong. Goi cuoc se het han vao ngay 14/12/2013. Tran trong cam on.)  (opt: ) ) 
+
+04/12 17:09:29:828 Submit concatenated request (submit: (pdu: 0 4 0 23) (addr: 0 0 1721)  (addr: 0 0 84922000511)  (sm: msg:  Goi cuoc VB220 vua duoc gia han thanh cong. Quy khach co the su dung goi cuoc moi tu 00:02 ngay 03/12/2013. Cam on da su dung dich vu!/ Your VB220 has be)  (opt: ) ) 
+
+04/12 17:09:29:829 Submit concatenated request (submit: (pdu: 0 4 0 24) (addr: 0 0 1721)  (addr: 0 0 84922000511)  (sm: msg:  en successfully renewed. You can start using new VB220 since 00:02 on 03/12/2013. Thank you!)  (opt: ) ) 
+
+04/12 17:09:29:833 Submit concatenated request (submit: (pdu: 0 4 0 25) (addr: 0 0 1721)  (addr: 0 0 84922000511)  (sm: msg:  Goi cuoc VB220 da duoc huy. De tiep tuc su dung, vui long soan tin GH VB220 gui 1721. Xin cam on! / Your VB220 has been canceled. To buy new package, ple)  (opt: ) ) 
+
+04/12 17:09:29:834 Submit concatenated request (submit: (pdu: 0 4 0 26) (addr: 0 0 1721)  (addr: 0 0 84922000511)  (sm: msg:  ase send GH VB220 to 1721. Thank you!)  (opt: ) ) 
+
+04/12 17:09:29:836 Reponse: async response received (submit_resp: (pdu: 17 80000004 58 25)  ) 
+
+04/12 17:09:29:837 Submit concatenated request (submit: (pdu: 0 4 0 27) (addr: 0 0 345)  (addr: 0 0 84922000514)  (sm: msg:  Tai khoan chinh cua quy khach khong du tien de gia han su dung goi cuoc du lieu N10. Dich vu se bat dau tinh cuoc theo luu luong voi gia 4.5d/kb. De dang)  (opt: ) ) 
+
+04/12 17:09:29:838 Submit concatenated request (submit: (pdu: 0 4 0 28) (addr: 0 0 345)  (addr: 0 0 84922000514)  (sm: msg:   ky lai goi cuoc, quy khach vui long nap tien va soan tin: DK N10 gui 345. Tran trong cam on.)  (opt: ) ) 
+
+04/12 17:09:29:840 Reponse: async response received (submit_resp: (pdu: 17 80000004 58 26)  ) 
+
+04/12 17:09:29:841 Reponse: async response received (submit_resp: (pdu: 17 80000004 58 27)  ) 
+
+04/12 17:09:29:843 Submit concatenated request (submit: (pdu: 0 4 0 29) (addr: 0 0 508)  (addr: 0 0 84922000514)  (sm: msg:  Tai khoan chinh cua quy khach khong du tien de gia han su dung dich vu MP1. De dang ky lai goi cuoc, quy khach vui long nap tien va soan tin: DK MP1 gui )  (opt: ) ) 
+
+04/12 17:09:29:844 Submit concatenated request (submit: (pdu: 0 4 0 30) (addr: 0 0 508)  (addr: 0 0 84922000514)  (sm: msg:  345. Tran trong cam on.)  (opt: ) ) 
+
+04/12 17:09:29:845 Reponse: async response received (submit_resp: (pdu: 17 80000004 58 28)  ) 
+
+04/12 17:09:29:847 Submit concatenated request (submit: (pdu: 0 4 0 31) (addr: 0 0 1721)  (addr: 0 0 84922000514)  (sm: msg:  Goi cuoc VB220 da duoc huy. De tiep tuc su dung, vui long soan tin GH VB220 gui 1721. Xin cam on! / Your VB220 has been canceled. To buy new package, ple)  (opt: ) ) 
+
+04/12 17:09:29:851 Submit concatenated request (submit: (pdu: 0 4 0 32) (addr: 0 0 1721)  (addr: 0 0 84922000514)  (sm: msg:  ase send GH VB220 to 1721. Thank you!)  (opt: ) ) 
+
+04/12 17:09:29:852 Reponse: async response received (submit_resp: (pdu: 17 80000004 58 29)  ) 
+
+04/12 17:09:29:853 Reponse: async response received (submit_resp: (pdu: 17 80000004 58 30)  ) 
+
+04/12 17:09:29:855 Submit concatenated request (submit: (pdu: 0 4 0 33) (addr: 0 0 345)  (addr: 0 0 84922000514)  (sm: msg:  	Chuc mung Quy khach, goi cuoc du lieu cua Quy khach da duoc gia han thanh cong. Tai khoan du lieu co 80 MB. Han su dung den 29/12/2013. Hay tan huong toc)  (opt: ) ) 
+
+04/12 17:09:29:856 Submit concatenated request (submit: (pdu: 0 4 0 34) (addr: 0 0 345)  (addr: 0 0 84922000514)  (sm: msg:  	 do Internet tuyet voi cua Vietnamobile. Xin cam on!)  (opt: ) ) 
+
+04/12 17:09:29:857 Reponse: async response received (submit_resp: (pdu: 17 80000004 8 17)  ) 
+
+04/12 17:09:29:858 Reponse: async response received (submit_resp: (pdu: 17 80000004 58 31)  ) 
+
+04/12 17:09:29:858 Reponse: async response received (submit_resp: (pdu: 17 80000004 58 32)  ) 
+
+04/12 17:09:29:859 Submit concatenated request (submit: (pdu: 0 4 0 35) (addr: 0 0 345)  (addr: 0 0 84922000514)  (sm: msg:  
+Chuc mung Quy khach, goi cuoc du lieu cua Quy khach da duoc gia han thanh cong. Tai khoan du lieu co 360 MB. Han su dung den 29/12/2013. Hay tan huong to)  (opt: ) ) 
+
+04/12 17:09:29:860 Submit concatenated request (submit: (pdu: 0 4 0 36) (addr: 0 0 345)  (addr: 0 0 84922000514)  (sm: msg:  
+c do Internet tuyet voi cua Vietnamobile. Xin cam on!)  (opt: ) ) 
+
+04/12 17:09:29:861 Reponse: async response received (submit_resp: (pdu: 17 80000004 58 33)  ) 
+
+04/12 17:09:29:862 Reponse: async response received (submit_resp: (pdu: 17 80000004 58 34)  ) 
+
+04/12 17:09:29:863 Submit request (submit: (pdu: 0 4 0 37) (addr: 0 0 345)  (addr: 0 0 84922000514)  (sm: msg: Goi cuoc du lieu N10 cua quy khach da duoc gia han thanh cong. Goi cuoc se het han vao ngay 06/12/2013. Tran trong cam on.)  (opt: ) ) 
+
+04/12 17:09:29:865 Reponse: async response received (submit_resp: (pdu: 17 80000004 58 35)  ) 
+
+04/12 17:09:29:865 Reponse: async response received (submit_resp: (pdu: 17 80000004 58 36)  ) 
+
+04/12 17:09:29:866 Submit concatenated request (submit: (pdu: 0 4 0 38) (addr: 0 0 1721)  (addr: 0 0 84922000511)  (sm: msg:  Goi cuoc VB220 vua duoc gia han thanh cong. Quy khach co the su dung goi cuoc moi tu 00:16 ngay 03/12/2013. Cam on da su dung dich vu!/ Your VB220 has be)  (opt: ) ) 
+
+04/12 17:09:29:867 Submit concatenated request (submit: (pdu: 0 4 0 39) (addr: 0 0 1721)  (addr: 0 0 84922000511)  (sm: msg:  en successfully renewed. You can start using new VB220 since 00:16 on 03/12/2013. Thank you!)  (opt: ) ) 
+
+04/12 17:09:29:869 Reponse: async response received (submit_resp: (pdu: 17 80000004 58 37)  ) 
+
+04/12 17:09:29:870 Reponse: async response received (submit_resp: (pdu: 17 80000004 58 38)  ) 
+
+04/12 17:09:29:871 Submit concatenated request (submit: (pdu: 0 4 0 40) (addr: 0 0 1721)  (addr: 0 0 84922000514)  (sm: msg:  Goi cuoc VB220 vua duoc gia han thanh cong. Quy khach co the su dung goi cuoc moi tu 23:56 ngay 02/12/2013. Cam on da su dung dich vu!/ Your VB220 has be)  (opt: ) ) 
+
+04/12 17:09:29:871 Submit concatenated request (submit: (pdu: 0 4 0 41) (addr: 0 0 1721)  (addr: 0 0 84922000514)  (sm: msg:  en successfully renewed. You can start using new VB220 since 23:56 on 02/12/2013. Thank you!)  (opt: ) ) 
+
+04/12 17:09:29:875 Reponse: async response received (submit_resp: (pdu: 17 80000004 58 39)  ) 
+
+04/12 17:09:29:877 Submit concatenated request (submit: (pdu: 0 4 0 42) (addr: 0 0 1721)  (addr: 0 0 84922000514)  (sm: msg:  Goi cuoc VB220 da duoc huy. De tiep tuc su dung, vui long soan tin GH VB220 gui 1721. Xin cam on! / Your VB220 has been canceled. To buy new package, ple)  (opt: ) ) 
+
+04/12 17:09:29:878 Submit concatenated request (submit: (pdu: 0 4 0 43) (addr: 0 0 1721)  (addr: 0 0 84922000514)  (sm: msg:  ase send GH VB220 to 1721. Thank you!)  (opt: ) ) 
+
+04/12 17:09:29:879 Reponse: async response received (submit_resp: (pdu: 17 80000004 58 40)  ) 
+
+04/12 17:09:29:880 Reponse: async response received (submit_resp: (pdu: 17 80000004 58 41)  ) 
+
+04/12 17:09:29:880 Submit request (submit: (pdu: 0 4 0 44) (addr: 0 0 508)  (addr: 0 0 84922000514)  (sm: msg: Dich vu MP1 cua quy khach da duoc gia han thanh cong. Goi cuoc se het han vao ngay 14/12/2013. Tran trong cam on.)  (opt: ) ) 
+
+04/12 17:09:29:882 Reponse: async response received (submit_resp: (pdu: 17 80000004 58 42)  ) 
+
+04/12 17:09:29:883 Submit request (submit: (pdu: 0 4 0 45) (addr: 0 0 268)  (addr: 0 0 84922000512)  (sm: msg: Xin loi, he thong dang ban. Xin quy khach vui long nhan tin lai sau.)  (opt: ) ) 
+
+04/12 17:09:29:883 Reponse: async response received (submit_resp: (pdu: 17 80000004 58 43)  ) 
+
+04/12 17:09:29:885 Reponse: async response received (submit_resp: (pdu: 17 80000004 58 44)  ) 
+
+04/12 17:09:29:885 Submit request (submit: (pdu: 0 4 0 46) (addr: 0 0 268)  (addr: 0 0 84922000512)  (sm: msg: He thong dang ban. Xin Quy khach vui long nhan tin lai sau.)  (opt: ) ) 
+
+04/12 17:09:29:887 Reponse: async response received (submit_resp: (pdu: 17 80000004 58 45)  ) 
+
+04/12 17:09:29:935 Reponse: async response received (submit_resp: (pdu: 17 80000004 58 46)  ) 
+
+04/12 17:09:29:936 Reponse: async response received (submit_resp: (pdu: 17 80000004 8 18)  ) 
+
+04/12 17:09:29:936 Reponse: async response received (submit_resp: (pdu: 17 80000004 8 19)  ) 
+
+04/12 17:09:29:937 Reponse: async response received (submit_resp: (pdu: 17 80000004 8 23)  ) 
+
+04/12 17:09:29:938 Reponse: async response received (submit_resp: (pdu: 17 80000004 8 24)  ) 
+
+04/12 17:09:30:855 Reponse: async response received (submit_resp: (pdu: 25 80000004 0 20) 803f44a4 ) 
+
+04/12 17:09:30:903 Reponse: async response received (submit_resp: (pdu: 25 80000004 0 22) 803f44a5 ) 
+
+04/12 17:09:30:904 Reponse: async response received (submit_resp: (pdu: 25 80000004 0 21) 803f44a6 ) 
+
+04/12 17:09:59:537 Enquirelink request: (enquirelink: (pdu: 0 15 0 [47]) ) 
+
+04/12 17:09:59:539 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 47) ) 
+
+04/12 17:10:29:538 Enquirelink request: (enquirelink: (pdu: 0 15 0 [48]) ) 
+
+04/12 17:10:29:540 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 48) ) 
+
+04/12 17:11:26:024 Testing connection ...
+
+04/12 17:11:26:036 Connecting to SMSC 
+
+04/12 17:11:26:063 Bind request (bindreq: (pdu: 0 2 0 [1]) PPV ppv@321 SMPP 52 (addrrang: 1 1 345) ) 
+
+04/12 17:11:26:081 Bind response (bindresp: (pdu: 36 80000002 0 1) ANAM_ESME_LINK 52) 
+
+04/12 17:11:26:082 SMSC connection is established 
+
+04/12 17:11:26:082 Created provisioning instance for SMSC
+
+04/12 17:11:26:084 Testing connection are success
+
+04/12 17:11:26:084 Starting process session
+
+04/12 17:11:26:192 Total 0 instances are started
+
+04/12 17:11:26:192 Total 1 instances are added
+
+04/12 17:11:26:220 Init queue connection pool 1386151886220
+
+04/12 17:11:56:024 Enquirelink request: (enquirelink: (pdu: 0 15 0 [2]) ) 
+
+04/12 17:11:56:028 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 2) ) 
+
+04/12 17:12:26:024 Enquirelink request: (enquirelink: (pdu: 0 15 0 [3]) ) 
+
+04/12 17:12:26:026 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 3) ) 
+
+04/12 17:12:56:024 Enquirelink request: (enquirelink: (pdu: 0 15 0 [4]) ) 
+
+04/12 17:12:56:026 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 4) ) 
+
+04/12 17:13:26:024 Enquirelink request: (enquirelink: (pdu: 0 15 0 [5]) ) 
+
+04/12 17:13:26:026 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 5) ) 
+
+04/12 17:13:56:024 Enquirelink request: (enquirelink: (pdu: 0 15 0 [6]) ) 
+
+04/12 17:13:56:026 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 6) ) 
+
+04/12 17:14:26:024 Enquirelink request: (enquirelink: (pdu: 0 15 0 [7]) ) 
+
+04/12 17:14:26:026 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 7) ) 
+
+04/12 17:14:56:025 Enquirelink request: (enquirelink: (pdu: 0 15 0 [8]) ) 
+
+04/12 17:14:56:028 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 8) ) 
+
+04/12 17:15:26:025 Enquirelink request: (enquirelink: (pdu: 0 15 0 [9]) ) 
+
+04/12 17:15:26:027 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 9) ) 
+
+04/12 17:15:52:082 Submit request (submit: (pdu: 0 4 0 10) (addr: 0 0 268)  (addr: 0 0 84922000512)  (sm: msg: He thong dang ban. Xin Quy khach vui long nhan tin lai sau.)  (opt: ) ) 
+
+04/12 17:15:52:094 Reponse: async response received (submit_resp: (pdu: 17 80000004 8 10)  ) 
+
+04/12 17:15:56:025 Enquirelink request: (enquirelink: (pdu: 0 15 0 [11]) ) 
+
+04/12 17:15:56:027 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 11) ) 
+
+04/12 17:16:26:025 Enquirelink request: (enquirelink: (pdu: 0 15 0 [12]) ) 
+
+04/12 17:16:26:027 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 12) ) 
+
+04/12 17:16:56:025 Enquirelink request: (enquirelink: (pdu: 0 15 0 [13]) ) 
+
+04/12 17:16:56:027 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 13) ) 
+
+04/12 17:17:26:025 Enquirelink request: (enquirelink: (pdu: 0 15 0 [14]) ) 
+
+04/12 17:17:26:027 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 14) ) 
+
+04/12 17:17:56:025 Enquirelink request: (enquirelink: (pdu: 0 15 0 [15]) ) 
+
+04/12 17:17:56:027 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 15) ) 
+
+04/12 17:18:26:025 Enquirelink request: (enquirelink: (pdu: 0 15 0 [16]) ) 
+
+04/12 17:18:26:027 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 16) ) 
+
+04/12 17:18:56:025 Enquirelink request: (enquirelink: (pdu: 0 15 0 [17]) ) 
+
+04/12 17:18:56:027 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 17) ) 
+
+04/12 17:19:26:025 Enquirelink request: (enquirelink: (pdu: 0 15 0 [18]) ) 
+
+04/12 17:19:26:028 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 18) ) 
+
+04/12 17:19:56:025 Enquirelink request: (enquirelink: (pdu: 0 15 0 [19]) ) 
+
+04/12 17:19:56:027 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 19) ) 
+
+04/12 17:20:26:025 Enquirelink request: (enquirelink: (pdu: 0 15 0 [20]) ) 
+
+04/12 17:20:26:029 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 20) ) 
+
+04/12 17:20:56:025 Enquirelink request: (enquirelink: (pdu: 0 15 0 [21]) ) 
+
+04/12 17:20:56:027 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 21) ) 
+
+04/12 17:21:26:025 Enquirelink request: (enquirelink: (pdu: 0 15 0 [22]) ) 
+
+04/12 17:21:26:027 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 22) ) 
+
+04/12 17:21:55:595 Submit request (submit: (pdu: 0 4 0 23) (addr: 0 0 268)  (addr: 0 0 84922000512)  (sm: msg: He thong dang ban. Xin Quy khach vui long nhan tin lai sau.)  (opt: ) ) 
+
+04/12 17:21:55:606 Reponse: async response received (submit_resp: (pdu: 17 80000004 8 23)  ) 
+
+04/12 17:21:56:025 Enquirelink request: (enquirelink: (pdu: 0 15 0 [24]) ) 
+
+04/12 17:21:56:027 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 24) ) 
+
+04/12 17:22:26:025 Enquirelink request: (enquirelink: (pdu: 0 15 0 [25]) ) 
+
+04/12 17:22:26:028 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 25) ) 
+
+04/12 17:22:56:025 Enquirelink request: (enquirelink: (pdu: 0 15 0 [26]) ) 
+
+04/12 17:22:56:027 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 26) ) 
+
+04/12 17:23:26:026 Enquirelink request: (enquirelink: (pdu: 0 15 0 [27]) ) 
+
+04/12 17:23:26:028 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 27) ) 
+
+04/12 17:23:56:027 Enquirelink request: (enquirelink: (pdu: 0 15 0 [28]) ) 
+
+04/12 17:23:56:030 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 28) ) 
+
+04/12 17:24:26:028 Enquirelink request: (enquirelink: (pdu: 0 15 0 [29]) ) 
+
+04/12 17:24:26:030 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 29) ) 
+
+04/12 17:24:56:028 Enquirelink request: (enquirelink: (pdu: 0 15 0 [30]) ) 
+
+04/12 17:24:56:031 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 30) ) 
+
+04/12 17:25:26:029 Enquirelink request: (enquirelink: (pdu: 0 15 0 [31]) ) 
+
+04/12 17:25:26:032 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 31) ) 
+
+04/12 17:25:56:030 Enquirelink request: (enquirelink: (pdu: 0 15 0 [32]) ) 
+
+04/12 17:25:56:032 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 32) ) 
+
+04/12 17:26:26:031 Enquirelink request: (enquirelink: (pdu: 0 15 0 [33]) ) 
+
+04/12 17:26:26:033 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 33) ) 
+
+04/12 17:26:56:032 Enquirelink request: (enquirelink: (pdu: 0 15 0 [34]) ) 
+
+04/12 17:26:56:034 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 34) ) 
+
+04/12 17:27:26:033 Enquirelink request: (enquirelink: (pdu: 0 15 0 [35]) ) 
+
+04/12 17:27:26:035 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 35) ) 
+
+04/12 17:27:56:034 Enquirelink request: (enquirelink: (pdu: 0 15 0 [36]) ) 
+
+04/12 17:27:56:036 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 36) ) 
+
+04/12 17:28:26:035 Enquirelink request: (enquirelink: (pdu: 0 15 0 [37]) ) 
+
+04/12 17:28:26:037 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 37) ) 
+
+04/12 17:28:56:036 Enquirelink request: (enquirelink: (pdu: 0 15 0 [38]) ) 
+
+04/12 17:28:56:039 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 38) ) 
+
+04/12 17:29:26:037 Enquirelink request: (enquirelink: (pdu: 0 15 0 [39]) ) 
+
+04/12 17:29:26:039 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 39) ) 
+
+04/12 17:29:56:038 Enquirelink request: (enquirelink: (pdu: 0 15 0 [40]) ) 
+
+04/12 17:29:56:039 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 40) ) 
+
+04/12 17:30:26:039 Enquirelink request: (enquirelink: (pdu: 0 15 0 [41]) ) 
+
+04/12 17:30:26:041 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 41) ) 
+
+04/12 17:30:56:040 Enquirelink request: (enquirelink: (pdu: 0 15 0 [42]) ) 
+
+04/12 17:30:56:042 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 42) ) 
+
+04/12 17:31:26:040 Enquirelink request: (enquirelink: (pdu: 0 15 0 [43]) ) 
+
+04/12 17:31:26:042 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 43) ) 
+
+04/12 17:31:56:041 Enquirelink request: (enquirelink: (pdu: 0 15 0 [44]) ) 
+
+04/12 17:31:56:043 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 44) ) 
+
+04/12 17:32:26:042 Enquirelink request: (enquirelink: (pdu: 0 15 0 [45]) ) 
+
+04/12 17:32:26:044 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 45) ) 
+
+04/12 17:32:56:043 Enquirelink request: (enquirelink: (pdu: 0 15 0 [46]) ) 
+
+04/12 17:32:56:046 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 46) ) 
+
+04/12 17:33:26:043 Enquirelink request: (enquirelink: (pdu: 0 15 0 [47]) ) 
+
+04/12 17:33:26:047 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 47) ) 
+
+04/12 17:33:56:043 Enquirelink request: (enquirelink: (pdu: 0 15 0 [48]) ) 
+
+04/12 17:33:56:045 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 48) ) 
+
+04/12 17:34:26:043 Enquirelink request: (enquirelink: (pdu: 0 15 0 [49]) ) 
+
+04/12 17:34:26:045 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 49) ) 
+
+04/12 17:41:07:672 Testing connection ...
+
+04/12 17:41:07:683 Connecting to SMSC 
+
+04/12 17:41:07:710 Bind request (bindreq: (pdu: 0 2 0 [1]) PPV ppv@321 SMPP 52 (addrrang: 1 1 345) ) 
+
+04/12 17:41:07:720 Bind response (bindresp: (pdu: 36 80000002 0 1) ANAM_ESME_LINK 52) 
+
+04/12 17:41:07:721 SMSC connection is established 
+
+04/12 17:41:07:721 Created provisioning instance for SMSC
+
+04/12 17:41:07:721 Testing connection are success
+
+04/12 17:41:07:721 Starting process session
+
+04/12 17:41:07:823 Total 0 instances are started
+
+04/12 17:41:07:823 Init queue connection pool 1386153667823
+
+04/12 17:41:07:823 Total 1 instances are added
+
+04/12 17:41:19:218 Submit concatenated request (submit: (pdu: 0 4 0 2) (addr: 0 0 268)  (addr: 0 0 84922000512)  (sm: msg:  ?Chuc mung Quy khach da ra nhap Cau lac bo CAM cua Vietnamobile. Hay tiep tuc su dung Vietnamobile de tich luy nhieu diem va nhan duoc nhieu uu dai cua ch)  (opt: ) ) 
+
+04/12 17:41:19:220 Submit concatenated request (submit: (pdu: 0 4 0 3) (addr: 0 0 268)  (addr: 0 0 84922000512)  (sm: msg:  ?uong trinh. Chi tiet 789)  (opt: ) ) 
+
+04/12 17:41:19:235 Reponse: async response received (submit_resp: (pdu: 17 80000004 8 2)  ) 
+
+04/12 17:41:19:285 Reponse: async response received (submit_resp: (pdu: 17 80000004 8 3)  ) 
+
+04/12 17:41:37:673 Enquirelink request: (enquirelink: (pdu: 0 15 0 [4]) ) 
+
+04/12 17:41:37:676 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 4) ) 
+
+04/12 17:42:07:674 Enquirelink request: (enquirelink: (pdu: 0 15 0 [5]) ) 
+
+04/12 17:42:07:676 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 5) ) 
+
+04/12 17:42:37:675 Enquirelink request: (enquirelink: (pdu: 0 15 0 [6]) ) 
+
+04/12 17:42:37:677 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 6) ) 
+
+04/12 17:43:07:676 Enquirelink request: (enquirelink: (pdu: 0 15 0 [7]) ) 
+
+04/12 17:43:07:678 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 7) ) 
+
+04/12 17:43:37:677 Enquirelink request: (enquirelink: (pdu: 0 15 0 [8]) ) 
+
+04/12 17:43:37:681 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 8) ) 
+
+04/12 17:44:07:678 Enquirelink request: (enquirelink: (pdu: 0 15 0 [9]) ) 
+
+04/12 17:44:07:684 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 9) ) 
+
+04/12 17:44:37:678 Enquirelink request: (enquirelink: (pdu: 0 15 0 [10]) ) 
+
+04/12 17:44:37:680 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 10) ) 
+
+04/12 17:45:07:678 Enquirelink request: (enquirelink: (pdu: 0 15 0 [11]) ) 
+
+04/12 17:45:07:680 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 11) ) 
+
+04/12 17:45:37:678 Enquirelink request: (enquirelink: (pdu: 0 15 0 [12]) ) 
+
+04/12 17:45:37:683 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 12) ) 
+
+04/12 17:46:07:678 Enquirelink request: (enquirelink: (pdu: 0 15 0 [13]) ) 
+
+04/12 17:46:07:681 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 13) ) 
+
+04/12 17:46:37:678 Enquirelink request: (enquirelink: (pdu: 0 15 0 [14]) ) 
+
+04/12 17:46:37:681 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 14) ) 
+
+04/12 17:47:07:678 Enquirelink request: (enquirelink: (pdu: 0 15 0 [15]) ) 
+
+04/12 17:47:07:680 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 15) ) 
+
+04/12 17:47:37:679 Enquirelink request: (enquirelink: (pdu: 0 15 0 [16]) ) 
+
+04/12 17:47:37:681 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 16) ) 
+
+04/12 17:48:07:680 Enquirelink request: (enquirelink: (pdu: 0 15 0 [17]) ) 
+
+04/12 17:48:07:682 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 17) ) 
+
+04/12 17:48:37:681 Enquirelink request: (enquirelink: (pdu: 0 15 0 [18]) ) 
+
+04/12 17:48:37:683 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 18) ) 
+
+04/12 17:49:07:682 Enquirelink request: (enquirelink: (pdu: 0 15 0 [19]) ) 
+
+04/12 17:49:07:685 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 19) ) 
+
+04/12 17:49:37:683 Enquirelink request: (enquirelink: (pdu: 0 15 0 [20]) ) 
+
+04/12 17:49:37:685 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 20) ) 
+
+04/12 17:50:07:684 Enquirelink request: (enquirelink: (pdu: 0 15 0 [21]) ) 
+
+04/12 17:50:07:686 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 21) ) 
+
+04/12 17:50:37:685 Enquirelink request: (enquirelink: (pdu: 0 15 0 [22]) ) 
+
+04/12 17:50:37:687 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 22) ) 
+
+04/12 17:51:07:686 Enquirelink request: (enquirelink: (pdu: 0 15 0 [23]) ) 
+
+04/12 17:51:07:688 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 23) ) 
+
+04/12 17:51:37:687 Enquirelink request: (enquirelink: (pdu: 0 15 0 [24]) ) 
+
+04/12 17:51:37:689 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 24) ) 
+
+04/12 17:52:07:688 Enquirelink request: (enquirelink: (pdu: 0 15 0 [25]) ) 
+
+04/12 17:52:07:698 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 25) ) 
+
+04/12 17:52:37:691 Enquirelink request: (enquirelink: (pdu: 0 15 0 [26]) ) 
+
+04/12 17:52:37:693 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 26) ) 
+
+04/12 17:53:07:690 Enquirelink request: (enquirelink: (pdu: 0 15 0 [27]) ) 
+
+04/12 17:53:07:692 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 27) ) 
+
+04/12 17:53:37:691 Enquirelink request: (enquirelink: (pdu: 0 15 0 [28]) ) 
+
+04/12 17:53:37:694 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 28) ) 
+
+04/12 17:54:07:692 Enquirelink request: (enquirelink: (pdu: 0 15 0 [29]) ) 
+
+04/12 17:54:07:694 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 29) ) 
+
+04/12 17:54:37:692 Enquirelink request: (enquirelink: (pdu: 0 15 0 [30]) ) 
+
+04/12 17:54:37:694 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 30) ) 
+
+04/12 17:55:07:692 Enquirelink request: (enquirelink: (pdu: 0 15 0 [31]) ) 
+
+04/12 17:55:07:694 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 31) ) 
+
+04/12 17:55:37:692 Enquirelink request: (enquirelink: (pdu: 0 15 0 [32]) ) 
+
+04/12 17:55:37:694 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 32) ) 
+
+04/12 17:56:07:692 Enquirelink request: (enquirelink: (pdu: 0 15 0 [33]) ) 
+
+04/12 17:56:07:694 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 33) ) 
+
+04/12 17:56:37:692 Enquirelink request: (enquirelink: (pdu: 0 15 0 [34]) ) 
+
+04/12 17:56:37:694 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 34) ) 
+
+04/12 17:57:07:692 Enquirelink request: (enquirelink: (pdu: 0 15 0 [35]) ) 
+
+04/12 17:57:07:694 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 35) ) 
+
+04/12 17:57:37:693 Enquirelink request: (enquirelink: (pdu: 0 15 0 [36]) ) 
+
+04/12 17:57:37:695 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 36) ) 
+
+04/12 17:58:07:694 Enquirelink request: (enquirelink: (pdu: 0 15 0 [37]) ) 
+
+04/12 17:58:07:696 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 37) ) 
+
+04/12 17:58:22:944 Submit request (submit: (pdu: 0 4 0 38) (addr: 0 0 268)  (addr: 0 0 84922000512)  (sm: msg: Quy khach chua dang ky tham gia Cau lac bo CAM, vui long dang ky: DK CAM gui 268 de duoc tich luy va doi diem cua chuong trinh. Chi tiet 789)  (opt: ) ) 
+
+04/12 17:58:22:955 Reponse: async response received (submit_resp: (pdu: 17 80000004 8 38)  ) 
+
+04/12 17:58:37:695 Enquirelink request: (enquirelink: (pdu: 0 15 0 [39]) ) 
+
+04/12 17:58:37:697 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 39) ) 
+
+04/12 17:59:07:696 Enquirelink request: (enquirelink: (pdu: 0 15 0 [40]) ) 
+
+04/12 17:59:07:698 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 40) ) 
+
+04/12 17:59:37:697 Enquirelink request: (enquirelink: (pdu: 0 15 0 [41]) ) 
+
+04/12 17:59:37:699 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 41) ) 
+
+04/12 18:00:07:698 Enquirelink request: (enquirelink: (pdu: 0 15 0 [42]) ) 
+
+04/12 18:00:07:700 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 42) ) 
+
+04/12 18:00:37:699 Enquirelink request: (enquirelink: (pdu: 0 15 0 [43]) ) 
+
+04/12 18:00:37:701 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 43) ) 
+
+04/12 18:01:07:700 Enquirelink request: (enquirelink: (pdu: 0 15 0 [44]) ) 
+
+04/12 18:01:07:702 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 44) ) 
+
+04/12 18:01:37:701 Enquirelink request: (enquirelink: (pdu: 0 15 0 [45]) ) 
+
+04/12 18:01:37:703 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 45) ) 
+
+04/12 18:02:07:702 Enquirelink request: (enquirelink: (pdu: 0 15 0 [46]) ) 
+
+04/12 18:02:07:704 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 46) ) 
+
+04/12 18:02:37:703 Enquirelink request: (enquirelink: (pdu: 0 15 0 [47]) ) 
+
+04/12 18:02:37:705 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 47) ) 
+
+04/12 18:03:07:704 Enquirelink request: (enquirelink: (pdu: 0 15 0 [48]) ) 
+
+04/12 18:03:07:707 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 48) ) 
+
+04/12 18:03:37:705 Enquirelink request: (enquirelink: (pdu: 0 15 0 [49]) ) 
+
+04/12 18:03:37:707 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 49) ) 
+
+04/12 18:04:07:706 Enquirelink request: (enquirelink: (pdu: 0 15 0 [50]) ) 
+
+04/12 18:04:07:708 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 50) ) 
+
+04/12 18:04:37:706 Enquirelink request: (enquirelink: (pdu: 0 15 0 [51]) ) 
+
+04/12 18:04:37:708 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 51) ) 
+
+04/12 18:05:07:706 Enquirelink request: (enquirelink: (pdu: 0 15 0 [52]) ) 
+
+04/12 18:05:07:708 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 52) ) 
+
+04/12 18:05:37:706 Enquirelink request: (enquirelink: (pdu: 0 15 0 [53]) ) 
+
+04/12 18:05:37:708 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 53) ) 
+
+04/12 18:06:07:706 Enquirelink request: (enquirelink: (pdu: 0 15 0 [54]) ) 
+
+04/12 18:06:07:716 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 54) ) 
+
+04/12 18:07:08:072 Testing connection ...
+
+04/12 18:07:08:089 Connecting to SMSC 
+
+04/12 18:07:08:119 Bind request (bindreq: (pdu: 0 2 0 [1]) PPV ppv@321 SMPP 52 (addrrang: 1 1 345) ) 
+
+04/12 18:07:08:133 Bind response (bindresp: (pdu: 36 80000002 0 1) ANAM_ESME_LINK 52) 
+
+04/12 18:07:08:134 SMSC connection is established 
+
+04/12 18:07:08:134 Created provisioning instance for SMSC
+
+04/12 18:07:08:135 Testing connection are success
+
+04/12 18:07:08:136 Starting process session
+
+04/12 18:07:08:242 Total 0 instances are started
+
+04/12 18:07:08:243 Total 1 instances are added
+
+04/12 18:07:08:245 Init queue connection pool 1386155228245
+
+04/12 18:07:38:072 Enquirelink request: (enquirelink: (pdu: 0 15 0 [2]) ) 
+
+04/12 18:07:38:075 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 2) ) 
+
+04/12 18:08:08:072 Enquirelink request: (enquirelink: (pdu: 0 15 0 [3]) ) 
+
+04/12 18:08:08:074 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 3) ) 
+
+04/12 18:08:38:072 Enquirelink request: (enquirelink: (pdu: 0 15 0 [4]) ) 
+
+04/12 18:08:38:074 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 4) ) 
+
+04/12 18:08:58:307 Submit concatenated request (submit: (pdu: 0 4 0 5) (addr: 0 0 268)  (addr: 0 0 84922000512)  (sm: msg:  ?Quy khach da la thanh vien cua Cau lac bo CAM cua Vietnamobile. Hay tiep tuc su dung Vietnamobile de tich luy nhieu diem va nhan duoc nhieu uu dai cua ch)  (opt: ) ) 
+
+04/12 18:08:58:313 Submit concatenated request (submit: (pdu: 0 4 0 6) (addr: 0 0 268)  (addr: 0 0 84922000512)  (sm: msg:  ?uong trinh. Chi tiet 789)  (opt: ) ) 
+
+04/12 18:08:58:328 Reponse: async response received (submit_resp: (pdu: 17 80000004 8 5)  ) 
+
+04/12 18:08:58:378 Reponse: async response received (submit_resp: (pdu: 17 80000004 8 6)  ) 
+
+04/12 18:09:08:072 Enquirelink request: (enquirelink: (pdu: 0 15 0 [7]) ) 
+
+04/12 18:09:08:075 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 7) ) 
+
+04/12 18:09:38:072 Enquirelink request: (enquirelink: (pdu: 0 15 0 [8]) ) 
+
+04/12 18:09:38:074 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 8) ) 
+
+04/12 18:10:08:072 Enquirelink request: (enquirelink: (pdu: 0 15 0 [9]) ) 
+
+04/12 18:10:08:079 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 9) ) 
+
+04/12 18:10:38:072 Enquirelink request: (enquirelink: (pdu: 0 15 0 [10]) ) 
+
+04/12 18:10:38:074 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 10) ) 
+
+04/12 18:11:08:072 Enquirelink request: (enquirelink: (pdu: 0 15 0 [11]) ) 
+
+04/12 18:11:08:074 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 11) ) 
+
+04/12 18:11:38:073 Enquirelink request: (enquirelink: (pdu: 0 15 0 [12]) ) 
+
+04/12 18:11:38:075 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 12) ) 
+
+04/12 18:12:08:074 Enquirelink request: (enquirelink: (pdu: 0 15 0 [13]) ) 
+
+04/12 18:12:08:076 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 13) ) 
+
+04/12 18:12:38:075 Enquirelink request: (enquirelink: (pdu: 0 15 0 [14]) ) 
+
+04/12 18:12:38:077 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 14) ) 
+
+04/12 18:13:08:076 Enquirelink request: (enquirelink: (pdu: 0 15 0 [15]) ) 
+
+04/12 18:13:08:078 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 15) ) 
+
+04/12 18:13:38:077 Enquirelink request: (enquirelink: (pdu: 0 15 0 [16]) ) 
+
+04/12 18:13:38:079 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 16) ) 
+
+04/12 18:14:08:078 Enquirelink request: (enquirelink: (pdu: 0 15 0 [17]) ) 
+
+04/12 18:14:08:081 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 17) ) 
+
+04/12 18:14:10:422 Submit concatenated request (submit: (pdu: 0 4 0 18) (addr: 0 0 268)  (addr: 0 0 84922000512)  (sm: msg:  ?Quy khach da la thanh vien cua Cau lac bo CAM cua Vietnamobile. Hay tiep tuc su dung Vietnamobile de tich luy nhieu diem va nhan duoc nhieu uu dai cua ch)  (opt: ) ) 
+
+04/12 18:14:10:425 Submit concatenated request (submit: (pdu: 0 4 0 19) (addr: 0 0 268)  (addr: 0 0 84922000512)  (sm: msg:  ?uong trinh. Chi tiet 789)  (opt: ) ) 
+
+04/12 18:14:10:438 Reponse: async response received (submit_resp: (pdu: 17 80000004 8 18)  ) 
+
+04/12 18:14:10:489 Reponse: async response received (submit_resp: (pdu: 17 80000004 8 19)  ) 
+
+04/12 18:14:38:079 Enquirelink request: (enquirelink: (pdu: 0 15 0 [20]) ) 
+
+04/12 18:14:38:081 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 20) ) 
+
+04/12 18:15:08:080 Enquirelink request: (enquirelink: (pdu: 0 15 0 [21]) ) 
+
+04/12 18:15:08:084 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 21) ) 
+
+04/12 18:15:38:081 Enquirelink request: (enquirelink: (pdu: 0 15 0 [22]) ) 
+
+04/12 18:15:38:083 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 22) ) 
+
+04/12 18:15:49:437 Submit concatenated request (submit: (pdu: 0 4 0 23) (addr: 0 0 268)  (addr: 0 0 84922000512)  (sm: msg:  ?Quy khach da la thanh vien cua Cau lac bo CAM cua Vietnamobile. Hay tiep tuc su dung Vietnamobile de tich luy nhieu diem va nhan duoc nhieu uu dai cua ch)  (opt: ) ) 
+
+04/12 18:15:49:438 Submit concatenated request (submit: (pdu: 0 4 0 24) (addr: 0 0 268)  (addr: 0 0 84922000512)  (sm: msg:  ?uong trinh. Chi tiet 789)  (opt: ) ) 
+
+04/12 18:15:49:451 Reponse: async response received (submit_resp: (pdu: 17 80000004 8 23)  ) 
+
+04/12 18:15:49:501 Reponse: async response received (submit_resp: (pdu: 17 80000004 8 24)  ) 
+
+04/12 18:16:08:082 Enquirelink request: (enquirelink: (pdu: 0 15 0 [25]) ) 
+
+04/12 18:16:08:084 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 25) ) 
+
+04/12 18:16:38:083 Enquirelink request: (enquirelink: (pdu: 0 15 0 [26]) ) 
+
+04/12 18:16:38:085 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 26) ) 
+
+04/12 18:17:08:083 Enquirelink request: (enquirelink: (pdu: 0 15 0 [27]) ) 
+
+04/12 18:17:08:086 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 27) ) 
+
+04/12 18:17:38:083 Enquirelink request: (enquirelink: (pdu: 0 15 0 [28]) ) 
+
+04/12 18:17:38:087 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 28) ) 
+
+04/12 18:18:08:083 Enquirelink request: (enquirelink: (pdu: 0 15 0 [29]) ) 
+
+04/12 18:18:08:085 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 29) ) 
+
+04/12 18:18:38:083 Enquirelink request: (enquirelink: (pdu: 0 15 0 [30]) ) 
+
+04/12 18:18:38:085 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 30) ) 
+
+04/12 18:19:08:084 Enquirelink request: (enquirelink: (pdu: 0 15 0 [31]) ) 
+
+04/12 18:19:08:086 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 31) ) 
+
+04/12 18:19:38:084 Enquirelink request: (enquirelink: (pdu: 0 15 0 [32]) ) 
+
+04/12 18:19:38:092 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 32) ) 
+
+04/12 18:20:08:084 Enquirelink request: (enquirelink: (pdu: 0 15 0 [33]) ) 
+
+04/12 18:20:08:087 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 33) ) 
+
+04/12 18:20:38:084 Enquirelink request: (enquirelink: (pdu: 0 15 0 [34]) ) 
+
+04/12 18:20:38:086 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 34) ) 
+
+04/12 18:21:08:085 Enquirelink request: (enquirelink: (pdu: 0 15 0 [35]) ) 
+
+04/12 18:21:08:087 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 35) ) 
+
+04/12 18:21:38:086 Enquirelink request: (enquirelink: (pdu: 0 15 0 [36]) ) 
+
+04/12 18:21:38:088 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 36) ) 
+
+04/12 18:22:08:087 Enquirelink request: (enquirelink: (pdu: 0 15 0 [37]) ) 
+
+04/12 18:22:08:089 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 37) ) 
+
+04/12 18:22:38:088 Enquirelink request: (enquirelink: (pdu: 0 15 0 [38]) ) 
+
+04/12 18:22:38:095 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 38) ) 
+
+04/12 18:23:08:089 Enquirelink request: (enquirelink: (pdu: 0 15 0 [39]) ) 
+
+04/12 18:23:08:091 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 39) ) 
+
+04/12 18:23:38:090 Enquirelink request: (enquirelink: (pdu: 0 15 0 [40]) ) 
+
+04/12 18:23:38:092 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 40) ) 
+
+04/12 18:24:08:091 Enquirelink request: (enquirelink: (pdu: 0 15 0 [41]) ) 
+
+04/12 18:24:08:093 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 41) ) 
+
+04/12 18:24:38:092 Enquirelink request: (enquirelink: (pdu: 0 15 0 [42]) ) 
+
+04/12 18:24:38:094 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 42) ) 
+
+04/12 18:25:08:093 Enquirelink request: (enquirelink: (pdu: 0 15 0 [43]) ) 
+
+04/12 18:25:08:095 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 43) ) 
+
+04/12 18:25:38:094 Enquirelink request: (enquirelink: (pdu: 0 15 0 [44]) ) 
+
+04/12 18:25:38:096 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 44) ) 
+
+04/12 18:26:08:095 Enquirelink request: (enquirelink: (pdu: 0 15 0 [45]) ) 
+
+04/12 18:26:08:097 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 45) ) 
+
+04/12 18:26:38:096 Enquirelink request: (enquirelink: (pdu: 0 15 0 [46]) ) 
+
+04/12 18:26:38:098 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 46) ) 
+
+04/12 18:27:08:096 Enquirelink request: (enquirelink: (pdu: 0 15 0 [47]) ) 
+
+04/12 18:27:08:098 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 47) ) 
+
+04/12 18:27:38:111 Enquirelink request: (enquirelink: (pdu: 0 15 0 [48]) ) 
+
+04/12 18:27:38:111 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 48) ) 
+
+04/12 18:28:08:115 Enquirelink request: (enquirelink: (pdu: 0 15 0 [49]) ) 
+
+04/12 18:28:08:115 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 49) ) 
+
+04/12 18:28:38:116 Enquirelink request: (enquirelink: (pdu: 0 15 0 [50]) ) 
+
+04/12 18:28:38:116 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 50) ) 
+
+04/12 18:29:08:117 Enquirelink request: (enquirelink: (pdu: 0 15 0 [51]) ) 
+
+04/12 18:29:08:117 Enquirelink response: (enquirelink_resp: (pdu: 16 80000015 0 51) ) 
+

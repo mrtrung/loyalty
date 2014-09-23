@@ -1,0 +1,39 @@
+23/09 15:15:18:961 CRM started
+23/09 15:15:19:020 Testing connection ...
+23/09 15:15:19:022 Created provisioning instance for CRM
+23/09 15:15:19:067 Testing connection are success
+23/09 15:15:19:068 Starting process session
+23/09 15:15:19:178 Total 0 instances are started
+23/09 15:15:19:179 Total 1 instances are added
+23/09 15:15:37:213 sendNotify: 84922000514 - B?n ?ã h?y thành công d?ch v? LOYALTY
+23/09 15:15:37:215 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = HUY CAM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = unregister | productId = 274 | commandId = 570 | request =  | response =  | status = 0 | cause = success | description = action-not-found
+23/09 15:15:43:425 sendNotify: 84922000514 - B?n ?ã h?y thành công d?ch v? LOYALTY
+23/09 15:15:43:426 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = HUY CAM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = unregister | productId = 274 | commandId = 570 | request =  | response =  | status = 0 | cause = success | description = action-not-found
+23/09 15:19:18:360 sendNotify: 84922000514 - B?n ?ã h?y thành công d?ch v? LOYALTY
+23/09 15:19:18:361 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = HUY CAM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = unregister | productId = 274 | commandId = 570 | request =  | response =  | status = 0 | cause = success | description = action-not-found
+23/09 15:22:09:503 sendNotify: 84922000514 - B?n ?ã h?y thành công d?ch v? LOYALTY
+23/09 15:22:09:504 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = HUY CAM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = unregister | productId = 274 | commandId = 570 | request =  | response =  | status = 0 | cause = success | description = action-not-found
+23/09 15:25:16:949 CRM started
+23/09 15:25:20:629 Testing connection ...
+23/09 15:25:20:629 Created provisioning instance for CRM
+23/09 15:25:20:629 Testing connection are success
+23/09 15:25:20:639 Starting process session
+23/09 15:25:20:789 Total 0 instances are started
+23/09 15:25:20:789 Total 1 instances are added
+23/09 15:28:23:192 sendNotify: 84922000514 - B?n ?ã h?y thành công d?ch v? LOYALTY
+23/09 15:28:23:193 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = HUY CAM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = unregister | productId = 274 | commandId = 570 | request =  | response =  | status = 0 | cause = success | description = action-not-found
+23/09 15:34:31:120 CRM started
+23/09 15:34:33:157 Testing connection ...
+23/09 15:34:33:158 Created provisioning instance for CRM
+23/09 15:34:33:161 Testing connection are success
+23/09 15:34:33:164 Starting process session
+23/09 15:34:33:275 Total 0 instances are started
+23/09 15:34:33:276 Total 1 instances are added
+23/09 15:34:43:136 SEND: ID=293001: com.crm.provisioning.impl.CommandImpl.unregister{84922000514, 274}
+23/09 15:34:43:148 RECEIVE: ID=293001: success: costTime=11
+23/09 15:34:43:180 sendNotify: 84922000514 - B?n ?ã h?y thành công d?ch v? LOYALTY
+23/09 15:34:43:181 orderId = 125410201 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = HUY CAM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = unregister | productId = 274 | commandId = 570 | request = ID=293001: com.crm.provisioning.impl.CommandImpl.unregister{84922000514, 274} | response = ID=293001: success: costTime=11 | status = 0 | cause = success | description = success
+23/09 15:35:48:873 SEND: ID=293003: com.crm.provisioning.impl.CommandImpl.register{84922000514, 274}
+23/09 15:35:48:897 RECEIVE: ID=293003: success: costTime=24
+23/09 15:35:48:907 sendNotify: 84922000514 - Chuc mung Quy khach da ra nhap Cau lac bo CAM cua Vietnamobile. Hay tiep tuc su dung Vietnamobile de tich luy nhieu diem va nhan duoc nhieu uu dai cua chuong trinh. Chi tiet 789
+23/09 15:35:48:908 orderId = 125410202 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DK CAM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = register | productId = 274 | commandId = 521 | request = ID=293003: com.crm.provisioning.impl.CommandImpl.register{84922000514, 274} | response = ID=293003: success: costTime=24 | status = 0 | cause = success | description = success

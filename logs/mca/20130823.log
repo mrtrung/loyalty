@@ -1,0 +1,71 @@
+23/08 15:24:45:977 MCA started
+23/08 15:24:54:352 java.lang.ClassNotFoundException: com.crm.provisioning.impl.vas.VASCommandImpl
+23/08 15:24:54:353 End of process session
+23/08 15:26:34:392 java.lang.ClassNotFoundException: com.crm.provisioning.impl.vas.VASCommandImpl
+23/08 15:26:34:394 End of process session
+23/08 15:28:14:427 java.lang.ClassNotFoundException: com.crm.provisioning.impl.vas.VASCommandImpl
+23/08 15:28:14:428 End of process session
+23/08 15:29:54:466 java.lang.ClassNotFoundException: com.crm.provisioning.impl.vas.VASCommandImpl
+23/08 15:29:54:466 End of process session
+23/08 15:31:34:502 java.lang.ClassNotFoundException: com.crm.provisioning.impl.vas.VASCommandImpl
+23/08 15:31:34:503 End of process session
+23/08 15:33:14:533 java.lang.ClassNotFoundException: com.crm.provisioning.impl.vas.VASCommandImpl
+23/08 15:33:14:534 End of process session
+23/08 15:34:54:565 java.lang.ClassNotFoundException: com.crm.provisioning.impl.vas.VASCommandImpl
+23/08 15:34:54:566 End of process session
+23/08 15:36:34:766 java.lang.ClassNotFoundException: com.crm.provisioning.impl.vas.VASCommandImpl
+23/08 15:36:34:766 End of process session
+23/08 15:38:14:823 java.lang.ClassNotFoundException: com.crm.provisioning.impl.vas.VASCommandImpl
+23/08 15:38:14:824 End of process session
+23/08 15:39:54:861 java.lang.ClassNotFoundException: com.crm.provisioning.impl.vas.VASCommandImpl
+23/08 15:39:54:862 End of process session
+23/08 15:41:34:901 java.lang.ClassNotFoundException: com.crm.provisioning.impl.vas.VASCommandImpl
+23/08 15:41:34:902 End of process session
+23/08 15:43:14:939 java.lang.ClassNotFoundException: com.crm.provisioning.impl.vas.VASCommandImpl
+23/08 15:43:14:941 End of process session
+23/08 15:52:56:371 MCA started
+23/08 15:53:00:093 Testing connection ...
+23/08 15:53:21:127 open connection is fail
+23/08 15:53:21:186 java.net.ConnectException: Connection timed out: connect
+23/08 15:53:21:187 Starting process session
+23/08 15:53:21:287 Total 0 instances are started
+23/08 15:53:21:290 Total 1 instances are added
+23/08 16:01:41:775 MCA started
+23/08 16:01:43:986 Testing connection ...
+23/08 16:02:05:110 open connection is fail
+23/08 16:02:05:122 java.net.ConnectException: Connection timed out: connect
+23/08 16:02:05:123 Starting process session
+23/08 16:02:05:223 Total 0 instances are started
+23/08 16:02:05:224 Total 1 instances are added
+23/08 16:05:29:582 MCA started
+23/08 16:05:33:398 Testing connection ...
+23/08 16:05:54:420 open connection is fail
+23/08 16:05:54:427 java.net.ConnectException: Connection timed out: connect
+23/08 16:05:54:428 Starting process session
+23/08 16:05:54:530 Total 0 instances are started
+23/08 16:05:54:532 Total 1 instances are added
+23/08 16:39:07:636 MCA started
+23/08 16:39:11:585 java.lang.ClassNotFoundException: com.crm.provisioning.impl.LoyaltyImpl
+23/08 16:39:11:586 End of process session
+23/08 16:40:51:681 java.lang.ClassNotFoundException: com.crm.provisioning.impl.LoyaltyImpl
+23/08 16:40:51:682 End of process session
+23/08 16:41:31:701 MCA started
+23/08 16:41:34:193 java.lang.ClassNotFoundException: com.crm.provisioning.impl.LoyaltyImpl
+23/08 16:41:34:195 End of process session
+23/08 16:43:14:319 java.lang.ClassNotFoundException: com.crm.provisioning.impl.LoyaltyImpl
+23/08 16:43:14:319 End of process session
+23/08 16:44:54:440 java.lang.ClassNotFoundException: com.crm.provisioning.impl.LoyaltyImpl
+23/08 16:44:54:441 End of process session
+23/08 16:45:22:688 MCA started
+23/08 16:45:27:178 java.lang.ClassNotFoundException: com.crm.provisioning.impl.LoyaltyImpl
+23/08 16:45:27:178 End of process session
+23/08 16:47:07:362 java.lang.ClassNotFoundException: com.crm.provisioning.impl.LoyaltyImpl
+23/08 16:47:07:362 End of process session
+23/08 16:48:47:371 Testing connection ...
+23/08 16:48:59:931 MCA started
+23/08 16:49:04:002 Testing connection ...
+23/08 16:49:25:043 open connection is fail
+23/08 16:49:25:050 java.net.ConnectException: Connection timed out: connect
+23/08 16:49:25:051 Starting process session
+23/08 16:49:25:152 Total 0 instances are started
+23/08 16:49:25:153 Total 1 instances are added

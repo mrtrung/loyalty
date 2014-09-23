@@ -1,0 +1,570 @@
+31/08 10:38:08:534 CRM started
+31/08 10:38:11:572 Testing connection ...
+31/08 10:38:11:573 Created provisioning instance for CRM
+31/08 10:38:11:586 Testing connection are success
+31/08 10:38:11:587 Starting process session
+31/08 10:38:11:688 Total 0 instances are started
+31/08 10:38:11:689 Total 1 instances are added
+31/08 10:38:32:721 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.36:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+31/08 10:38:32:721 Consumer was closed, reconnect.
+31/08 10:38:32:900 Total 0 instances are started
+31/08 10:38:32:901 Total 1 instances are added
+31/08 10:38:53:945 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.36:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+31/08 10:38:53:946 Consumer was closed, reconnect.
+31/08 10:38:54:104 Total 0 instances are started
+31/08 10:38:54:105 Total 1 instances are added
+31/08 10:39:15:136 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.36:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+31/08 10:39:15:137 Consumer was closed, reconnect.
+31/08 10:39:15:333 Total 0 instances are started
+31/08 10:39:15:334 Total 1 instances are added
+31/08 10:40:18:569 CRM started
+31/08 10:40:19:066 Testing connection ...
+31/08 10:40:19:075 Created provisioning instance for CRM
+31/08 10:40:19:105 Testing connection are success
+31/08 10:40:19:105 Starting process session
+31/08 10:40:19:210 Total 0 instances are started
+31/08 10:40:19:214 Total 1 instances are added
+31/08 10:47:57:910 SEND: ID=83001: com.crm.provisioning.impl.CommandImpl.register{84922000514, 274}
+31/08 10:47:57:937 RECEIVE: ID=83001: success: costTime=22
+31/08 10:47:57:947 sendNotify: 84922000514 - Chuc mung quy khach da gia nhap Cau lac bo CAM cua Vietnamobile.Hay tiep tuc su dung Vietnamobile de tich luy nhieu diem va nhan duoc nhieu uu dai cua chuong trinh. Chi tiet 789
+31/08 10:47:57:948 orderId = 125407867 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DK CAM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = register | productId = 274 | commandId = 13119 | request = ID=83001: com.crm.provisioning.impl.CommandImpl.register{84922000514, 274} | response = ID=83001: success: costTime=22 | status = 0 | cause = success | description = success
+31/08 11:04:15:057 sendNotify: 84922000514 - Tai khoan cua Quy khach khong du de dang ky su dung dich vu. Hay nap the va dang ky su dung dich vu. Tran trong!
+31/08 11:04:15:058 orderId = 125407868 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 3000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 4 | cause = not-enought-money | description = 
+31/08 11:07:46:316 CRM started
+31/08 11:07:49:068 Testing connection ...
+31/08 11:07:49:069 Created provisioning instance for CRM
+31/08 11:07:49:072 Testing connection are success
+31/08 11:07:49:073 Starting process session
+31/08 11:07:49:174 Total 0 instances are started
+31/08 11:07:49:174 Total 1 instances are added
+31/08 11:10:36:840 CRM started
+31/08 11:10:38:428 Testing connection ...
+31/08 11:10:38:447 Created provisioning instance for CRM
+31/08 11:10:39:565 Testing connection are success
+31/08 11:10:39:566 Starting process session
+31/08 11:10:39:669 Total 0 instances are started
+31/08 11:10:39:670 Total 1 instances are added
+31/08 11:12:06:946 CRM started
+31/08 11:12:09:688 Testing connection ...
+31/08 11:12:09:689 Created provisioning instance for CRM
+31/08 11:12:09:692 Testing connection are success
+31/08 11:12:09:693 Starting process session
+31/08 11:12:09:794 Total 0 instances are started
+31/08 11:12:09:795 Total 1 instances are added
+31/08 11:13:18:854 orderId = 125407871 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 3000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+31/08 11:13:21:408 orderId = 125407871 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 3000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 304 | request =  | response =  | status = 0 | cause = success | description = 
+31/08 11:25:33:148 SEND: ID=84003: com.crm.provisioning.impl.CommandImpl.unregister{84922000514, 274}
+31/08 11:25:33:177 RECEIVE: ID=84003: success: costTime=27
+31/08 11:25:33:179 orderId = 0 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = HUY CAM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = unregister | productId = 274 | commandId = 13121 | request = ID=84003: com.crm.provisioning.impl.CommandImpl.unregister{84922000514, 274} | response = ID=84003: success: costTime=27 | status = 0 | cause = success | description = success
+31/08 11:26:18:210 orderId = 125407874 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 4 | cause = error | description = null
+31/08 11:26:18:218 null
+31/08 11:26:18:333 Total 0 instances are started
+31/08 11:26:18:334 Total 1 instances are added
+31/08 11:31:13:695 CRM started
+31/08 11:31:16:900 Testing connection ...
+31/08 11:31:16:903 Created provisioning instance for CRM
+31/08 11:31:16:905 Testing connection are success
+31/08 11:31:16:906 Starting process session
+31/08 11:31:17:008 Total 0 instances are started
+31/08 11:31:17:008 Total 1 instances are added
+31/08 11:42:46:342 CRM started
+31/08 11:42:49:372 Testing connection ...
+31/08 11:42:49:374 Created provisioning instance for CRM
+31/08 11:42:49:375 Testing connection are success
+31/08 11:42:49:376 Starting process session
+31/08 11:42:49:479 Total 0 instances are started
+31/08 11:42:49:479 Total 1 instances are added
+31/08 11:44:03:011 CRM started
+31/08 11:44:06:041 Testing connection ...
+31/08 11:44:06:050 Created provisioning instance for CRM
+31/08 11:44:06:051 Testing connection are success
+31/08 11:44:06:052 Starting process session
+31/08 11:44:06:154 Total 0 instances are started
+31/08 11:44:06:155 Total 1 instances are added
+31/08 11:44:19:919 orderId = 125407877 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 4 | cause = error | description = null
+31/08 11:44:19:926 null
+31/08 11:44:20:077 Total 0 instances are started
+31/08 11:44:20:078 Total 1 instances are added
+31/08 11:45:15:221 CRM started
+31/08 11:45:18:446 Testing connection ...
+31/08 11:45:18:447 Created provisioning instance for CRM
+31/08 11:45:18:447 Testing connection are success
+31/08 11:45:18:448 Starting process session
+31/08 11:45:18:550 Total 0 instances are started
+31/08 11:45:18:552 Total 1 instances are added
+31/08 11:49:30:559 CRM started
+31/08 11:49:33:700 Testing connection ...
+31/08 11:49:33:701 Created provisioning instance for CRM
+31/08 11:49:33:702 Testing connection are success
+31/08 11:49:33:713 Starting process session
+31/08 11:49:33:823 Total 0 instances are started
+31/08 11:49:33:824 Total 1 instances are added
+31/08 11:53:08:793 CRM started
+31/08 11:53:11:910 Testing connection ...
+31/08 11:53:11:912 Created provisioning instance for CRM
+31/08 11:53:11:914 Testing connection are success
+31/08 11:53:11:915 Starting process session
+31/08 11:53:12:022 Total 0 instances are started
+31/08 11:53:12:023 Total 1 instances are added
+31/08 11:54:55:957 CRM started
+31/08 11:54:58:742 Testing connection ...
+31/08 11:54:58:743 Created provisioning instance for CRM
+31/08 11:54:58:755 Testing connection are success
+31/08 11:54:58:756 Starting process session
+31/08 11:54:58:857 Total 0 instances are started
+31/08 11:54:58:857 Total 1 instances are added
+31/08 11:57:47:699 CRM started
+31/08 11:57:50:928 Testing connection ...
+31/08 11:57:50:933 Created provisioning instance for CRM
+31/08 11:57:50:933 Testing connection are success
+31/08 11:57:50:935 Starting process session
+31/08 11:57:51:038 Total 0 instances are started
+31/08 11:57:51:038 Total 1 instances are added
+31/08 11:58:38:217 CRM started
+31/08 11:58:40:750 Testing connection ...
+31/08 11:58:40:751 Created provisioning instance for CRM
+31/08 11:58:40:754 Testing connection are success
+31/08 11:58:40:755 Starting process session
+31/08 11:58:40:857 Total 0 instances are started
+31/08 11:58:40:858 Total 1 instances are added
+31/08 12:19:33:894 CRM started
+31/08 12:19:37:049 Testing connection ...
+31/08 12:19:37:050 Created provisioning instance for CRM
+31/08 12:19:37:051 Testing connection are success
+31/08 12:19:37:052 Starting process session
+31/08 12:19:37:154 Total 0 instances are started
+31/08 12:19:37:154 Total 1 instances are added
+31/08 12:20:57:707 orderId = 125407882 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 4 | cause = error | description = null
+31/08 12:20:57:720 null
+31/08 12:20:57:841 Total 0 instances are started
+31/08 12:20:57:842 Total 1 instances are added
+31/08 12:23:02:559 CRM started
+31/08 12:23:05:789 Testing connection ...
+31/08 12:23:05:791 Created provisioning instance for CRM
+31/08 12:23:05:795 Testing connection are success
+31/08 12:23:05:796 Starting process session
+31/08 12:23:05:897 Total 0 instances are started
+31/08 12:23:05:898 Total 1 instances are added
+31/08 12:24:27:473 CRM started
+31/08 12:24:30:400 Testing connection ...
+31/08 12:24:30:401 Created provisioning instance for CRM
+31/08 12:24:30:408 Testing connection are success
+31/08 12:24:30:409 Starting process session
+31/08 12:24:30:517 Total 0 instances are started
+31/08 12:24:30:518 Total 1 instances are added
+31/08 12:24:39:511 orderId = 125407885 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 4 | cause = error | description = null
+31/08 12:24:39:518 null
+31/08 12:24:39:672 Total 0 instances are started
+31/08 12:24:39:673 Total 1 instances are added
+31/08 12:27:50:208 CRM started
+31/08 12:27:53:188 Testing connection ...
+31/08 12:27:53:190 Created provisioning instance for CRM
+31/08 12:27:53:190 Testing connection are success
+31/08 12:27:53:191 Starting process session
+31/08 12:27:53:295 Total 0 instances are started
+31/08 12:27:53:295 Total 1 instances are added
+31/08 12:32:33:406 CRM started
+31/08 12:33:15:555 CRM started
+31/08 12:33:18:615 Testing connection ...
+31/08 12:33:18:616 Created provisioning instance for CRM
+31/08 12:33:18:617 Testing connection are success
+31/08 12:33:18:617 Starting process session
+31/08 12:33:18:719 Total 0 instances are started
+31/08 12:33:18:721 Total 1 instances are added
+31/08 12:42:31:027 CRM started
+31/08 12:42:59:728 Error occured: Connections could not be acquired from the underlying database!
+31/08 12:44:23:567 CRM started
+31/08 12:44:27:389 Testing connection ...
+31/08 12:44:27:405 Created provisioning instance for CRM
+31/08 12:44:27:405 Testing connection are success
+31/08 12:44:27:406 Starting process session
+31/08 12:44:27:507 Total 0 instances are started
+31/08 12:44:27:507 Total 1 instances are added
+31/08 12:46:35:656 CRM started
+31/08 12:46:38:631 Testing connection ...
+31/08 12:46:38:634 Created provisioning instance for CRM
+31/08 12:46:38:636 Testing connection are success
+31/08 12:46:38:638 Starting process session
+31/08 12:46:38:741 Total 0 instances are started
+31/08 12:46:38:741 Total 1 instances are added
+31/08 12:46:52:769 orderId = 125407889 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 4 | cause = error | description = null
+31/08 12:46:54:373 null
+31/08 12:46:54:494 Total 0 instances are started
+31/08 12:46:54:495 Total 1 instances are added
+31/08 12:47:19:507 CRM started
+31/08 12:47:22:924 Testing connection ...
+31/08 12:47:22:925 Created provisioning instance for CRM
+31/08 12:47:22:925 Testing connection are success
+31/08 12:47:22:926 Starting process session
+31/08 12:47:23:027 Total 0 instances are started
+31/08 12:47:23:027 Total 1 instances are added
+31/08 12:49:16:981 CRM started
+31/08 12:49:20:021 Testing connection ...
+31/08 12:49:20:024 Created provisioning instance for CRM
+31/08 12:49:20:032 Testing connection are success
+31/08 12:49:20:032 Starting process session
+31/08 12:49:20:134 Total 0 instances are started
+31/08 12:49:20:134 Total 1 instances are added
+31/08 12:49:49:794 CRM started
+31/08 12:49:53:426 Testing connection ...
+31/08 12:49:53:428 Created provisioning instance for CRM
+31/08 12:49:53:429 Testing connection are success
+31/08 12:49:53:430 Starting process session
+31/08 12:49:53:532 Total 0 instances are started
+31/08 12:49:53:532 Total 1 instances are added
+31/08 12:56:08:342 CRM started
+31/08 12:56:10:462 Testing connection ...
+31/08 12:56:10:462 Created provisioning instance for CRM
+31/08 12:56:10:538 Testing connection are success
+31/08 12:56:10:539 Starting process session
+31/08 12:56:10:671 Total 0 instances are started
+31/08 12:56:10:672 Total 1 instances are added
+31/08 12:56:13:042 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.39:7676]. - cause: java.net.ConnectException: Connection refused: connect
+31/08 12:56:13:043 Consumer was closed, reconnect.
+31/08 12:56:13:230 Total 0 instances are started
+31/08 12:56:13:232 Total 1 instances are added
+31/08 12:56:14:274 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.39:7676]. - cause: java.net.ConnectException: Connection refused: connect
+31/08 12:56:14:275 Consumer was closed, reconnect.
+31/08 12:56:14:474 Total 0 instances are started
+31/08 12:56:14:475 Total 1 instances are added
+31/08 12:56:15:506 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.39:7676]. - cause: java.net.ConnectException: Connection refused: connect
+31/08 12:56:15:507 Consumer was closed, reconnect.
+31/08 12:56:15:681 Total 0 instances are started
+31/08 12:56:15:682 Total 1 instances are added
+31/08 12:56:16:701 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.39:7676]. - cause: java.net.ConnectException: Connection refused: connect
+31/08 12:56:16:702 Consumer was closed, reconnect.
+31/08 12:56:16:887 Total 0 instances are started
+31/08 12:56:16:888 Total 1 instances are added
+31/08 12:56:17:997 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.39:7676]. - cause: java.net.ConnectException: Connection refused: connect
+31/08 12:56:17:997 Consumer was closed, reconnect.
+31/08 12:56:18:188 Total 0 instances are started
+31/08 12:56:18:189 Total 1 instances are added
+31/08 12:56:19:212 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.39:7676]. - cause: java.net.ConnectException: Connection refused: connect
+31/08 12:56:19:212 Consumer was closed, reconnect.
+31/08 12:56:19:392 Total 0 instances are started
+31/08 12:56:19:393 Total 1 instances are added
+31/08 12:56:20:414 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.39:7676]. - cause: java.net.ConnectException: Connection refused: connect
+31/08 12:56:20:415 Consumer was closed, reconnect.
+31/08 12:56:20:610 Total 0 instances are started
+31/08 12:56:20:611 Total 1 instances are added
+31/08 12:56:21:634 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.39:7676]. - cause: java.net.ConnectException: Connection refused: connect
+31/08 12:56:21:635 Consumer was closed, reconnect.
+31/08 12:56:21:812 Total 0 instances are started
+31/08 12:56:21:812 Total 1 instances are added
+31/08 12:56:22:893 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.39:7676]. - cause: java.net.ConnectException: Connection refused: connect
+31/08 12:56:22:893 Consumer was closed, reconnect.
+31/08 12:56:23:013 Total 0 instances are started
+31/08 12:56:23:016 Total 1 instances are added
+31/08 12:56:24:024 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.39:7676]. - cause: java.net.ConnectException: Connection refused: connect
+31/08 12:56:24:025 Consumer was closed, reconnect.
+31/08 12:56:24:217 Total 0 instances are started
+31/08 12:56:24:217 Total 1 instances are added
+31/08 12:56:25:241 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.39:7676]. - cause: java.net.ConnectException: Connection refused: connect
+31/08 12:56:25:242 Consumer was closed, reconnect.
+31/08 12:56:25:429 Total 0 instances are started
+31/08 12:56:25:430 Total 1 instances are added
+31/08 12:56:26:655 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.39:7676]. - cause: java.net.ConnectException: Connection refused: connect
+31/08 12:56:26:656 Consumer was closed, reconnect.
+31/08 12:56:26:760 Total 0 instances are started
+31/08 12:56:26:762 Total 1 instances are added
+31/08 12:56:27:818 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.39:7676]. - cause: java.net.ConnectException: Connection refused: connect
+31/08 12:56:27:818 Consumer was closed, reconnect.
+31/08 12:56:27:962 Total 0 instances are started
+31/08 12:56:27:963 Total 1 instances are added
+31/08 12:56:28:980 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.39:7676]. - cause: java.net.ConnectException: Connection refused: connect
+31/08 12:56:28:981 Consumer was closed, reconnect.
+31/08 12:56:29:175 Total 0 instances are started
+31/08 12:56:29:176 Total 1 instances are added
+31/08 12:56:30:212 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.39:7676]. - cause: java.net.ConnectException: Connection refused: connect
+31/08 12:56:30:213 Consumer was closed, reconnect.
+31/08 12:56:30:314 Total 0 instances are started
+31/08 12:56:30:315 Total 1 instances are added
+31/08 12:56:31:370 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.39:7676]. - cause: java.net.ConnectException: Connection refused: connect
+31/08 12:56:31:370 Consumer was closed, reconnect.
+31/08 12:56:31:543 Total 0 instances are started
+31/08 12:56:31:544 Total 1 instances are added
+31/08 12:56:32:624 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.39:7676]. - cause: java.net.ConnectException: Connection refused: connect
+31/08 12:56:32:624 Consumer was closed, reconnect.
+31/08 12:56:32:804 Total 0 instances are started
+31/08 12:56:32:805 Total 1 instances are added
+31/08 12:56:33:818 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.39:7676]. - cause: java.net.ConnectException: Connection refused: connect
+31/08 12:56:33:819 Consumer was closed, reconnect.
+31/08 12:56:34:006 Total 0 instances are started
+31/08 12:56:34:007 Total 1 instances are added
+31/08 12:56:35:055 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.39:7676]. - cause: java.net.ConnectException: Connection refused: connect
+31/08 12:56:35:055 Consumer was closed, reconnect.
+31/08 12:56:35:210 Total 0 instances are started
+31/08 12:56:35:211 Total 1 instances are added
+31/08 12:56:36:221 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.39:7676]. - cause: java.net.ConnectException: Connection refused: connect
+31/08 12:56:36:222 Consumer was closed, reconnect.
+31/08 12:56:36:333 Total 0 instances are started
+31/08 12:56:36:334 Total 1 instances are added
+31/08 12:56:37:359 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.39:7676]. - cause: java.net.ConnectException: Connection refused: connect
+31/08 12:56:37:360 Consumer was closed, reconnect.
+31/08 12:56:37:537 Total 0 instances are started
+31/08 12:56:37:538 Total 1 instances are added
+31/08 12:56:38:592 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.39:7676]. - cause: java.net.ConnectException: Connection refused: connect
+31/08 12:56:38:592 Consumer was closed, reconnect.
+31/08 12:56:38:759 Total 0 instances are started
+31/08 12:56:38:759 Total 1 instances are added
+31/08 12:56:39:788 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.39:7676]. - cause: java.net.ConnectException: Connection refused: connect
+31/08 12:56:39:788 Consumer was closed, reconnect.
+31/08 12:56:39:989 Total 0 instances are started
+31/08 12:56:39:990 Total 1 instances are added
+31/08 12:56:41:015 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.39:7676]. - cause: java.net.ConnectException: Connection refused: connect
+31/08 12:56:41:015 Consumer was closed, reconnect.
+31/08 12:56:41:197 Total 0 instances are started
+31/08 12:56:41:197 Total 1 instances are added
+31/08 12:56:42:203 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.39:7676]. - cause: java.net.ConnectException: Connection refused: connect
+31/08 12:56:42:204 Consumer was closed, reconnect.
+31/08 12:56:42:398 Total 0 instances are started
+31/08 12:56:42:399 Total 1 instances are added
+31/08 12:56:43:453 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.39:7676]. - cause: java.net.ConnectException: Connection refused: connect
+31/08 12:56:43:453 Consumer was closed, reconnect.
+31/08 12:56:43:601 Total 0 instances are started
+31/08 12:56:43:601 Total 1 instances are added
+31/08 12:56:45:041 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.39:7676]. - cause: java.net.ConnectException: Connection refused: connect
+31/08 12:56:45:042 Consumer was closed, reconnect.
+31/08 12:56:45:202 Total 0 instances are started
+31/08 12:56:45:202 Total 1 instances are added
+31/08 12:56:46:224 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.39:7676]. - cause: java.net.ConnectException: Connection refused: connect
+31/08 12:56:46:224 Consumer was closed, reconnect.
+31/08 12:56:46:403 Total 0 instances are started
+31/08 12:56:46:403 Total 1 instances are added
+31/08 12:56:47:441 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.39:7676]. - cause: java.net.ConnectException: Connection refused: connect
+31/08 12:56:47:442 Consumer was closed, reconnect.
+31/08 12:56:47:604 Total 0 instances are started
+31/08 12:56:47:605 Total 1 instances are added
+31/08 12:56:48:677 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.39:7676]. - cause: java.net.ConnectException: Connection refused: connect
+31/08 12:56:48:677 Consumer was closed, reconnect.
+31/08 13:02:22:275 CRM started
+31/08 13:02:23:362 Testing connection ...
+31/08 13:02:23:372 Created provisioning instance for CRM
+31/08 13:02:23:454 Testing connection are success
+31/08 13:02:23:454 Starting process session
+31/08 13:02:23:566 Total 0 instances are started
+31/08 13:02:23:630 Total 1 instances are added
+31/08 13:03:19:903 orderId = 125407895 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 4 | cause = error | description = null
+31/08 13:03:19:911 null
+31/08 13:03:20:078 Total 0 instances are started
+31/08 13:03:20:079 Total 1 instances are added
+31/08 13:04:20:698 orderId = 125407896 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 4 | cause = error | description = null
+31/08 13:04:20:705 null
+31/08 13:04:20:872 Total 0 instances are started
+31/08 13:04:20:874 Total 1 instances are added
+31/08 13:04:27:595 orderId = 125407897 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 4 | cause = error | description = null
+31/08 13:04:27:602 null
+31/08 13:04:27:777 Total 0 instances are started
+31/08 13:04:27:778 Total 1 instances are added
+31/08 13:04:34:597 orderId = 125407898 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 4 | cause = error | description = null
+31/08 13:04:34:605 null
+31/08 13:04:34:783 Total 0 instances are started
+31/08 13:04:34:784 Total 1 instances are added
+31/08 13:04:55:135 CRM started
+31/08 13:04:58:326 Testing connection ...
+31/08 13:04:58:327 Created provisioning instance for CRM
+31/08 13:04:58:328 Testing connection are success
+31/08 13:04:58:328 Starting process session
+31/08 13:04:58:431 Total 0 instances are started
+31/08 13:04:58:431 Total 1 instances are added
+31/08 13:14:30:570 CRM started
+31/08 13:14:34:109 Testing connection ...
+31/08 13:14:34:110 Created provisioning instance for CRM
+31/08 13:14:34:110 Testing connection are success
+31/08 13:14:34:111 Starting process session
+31/08 13:14:34:218 Total 0 instances are started
+31/08 13:14:34:219 Total 1 instances are added
+31/08 13:15:37:247 CRM started
+31/08 13:15:40:103 Testing connection ...
+31/08 13:15:40:104 Created provisioning instance for CRM
+31/08 13:15:40:105 Testing connection are success
+31/08 13:15:40:105 Starting process session
+31/08 13:15:40:208 Total 0 instances are started
+31/08 13:15:40:208 Total 1 instances are added
+31/08 13:15:54:119 orderId = 125407901 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 4 | cause = error | description = null
+31/08 13:15:54:125 null
+31/08 13:15:54:294 Total 0 instances are started
+31/08 13:15:54:295 Total 1 instances are added
+31/08 13:19:17:140 orderId = 125407902 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 4 | cause = error | description = null
+31/08 13:19:17:149 null
+31/08 13:19:17:318 Total 0 instances are started
+31/08 13:19:17:319 Total 1 instances are added
+31/08 13:19:24:076 orderId = 125407903 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 4 | cause = error | description = null
+31/08 13:19:24:083 null
+31/08 13:19:24:254 Total 0 instances are started
+31/08 13:19:24:255 Total 1 instances are added
+31/08 13:19:53:971 CRM started
+31/08 13:19:57:830 Testing connection ...
+31/08 13:19:57:831 Created provisioning instance for CRM
+31/08 13:19:57:831 Testing connection are success
+31/08 13:19:57:831 Starting process session
+31/08 13:19:57:932 Total 0 instances are started
+31/08 13:19:57:933 Total 1 instances are added
+31/08 13:21:24:574 CRM started
+31/08 13:21:27:750 Testing connection ...
+31/08 13:21:27:751 Created provisioning instance for CRM
+31/08 13:21:27:752 Testing connection are success
+31/08 13:21:27:752 Starting process session
+31/08 13:21:27:855 Total 0 instances are started
+31/08 13:21:27:855 Total 1 instances are added
+31/08 13:22:21:176 orderId = 125407905 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 4 | cause = error | description = null
+31/08 13:22:21:221 unknow-member
+31/08 13:22:21:363 Total 0 instances are started
+31/08 13:22:21:364 Total 1 instances are added
+31/08 13:22:36:944 CRM started
+31/08 13:22:39:721 Testing connection ...
+31/08 13:22:39:726 Created provisioning instance for CRM
+31/08 13:22:39:743 Testing connection are success
+31/08 13:22:39:744 Starting process session
+31/08 13:22:39:846 Total 0 instances are started
+31/08 13:22:39:847 Total 1 instances are added
+31/08 13:22:50:951 orderId = 125407906 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 300 | request =  | response =  | status = 4 | cause = error | description = null
+31/08 13:22:50:963 unknow-member
+31/08 13:22:51:122 Total 0 instances are started
+31/08 13:22:51:123 Total 1 instances are added
+31/08 13:30:51:019 orderId = 125407910 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = TRADIEM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | commandId = 300 | request =  | response =  | status = 4 | cause = error | description = null
+31/08 13:30:51:027 unknow-member
+31/08 13:30:51:201 Total 0 instances are started
+31/08 13:30:51:202 Total 1 instances are added
+31/08 13:33:39:726 CRM started
+31/08 13:33:42:584 Testing connection ...
+31/08 13:33:42:585 Created provisioning instance for CRM
+31/08 13:33:42:598 Testing connection are success
+31/08 13:33:42:598 Starting process session
+31/08 13:33:42:699 Total 0 instances are started
+31/08 13:33:42:699 Total 1 instances are added
+31/08 13:34:09:557 orderId = 125407911 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = TRADIEM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | commandId = 300 | request =  | response =  | status = 4 | cause = error | description = null
+31/08 13:34:09:562 unknow-member
+31/08 13:34:09:689 Total 0 instances are started
+31/08 13:34:09:691 Total 1 instances are added
+31/08 13:45:55:265 CRM started
+31/08 13:45:58:368 Testing connection ...
+31/08 13:45:58:369 Created provisioning instance for CRM
+31/08 13:45:58:369 Testing connection are success
+31/08 13:45:58:370 Starting process session
+31/08 13:45:58:472 Total 0 instances are started
+31/08 13:45:58:472 Total 1 instances are added
+31/08 13:46:22:157 orderId = 125407912 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = TRADIEM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | commandId = 300 | request =  | response =  | status = 4 | cause = error | description = null
+31/08 13:46:22:166 unknow-member
+31/08 13:46:22:329 Total 0 instances are started
+31/08 13:46:22:330 Total 1 instances are added
+31/08 13:47:09:020 SEND: ID=85001: com.crm.provisioning.impl.CommandImpl.register{84922000514, 274}
+31/08 13:47:09:048 RECEIVE: ID=85001: success: costTime=27
+31/08 13:47:09:062 sendNotify: 84922000514 - Chuc mung quy khach da gia nhap Cau lac bo CAM cua Vietnamobile.Hay tiep tuc su dung Vietnamobile de tich luy nhieu diem va nhan duoc nhieu uu dai cua chuong trinh. Chi tiet 789
+31/08 13:47:09:063 orderId = 125407913 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DK CAM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = register | productId = 274 | commandId = 13119 | request = ID=85001: com.crm.provisioning.impl.CommandImpl.register{84922000514, 274} | response = ID=85001: success: costTime=27 | status = 0 | cause = success | description = success
+31/08 13:47:38:996 orderId = 125407914 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = TRADIEM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | commandId = 300 | request =  | response =  | status = 4 | cause = error | description = null
+31/08 13:47:39:006 For input string: ""
+31/08 13:47:39:170 Total 0 instances are started
+31/08 13:47:39:171 Total 1 instances are added
+31/08 13:49:42:427 CRM started
+31/08 13:49:45:638 Testing connection ...
+31/08 13:49:45:642 Created provisioning instance for CRM
+31/08 13:49:45:644 Testing connection are success
+31/08 13:49:45:644 Starting process session
+31/08 13:49:45:746 Total 0 instances are started
+31/08 13:49:45:746 Total 1 instances are added
+31/08 13:53:36:480 CRM started
+31/08 13:53:39:429 Testing connection ...
+31/08 13:53:39:429 Created provisioning instance for CRM
+31/08 13:53:39:430 Testing connection are success
+31/08 13:53:39:430 Starting process session
+31/08 13:53:39:532 Total 0 instances are started
+31/08 13:53:39:532 Total 1 instances are added
+31/08 13:53:56:622 orderId = 125407916 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = TRADIEM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+31/08 13:53:56:748 orderId = 125407916 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = TRADIEM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 12937 | request =  | response =  | status = 4 | cause = error | description = null
+31/08 13:53:56:759 Illegal pattern character 'Y'
+31/08 13:53:56:892 Total 0 instances are started
+31/08 13:53:56:893 Total 1 instances are added
+31/08 13:56:46:343 CRM started
+31/08 13:56:49:659 Testing connection ...
+31/08 13:56:49:661 Created provisioning instance for CRM
+31/08 13:56:49:661 Testing connection are success
+31/08 13:56:49:663 Starting process session
+31/08 13:56:49:768 Total 0 instances are started
+31/08 13:56:49:768 Total 1 instances are added
+31/08 13:57:59:216 orderId = 125407917 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = TRADIEM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+31/08 13:57:59:233 orderId = 125407918 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = TRADIEM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+31/08 13:57:59:259 orderId = 125407919 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = TRADIEM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+31/08 13:58:48:244 CRM started
+31/08 13:58:51:405 Testing connection ...
+31/08 13:58:51:405 Created provisioning instance for CRM
+31/08 13:58:51:407 Testing connection are success
+31/08 13:58:51:408 Starting process session
+31/08 13:58:51:511 Total 0 instances are started
+31/08 13:58:51:512 Total 1 instances are added
+31/08 13:59:13:817 CRM started
+31/08 13:59:17:623 Testing connection ...
+31/08 13:59:17:625 Created provisioning instance for CRM
+31/08 13:59:17:625 Testing connection are success
+31/08 13:59:17:626 Starting process session
+31/08 13:59:17:727 Total 0 instances are started
+31/08 13:59:17:727 Total 1 instances are added
+31/08 13:59:26:910 orderId = 125407919 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = TRADIEM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 12937 | request =  | response =  | status = 4 | cause = error | description = null
+31/08 13:59:26:922 Illegal pattern character 'Y'
+31/08 13:59:27:071 Total 0 instances are started
+31/08 13:59:27:072 Total 1 instances are added
+31/08 14:01:28:285 CRM started
+31/08 14:01:31:361 Testing connection ...
+31/08 14:01:31:363 Created provisioning instance for CRM
+31/08 14:01:31:363 Testing connection are success
+31/08 14:01:31:364 Starting process session
+31/08 14:01:31:466 Total 0 instances are started
+31/08 14:01:31:466 Total 1 instances are added
+31/08 14:01:55:112 orderId = 125407920 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = TRADIEM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+31/08 14:08:11:635 CRM started
+31/08 14:08:14:455 Testing connection ...
+31/08 14:08:14:456 Created provisioning instance for CRM
+31/08 14:08:14:457 Testing connection are success
+31/08 14:08:14:457 Starting process session
+31/08 14:08:14:559 Total 0 instances are started
+31/08 14:08:14:559 Total 1 instances are added
+31/08 14:08:40:564 orderId = 125407921 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = TRADIEM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | commandId = 300 | request =  | response =  | status = 1 | cause = success | description = 
+31/08 14:08:40:681 sendNotify: 84922000514 - Loi xay ra trong qua trinh xu ly! Vui long thuc hien lai thao tao hoac goi 789 de duoc tro giup. Xin cam on!
+31/08 14:08:40:682 orderId = 125407921 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = TRADIEM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | commandId = 12937 | request =  | response =  | status = 4 | cause = error | description = java.lang.Double cannot be cast to com.crm.provisioning.message.CommandMessage
+31/08 14:08:40:688 java.lang.ClassCastException: java.lang.Double cannot be cast to com.crm.provisioning.message.CommandMessage
+31/08 14:08:40:883 Total 0 instances are started
+31/08 14:08:40:884 Total 1 instances are added
+31/08 14:20:31:849 CRM started
+31/08 14:20:33:161 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:20:33:164 End of process session
+31/08 14:22:13:198 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:22:13:199 End of process session
+31/08 14:23:53:279 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:23:53:280 End of process session
+31/08 14:25:33:311 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:25:33:313 End of process session
+31/08 14:27:13:357 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:27:13:358 End of process session
+31/08 14:28:53:392 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:28:53:393 End of process session
+31/08 14:30:33:502 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:30:33:503 End of process session
+31/08 14:32:13:561 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:32:13:562 End of process session
+31/08 14:33:53:605 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:33:53:606 End of process session
+31/08 14:35:33:645 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:35:33:646 End of process session
+31/08 14:37:13:689 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:37:13:690 End of process session
+31/08 14:38:53:728 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:38:53:729 End of process session
+31/08 14:40:33:765 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:40:33:766 End of process session
+31/08 14:42:13:796 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:42:13:798 End of process session
+31/08 14:43:53:828 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:43:53:829 End of process session
+31/08 14:45:33:864 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:45:33:869 End of process session
+31/08 14:46:46:241 CRM started
+31/08 14:46:49:248 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:46:49:248 End of process session
+31/08 14:48:29:281 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:48:29:283 End of process session
+31/08 14:50:09:313 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:50:09:314 End of process session
+31/08 14:51:49:351 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:51:49:352 End of process session
+31/08 14:53:29:385 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:53:29:386 End of process session

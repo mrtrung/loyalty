@@ -1,0 +1,25 @@
+30/09 11:05:41:466 Command Routing started
+30/09 11:05:41:531 Starting process session
+30/09 11:05:41:826 Total 0 instances are started
+30/09 11:05:41:833 Total 1 instances are added
+30/09 11:10:26:141 Command Routing started
+30/09 11:10:26:165 Starting process session
+30/09 11:10:26:283 Total 0 instances are started
+30/09 11:10:26:284 Total 1 instances are added
+30/09 11:53:42:391 Command Routing started
+30/09 11:53:42:411 Starting process session
+30/09 11:53:42:551 Total 0 instances are started
+30/09 11:53:42:551 Total 1 instances are added
+30/09 11:53:52:012 84922000514: SMSC - SMSC.SEND_SMS
+30/09 11:57:09:282 84922000514: CRM - CRM.LOYALTY.UNREGISTER
+30/09 11:57:09:380 84922000514: SMSC - SMSC.SEND_SMS
+30/09 11:58:35:651 84922000514: CRM - CRM.LOYALTY.REGISTER
+30/09 11:58:35:822 84922000514: SMSC - SMSC.SEND_SMS
+30/09 11:59:55:132 84922000514: CRM - CRM.LOYALTY.UNREGISTER
+30/09 11:59:55:278 84922000514: SMSC - SMSC.SEND_SMS
+30/09 12:00:46:844 84922000514: CRM - CRM.LOYALTY.REGISTER
+30/09 12:00:46:984 84922000514: SMSC - SMSC.SEND_SMS
+30/09 12:01:12:841 84922000514: CRM - LOYALTY.VALIDATE
+30/09 12:01:13:025 84922000514: SMSC - SMSC.SEND_SMS
+30/09 12:40:38:248 com.sun.messaging.jms.JMSException: [C4002]: Read packet failed. - cause: java.io.EOFException: Trying to read 72 bytes. Already read 0 bytes.
+30/09 12:40:38:267 javax.jms.IllegalStateException: [C4062]: Cannot perform operation, connection is closed.

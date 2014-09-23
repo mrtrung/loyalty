@@ -1,0 +1,152 @@
+23/09 08:56:14:615 Order Routing started
+23/09 08:56:16:043 Testing connection ...
+23/09 08:56:17:574 Created provisioning instance for CCWS
+23/09 08:56:17:574 Testing connection are success
+23/09 08:56:17:574 Starting process session
+23/09 08:56:18:900 Total 0 instances are started
+23/09 08:56:18:900 Total 1 instances are added
+23/09 14:20:21:356 Order Routing started
+23/09 14:20:22:991 java.lang.NoSuchMethodException: com.crm.provisioning.impl.vncs.VNCSCommandImpl.reactive(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+23/09 14:20:22:992 End of process session
+23/09 14:20:33:119 java.lang.NoSuchMethodException: com.crm.provisioning.impl.vncs.VNCSCommandImpl.reactive(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+23/09 14:20:33:120 End of process session
+23/09 14:20:43:192 java.lang.NoSuchMethodException: com.crm.provisioning.impl.vncs.VNCSCommandImpl.reactive(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+23/09 14:20:43:193 End of process session
+23/09 14:20:53:263 java.lang.NoSuchMethodException: com.crm.provisioning.impl.vncs.VNCSCommandImpl.reactive(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+23/09 14:20:53:264 End of process session
+23/09 14:21:03:332 java.lang.NoSuchMethodException: com.crm.provisioning.impl.vncs.VNCSCommandImpl.reactive(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+23/09 14:21:03:333 End of process session
+23/09 14:21:13:401 java.lang.NoSuchMethodException: com.crm.provisioning.impl.vncs.VNCSCommandImpl.reactive(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+23/09 14:21:13:402 End of process session
+23/09 14:21:23:516 java.lang.NoSuchMethodException: com.crm.provisioning.impl.vncs.VNCSCommandImpl.reactive(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+23/09 14:21:23:517 End of process session
+23/09 14:21:33:590 java.lang.NoSuchMethodException: com.crm.provisioning.impl.vncs.VNCSCommandImpl.reactive(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+23/09 14:21:33:590 End of process session
+23/09 14:21:43:655 java.lang.NoSuchMethodException: com.crm.provisioning.impl.vncs.VNCSCommandImpl.reactive(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+23/09 14:21:43:656 End of process session
+23/09 14:21:53:720 java.lang.NoSuchMethodException: com.crm.provisioning.impl.vncs.VNCSCommandImpl.reactive(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+23/09 14:21:53:721 End of process session
+23/09 14:22:03:786 java.lang.NoSuchMethodException: com.crm.provisioning.impl.vncs.VNCSCommandImpl.reactive(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+23/09 14:22:03:787 End of process session
+23/09 14:22:13:893 java.lang.NoSuchMethodException: com.crm.provisioning.impl.vncs.VNCSCommandImpl.reactive(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+23/09 14:22:13:894 End of process session
+23/09 14:22:23:961 java.lang.NoSuchMethodException: com.crm.provisioning.impl.vncs.VNCSCommandImpl.reactive(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+23/09 14:22:23:962 End of process session
+23/09 14:22:34:029 java.lang.NoSuchMethodException: com.crm.provisioning.impl.vncs.VNCSCommandImpl.reactive(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+23/09 14:22:34:029 End of process session
+23/09 14:22:44:094 java.lang.NoSuchMethodException: com.crm.provisioning.impl.vncs.VNCSCommandImpl.reactive(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+23/09 14:22:44:095 End of process session
+23/09 14:22:54:164 java.lang.NoSuchMethodException: com.crm.provisioning.impl.vncs.VNCSCommandImpl.reactive(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+23/09 14:22:54:165 End of process session
+23/09 14:23:04:228 java.lang.NoSuchMethodException: com.crm.provisioning.impl.vncs.VNCSCommandImpl.reactive(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+23/09 14:23:04:229 End of process session
+23/09 14:23:14:331 java.lang.NoSuchMethodException: com.crm.provisioning.impl.vncs.VNCSCommandImpl.reactive(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+23/09 14:23:14:332 End of process session
+23/09 14:23:24:396 java.lang.NoSuchMethodException: com.crm.provisioning.impl.vncs.VNCSCommandImpl.reactive(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+23/09 14:23:24:397 End of process session
+23/09 14:23:34:460 java.lang.NoSuchMethodException: com.crm.provisioning.impl.vncs.VNCSCommandImpl.reactive(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+23/09 14:23:34:461 End of process session
+23/09 14:23:44:524 java.lang.NoSuchMethodException: com.crm.provisioning.impl.vncs.VNCSCommandImpl.reactive(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+23/09 14:23:44:525 End of process session
+23/09 14:23:54:587 java.lang.NoSuchMethodException: com.crm.provisioning.impl.vncs.VNCSCommandImpl.reactive(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+23/09 14:23:54:588 End of process session
+23/09 14:24:04:692 java.lang.NoSuchMethodException: com.crm.provisioning.impl.vncs.VNCSCommandImpl.reactive(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+23/09 14:24:04:693 End of process session
+23/09 14:24:14:759 java.lang.NoSuchMethodException: com.crm.provisioning.impl.vncs.VNCSCommandImpl.reactive(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+23/09 14:24:14:759 End of process session
+23/09 14:24:24:824 java.lang.NoSuchMethodException: com.crm.provisioning.impl.vncs.VNCSCommandImpl.reactive(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+23/09 14:24:24:824 End of process session
+23/09 14:24:34:894 java.lang.NoSuchMethodException: com.crm.provisioning.impl.vncs.VNCSCommandImpl.reactive(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+23/09 14:24:34:895 End of process session
+23/09 14:24:44:959 java.lang.NoSuchMethodException: com.crm.provisioning.impl.vncs.VNCSCommandImpl.reactive(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+23/09 14:24:44:959 End of process session
+23/09 14:24:55:026 java.lang.NoSuchMethodException: com.crm.provisioning.impl.vncs.VNCSCommandImpl.reactive(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+23/09 14:24:55:028 End of process session
+23/09 14:25:05:142 java.lang.NoSuchMethodException: com.crm.provisioning.impl.vncs.VNCSCommandImpl.reactive(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+23/09 14:25:05:143 End of process session
+23/09 14:25:15:205 java.lang.NoSuchMethodException: com.crm.provisioning.impl.vncs.VNCSCommandImpl.reactive(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+23/09 14:25:15:206 End of process session
+23/09 14:25:25:271 java.lang.NoSuchMethodException: com.crm.provisioning.impl.vncs.VNCSCommandImpl.reactive(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+23/09 14:25:25:272 End of process session
+23/09 14:25:35:334 java.lang.NoSuchMethodException: com.crm.provisioning.impl.vncs.VNCSCommandImpl.reactive(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+23/09 14:25:35:335 End of process session
+23/09 14:25:45:402 java.lang.NoSuchMethodException: com.crm.provisioning.impl.vncs.VNCSCommandImpl.reactive(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+23/09 14:25:45:403 End of process session
+23/09 14:25:55:483 java.lang.NoSuchMethodException: com.crm.provisioning.impl.vncs.VNCSCommandImpl.reactive(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+23/09 14:25:55:485 End of process session
+23/09 14:26:05:487 Order Routing stopped
+23/09 14:26:07:440 Order Routing started
+23/09 14:26:07:524 java.lang.NoSuchMethodException: com.crm.provisioning.impl.vncs.VNCSCommandImpl.reactive(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+23/09 14:26:07:525 End of process session
+23/09 14:26:17:592 java.lang.NoSuchMethodException: com.crm.provisioning.impl.vncs.VNCSCommandImpl.reactive(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+23/09 14:26:17:593 End of process session
+23/09 14:26:27:664 java.lang.NoSuchMethodException: com.crm.provisioning.impl.vncs.VNCSCommandImpl.reactive(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+23/09 14:26:27:665 End of process session
+23/09 14:27:11:130 Order Routing started
+23/09 14:27:13:033 Testing connection ...
+23/09 14:27:15:028 Created provisioning instance for CCWS
+23/09 14:27:15:063 Testing connection are success
+23/09 14:27:15:064 Starting process session
+23/09 14:27:16:356 Total 0 instances are started
+23/09 14:27:16:357 Total 1 instances are added
+23/09 14:31:35:026 Order Routing started
+23/09 14:31:36:657 Testing connection ...
+23/09 14:31:37:367 Created provisioning instance for CCWS
+23/09 14:31:37:368 Testing connection are success
+23/09 14:31:37:369 Starting process session
+23/09 14:31:38:569 Total 0 instances are started
+23/09 14:31:38:570 Total 1 instances are added
+23/09 15:15:15:934 Order Routing started
+23/09 15:15:18:470 Testing connection ...
+23/09 15:15:30:154 Created provisioning instance for CCWS
+23/09 15:15:30:155 Testing connection are success
+23/09 15:15:30:156 Starting process session
+23/09 15:15:32:103 Total 0 instances are started
+23/09 15:15:32:104 Total 1 instances are added
+23/09 15:15:37:151 84922000514: LOYALTY - CRM.LOYALTY.UNREGISTER
+23/09 15:15:37:152 orderId = 0 | requestId = 0 | orderDate = 2013/09/23 15:15:36 | userName = system | subProductId = 52789609 | channel = SMS | serviceAddress = 268 | keyword = HUY CAM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = unregister | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 570 | cause =  | status = 1 | description =  | balance = 
+23/09 15:15:43:344 84922000514: LOYALTY - CRM.LOYALTY.UNREGISTER
+23/09 15:15:43:345 orderId = 0 | requestId = 0 | orderDate = 2013/09/23 15:15:43 | userName = system | subProductId = 52789609 | channel = SMS | serviceAddress = 268 | keyword = HUY CAM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = unregister | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 570 | cause =  | status = 1 | description =  | balance = 
+23/09 15:19:18:322 84922000514: LOYALTY - CRM.LOYALTY.UNREGISTER
+23/09 15:19:18:323 orderId = 0 | requestId = 0 | orderDate = 2013/09/23 15:19:18 | userName = system | subProductId = 52789609 | channel = SMS | serviceAddress = 268 | keyword = HUY CAM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = unregister | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 570 | cause =  | status = 1 | description =  | balance = 
+23/09 15:22:03:144 Close pool
+23/09 15:22:03:245 Close queue connection pool.
+23/09 15:22:03:249 End of process session
+23/09 15:22:03:251 Order Routing stopped
+23/09 15:22:05:162 Order Routing started
+23/09 15:22:05:185 Close pool
+23/09 15:22:05:186 Close pool
+23/09 15:22:05:187 Testing connection ...
+23/09 15:22:05:192 Created provisioning instance for CCWS
+23/09 15:22:05:193 Testing connection are success
+23/09 15:22:05:193 Starting process session
+23/09 15:22:06:020 Total 0 instances are started
+23/09 15:22:06:021 Total 1 instances are added
+23/09 15:22:09:454 84922000514: LOYALTY - CRM.LOYALTY.UNREGISTER
+23/09 15:22:09:456 orderId = 0 | requestId = 0 | orderDate = 2013/09/23 15:22:09 | userName = system | subProductId = 52789609 | channel = SMS | serviceAddress = 268 | keyword = HUY CAM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = unregister | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 570 | cause =  | status = 1 | description =  | balance = 
+23/09 15:25:18:974 Order Routing started
+23/09 15:25:20:629 Testing connection ...
+23/09 15:25:24:054 Created provisioning instance for CCWS
+23/09 15:25:24:054 Testing connection are success
+23/09 15:25:24:054 Starting process session
+23/09 15:25:25:162 Total 0 instances are started
+23/09 15:25:25:162 Total 1 instances are added
+23/09 15:28:23:160 84922000514: LOYALTY - CRM.LOYALTY.UNREGISTER
+23/09 15:28:23:161 orderId = 0 | requestId = 0 | orderDate = 2013/09/23 15:28:22 | userName = system | subProductId = 52789609 | channel = SMS | serviceAddress = 268 | keyword = HUY CAM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = unregister | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 570 | cause =  | status = 1 | description =  | balance = 
+23/09 15:34:33:145 Order Routing started
+23/09 15:34:33:179 Testing connection ...
+23/09 15:34:35:805 Created provisioning instance for CCWS
+23/09 15:34:35:806 Testing connection are success
+23/09 15:34:35:807 Starting process session
+23/09 15:34:36:872 Total 0 instances are started
+23/09 15:34:36:873 Total 1 instances are added
+23/09 15:34:42:678 Create order(84922000514) cost time: 72ms
+23/09 15:34:42:896 Update order(84922000514) cost time: 27ms
+23/09 15:34:42:898 84922000514: LOYALTY - CRM.LOYALTY.UNREGISTER
+23/09 15:34:42:899 orderId = 125410201 | requestId = 0 | orderDate = 2013/09/23 15:34:42 | userName = system | subProductId = 52789609 | channel = SMS | serviceAddress = 268 | keyword = HUY CAM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = unregister | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 570 | cause =  | status = 1 | description =  | balance = 
+23/09 15:35:46:562 Create order(84922000514) cost time: 13ms
+23/09 15:35:46:585 SEND: com.comverse_in.prepaid.ccws.ServiceSoapStub.retrieveSubscriberWithIdentityNoHistory{84922000514}. ID=293002
+23/09 15:35:48:723 RECEIVE:cosname=MAIN_COS,status=Active,active_date=05/09/2013 16:17:51,{84922000514}Core{18000.0;30/04/2015 23:59:59},CALLME{13800.0;18/10/2013 23:59:59},GPRS{8.388608E7;23/10/2013 23:59:59},PROMOTION{100.0;03/09/2023 23:59:59},PROMOTION_60{5500.0;18/11/2013 23:59:59},. ID=293002. costTime=2136
+23/09 15:35:48:733 Update order(84922000514) cost time: 8ms
+23/09 15:35:48:734 84922000514: LOYALTY - CRM.LOYALTY.REGISTER
+23/09 15:35:48:734 orderId = 125410202 | requestId = 0 | orderDate = 2013/09/23 15:35:46 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = DK CAM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = register | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 521 | cause =  | status = 1 | description =  | balance = 

@@ -1,0 +1,17 @@
+09/10 09:42:03:470 Command Routing started
+09/10 09:42:03:494 Starting process session
+09/10 09:42:03:654 Total 0 instances are started
+09/10 09:42:03:658 Total 1 instances are added
+09/10 09:43:32:387 84922000514: CRM - LOYALTY.VALIDATE
+09/10 09:43:32:544 84922000514: SMSC - SMSC.SEND_SMS
+09/10 10:59:57:560 Command Routing started
+09/10 10:59:57:582 Starting process session
+09/10 10:59:57:769 Total 0 instances are started
+09/10 10:59:57:772 Total 1 instances are added
+09/10 11:03:06:479 84922000514: CRM - CRM.LOYALTY.REGISTER
+09/10 11:03:06:692 84922000514: SMSC - SMSC.SEND_SMS
+09/10 11:08:10:014 84922000514: CRM - CRM.LOYALTY.REGISTER
+09/10 11:08:10:142 84922000514: SMSC - SMSC.SEND_SMS
+09/10 11:54:51:998 Close queue connection pool.
+09/10 11:54:52:053 End of process session
+09/10 11:54:52:054 Command Routing stopped

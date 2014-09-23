@@ -1,0 +1,90 @@
+23/08 15:24:46:987 CRM started
+23/08 15:24:54:211 java.lang.ClassNotFoundException: com.crm.provisioning.impl.vas.VASCommandImpl
+23/08 15:24:54:212 End of process session
+23/08 15:26:34:243 java.lang.ClassNotFoundException: com.crm.provisioning.impl.vas.VASCommandImpl
+23/08 15:26:34:244 End of process session
+23/08 15:28:14:288 java.lang.ClassNotFoundException: com.crm.provisioning.impl.vas.VASCommandImpl
+23/08 15:28:14:290 End of process session
+23/08 15:29:54:328 java.lang.ClassNotFoundException: com.crm.provisioning.impl.vas.VASCommandImpl
+23/08 15:29:54:328 End of process session
+23/08 15:31:34:376 java.lang.ClassNotFoundException: com.crm.provisioning.impl.vas.VASCommandImpl
+23/08 15:31:34:377 End of process session
+23/08 15:33:14:413 java.lang.ClassNotFoundException: com.crm.provisioning.impl.vas.VASCommandImpl
+23/08 15:33:14:414 End of process session
+23/08 15:34:54:452 java.lang.ClassNotFoundException: com.crm.provisioning.impl.vas.VASCommandImpl
+23/08 15:34:54:453 End of process session
+23/08 15:36:34:485 java.lang.ClassNotFoundException: com.crm.provisioning.impl.vas.VASCommandImpl
+23/08 15:36:34:486 End of process session
+23/08 15:38:14:521 java.lang.ClassNotFoundException: com.crm.provisioning.impl.vas.VASCommandImpl
+23/08 15:38:14:522 End of process session
+23/08 15:39:54:565 java.lang.ClassNotFoundException: com.crm.provisioning.impl.vas.VASCommandImpl
+23/08 15:39:54:566 End of process session
+23/08 15:41:34:638 java.lang.ClassNotFoundException: com.crm.provisioning.impl.vas.VASCommandImpl
+23/08 15:41:34:638 End of process session
+23/08 15:43:14:680 java.lang.ClassNotFoundException: com.crm.provisioning.impl.vas.VASCommandImpl
+23/08 15:43:14:682 End of process session
+23/08 15:52:57:454 CRM started
+23/08 15:53:00:092 Testing connection ...
+23/08 15:53:00:093 Created provisioning instance for CRM
+23/08 15:53:00:094 Testing connection are success
+23/08 15:53:00:095 Starting process session
+23/08 15:53:00:196 Total 0 instances are started
+23/08 15:53:00:196 Total 1 instances are added
+23/08 16:01:42:841 CRM started
+23/08 16:01:43:982 Testing connection ...
+23/08 16:01:43:986 Created provisioning instance for CRM
+23/08 16:01:44:109 Testing connection are success
+23/08 16:01:44:175 Starting process session
+23/08 16:01:44:292 Total 0 instances are started
+23/08 16:01:44:294 Total 1 instances are added
+23/08 16:05:30:619 CRM started
+23/08 16:05:33:399 Testing connection ...
+23/08 16:05:33:400 Created provisioning instance for CRM
+23/08 16:05:33:420 Testing connection are success
+23/08 16:05:33:420 Starting process session
+23/08 16:05:33:521 Total 0 instances are started
+23/08 16:05:33:521 Total 1 instances are added
+23/08 16:11:29:079 SEND: ID=1: com.crm.provisioning.impl.CommandImpl.register{84922000512, 274}
+23/08 16:11:29:096 RECEIVE: ID=1: success: costTime=17
+23/08 16:11:29:101 sendNotify: 84922000512 - Chuc mung quy khach da gia nhap Cau lac bo CAM cua Vietnamobile.Hay tiep tuc su dung Vietnamobile de tich luy nhieu diem va nhan duoc nhieu uu dai cua chuong trinh. Chi tiet 789
+23/08 16:11:29:101 orderId = 125407526 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DK CAM | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = register | productId = 274 | commandId = 13119 | request = ID=1: com.crm.provisioning.impl.CommandImpl.register{84922000512, 274} | response = ID=1: success: costTime=17 | status = 0 | cause = success | description = success
+23/08 16:11:29:105 SEND: ID=2: com.crm.provisioning.impl.CommandImpl.register{84922000512, 274}
+23/08 16:11:29:115 sendNotify: 84922000512 - Dich vu da duoc dang ky
+23/08 16:11:29:116 orderId = 125407527 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DK CAM | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = register | productId = 274 | commandId = 13119 | request = ID=2: com.crm.provisioning.impl.CommandImpl.register{84922000512, 274} | response =  | status = 4 | cause = registered | description = 
+23/08 16:11:29:119 SEND: ID=3: com.crm.provisioning.impl.CommandImpl.register{84922000512, 274}
+23/08 16:11:29:129 sendNotify: 84922000512 - Dich vu da duoc dang ky
+23/08 16:11:29:130 orderId = 125407528 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DK CAM | isdn = 84922000512 | subscriberType = 1 | shipTo =  | actionType = register | productId = 274 | commandId = 13119 | request = ID=3: com.crm.provisioning.impl.CommandImpl.register{84922000512, 274} | response =  | status = 4 | cause = registered | description = 
+23/08 16:39:08:695 CRM started
+23/08 16:39:11:428 java.lang.ClassNotFoundException: com.crm.provisioning.impl.LoyaltyImpl
+23/08 16:39:11:430 End of process session
+23/08 16:40:51:507 java.lang.ClassNotFoundException: com.crm.provisioning.impl.LoyaltyImpl
+23/08 16:40:51:508 End of process session
+23/08 16:41:32:727 CRM started
+23/08 16:41:35:255 java.lang.ClassNotFoundException: com.crm.provisioning.impl.LoyaltyImpl
+23/08 16:41:35:256 End of process session
+23/08 16:43:15:325 java.lang.ClassNotFoundException: com.crm.provisioning.impl.LoyaltyImpl
+23/08 16:43:15:326 End of process session
+23/08 16:44:55:437 java.lang.ClassNotFoundException: com.crm.provisioning.impl.LoyaltyImpl
+23/08 16:44:55:438 End of process session
+23/08 16:45:23:752 CRM started
+23/08 16:45:27:107 java.lang.ClassNotFoundException: com.crm.provisioning.impl.LoyaltyImpl
+23/08 16:45:27:107 End of process session
+23/08 16:47:07:311 java.lang.ClassNotFoundException: com.crm.provisioning.impl.LoyaltyImpl
+23/08 16:47:07:312 End of process session
+23/08 16:48:47:319 Testing connection ...
+23/08 16:48:47:320 Created provisioning instance for CRM
+23/08 16:48:47:322 Testing connection are success
+23/08 16:48:47:323 Starting process session
+23/08 16:48:47:424 Total 0 instances are started
+23/08 16:48:47:425 Total 1 instances are added
+23/08 16:49:01:000 CRM started
+23/08 16:49:04:003 Testing connection ...
+23/08 16:49:04:004 Created provisioning instance for CRM
+23/08 16:49:04:015 Testing connection are success
+23/08 16:49:04:016 Starting process session
+23/08 16:49:04:118 Total 0 instances are started
+23/08 16:49:04:119 Total 1 instances are added
+23/08 17:04:05:316 SEND: ID=1001: com.crm.provisioning.impl.CommandImpl.register{84922000511, 274}
+23/08 17:04:05:360 RECEIVE: ID=1001: success: costTime=42
+23/08 17:04:05:365 sendNotify: 84922000511 - Chuc mung quy khach da gia nhap Cau lac bo CAM cua Vietnamobile.Hay tiep tuc su dung Vietnamobile de tich luy nhieu diem va nhan duoc nhieu uu dai cua chuong trinh. Chi tiet 789
+23/08 17:04:05:366 orderId = 125407542 | requestId = 0 | userId = system | channel = SMS | serviceAddress = 268 | keyword = DK CAM | isdn = 84922000511 | subscriberType = 2 | shipTo =  | actionType = register | productId = 274 | commandId = 13119 | request = ID=1001: com.crm.provisioning.impl.CommandImpl.register{84922000511, 274} | response = ID=1001: success: costTime=42 | status = 0 | cause = success | description = success

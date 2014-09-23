@@ -1,0 +1,34 @@
+12/12 14:37:01:867 Order Routing started
+12/12 14:37:02:822 Testing connection ...
+12/12 14:37:04:002 Created provisioning instance for CCWS
+12/12 14:37:04:018 Testing connection are success
+12/12 14:37:04:021 Starting process session
+12/12 14:37:05:060 Total 0 instances are started
+12/12 14:37:05:062 Init queue connection pool 1386833825062
+12/12 14:37:05:066 Total 1 instances are added
+12/12 14:46:47:142 javax.naming.NamingException: Lookup failed for 'jms/VAS' in SerialContext[myEnv={org.omg.CORBA.ORBInitialPort=3700, java.naming.factory.initial=com.sun.enterprise.naming.SerialInitContextFactory, com.sun.corba.ee.transport.ORBTCPConnectTimeouts=5000, org.omg.CORBA.ORBInitialHost=10.32.62.52, java.naming.factory.state=com.sun.corba.ee.impl.presentation.rmi.JNDIStateFactoryImpl, java.naming.factory.url.pkgs=com.sun.enterprise.naming, com.sun.corba.ee.transport.ORBWaitForResponseTimeout=5000}
+12/12 14:46:47:254 Total 0 instances are started
+12/12 14:46:47:258 Total 1 instances are added
+12/12 15:00:01:503 Order Routing started
+12/12 15:00:01:529 Testing connection ...
+12/12 15:00:02:452 Created provisioning instance for CCWS
+12/12 15:00:02:456 Testing connection are success
+12/12 15:00:02:459 Starting process session
+12/12 15:00:03:420 Total 0 instances are started
+12/12 15:00:03:420 Init queue connection pool 1386835203420
+12/12 15:00:03:431 Total 1 instances are added
+12/12 15:00:24:517 Close pool
+12/12 15:00:24:620 Close queue connection pool.
+12/12 15:00:24:628 End of process session
+12/12 15:00:24:635 Order Routing stopped
+12/12 15:05:14:388 Order Routing started
+12/12 15:05:14:425 Testing connection ...
+12/12 15:05:15:168 Created provisioning instance for CCWS
+12/12 15:05:15:171 Testing connection are success
+12/12 15:05:15:174 Starting process session
+12/12 15:05:16:237 Total 0 instances are started
+12/12 15:05:16:237 Init queue connection pool 1386835516237
+12/12 15:05:16:240 Total 1 instances are added
+12/12 15:22:27:354 javax.naming.NamingException: Lookup failed for 'jms/VAS' in SerialContext[myEnv={org.omg.CORBA.ORBInitialPort=3700, java.naming.factory.initial=com.sun.enterprise.naming.SerialInitContextFactory, com.sun.corba.ee.transport.ORBTCPConnectTimeouts=5000, org.omg.CORBA.ORBInitialHost=10.32.62.52, java.naming.factory.state=com.sun.corba.ee.impl.presentation.rmi.JNDIStateFactoryImpl, java.naming.factory.url.pkgs=com.sun.enterprise.naming, com.sun.corba.ee.transport.ORBWaitForResponseTimeout=5000}
+12/12 15:22:27:464 Total 0 instances are started
+12/12 15:22:27:470 Total 1 instances are added

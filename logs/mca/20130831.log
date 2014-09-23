@@ -1,0 +1,379 @@
+31/08 10:38:07:271 MCA started
+31/08 10:38:11:570 Testing connection ...
+31/08 10:38:32:593 open connection is fail
+31/08 10:38:32:612 java.net.ConnectException: Connection timed out: connect
+31/08 10:38:32:612 Starting process session
+31/08 10:38:32:712 Total 0 instances are started
+31/08 10:38:32:713 Total 1 instances are added
+31/08 10:38:53:741 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.36:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+31/08 10:38:53:742 Consumer was closed, reconnect.
+31/08 10:38:53:903 Total 0 instances are started
+31/08 10:38:53:904 Total 1 instances are added
+31/08 10:39:14:928 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.36:7676]. - cause: java.net.ConnectException: Connection timed out: connect
+31/08 10:39:14:929 Consumer was closed, reconnect.
+31/08 10:39:15:129 Total 0 instances are started
+31/08 10:39:15:130 Total 1 instances are added
+31/08 10:40:17:520 MCA started
+31/08 10:40:19:067 Testing connection ...
+31/08 10:40:40:107 open connection is fail
+31/08 10:40:40:120 java.net.ConnectException: Connection timed out: connect
+31/08 10:40:40:121 Starting process session
+31/08 10:40:40:222 Total 0 instances are started
+31/08 10:40:40:223 Total 1 instances are added
+31/08 11:07:45:284 MCA started
+31/08 11:07:49:040 Testing connection ...
+31/08 11:08:10:079 open connection is fail
+31/08 11:08:10:090 java.net.ConnectException: Connection timed out: connect
+31/08 11:08:10:091 Starting process session
+31/08 11:08:10:191 Total 0 instances are started
+31/08 11:08:10:193 Total 1 instances are added
+31/08 11:10:35:796 MCA started
+31/08 11:10:38:433 Testing connection ...
+31/08 11:11:00:573 open connection is fail
+31/08 11:11:00:590 java.net.ConnectException: Connection timed out: connect
+31/08 11:11:00:591 Starting process session
+31/08 11:11:00:692 Total 0 instances are started
+31/08 11:11:00:693 Total 1 instances are added
+31/08 11:12:05:905 MCA started
+31/08 11:12:09:690 Testing connection ...
+31/08 11:12:30:712 open connection is fail
+31/08 11:12:30:726 java.net.ConnectException: Connection timed out: connect
+31/08 11:12:30:727 Starting process session
+31/08 11:12:30:828 Total 0 instances are started
+31/08 11:12:30:829 Total 1 instances are added
+31/08 11:31:12:636 MCA started
+31/08 11:31:16:897 Testing connection ...
+31/08 11:31:37:915 open connection is fail
+31/08 11:31:37:923 java.net.ConnectException: Connection timed out: connect
+31/08 11:31:37:923 Starting process session
+31/08 11:31:38:024 Total 0 instances are started
+31/08 11:31:38:025 Total 1 instances are added
+31/08 11:42:45:278 MCA started
+31/08 11:42:49:370 Testing connection ...
+31/08 11:43:10:384 open connection is fail
+31/08 11:43:10:465 java.net.ConnectException: Connection timed out: connect
+31/08 11:43:10:466 Starting process session
+31/08 11:43:10:596 Total 0 instances are started
+31/08 11:43:10:598 Total 1 instances are added
+31/08 11:44:01:948 MCA started
+31/08 11:44:06:043 Testing connection ...
+31/08 11:44:27:051 open connection is fail
+31/08 11:44:27:066 java.net.ConnectException: Connection timed out: connect
+31/08 11:44:27:067 Starting process session
+31/08 11:44:27:168 Total 0 instances are started
+31/08 11:44:27:169 Total 1 instances are added
+31/08 11:45:14:164 MCA started
+31/08 11:45:18:447 Testing connection ...
+31/08 11:45:39:475 open connection is fail
+31/08 11:45:39:482 java.net.ConnectException: Connection timed out: connect
+31/08 11:45:39:482 Starting process session
+31/08 11:45:39:583 Total 0 instances are started
+31/08 11:45:39:584 Total 1 instances are added
+31/08 11:49:29:511 MCA started
+31/08 11:49:33:701 Testing connection ...
+31/08 11:49:54:747 open connection is fail
+31/08 11:49:54:761 java.net.ConnectException: Connection timed out: connect
+31/08 11:49:54:762 Starting process session
+31/08 11:49:54:862 Total 0 instances are started
+31/08 11:49:54:863 Total 1 instances are added
+31/08 11:53:07:697 MCA started
+31/08 11:53:11:918 Testing connection ...
+31/08 11:53:32:938 open connection is fail
+31/08 11:53:32:993 java.net.ConnectException: Connection timed out: connect
+31/08 11:53:32:993 Starting process session
+31/08 11:53:33:094 Total 0 instances are started
+31/08 11:53:33:095 Total 1 instances are added
+31/08 11:54:54:891 MCA started
+31/08 11:54:58:750 Testing connection ...
+31/08 11:55:19:783 open connection is fail
+31/08 11:55:19:794 java.net.ConnectException: Connection timed out: connect
+31/08 11:55:19:795 Starting process session
+31/08 11:55:19:896 Total 0 instances are started
+31/08 11:55:19:897 Total 1 instances are added
+31/08 11:57:46:618 MCA started
+31/08 11:57:50:927 Testing connection ...
+31/08 11:58:11:953 open connection is fail
+31/08 11:58:11:966 java.net.ConnectException: Connection timed out: connect
+31/08 11:58:11:966 Starting process session
+31/08 11:58:12:067 Total 0 instances are started
+31/08 11:58:12:067 Total 1 instances are added
+31/08 11:58:37:144 MCA started
+31/08 11:58:40:747 Testing connection ...
+31/08 11:59:01:781 open connection is fail
+31/08 11:59:01:790 java.net.ConnectException: Connection timed out: connect
+31/08 11:59:01:791 Starting process session
+31/08 11:59:01:896 Total 0 instances are started
+31/08 11:59:01:897 Total 1 instances are added
+31/08 12:19:32:847 MCA started
+31/08 12:19:37:049 Testing connection ...
+31/08 12:19:58:060 open connection is fail
+31/08 12:19:58:076 java.net.ConnectException: Connection timed out: connect
+31/08 12:19:58:077 Starting process session
+31/08 12:19:58:178 Total 0 instances are started
+31/08 12:19:58:179 Total 1 instances are added
+31/08 12:23:01:468 MCA started
+31/08 12:23:05:789 Testing connection ...
+31/08 12:23:26:815 open connection is fail
+31/08 12:23:26:833 java.net.ConnectException: Connection timed out: connect
+31/08 12:23:26:834 Starting process session
+31/08 12:23:26:935 Total 0 instances are started
+31/08 12:23:26:936 Total 1 instances are added
+31/08 12:24:26:452 MCA started
+31/08 12:24:30:398 Testing connection ...
+31/08 12:24:51:415 open connection is fail
+31/08 12:24:51:428 java.net.ConnectException: Connection timed out: connect
+31/08 12:24:51:429 Starting process session
+31/08 12:24:51:529 Total 0 instances are started
+31/08 12:24:51:530 Total 1 instances are added
+31/08 12:27:49:152 MCA started
+31/08 12:27:53:186 Testing connection ...
+31/08 12:28:14:211 open connection is fail
+31/08 12:28:14:226 java.net.ConnectException: Connection timed out: connect
+31/08 12:28:14:227 Starting process session
+31/08 12:28:14:328 Total 0 instances are started
+31/08 12:28:14:329 Total 1 instances are added
+31/08 12:32:32:329 MCA started
+31/08 12:33:14:493 MCA started
+31/08 12:33:18:625 Testing connection ...
+31/08 12:33:39:648 open connection is fail
+31/08 12:33:39:663 java.net.ConnectException: Connection timed out: connect
+31/08 12:33:39:664 Starting process session
+31/08 12:33:39:765 Total 0 instances are started
+31/08 12:33:39:766 Total 1 instances are added
+31/08 12:42:29:967 MCA started
+31/08 12:42:59:610 java.sql.SQLException: An SQLException was provoked by the following failure: com.mchange.v2.resourcepool.ResourcePoolException: A ResourcePool cannot acquire a new resource -- the factory or source appears to be down.
+31/08 12:42:59:611 End of process session
+31/08 12:44:22:495 MCA started
+31/08 12:44:27:407 Testing connection ...
+31/08 12:44:48:474 open connection is fail
+31/08 12:44:48:491 java.net.ConnectException: Connection timed out: connect
+31/08 12:44:48:492 Starting process session
+31/08 12:44:48:593 Total 0 instances are started
+31/08 12:44:48:594 Total 1 instances are added
+31/08 12:46:34:568 MCA started
+31/08 12:46:38:629 Testing connection ...
+31/08 12:46:59:659 open connection is fail
+31/08 12:46:59:675 java.net.ConnectException: Connection timed out: connect
+31/08 12:46:59:676 Starting process session
+31/08 12:46:59:776 Total 0 instances are started
+31/08 12:46:59:777 Total 1 instances are added
+31/08 12:47:18:464 MCA started
+31/08 12:47:22:927 Testing connection ...
+31/08 12:47:43:970 open connection is fail
+31/08 12:47:43:986 java.net.ConnectException: Connection timed out: connect
+31/08 12:47:43:986 Starting process session
+31/08 12:47:44:087 Total 0 instances are started
+31/08 12:47:44:087 Total 1 instances are added
+31/08 12:49:15:935 MCA started
+31/08 12:49:20:020 Testing connection ...
+31/08 12:49:48:760 MCA started
+31/08 12:49:53:425 Testing connection ...
+31/08 12:56:06:182 MCA started
+31/08 12:56:10:439 Testing connection ...
+31/08 12:56:31:558 open connection is fail
+31/08 12:56:31:568 java.net.ConnectException: Connection timed out: connect
+31/08 12:56:31:569 Starting process session
+31/08 12:56:31:669 Total 0 instances are started
+31/08 12:56:31:670 Total 1 instances are added
+31/08 12:56:32:736 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.39:7676]. - cause: java.net.ConnectException: Connection refused: connect
+31/08 12:56:32:736 Consumer was closed, reconnect.
+31/08 12:56:32:870 Total 0 instances are started
+31/08 12:56:32:871 Total 1 instances are added
+31/08 12:56:33:917 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.39:7676]. - cause: java.net.ConnectException: Connection refused: connect
+31/08 12:56:33:917 Consumer was closed, reconnect.
+31/08 12:56:34:072 Total 0 instances are started
+31/08 12:56:34:072 Total 1 instances are added
+31/08 12:56:35:101 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.39:7676]. - cause: java.net.ConnectException: Connection refused: connect
+31/08 12:56:35:102 Consumer was closed, reconnect.
+31/08 12:56:35:273 Total 0 instances are started
+31/08 12:56:35:273 Total 1 instances are added
+31/08 12:56:36:380 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.39:7676]. - cause: java.net.ConnectException: Connection refused: connect
+31/08 12:56:36:381 Consumer was closed, reconnect.
+31/08 12:56:36:575 Total 0 instances are started
+31/08 12:56:36:583 Total 1 instances are added
+31/08 12:56:37:591 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.39:7676]. - cause: java.net.ConnectException: Connection refused: connect
+31/08 12:56:37:592 Consumer was closed, reconnect.
+31/08 12:56:37:787 Total 0 instances are started
+31/08 12:56:37:788 Total 1 instances are added
+31/08 12:56:38:810 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.39:7676]. - cause: java.net.ConnectException: Connection refused: connect
+31/08 12:56:38:810 Consumer was closed, reconnect.
+31/08 12:56:39:012 Total 0 instances are started
+31/08 12:56:39:013 Total 1 instances are added
+31/08 12:56:40:143 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.39:7676]. - cause: java.net.ConnectException: Connection refused: connect
+31/08 12:56:40:144 Consumer was closed, reconnect.
+31/08 12:56:40:313 Total 0 instances are started
+31/08 12:56:40:314 Total 1 instances are added
+31/08 12:56:41:328 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.39:7676]. - cause: java.net.ConnectException: Connection refused: connect
+31/08 12:56:41:328 Consumer was closed, reconnect.
+31/08 12:56:41:514 Total 0 instances are started
+31/08 12:56:41:514 Total 1 instances are added
+31/08 12:56:42:557 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.39:7676]. - cause: java.net.ConnectException: Connection refused: connect
+31/08 12:56:42:557 Consumer was closed, reconnect.
+31/08 12:56:42:715 Total 0 instances are started
+31/08 12:56:42:716 Total 1 instances are added
+31/08 12:56:43:755 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.39:7676]. - cause: java.net.ConnectException: Connection refused: connect
+31/08 12:56:43:756 Consumer was closed, reconnect.
+31/08 12:56:43:918 Total 0 instances are started
+31/08 12:56:43:919 Total 1 instances are added
+31/08 12:56:44:969 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.39:7676]. - cause: java.net.ConnectException: Connection refused: connect
+31/08 12:56:44:970 Consumer was closed, reconnect.
+31/08 12:56:45:132 Total 0 instances are started
+31/08 12:56:45:133 Total 1 instances are added
+31/08 12:56:46:162 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.39:7676]. - cause: java.net.ConnectException: Connection refused: connect
+31/08 12:56:46:163 Consumer was closed, reconnect.
+31/08 12:56:46:353 Total 0 instances are started
+31/08 12:56:46:353 Total 1 instances are added
+31/08 12:56:47:385 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.39:7676]. - cause: java.net.ConnectException: Connection refused: connect
+31/08 12:56:47:386 Consumer was closed, reconnect.
+31/08 12:56:47:554 Total 0 instances are started
+31/08 12:56:47:554 Total 1 instances are added
+31/08 12:56:48:663 com.sun.messaging.jms.JMSException: [C4003]: Error occurred on connection creation [10.32.62.39:7676]. - cause: java.net.ConnectException: Connection refused: connect
+31/08 12:56:48:663 Consumer was closed, reconnect.
+31/08 12:56:48:770 Total 0 instances are started
+31/08 12:56:48:772 Total 1 instances are added
+31/08 13:02:21:223 MCA started
+31/08 13:02:23:363 Testing connection ...
+31/08 13:02:44:649 open connection is fail
+31/08 13:02:44:661 java.net.ConnectException: Connection timed out: connect
+31/08 13:02:44:662 Starting process session
+31/08 13:02:44:762 Total 0 instances are started
+31/08 13:02:44:763 Total 1 instances are added
+31/08 13:04:54:090 MCA started
+31/08 13:04:58:323 Testing connection ...
+31/08 13:05:19:345 open connection is fail
+31/08 13:05:19:356 java.net.ConnectException: Connection timed out: connect
+31/08 13:05:19:356 Starting process session
+31/08 13:05:19:457 Total 0 instances are started
+31/08 13:05:19:459 Total 1 instances are added
+31/08 13:14:29:508 MCA started
+31/08 13:14:34:106 Testing connection ...
+31/08 13:14:55:123 open connection is fail
+31/08 13:14:55:136 java.net.ConnectException: Connection timed out: connect
+31/08 13:14:55:137 Starting process session
+31/08 13:14:55:237 Total 0 instances are started
+31/08 13:14:55:238 Total 1 instances are added
+31/08 13:15:36:223 MCA started
+31/08 13:15:40:102 Testing connection ...
+31/08 13:16:01:107 open connection is fail
+31/08 13:16:01:120 java.net.ConnectException: Connection timed out: connect
+31/08 13:16:01:121 Starting process session
+31/08 13:16:01:222 Total 0 instances are started
+31/08 13:16:01:223 Total 1 instances are added
+31/08 13:19:52:954 MCA started
+31/08 13:19:57:833 Testing connection ...
+31/08 13:20:18:873 open connection is fail
+31/08 13:20:18:887 java.net.ConnectException: Connection timed out: connect
+31/08 13:20:18:888 Starting process session
+31/08 13:20:18:989 Total 0 instances are started
+31/08 13:20:18:990 Total 1 instances are added
+31/08 13:21:23:560 MCA started
+31/08 13:21:27:748 Testing connection ...
+31/08 13:21:48:775 open connection is fail
+31/08 13:21:48:782 java.net.ConnectException: Connection timed out: connect
+31/08 13:21:48:783 Starting process session
+31/08 13:21:48:883 Total 0 instances are started
+31/08 13:21:48:884 Total 1 instances are added
+31/08 13:22:35:866 MCA started
+31/08 13:22:39:719 Testing connection ...
+31/08 13:23:00:722 open connection is fail
+31/08 13:23:00:735 java.net.ConnectException: Connection timed out: connect
+31/08 13:23:00:736 Starting process session
+31/08 13:23:00:836 Total 0 instances are started
+31/08 13:23:00:838 Total 1 instances are added
+31/08 13:33:38:647 MCA started
+31/08 13:33:42:590 Testing connection ...
+31/08 13:34:03:608 open connection is fail
+31/08 13:34:03:621 java.net.ConnectException: Connection timed out: connect
+31/08 13:34:03:622 Starting process session
+31/08 13:34:03:723 Total 0 instances are started
+31/08 13:34:03:724 Total 1 instances are added
+31/08 13:45:54:231 MCA started
+31/08 13:45:58:360 Testing connection ...
+31/08 13:46:19:365 open connection is fail
+31/08 13:46:19:380 java.net.ConnectException: Connection timed out: connect
+31/08 13:46:19:381 Starting process session
+31/08 13:46:19:482 Total 0 instances are started
+31/08 13:46:19:482 Total 1 instances are added
+31/08 13:49:41:373 MCA started
+31/08 13:49:45:639 Testing connection ...
+31/08 13:50:06:672 open connection is fail
+31/08 13:50:06:680 java.net.ConnectException: Connection timed out: connect
+31/08 13:50:06:680 Starting process session
+31/08 13:50:06:781 Total 0 instances are started
+31/08 13:50:06:783 Total 1 instances are added
+31/08 13:53:35:395 MCA started
+31/08 13:53:39:431 Testing connection ...
+31/08 13:54:00:442 open connection is fail
+31/08 13:54:00:454 java.net.ConnectException: Connection timed out: connect
+31/08 13:54:00:455 Starting process session
+31/08 13:54:00:555 Total 0 instances are started
+31/08 13:54:00:556 Total 1 instances are added
+31/08 13:56:45:249 MCA started
+31/08 13:56:49:666 Testing connection ...
+31/08 13:57:10:687 open connection is fail
+31/08 13:57:10:702 java.net.ConnectException: Connection timed out: connect
+31/08 13:57:10:703 Starting process session
+31/08 13:57:10:804 Total 0 instances are started
+31/08 13:57:10:805 Total 1 instances are added
+31/08 13:58:47:196 MCA started
+31/08 13:58:51:406 Testing connection ...
+31/08 13:59:12:773 MCA started
+31/08 13:59:17:634 Testing connection ...
+31/08 14:01:27:243 MCA started
+31/08 14:01:31:365 Testing connection ...
+31/08 14:01:52:387 open connection is fail
+31/08 14:01:52:400 java.net.ConnectException: Connection timed out: connect
+31/08 14:01:52:401 Starting process session
+31/08 14:01:52:502 Total 0 instances are started
+31/08 14:01:52:504 Total 1 instances are added
+31/08 14:08:10:564 MCA started
+31/08 14:08:14:452 Testing connection ...
+31/08 14:08:35:469 open connection is fail
+31/08 14:08:35:476 java.net.ConnectException: Connection timed out: connect
+31/08 14:08:35:477 Starting process session
+31/08 14:08:35:578 Total 0 instances are started
+31/08 14:08:35:581 Total 1 instances are added
+31/08 14:20:30:839 MCA started
+31/08 14:20:31:864 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:20:31:865 End of process session
+31/08 14:22:11:912 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:22:11:912 End of process session
+31/08 14:23:51:957 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:23:51:958 End of process session
+31/08 14:25:32:020 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:25:32:021 End of process session
+31/08 14:27:12:060 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:27:12:060 End of process session
+31/08 14:28:52:093 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:28:52:094 End of process session
+31/08 14:30:32:131 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:30:32:132 End of process session
+31/08 14:32:12:180 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:32:12:181 End of process session
+31/08 14:33:52:207 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:33:52:208 End of process session
+31/08 14:35:32:250 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:35:32:251 End of process session
+31/08 14:37:12:294 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:37:12:294 End of process session
+31/08 14:38:52:338 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:38:52:339 End of process session
+31/08 14:40:32:372 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:40:32:373 End of process session
+31/08 14:42:12:403 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:42:12:404 End of process session
+31/08 14:43:52:440 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:43:52:441 End of process session
+31/08 14:45:32:637 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:45:32:638 End of process session
+31/08 14:46:45:155 MCA started
+31/08 14:46:49:308 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:46:49:309 End of process session
+31/08 14:48:29:358 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:48:29:358 End of process session
+31/08 14:50:09:385 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:50:09:385 End of process session
+31/08 14:51:49:419 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:51:49:420 End of process session
+31/08 14:53:29:457 java.lang.NoSuchMethodException: com.crm.provisioning.impl.loyalty.LoyaltyImpl.getBalanceQuery(com.crm.provisioning.thread.CommandInstance, com.crm.provisioning.cache.ProvisioningCommand, com.crm.provisioning.message.CommandMessage)
+31/08 14:53:29:457 End of process session

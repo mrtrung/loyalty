@@ -1,0 +1,2347 @@
+04/09 08:51:02:211 Order Routing started
+04/09 08:51:06:703 Testing connection ...
+04/09 08:51:07:797 Created provisioning instance for CCWS
+04/09 08:51:07:797 Testing connection are success
+04/09 08:51:07:798 Starting process session
+04/09 08:51:09:101 Total 0 instances are started
+04/09 08:51:09:101 Total 1 instances are added
+04/09 08:54:50:474 Create order(84922000514) cost time: 81ms
+04/09 08:54:50:852 Update order(84922000514) cost time: 6ms
+04/09 08:54:50:854 84922000514: LOYALTY - LOYALTY.VALIDATE
+04/09 08:54:50:855 orderId = 125407994 | requestId = 0 | orderDate = 2013/09/04 08:54:50 | userName = system | subProductId = 52789381 | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+04/09 08:54:50:887 sendNotify: 84922000514 - Quy khach da doi thanh cong 1000 diem thanh tien su dung dich vu. So tien tuong ung 1000 diem se duoc cong  vao tai khoan TKKM2, su dung goi va nhan tin lien mang, data.
+04/09 08:57:22:717 Order Routing started
+04/09 08:57:25:108 Testing connection ...
+04/09 08:57:27:692 Created provisioning instance for CCWS
+04/09 08:57:27:692 Testing connection are success
+04/09 08:57:27:693 Starting process session
+04/09 08:57:29:119 Total 0 instances are started
+04/09 08:57:29:119 Total 1 instances are added
+04/09 08:57:39:721 Create order(84922000514) cost time: 24ms
+04/09 08:57:39:885 Update order(84922000514) cost time: 9ms
+04/09 08:57:39:887 84922000514: LOYALTY - LOYALTY.VALIDATE
+04/09 08:57:39:888 orderId = 125407995 | requestId = 0 | orderDate = 2013/09/04 08:57:39 | userName = system | subProductId = 52789381 | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+04/09 08:57:39:897 sendNotify: 84922000514 - Quy khach da doi thanh cong 1000 diem thanh tien su dung dich vu. So tien tuong ung 1000 diem se duoc cong  vao tai khoan TKKM2, su dung goi va nhan tin lien mang, data.
+04/09 09:00:32:431 Order Routing started
+04/09 09:00:36:968 Testing connection ...
+04/09 09:00:37:877 Created provisioning instance for CCWS
+04/09 09:00:37:877 Testing connection are success
+04/09 09:00:37:878 Starting process session
+04/09 09:00:39:848 Total 0 instances are started
+04/09 09:00:39:852 Total 1 instances are added
+04/09 09:01:01:438 Create order(84922000514) cost time: 23ms
+04/09 09:01:01:562 Update order(84922000514) cost time: 8ms
+04/09 09:01:01:564 84922000514: LOYALTY - LOYALTY.VALIDATE
+04/09 09:01:01:565 orderId = 125407996 | requestId = 0 | orderDate = 2013/09/04 09:01:01 | userName = system | subProductId = 52789381 | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+04/09 09:01:01:572 sendNotify: 84922000514 - Quy khach da doi thanh cong 1000 diem thanh tien su dung dich vu. So tien tuong ung 1000 diem se duoc cong  vao tai khoan TKKM2, su dung goi va nhan tin lien mang, data.
+04/09 09:05:42:614 Create order(84922000514) cost time: 27ms
+04/09 09:05:42:716 Update order(84922000514) cost time: 9ms
+04/09 09:05:42:718 84922000514: LOYALTY - LOYALTY.VALIDATE
+04/09 09:05:42:719 orderId = 125407997 | requestId = 0 | orderDate = 2013/09/04 09:05:42 | userName = system | subProductId = 52789381 | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+04/09 09:05:42:729 sendNotify: 84922000514 - Quy khach da doi thanh cong 1000 diem thanh tien su dung dich vu. So tien tuong ung 1000 diem se duoc cong  vao tai khoan TKKM2, su dung goi va nhan tin lien mang, data.
+04/09 09:07:27:558 Order Routing started
+04/09 09:07:31:952 Testing connection ...
+04/09 09:07:32:911 Created provisioning instance for CCWS
+04/09 09:07:32:911 Testing connection are success
+04/09 09:07:32:912 Starting process session
+04/09 09:07:34:290 Total 0 instances are started
+04/09 09:07:34:290 Total 1 instances are added
+04/09 09:07:55:309 Create order(84922000514) cost time: 25ms
+04/09 09:07:55:478 Update order(84922000514) cost time: 17ms
+04/09 09:07:55:479 84922000514: LOYALTY - LOYALTY.VALIDATE
+04/09 09:07:55:487 orderId = 125407998 | requestId = 0 | orderDate = 2013/09/04 09:07:55 | userName = system | subProductId = 52789381 | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+04/09 09:07:55:495 sendNotify: 84922000514 - Quy khach da doi thanh cong 1000 diem thanh tien su dung dich vu. So tien tuong ung 1000 diem se duoc cong  vao tai khoan TKKM2, su dung goi va nhan tin lien mang, data.
+04/09 09:08:02:334 Create order(84922000514) cost time: 13ms
+04/09 09:08:02:356 Update order(84922000514) cost time: 5ms
+04/09 09:08:02:357 84922000514: LOYALTY - LOYALTY.VALIDATE
+04/09 09:08:02:358 orderId = 125407999 | requestId = 0 | orderDate = 2013/09/04 09:08:02 | userName = system | subProductId = 52789381 | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+04/09 09:08:02:363 sendNotify: 84922000514 - Quy khach da doi thanh cong 1000 diem thanh tien su dung dich vu. So tien tuong ung 1000 diem se duoc cong  vao tai khoan TKKM2, su dung goi va nhan tin lien mang, data.
+04/09 09:08:17:347 Create order(84922000514) cost time: 9ms
+04/09 09:08:17:368 Update order(84922000514) cost time: 5ms
+04/09 09:08:17:369 84922000514: LOYALTY - LOYALTY.VALIDATE
+04/09 09:08:17:369 orderId = 125408000 | requestId = 0 | orderDate = 2013/09/04 09:08:17 | userName = system | subProductId = 52789381 | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+04/09 09:08:17:375 sendNotify: 84922000514 - Quy khach da doi thanh cong 1000 diem thanh tien su dung dich vu. So tien tuong ung 1000 diem se duoc cong  vao tai khoan TKKM2, su dung goi va nhan tin lien mang, data.
+04/09 09:08:24:388 Create order(84922000514) cost time: 8ms
+04/09 09:08:24:407 Update order(84922000514) cost time: 4ms
+04/09 09:08:24:410 84922000514: LOYALTY - LOYALTY.VALIDATE
+04/09 09:08:24:411 orderId = 125408001 | requestId = 0 | orderDate = 2013/09/04 09:08:24 | userName = system | subProductId = 52789381 | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+04/09 09:08:24:416 sendNotify: 84922000514 - Quy khach da doi thanh cong 1000 diem thanh tien su dung dich vu. So tien tuong ung 1000 diem se duoc cong  vao tai khoan TKKM2, su dung goi va nhan tin lien mang, data.
+04/09 09:08:39:744 Order Routing started
+04/09 09:08:44:327 Testing connection ...
+04/09 09:08:45:323 Created provisioning instance for CCWS
+04/09 09:08:45:323 Testing connection are success
+04/09 09:08:45:324 Starting process session
+04/09 09:08:46:821 Total 0 instances are started
+04/09 09:08:46:822 Total 1 instances are added
+04/09 09:08:58:695 Create order(84922000514) cost time: 24ms
+04/09 09:08:58:862 Update order(84922000514) cost time: 16ms
+04/09 09:08:58:864 84922000514: LOYALTY - LOYALTY.VALIDATE
+04/09 09:08:58:865 orderId = 125408002 | requestId = 0 | orderDate = 2013/09/04 09:08:58 | userName = system | subProductId = 52789381 | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+04/09 09:08:58:877 sendNotify: 84922000514 - Quy khach da doi thanh cong 1000 diem thanh tien su dung dich vu. So tien tuong ung 1000 diem se duoc cong  vao tai khoan TKKM2, su dung goi va nhan tin lien mang, data.
+04/09 09:09:10:693 Create order(84922000514) cost time: 7ms
+04/09 09:09:10:820 Update order(84922000514) cost time: 7ms
+04/09 09:09:10:821 84922000514: LOYALTY - LOYALTY.VALIDATE
+04/09 09:09:10:822 orderId = 125408003 | requestId = 0 | orderDate = 2013/09/04 09:09:10 | userName = system | subProductId = 52789381 | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+04/09 09:09:10:829 sendNotify: 84922000514 - Quy khach da doi thanh cong 1000 diem thanh tien su dung dich vu. So tien tuong ung 1000 diem se duoc cong  vao tai khoan TKKM2, su dung goi va nhan tin lien mang, data.
+04/09 09:09:40:000 Order Routing started
+04/09 09:09:44:352 Testing connection ...
+04/09 09:09:45:384 Created provisioning instance for CCWS
+04/09 09:09:45:385 Testing connection are success
+04/09 09:09:45:385 Starting process session
+04/09 09:09:46:943 Total 0 instances are started
+04/09 09:09:46:944 Total 1 instances are added
+04/09 09:10:09:617 Close pool
+04/09 09:10:09:718 Close queue connection pool.
+04/09 09:10:09:726 End of process session
+04/09 09:10:09:727 Order Routing stopped
+04/09 09:10:11:649 Order Routing started
+04/09 09:10:11:674 Close pool
+04/09 09:10:11:675 Close pool
+04/09 09:10:11:676 Testing connection ...
+04/09 09:10:11:682 Created provisioning instance for CCWS
+04/09 09:10:11:683 Testing connection are success
+04/09 09:10:11:683 Starting process session
+04/09 09:10:12:430 Total 0 instances are started
+04/09 09:10:12:431 Total 1 instances are added
+04/09 09:10:26:009 Create order(84922000514) cost time: 19ms
+04/09 09:10:26:135 Update order(84922000514) cost time: 14ms
+04/09 09:10:26:137 84922000514: LOYALTY - LOYALTY.VALIDATE
+04/09 09:10:26:137 orderId = 125408004 | requestId = 0 | orderDate = 2013/09/04 09:10:25 | userName = system | subProductId = 52789381 | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+04/09 09:10:26:146 sendNotify: 84922000514 - Quy khach da doi thanh cong 1000 diem thanh tien su dung dich vu. So tien tuong ung 1000 diem se duoc cong  vao tai khoan TKKM2, su dung goi va nhan tin lien mang, data.
+04/09 09:10:51:170 Create order(84922000514) cost time: 9ms
+04/09 09:10:51:192 Update order(84922000514) cost time: 7ms
+04/09 09:10:51:192 84922000514: LOYALTY - LOYALTY.VALIDATE
+04/09 09:10:51:193 orderId = 125408005 | requestId = 0 | orderDate = 2013/09/04 09:10:51 | userName = system | subProductId = 52789381 | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+04/09 09:10:51:198 sendNotify: 84922000514 - Quy khach da doi thanh cong 1000 diem thanh tien su dung dich vu. So tien tuong ung 1000 diem se duoc cong  vao tai khoan TKKM2, su dung goi va nhan tin lien mang, data.
+04/09 09:17:51:977 Close pool
+04/09 09:17:52:078 Close queue connection pool.
+04/09 09:17:52:086 End of process session
+04/09 09:17:52:087 Order Routing stopped
+04/09 09:17:54:003 Order Routing started
+04/09 09:17:54:022 Close pool
+04/09 09:17:54:023 Close pool
+04/09 09:17:54:023 Testing connection ...
+04/09 09:17:54:029 Created provisioning instance for CCWS
+04/09 09:17:54:030 Testing connection are success
+04/09 09:17:54:030 Starting process session
+04/09 09:17:54:797 Total 0 instances are started
+04/09 09:17:54:798 Total 1 instances are added
+04/09 09:17:58:211 Create order(84922000514) cost time: 17ms
+04/09 09:17:58:331 Update order(84922000514) cost time: 8ms
+04/09 09:17:58:332 84922000514: LOYALTY - LOYALTY.VALIDATE
+04/09 09:17:58:333 orderId = 125408006 | requestId = 0 | orderDate = 2013/09/04 09:17:58 | userName = system | subProductId = 52789381 | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+04/09 09:17:58:340 sendNotify: 84922000514 - Quy khach da doi thanh cong 1000 diem thanh tien su dung dich vu. So tien tuong ung 1000 diem se duoc cong  vao tai khoan TKKM2, su dung goi va nhan tin lien mang, data.
+04/09 09:18:05:248 Create order(84922000514) cost time: 22ms
+04/09 09:18:05:267 Update order(84922000514) cost time: 4ms
+04/09 09:18:05:268 84922000514: LOYALTY - LOYALTY.VALIDATE
+04/09 09:18:05:269 orderId = 125408007 | requestId = 0 | orderDate = 2013/09/04 09:18:05 | userName = system | subProductId = 52789381 | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+04/09 09:18:05:274 sendNotify: 84922000514 - Quy khach da doi thanh cong 1000 diem thanh tien su dung dich vu. So tien tuong ung 1000 diem se duoc cong  vao tai khoan TKKM2, su dung goi va nhan tin lien mang, data.
+04/09 09:18:21:943 Order Routing started
+04/09 09:18:26:381 Testing connection ...
+04/09 09:18:27:409 Created provisioning instance for CCWS
+04/09 09:18:27:410 Testing connection are success
+04/09 09:18:27:410 Starting process session
+04/09 09:18:29:229 Total 0 instances are started
+04/09 09:18:29:229 Total 1 instances are added
+04/09 09:18:47:664 Order Routing started
+04/09 09:18:52:027 Testing connection ...
+04/09 09:18:53:078 Created provisioning instance for CCWS
+04/09 09:18:53:078 Testing connection are success
+04/09 09:18:53:079 Starting process session
+04/09 09:18:55:096 Total 0 instances are started
+04/09 09:18:55:096 Total 1 instances are added
+04/09 09:20:14:012 Order Routing started
+04/09 09:20:18:286 Testing connection ...
+04/09 09:20:19:322 Created provisioning instance for CCWS
+04/09 09:20:19:322 Testing connection are success
+04/09 09:20:19:322 Starting process session
+04/09 09:20:20:771 Total 0 instances are started
+04/09 09:20:20:772 Total 1 instances are added
+04/09 09:20:39:744 Create order(84922000514) cost time: 24ms
+04/09 09:20:39:870 Update order(84922000514) cost time: 8ms
+04/09 09:20:39:872 84922000514: LOYALTY - LOYALTY.VALIDATE
+04/09 09:20:39:872 orderId = 125408008 | requestId = 0 | orderDate = 2013/09/04 09:20:39 | userName = system | subProductId = 52789381 | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+04/09 09:20:39:891 sendNotify: 84922000514 - Quy khach da doi thanh cong 1000 diem thanh tien su dung dich vu. So tien tuong ung 1000 diem se duoc cong  vao tai khoan TKKM2, su dung goi va nhan tin lien mang, data.
+04/09 09:22:33:151 Order Routing started
+04/09 09:22:37:494 Testing connection ...
+04/09 09:22:38:536 Created provisioning instance for CCWS
+04/09 09:22:38:536 Testing connection are success
+04/09 09:22:38:537 Starting process session
+04/09 09:22:39:986 Total 0 instances are started
+04/09 09:22:39:987 Total 1 instances are added
+04/09 09:23:06:079 Create order(84922000514) cost time: 35ms
+04/09 09:23:06:221 Update order(84922000514) cost time: 9ms
+04/09 09:23:06:223 84922000514: LOYALTY - LOYALTY.VALIDATE
+04/09 09:23:06:224 orderId = 125408009 | requestId = 0 | orderDate = 2013/09/04 09:23:06 | userName = system | subProductId = 52789381 | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+04/09 09:23:06:239 sendNotify: 84922000514 - Quy khach da doi thanh cong 1000 diem thanh tien su dung dich vu. So tien tuong ung 1000 diem se duoc cong  vao tai khoan TKKM2, su dung goi va nhan tin lien mang, data.
+04/09 09:23:56:089 Order Routing started
+04/09 09:24:00:116 Testing connection ...
+04/09 09:24:01:440 Created provisioning instance for CCWS
+04/09 09:24:01:441 Testing connection are success
+04/09 09:24:01:444 Starting process session
+04/09 09:24:03:349 Total 0 instances are started
+04/09 09:24:03:350 Total 1 instances are added
+04/09 09:24:15:749 Create order(84922000514) cost time: 27ms
+04/09 09:24:15:909 Update order(84922000514) cost time: 10ms
+04/09 09:24:15:911 84922000514: LOYALTY - LOYALTY.VALIDATE
+04/09 09:24:15:912 orderId = 125408010 | requestId = 0 | orderDate = 2013/09/04 09:24:15 | userName = system | subProductId = 52789381 | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+04/09 09:24:15:923 sendNotify: 84922000514 - Quy khach da doi thanh cong 1000 diem thanh tien su dung dich vu. So tien tuong ung 1000 diem se duoc cong  vao tai khoan TKKM2, su dung goi va nhan tin lien mang, data.
+04/09 09:30:32:271 Order Routing started
+04/09 09:30:36:629 Testing connection ...
+04/09 09:30:37:555 Created provisioning instance for CCWS
+04/09 09:30:37:555 Testing connection are success
+04/09 09:30:37:556 Starting process session
+04/09 09:30:38:843 Total 0 instances are started
+04/09 09:30:38:844 Total 1 instances are added
+04/09 09:31:02:102 Create order(84922000514) cost time: 33ms
+04/09 09:31:02:248 Update order(84922000514) cost time: 11ms
+04/09 09:31:02:250 84922000514: LOYALTY - LOYALTY.VALIDATE
+04/09 09:31:02:251 orderId = 125408011 | requestId = 0 | orderDate = 2013/09/04 09:31:02 | userName = system | subProductId = 52789381 | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+04/09 09:31:02:270 sendNotify: 84922000514 - Quy khach da doi thanh cong 1000 diem thanh tien su dung dich vu. So tien tuong ung 1000 diem se duoc cong  vao tai khoan TKKM2, su dung goi va nhan tin lien mang, data.
+04/09 09:33:03:730 Order Routing started
+04/09 09:33:08:140 Testing connection ...
+04/09 09:33:09:195 Created provisioning instance for CCWS
+04/09 09:33:09:195 Testing connection are success
+04/09 09:33:09:196 Starting process session
+04/09 09:33:10:838 Total 0 instances are started
+04/09 09:33:10:839 Total 1 instances are added
+04/09 09:33:23:597 Create order(84922000514) cost time: 27ms
+04/09 09:33:23:775 Update order(84922000514) cost time: 11ms
+04/09 09:33:23:777 84922000514: LOYALTY - LOYALTY.VALIDATE
+04/09 09:33:23:778 orderId = 125408012 | requestId = 0 | orderDate = 2013/09/04 09:33:23 | userName = system | subProductId = 52789381 | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+04/09 09:33:23:794 sendNotify: 84922000514 - Quy khach da doi thanh cong 1000 diem thanh tien su dung dich vu. So tien tuong ung 1000 diem se duoc cong  vao tai khoan TKKM2, su dung goi va nhan tin lien mang, data.
+04/09 09:38:02:698 Order Routing started
+04/09 09:38:07:000 Testing connection ...
+04/09 09:38:08:098 Created provisioning instance for CCWS
+04/09 09:38:08:098 Testing connection are success
+04/09 09:38:08:098 Starting process session
+04/09 09:38:09:761 Total 0 instances are started
+04/09 09:38:09:762 Total 1 instances are added
+04/09 09:38:28:395 Create order(84922000514) cost time: 31ms
+04/09 09:38:28:525 Update order(84922000514) cost time: 8ms
+04/09 09:38:28:527 84922000514: LOYALTY - LOYALTY.VALIDATE
+04/09 09:38:28:528 orderId = 125408013 | requestId = 0 | orderDate = 2013/09/04 09:38:28 | userName = system | subProductId = 52789381 | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+04/09 09:38:28:537 sendNotify: 84922000514 - Quy khach da doi thanh cong 1000 diem thanh tien su dung dich vu. So tien tuong ung 1000 diem se duoc cong  vao tai khoan TKKM2, su dung goi va nhan tin lien mang, data.
+04/09 10:04:43:373 Order Routing started
+04/09 10:04:45:454 Testing connection ...
+04/09 10:04:48:378 Created provisioning instance for CCWS
+04/09 10:04:48:379 Testing connection are success
+04/09 10:04:48:379 Starting process session
+04/09 10:04:50:155 Total 0 instances are started
+04/09 10:04:50:156 Total 1 instances are added
+04/09 10:05:34:657 For input string: ""
+04/09 10:05:34:658 orderId = 0 | requestId = 0 | orderDate = 2013/09/04 10:05:34 | userName = system | subProductId = 52789381 | channel = SMS | serviceAddress = 268 | keyword = HUY CAM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = unregister | productId = 274 | amount = 0.0 | provisioningType = SMSC | commandId = 0 | cause = error | status = 4 | description = null | balance = 
+04/09 10:05:34:670 For input string: ""
+04/09 10:05:34:780 Total 0 instances are started
+04/09 10:05:34:781 Total 1 instances are added
+04/09 10:13:26:428 Order Routing started
+04/09 10:13:30:374 Testing connection ...
+04/09 10:13:31:282 Created provisioning instance for CCWS
+04/09 10:13:31:282 Testing connection are success
+04/09 10:13:31:283 Starting process session
+04/09 10:13:33:234 Total 0 instances are started
+04/09 10:13:33:235 Total 1 instances are added
+04/09 10:13:56:437 84922000514: LOYALTY - CRM.SUBSCRIPTION_UNREGIST
+04/09 10:13:56:439 orderId = 0 | requestId = 0 | orderDate = 2013/09/04 10:13:56 | userName = system | subProductId = 52789381 | channel = SMS | serviceAddress = 268 | keyword = HUY CAM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = unregister | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 13121 | cause =  | status = 1 | description =  | balance = 
+04/09 10:14:29:100 Close pool
+04/09 10:14:29:201 Close queue connection pool.
+04/09 10:14:29:210 End of process session
+04/09 10:14:29:212 Order Routing stopped
+04/09 10:14:31:124 Order Routing started
+04/09 10:14:31:143 Close pool
+04/09 10:14:31:144 Close pool
+04/09 10:14:31:144 Testing connection ...
+04/09 10:14:31:148 Created provisioning instance for CCWS
+04/09 10:14:31:148 Testing connection are success
+04/09 10:14:31:149 Starting process session
+04/09 10:14:31:877 Total 0 instances are started
+04/09 10:14:31:878 Total 1 instances are added
+04/09 10:14:33:347 Create order(84922000514) cost time: 22ms
+04/09 10:14:33:378 null
+04/09 10:14:33:379 orderId = 125408014 | requestId = 0 | orderDate = 2013/09/04 10:14:33 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = DK CAM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = register | productId = 274 | amount = 0.0 | provisioningType = SMSC | commandId = 0 | cause = error | status = 4 | description = null | balance = 
+04/09 10:14:33:395 null
+04/09 10:14:33:500 Total 0 instances are started
+04/09 10:14:33:501 Total 1 instances are added
+04/09 10:21:01:069 Order Routing started
+04/09 10:21:05:100 Testing connection ...
+04/09 10:21:05:787 Created provisioning instance for CCWS
+04/09 10:21:05:787 Testing connection are success
+04/09 10:21:05:788 Starting process session
+04/09 10:21:07:551 Total 0 instances are started
+04/09 10:21:07:552 Total 1 instances are added
+04/09 10:21:37:965 Create order(84922000514) cost time: 26ms
+04/09 10:21:38:144 Update order(84922000514) cost time: 23ms
+04/09 10:21:38:146 84922000514: LOYALTY - CRM.SUBSCRIPTION_REGIST
+04/09 10:21:38:146 orderId = 125408015 | requestId = 0 | orderDate = 2013/09/04 10:21:37 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = DK CAM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = register | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 13119 | cause =  | status = 1 | description =  | balance = 
+04/09 10:21:38:157 sendNotify: 84922000514 - Chuc mung quy khach da gia nhap Cau lac bo CAM cua Vietnamobile.Hay tiep tuc su dung Vietnamobile de tich luy nhieu diem va nhan duoc nhieu uu dai cua chuong trinh. Chi tiet 789
+04/09 10:23:29:780 Close pool
+04/09 10:23:29:881 Close queue connection pool.
+04/09 10:23:29:887 End of process session
+04/09 10:23:29:890 Order Routing stopped
+04/09 10:23:31:807 Order Routing started
+04/09 10:23:31:830 Close pool
+04/09 10:23:31:831 Close pool
+04/09 10:23:31:831 Testing connection ...
+04/09 10:23:31:834 Created provisioning instance for CCWS
+04/09 10:23:31:835 Testing connection are success
+04/09 10:23:31:835 Starting process session
+04/09 10:23:32:690 Total 0 instances are started
+04/09 10:23:32:691 Total 1 instances are added
+04/09 10:23:34:992 invalid-syntax
+04/09 10:23:34:993 orderId = 0 | requestId = 0 | orderDate = 2013/09/04 10:23:34 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = DK CAM1 | isdn = 84922000514 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | amount = 0.0 | provisioningType = SMSC | commandId = 0 | cause = invalid-syntax | status = 4 | description = null | balance = 
+04/09 10:23:34:995 sendNotify: 84922000514 - Cu phap nhan tin khong hop le. Xin quy khach vui long kiem tra & thuc hien lai
+04/09 10:27:09:878 Close pool
+04/09 10:27:09:979 Close queue connection pool.
+04/09 10:27:09:985 End of process session
+04/09 10:27:09:985 Order Routing stopped
+04/09 10:27:11:909 Order Routing started
+04/09 10:27:11:930 Close pool
+04/09 10:27:11:931 Close pool
+04/09 10:27:11:931 Testing connection ...
+04/09 10:27:11:934 Created provisioning instance for CCWS
+04/09 10:27:11:935 Testing connection are success
+04/09 10:27:11:935 Starting process session
+04/09 10:27:12:648 Total 0 instances are started
+04/09 10:27:12:650 Total 1 instances are added
+04/09 10:27:21:122 Create order(84922000514) cost time: 24ms
+04/09 10:27:21:285 Update order(84922000514) cost time: 24ms
+04/09 10:27:21:286 84922000514: LOYALTY - CRM.SUBSCRIPTION_REGIST
+04/09 10:27:21:287 orderId = 125408016 | requestId = 0 | orderDate = 2013/09/04 10:27:21 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = DK CAM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = register | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 13119 | cause =  | status = 1 | description =  | balance = 
+04/09 10:27:21:420 sendNotify: 84922000514 - Chuc mung quy khach da gia nhap Cau lac bo CAM cua Vietnamobile.Hay tiep tuc su dung Vietnamobile de tich luy nhieu diem va nhan duoc nhieu uu dai cua chuong trinh. Chi tiet 789
+04/09 10:29:36:073 Close pool
+04/09 10:29:36:173 Close queue connection pool.
+04/09 10:29:36:179 End of process session
+04/09 10:29:36:180 Order Routing stopped
+04/09 10:29:38:102 Order Routing started
+04/09 10:29:38:125 Close pool
+04/09 10:29:38:126 Close pool
+04/09 10:29:38:126 Testing connection ...
+04/09 10:29:38:130 Created provisioning instance for CCWS
+04/09 10:29:38:131 Testing connection are success
+04/09 10:29:38:131 Starting process session
+04/09 10:29:39:007 Total 0 instances are started
+04/09 10:29:39:008 Total 1 instances are added
+04/09 10:29:44:326 Create order(84922000514) cost time: 23ms
+04/09 10:29:44:444 Update order(84922000514) cost time: 7ms
+04/09 10:29:44:444 84922000514: LOYALTY - CRM.SUBSCRIPTION_REGIST
+04/09 10:29:44:445 orderId = 125408017 | requestId = 0 | orderDate = 2013/09/04 10:29:44 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = DK CAM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = register | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 13119 | cause =  | status = 1 | description =  | balance = 
+04/09 10:29:44:451 sendNotify: 84922000514 - Chuc mung quy khach da gia nhap Cau lac bo CAM cua Vietnamobile.Hay tiep tuc su dung Vietnamobile de tich luy nhieu diem va nhan duoc nhieu uu dai cua chuong trinh. Chi tiet 789
+04/09 10:32:55:172 Close pool
+04/09 10:32:55:273 Close queue connection pool.
+04/09 10:32:55:280 End of process session
+04/09 10:32:55:287 Order Routing stopped
+04/09 10:32:57:198 Order Routing started
+04/09 10:32:57:220 Close pool
+04/09 10:32:57:221 Close pool
+04/09 10:32:57:221 Testing connection ...
+04/09 10:32:57:224 Created provisioning instance for CCWS
+04/09 10:32:57:225 Testing connection are success
+04/09 10:32:57:225 Starting process session
+04/09 10:32:58:090 Total 0 instances are started
+04/09 10:32:58:091 Total 1 instances are added
+04/09 10:32:58:201 Close pool
+04/09 10:32:58:302 Close queue connection pool.
+04/09 10:32:58:309 End of process session
+04/09 10:32:58:311 Order Routing stopped
+04/09 10:33:00:232 Order Routing started
+04/09 10:33:00:250 Close pool
+04/09 10:33:00:250 Close pool
+04/09 10:33:00:251 Testing connection ...
+04/09 10:33:00:256 Created provisioning instance for CCWS
+04/09 10:33:00:257 Testing connection are success
+04/09 10:33:00:257 Starting process session
+04/09 10:33:00:943 Total 0 instances are started
+04/09 10:33:00:944 Total 1 instances are added
+04/09 10:33:01:433 Create order(84922000511) cost time: 18ms
+04/09 10:33:01:578 Update order(84922000511) cost time: 16ms
+04/09 10:33:01:588 unknow-command
+04/09 10:33:01:589 orderId = 125408018 | requestId = 0 | orderDate = 2013/09/04 10:33:01 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = DK CAM | isdn = 84922000511 | subscriberType = 2 | shipTo =  | actionType = register | productId = 274 | amount = 0.0 | provisioningType = SMSC | commandId = 0 | cause = unknow-command | status = 4 | description = null | balance = 
+04/09 10:33:01:596 sendNotify: 84922000511 - Xin loi, he thong dang ban. Xin quy khach vui long nhan tin lai sau.
+04/09 10:45:13:533 Close pool
+04/09 10:45:13:634 Close queue connection pool.
+04/09 10:45:13:641 End of process session
+04/09 10:45:13:642 Order Routing stopped
+04/09 10:45:15:552 Order Routing started
+04/09 10:45:15:576 Close pool
+04/09 10:45:15:576 Close pool
+04/09 10:45:15:577 Testing connection ...
+04/09 10:45:15:581 Created provisioning instance for CCWS
+04/09 10:45:15:581 Testing connection are success
+04/09 10:45:15:582 Starting process session
+04/09 10:45:16:493 Total 0 instances are started
+04/09 10:45:16:494 Total 1 instances are added
+04/09 10:45:18:852 orderId = 0 | requestId = 0 | orderDate = 2013/09/04 10:45:18 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = HUY CAM | isdn = 84922000511 | subscriberType = 2 | shipTo =  | actionType = unregister | productId = 274 | amount = 0.0 | provisioningType = SMSC | commandId = 0 | cause = unknow-subscription | status = 4 | description =  | balance = 
+04/09 10:45:18:854 sendNotify: 84922000511 - Dich vu khong ton tai
+04/09 10:48:35:811 Create order(84922000511) cost time: 23ms
+04/09 10:48:35:946 Update order(84922000511) cost time: 9ms
+04/09 10:48:35:947 unknow-command
+04/09 10:48:35:948 orderId = 125408019 | requestId = 0 | orderDate = 2013/09/04 10:48:35 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = DK CAM | isdn = 84922000511 | subscriberType = 2 | shipTo =  | actionType = register | productId = 274 | amount = 0.0 | provisioningType = SMSC | commandId = 0 | cause = unknow-command | status = 4 | description = null | balance = 
+04/09 10:48:35:955 sendNotify: 84922000511 - Xin loi, he thong dang ban. Xin quy khach vui long nhan tin lai sau.
+04/09 10:48:59:634 Close pool
+04/09 10:48:59:735 Close queue connection pool.
+04/09 10:48:59:741 End of process session
+04/09 10:48:59:742 Order Routing stopped
+04/09 10:49:01:653 Order Routing started
+04/09 10:49:01:679 Close pool
+04/09 10:49:01:679 Close pool
+04/09 10:49:01:680 Testing connection ...
+04/09 10:49:01:683 Created provisioning instance for CCWS
+04/09 10:49:01:683 Testing connection are success
+04/09 10:49:01:684 Starting process session
+04/09 10:49:02:437 Total 0 instances are started
+04/09 10:49:02:438 Total 1 instances are added
+04/09 10:49:17:917 Create order(84922000514) cost time: 16ms
+04/09 10:49:17:952 Update order(84922000514) cost time: 4ms
+04/09 10:49:17:954 84922000514: LOYALTY - CRM.SUBSCRIPTION_REGIST
+04/09 10:49:17:955 orderId = 125408020 | requestId = 0 | orderDate = 2013/09/04 10:49:17 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = DK CAM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = register | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 13119 | cause =  | status = 1 | description =  | balance = 
+04/09 10:49:17:971 sendNotify: 84922000514 - Chuc mung quy khach da gia nhap Cau lac bo CAM cua Vietnamobile.Hay tiep tuc su dung Vietnamobile de tich luy nhieu diem va nhan duoc nhieu uu dai cua chuong trinh. Chi tiet 789
+04/09 10:49:47:750 Close pool
+04/09 10:49:47:851 Close queue connection pool.
+04/09 10:49:47:859 End of process session
+04/09 10:49:47:861 Order Routing stopped
+04/09 10:49:49:791 Order Routing started
+04/09 10:49:49:924 Close pool
+04/09 10:49:49:925 Close pool
+04/09 10:49:49:925 Testing connection ...
+04/09 10:49:49:928 Created provisioning instance for CCWS
+04/09 10:49:49:929 Testing connection are success
+04/09 10:49:49:929 Starting process session
+04/09 10:49:50:658 Total 0 instances are started
+04/09 10:49:50:659 Total 1 instances are added
+04/09 10:50:03:976 invalid-syntax
+04/09 10:50:03:977 orderId = 0 | requestId = 0 | orderDate = 2013/09/04 10:50:03 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = HUY CAM1 | isdn = 84922000514 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | amount = 0.0 | provisioningType = SMSC | commandId = 0 | cause = invalid-syntax | status = 4 | description = null | balance = 
+04/09 10:50:03:978 sendNotify: 84922000514 - Cu phap nhan tin khong hop le. Xin quy khach vui long kiem tra & thuc hien lai
+04/09 10:55:14:050 Create order(84922000514) cost time: 23ms
+04/09 10:55:14:190 Update order(84922000514) cost time: 16ms
+04/09 10:55:14:191 84922000514: LOYALTY - LOYALTY.VALIDATE
+04/09 10:55:14:192 orderId = 125408021 | requestId = 0 | orderDate = 2013/09/04 10:55:14 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = TRADIEM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+04/09 10:55:14:207 sendNotify: 84922000514 - Chuc mung Quy khach da tich luy duoc  diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ki tham gia Chuong trinh Cham soc khach hang than thiet cua Vietnamobile de nhan duoc nhieu uu dai bat ngo. Chi tiet 789.
+04/09 10:59:50:126 Close pool
+04/09 10:59:50:227 Close queue connection pool.
+04/09 10:59:50:233 End of process session
+04/09 10:59:50:235 Order Routing stopped
+04/09 10:59:52:144 Order Routing started
+04/09 10:59:52:164 Close pool
+04/09 10:59:52:165 Close pool
+04/09 10:59:52:165 Testing connection ...
+04/09 10:59:52:168 Created provisioning instance for CCWS
+04/09 10:59:52:169 Testing connection are success
+04/09 10:59:52:169 Starting process session
+04/09 10:59:52:923 Total 0 instances are started
+04/09 10:59:52:924 Total 1 instances are added
+04/09 11:00:02:370 Create order(84922000514) cost time: 21ms
+04/09 11:00:02:466 Update order(84922000514) cost time: 13ms
+04/09 11:00:02:467 84922000514: LOYALTY - LOYALTY.VALIDATE
+04/09 11:00:02:468 orderId = 125408022 | requestId = 0 | orderDate = 2013/09/04 11:00:02 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = TRADIEM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+04/09 11:00:02:476 sendNotify: 84922000514 - Chuc mung Quy khach da tich luy duoc  diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ki tham gia Chuong trinh Cham soc khach hang than thiet cua Vietnamobile de nhan duoc nhieu uu dai bat ngo. Chi tiet 789.
+04/09 11:02:28:080 Order Routing started
+04/09 11:02:32:279 Testing connection ...
+04/09 11:02:33:092 Created provisioning instance for CCWS
+04/09 11:02:33:092 Testing connection are success
+04/09 11:02:33:093 Starting process session
+04/09 11:02:35:091 Total 0 instances are started
+04/09 11:02:35:092 Total 1 instances are added
+04/09 11:03:21:877 Close pool
+04/09 11:03:21:978 Close queue connection pool.
+04/09 11:03:21:984 End of process session
+04/09 11:03:21:985 Order Routing stopped
+04/09 11:03:23:896 Order Routing started
+04/09 11:03:23:920 Close pool
+04/09 11:03:23:920 Close pool
+04/09 11:03:23:921 Testing connection ...
+04/09 11:03:23:925 Created provisioning instance for CCWS
+04/09 11:03:23:926 Testing connection are success
+04/09 11:03:23:926 Starting process session
+04/09 11:03:24:824 Total 0 instances are started
+04/09 11:03:24:825 Total 1 instances are added
+04/09 11:03:29:141 Create order(84922000514) cost time: 19ms
+04/09 11:03:29:763 Update order(84922000514) cost time: 8ms
+04/09 11:03:29:771 84922000514: LOYALTY - LOYALTY.VALIDATE
+04/09 11:03:29:777 orderId = 125408023 | requestId = 0 | orderDate = 2013/09/04 11:03:29 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = TRADIEM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+04/09 11:03:29:799 sendNotify: 84922000514 - Chuc mung Quy khach da tich luy duoc  diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ki tham gia Chuong trinh Cham soc khach hang than thiet cua Vietnamobile de nhan duoc nhieu uu dai bat ngo. Chi tiet 789.
+04/09 11:07:21:284 Order Routing started
+04/09 11:07:25:217 Testing connection ...
+04/09 11:07:26:077 Created provisioning instance for CCWS
+04/09 11:07:26:078 Testing connection are success
+04/09 11:07:26:078 Starting process session
+04/09 11:07:27:802 Total 0 instances are started
+04/09 11:07:27:803 Total 1 instances are added
+04/09 11:07:46:119 Close pool
+04/09 11:07:46:220 Close queue connection pool.
+04/09 11:07:46:229 End of process session
+04/09 11:07:46:231 Order Routing stopped
+04/09 11:07:48:154 Order Routing started
+04/09 11:07:48:179 Close pool
+04/09 11:07:48:180 Close pool
+04/09 11:07:48:180 Testing connection ...
+04/09 11:07:48:184 Created provisioning instance for CCWS
+04/09 11:07:48:184 Testing connection are success
+04/09 11:07:48:185 Starting process session
+04/09 11:07:49:085 Total 0 instances are started
+04/09 11:07:49:086 Total 1 instances are added
+04/09 11:08:07:383 Create order(84922000514) cost time: 21ms
+04/09 11:08:07:569 Update order(84922000514) cost time: 9ms
+04/09 11:08:07:572 84922000514: LOYALTY - LOYALTY.VALIDATE
+04/09 11:08:07:574 orderId = 125408024 | requestId = 0 | orderDate = 2013/09/04 11:08:07 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = TRADIEM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+04/09 11:08:07:590 sendNotify: 84922000514 - Chuc mung Quy khach da tich luy duoc  diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ki tham gia Chuong trinh Cham soc khach hang than thiet cua Vietnamobile de nhan duoc nhieu uu dai bat ngo. Chi tiet 789.
+04/09 11:10:33:931 Order Routing started
+04/09 11:10:37:810 Testing connection ...
+04/09 11:10:38:842 Created provisioning instance for CCWS
+04/09 11:10:38:843 Testing connection are success
+04/09 11:10:38:844 Starting process session
+04/09 11:10:39:906 Total 0 instances are started
+04/09 11:10:39:908 Total 1 instances are added
+04/09 11:11:00:487 Close pool
+04/09 11:11:00:588 Close queue connection pool.
+04/09 11:11:00:596 End of process session
+04/09 11:11:00:598 Order Routing stopped
+04/09 11:11:02:516 Order Routing started
+04/09 11:11:02:537 Close pool
+04/09 11:11:02:537 Close pool
+04/09 11:11:02:538 Testing connection ...
+04/09 11:11:02:542 Created provisioning instance for CCWS
+04/09 11:11:02:542 Testing connection are success
+04/09 11:11:02:543 Starting process session
+04/09 11:11:03:316 Total 0 instances are started
+04/09 11:11:03:318 Total 1 instances are added
+04/09 11:11:03:745 Create order(84922000514) cost time: 21ms
+04/09 11:11:03:891 Update order(84922000514) cost time: 7ms
+04/09 11:11:03:893 84922000514: LOYALTY - LOYALTY.VALIDATE
+04/09 11:11:03:895 orderId = 125408025 | requestId = 0 | orderDate = 2013/09/04 11:11:03 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = TRADIEM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+04/09 11:11:03:908 sendNotify: 84922000514 - Chuc mung Quy khach da tich luy duoc  diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ki tham gia Chuong trinh Cham soc khach hang than thiet cua Vietnamobile de nhan duoc nhieu uu dai bat ngo. Chi tiet 789.
+04/09 11:11:12:725 Create order(84922000514) cost time: 11ms
+04/09 11:11:12:824 Update order(84922000514) cost time: 5ms
+04/09 11:11:12:825 84922000514: LOYALTY - LOYALTY.VALIDATE
+04/09 11:11:12:826 orderId = 125408026 | requestId = 0 | orderDate = 2013/09/04 11:11:12 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = TRADIEM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+04/09 11:11:12:832 sendNotify: 84922000514 - Chuc mung Quy khach da tich luy duoc  diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ki tham gia Chuong trinh Cham soc khach hang than thiet cua Vietnamobile de nhan duoc nhieu uu dai bat ngo. Chi tiet 789.
+04/09 11:15:42:496 Order Routing started
+04/09 11:15:46:616 Testing connection ...
+04/09 11:15:47:438 Created provisioning instance for CCWS
+04/09 11:15:47:439 Testing connection are success
+04/09 11:15:47:439 Starting process session
+04/09 11:15:49:144 Total 0 instances are started
+04/09 11:15:49:146 Total 1 instances are added
+04/09 11:15:59:183 Close pool
+04/09 11:15:59:284 Close queue connection pool.
+04/09 11:15:59:290 End of process session
+04/09 11:15:59:291 Order Routing stopped
+04/09 11:16:01:263 Order Routing started
+04/09 11:16:01:301 Close pool
+04/09 11:16:01:302 Close pool
+04/09 11:16:01:303 Testing connection ...
+04/09 11:16:01:308 Created provisioning instance for CCWS
+04/09 11:16:01:309 Testing connection are success
+04/09 11:16:01:309 Starting process session
+04/09 11:16:02:085 Total 0 instances are started
+04/09 11:16:02:086 Total 1 instances are added
+04/09 11:16:04:530 Create order(84922000514) cost time: 32ms
+04/09 11:16:04:704 Update order(84922000514) cost time: 21ms
+04/09 11:16:04:707 84922000514: LOYALTY - LOYALTY.VALIDATE
+04/09 11:16:04:708 orderId = 125408027 | requestId = 0 | orderDate = 2013/09/04 11:16:04 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = TRADIEM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+04/09 11:16:04:717 sendNotify: 84922000514 - Chuc mung Quy khach da tich luy duoc  diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ki tham gia Chuong trinh Cham soc khach hang than thiet cua Vietnamobile de nhan duoc nhieu uu dai bat ngo. Chi tiet 789.
+04/09 11:17:25:338 Order Routing started
+04/09 11:17:29:593 Testing connection ...
+04/09 11:17:30:602 Created provisioning instance for CCWS
+04/09 11:17:30:602 Testing connection are success
+04/09 11:17:30:603 Starting process session
+04/09 11:17:32:128 Total 0 instances are started
+04/09 11:17:32:135 Total 1 instances are added
+04/09 11:17:43:201 Create order(84922000514) cost time: 27ms
+04/09 11:17:43:371 Update order(84922000514) cost time: 20ms
+04/09 11:17:43:374 84922000514: LOYALTY - LOYALTY.VALIDATE
+04/09 11:17:43:375 orderId = 125408028 | requestId = 0 | orderDate = 2013/09/04 11:17:43 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = TRADIEM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+04/09 11:17:43:386 sendNotify: 84922000514 - Chuc mung Quy khach da tich luy duoc  diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ki tham gia Chuong trinh Cham soc khach hang than thiet cua Vietnamobile de nhan duoc nhieu uu dai bat ngo. Chi tiet 789.
+04/09 11:19:58:773 Order Routing started
+04/09 11:20:03:010 Testing connection ...
+04/09 11:20:04:038 Created provisioning instance for CCWS
+04/09 11:20:04:038 Testing connection are success
+04/09 11:20:04:039 Starting process session
+04/09 11:20:05:747 Total 0 instances are started
+04/09 11:20:05:748 Total 1 instances are added
+04/09 11:20:16:305 Close pool
+04/09 11:20:16:406 Close queue connection pool.
+04/09 11:20:16:415 End of process session
+04/09 11:20:16:416 Order Routing stopped
+04/09 11:20:18:335 Order Routing started
+04/09 11:20:18:358 Close pool
+04/09 11:20:18:359 Close pool
+04/09 11:20:18:359 Testing connection ...
+04/09 11:20:18:366 Created provisioning instance for CCWS
+04/09 11:20:18:367 Testing connection are success
+04/09 11:20:18:367 Starting process session
+04/09 11:20:19:124 Total 0 instances are started
+04/09 11:20:19:125 Total 1 instances are added
+04/09 11:20:21:581 Create order(84922000514) cost time: 21ms
+04/09 11:20:21:746 Update order(84922000514) cost time: 17ms
+04/09 11:20:21:749 84922000514: LOYALTY - LOYALTY.VALIDATE
+04/09 11:20:21:749 orderId = 125408029 | requestId = 0 | orderDate = 2013/09/04 11:20:21 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = TRADIEM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+04/09 11:20:21:764 sendNotify: 84922000514 - Chuc mung Quy khach da tich luy duoc  diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ki tham gia Chuong trinh Cham soc khach hang than thiet cua Vietnamobile de nhan duoc nhieu uu dai bat ngo. Chi tiet 789.
+04/09 11:23:30:583 Order Routing started
+04/09 11:23:34:783 Testing connection ...
+04/09 11:23:35:464 Created provisioning instance for CCWS
+04/09 11:23:35:465 Testing connection are success
+04/09 11:23:35:465 Starting process session
+04/09 11:23:37:148 Total 0 instances are started
+04/09 11:23:37:148 Total 1 instances are added
+04/09 11:23:55:369 Create order(84922000514) cost time: 23ms
+04/09 11:23:56:130 Update order(84922000514) cost time: 9ms
+04/09 11:23:56:132 84922000514: LOYALTY - LOYALTY.VALIDATE
+04/09 11:23:56:133 orderId = 125408030 | requestId = 0 | orderDate = 2013/09/04 11:23:55 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = TRADIEM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+04/09 11:23:56:146 sendNotify: 84922000514 - Chuc mung Quy khach da tich luy duoc  diem va tro thanh khach hang Than Thiet cua Vietnamobile. Dang ki tham gia Chuong trinh Cham soc khach hang than thiet cua Vietnamobile de nhan duoc nhieu uu dai bat ngo. Chi tiet 789.
+04/09 11:24:37:161 Close pool
+04/09 11:24:37:262 Close queue connection pool.
+04/09 11:24:37:267 End of process session
+04/09 11:24:37:268 Order Routing stopped
+04/09 11:24:39:230 Order Routing started
+04/09 11:24:39:254 Close pool
+04/09 11:24:39:255 Close pool
+04/09 11:24:39:255 Testing connection ...
+04/09 11:24:39:259 Created provisioning instance for CCWS
+04/09 11:24:39:260 Testing connection are success
+04/09 11:24:39:261 Starting process session
+04/09 11:24:40:278 Total 0 instances are started
+04/09 11:24:40:279 Total 1 instances are added
+04/09 11:24:41:418 Create order(84922000514) cost time: 8ms
+04/09 11:24:41:466 Update order(84922000514) cost time: 11ms
+04/09 11:24:41:467 84922000514: LOYALTY - LOYALTY.VALIDATE
+04/09 11:24:41:468 orderId = 125408031 | requestId = 0 | orderDate = 2013/09/04 11:24:41 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = TRADIEM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+04/09 11:24:41:482 sendNotify: 84922000514 - Quy khach hien dang la khach hang Than Thiet cua Vietnamobile tu  , da tich luy duoc  diem va con  diem. Chi tiet, lien he 789.
+04/09 11:27:09:846 Order Routing started
+04/09 11:27:14:210 Testing connection ...
+04/09 11:27:15:191 Created provisioning instance for CCWS
+04/09 11:27:15:191 Testing connection are success
+04/09 11:27:15:191 Starting process session
+04/09 11:27:16:502 Total 0 instances are started
+04/09 11:27:16:503 Total 1 instances are added
+04/09 11:27:28:430 Close pool
+04/09 11:27:28:530 Close queue connection pool.
+04/09 11:27:28:541 End of process session
+04/09 11:27:28:543 Order Routing stopped
+04/09 11:27:30:463 Order Routing started
+04/09 11:27:30:486 Close pool
+04/09 11:27:30:486 Close pool
+04/09 11:27:30:487 Testing connection ...
+04/09 11:27:30:495 Created provisioning instance for CCWS
+04/09 11:27:30:495 Testing connection are success
+04/09 11:27:30:496 Starting process session
+04/09 11:27:31:290 Total 0 instances are started
+04/09 11:27:31:291 Total 1 instances are added
+04/09 11:27:35:715 Create order(84922000514) cost time: 21ms
+04/09 11:27:37:221 Update order(84922000514) cost time: 9ms
+04/09 11:27:37:223 84922000514: LOYALTY - LOYALTY.VALIDATE
+04/09 11:27:37:224 orderId = 125408032 | requestId = 0 | orderDate = 2013/09/04 11:27:35 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = TRADIEM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+04/09 11:27:37:237 sendNotify: 84922000514 - Quy khach hien dang la khach hang Than Thiet cua Vietnamobile tu  , da tich luy duoc  diem va con  diem. Chi tiet, lien he 789.
+04/09 11:28:39:275 Order Routing started
+04/09 11:28:43:689 Testing connection ...
+04/09 11:28:44:665 Created provisioning instance for CCWS
+04/09 11:28:44:665 Testing connection are success
+04/09 11:28:44:666 Starting process session
+04/09 11:28:46:184 Total 0 instances are started
+04/09 11:28:46:208 Total 1 instances are added
+04/09 11:28:58:045 Create order(84922000514) cost time: 30ms
+04/09 11:28:58:965 Update order(84922000514) cost time: 21ms
+04/09 11:28:58:967 84922000514: LOYALTY - LOYALTY.VALIDATE
+04/09 11:28:58:968 orderId = 125408033 | requestId = 0 | orderDate = 2013/09/04 11:28:58 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = TRADIEM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+04/09 11:28:58:981 sendNotify: 84922000514 - Quy khach hien dang la khach hang Than Thiet cua Vietnamobile tu  , da tich luy duoc  diem va con  diem. Chi tiet, lien he 789.
+04/09 11:29:10:037 Create order(84922000514) cost time: 11ms
+04/09 11:29:10:080 Update order(84922000514) cost time: 7ms
+04/09 11:29:10:081 84922000514: LOYALTY - LOYALTY.VALIDATE
+04/09 11:29:10:081 orderId = 125408034 | requestId = 0 | orderDate = 2013/09/04 11:29:10 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = TRADIEM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+04/09 11:29:10:086 sendNotify: 84922000514 - Quy khach hien dang la khach hang Than Thiet cua Vietnamobile tu  , da tich luy duoc  diem va con  diem. Chi tiet, lien he 789.
+04/09 11:30:36:255 Order Routing started
+04/09 11:30:40:573 Testing connection ...
+04/09 11:30:41:672 Created provisioning instance for CCWS
+04/09 11:30:41:672 Testing connection are success
+04/09 11:30:41:673 Starting process session
+04/09 11:30:43:663 Total 0 instances are started
+04/09 11:30:43:664 Total 1 instances are added
+04/09 11:30:57:177 Create order(84922000514) cost time: 27ms
+04/09 11:30:57:324 Update order(84922000514) cost time: 9ms
+04/09 11:30:57:326 84922000514: LOYALTY - LOYALTY.VALIDATE
+04/09 11:30:57:327 orderId = 125408035 | requestId = 0 | orderDate = 2013/09/04 11:30:57 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = TRADIEM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+04/09 11:30:57:339 sendNotify: 84922000514 - Quy khach hien dang la khach hang Than Thiet cua Vietnamobile tu  , da tich luy duoc  diem va con  diem. Chi tiet, lien he 789.
+04/09 11:33:22:608 Order Routing started
+04/09 11:33:27:002 Testing connection ...
+04/09 11:33:27:959 Created provisioning instance for CCWS
+04/09 11:33:27:959 Testing connection are success
+04/09 11:33:27:960 Starting process session
+04/09 11:33:29:282 Total 0 instances are started
+04/09 11:33:29:283 Total 1 instances are added
+04/09 11:33:57:624 Create order(84922000514) cost time: 39ms
+04/09 11:33:57:772 Update order(84922000514) cost time: 24ms
+04/09 11:33:57:775 84922000514: LOYALTY - LOYALTY.VALIDATE
+04/09 11:33:57:776 orderId = 125408036 | requestId = 0 | orderDate = 2013/09/04 11:33:57 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = TRADIEM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+04/09 11:33:57:790 sendNotify: 84922000514 - Quy khach hien dang la khach hang Than Thiet cua Vietnamobile tu  , da tich luy duoc  diem va con  diem. Chi tiet, lien he 789.
+04/09 11:35:49:902 Order Routing started
+04/09 11:35:54:208 Testing connection ...
+04/09 11:35:55:147 Created provisioning instance for CCWS
+04/09 11:35:55:148 Testing connection are success
+04/09 11:35:55:148 Starting process session
+04/09 11:35:56:700 Total 0 instances are started
+04/09 11:35:56:701 Total 1 instances are added
+04/09 11:36:16:693 Create order(84922000514) cost time: 36ms
+04/09 11:36:16:864 Update order(84922000514) cost time: 9ms
+04/09 11:36:16:866 84922000514: LOYALTY - LOYALTY.VALIDATE
+04/09 11:36:16:867 orderId = 125408037 | requestId = 0 | orderDate = 2013/09/04 11:36:16 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = TRADIEM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+04/09 11:36:16:881 sendNotify: 84922000514 - Quy khach hien dang la khach hang Than Thiet cua Vietnamobile tu  , da tich luy duoc  diem va con  diem. Chi tiet, lien he 789.
+04/09 11:38:03:769 Order Routing started
+04/09 11:38:08:025 Testing connection ...
+04/09 11:38:09:024 Created provisioning instance for CCWS
+04/09 11:38:09:025 Testing connection are success
+04/09 11:38:09:027 Starting process session
+04/09 11:38:10:613 Total 0 instances are started
+04/09 11:38:10:614 Total 1 instances are added
+04/09 11:38:30:687 Create order(84922000514) cost time: 32ms
+04/09 11:38:30:859 Update order(84922000514) cost time: 8ms
+04/09 11:38:30:861 84922000514: LOYALTY - LOYALTY.VALIDATE
+04/09 11:38:30:861 orderId = 125408038 | requestId = 0 | orderDate = 2013/09/04 11:38:30 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = TRADIEM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+04/09 11:38:30:877 sendNotify: 84922000514 - Quy khach hien dang la khach hang Than Thiet cua Vietnamobile tu  , da tich luy duoc  diem va con  diem. Chi tiet, lien he 789.
+04/09 11:46:57:344 Order Routing started
+04/09 11:47:01:997 Testing connection ...
+04/09 11:47:02:974 Created provisioning instance for CCWS
+04/09 11:47:02:975 Testing connection are success
+04/09 11:47:02:975 Starting process session
+04/09 11:47:04:893 Total 0 instances are started
+04/09 11:47:04:894 Total 1 instances are added
+04/09 11:47:15:217 Close pool
+04/09 11:47:15:318 Close queue connection pool.
+04/09 11:47:15:325 End of process session
+04/09 11:47:15:326 Order Routing stopped
+04/09 11:47:17:244 Order Routing started
+04/09 11:47:17:263 Close pool
+04/09 11:47:17:264 Close pool
+04/09 11:47:17:264 Testing connection ...
+04/09 11:47:17:271 Created provisioning instance for CCWS
+04/09 11:47:17:272 Testing connection are success
+04/09 11:47:17:272 Starting process session
+04/09 11:47:18:077 Total 0 instances are started
+04/09 11:47:18:078 Total 1 instances are added
+04/09 11:47:20:484 Create order(84922000514) cost time: 20ms
+04/09 11:47:20:603 Update order(84922000514) cost time: 7ms
+04/09 11:47:20:606 84922000514: LOYALTY - LOYALTY.VALIDATE
+04/09 11:47:20:607 orderId = 125408039 | requestId = 0 | orderDate = 2013/09/04 11:47:20 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = TRADIEM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+04/09 11:47:20:616 sendNotify: 84922000514 - Quy khach hien dang la khach hang Than Thiet cua Vietnamobile tu  , da tich luy duoc  diem va con  diem. Chi tiet, lien he 789.
+04/09 11:48:09:599 Create order(84922000514) cost time: 17ms
+04/09 11:48:09:668 Update order(84922000514) cost time: 5ms
+04/09 11:48:09:669 84922000514: LOYALTY - LOYALTY.VALIDATE
+04/09 11:48:09:670 orderId = 125408040 | requestId = 0 | orderDate = 2013/09/04 11:48:09 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = TRADIEM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+04/09 11:48:09:676 sendNotify: 84922000514 - Quy khach hien dang la khach hang Than Thiet cua Vietnamobile tu  , da tich luy duoc  diem va con  diem. Chi tiet, lien he 789.
+04/09 11:48:28:111 Order Routing started
+04/09 11:48:32:089 Testing connection ...
+04/09 11:48:33:297 Created provisioning instance for CCWS
+04/09 11:48:33:298 Testing connection are success
+04/09 11:48:33:298 Starting process session
+04/09 11:48:35:040 Total 0 instances are started
+04/09 11:48:35:040 Total 1 instances are added
+04/09 11:48:51:315 Order Routing started
+04/09 11:48:55:556 Testing connection ...
+04/09 11:48:56:618 Created provisioning instance for CCWS
+04/09 11:48:56:618 Testing connection are success
+04/09 11:48:56:618 Starting process session
+04/09 11:48:57:733 Total 0 instances are started
+04/09 11:48:57:735 Total 1 instances are added
+04/09 11:49:11:540 Order Routing started
+04/09 11:49:15:859 Testing connection ...
+04/09 11:49:16:890 Created provisioning instance for CCWS
+04/09 11:49:16:890 Testing connection are success
+04/09 11:49:16:891 Starting process session
+04/09 11:49:18:554 Total 0 instances are started
+04/09 11:49:18:555 Total 1 instances are added
+04/09 11:49:31:201 Close pool
+04/09 11:49:31:302 Close queue connection pool.
+04/09 11:49:31:314 End of process session
+04/09 11:49:31:315 Order Routing stopped
+04/09 11:49:33:227 Order Routing started
+04/09 11:49:33:249 Close pool
+04/09 11:49:33:249 Close pool
+04/09 11:49:33:250 Testing connection ...
+04/09 11:49:33:257 Created provisioning instance for CCWS
+04/09 11:49:33:257 Testing connection are success
+04/09 11:49:33:258 Starting process session
+04/09 11:49:34:027 Total 0 instances are started
+04/09 11:49:34:028 Total 1 instances are added
+04/09 11:49:34:458 Create order(84922000514) cost time: 21ms
+04/09 11:49:34:611 Update order(84922000514) cost time: 16ms
+04/09 11:49:34:615 84922000514: LOYALTY - LOYALTY.VALIDATE
+04/09 11:49:34:616 orderId = 125408041 | requestId = 0 | orderDate = 2013/09/04 11:49:34 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = TRADIEM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+04/09 11:49:34:632 sendNotify: 84922000514 - Quy khach hien dang la khach hang Than Thiet cua Vietnamobile tu  , da tich luy duoc  diem va con  diem. Chi tiet, lien he 789.
+04/09 11:52:14:204 Order Routing started
+04/09 11:52:18:511 Testing connection ...
+04/09 11:52:19:417 Created provisioning instance for CCWS
+04/09 11:52:19:422 Testing connection are success
+04/09 11:52:19:423 Starting process session
+04/09 11:52:20:675 Total 0 instances are started
+04/09 11:52:20:676 Total 1 instances are added
+04/09 11:52:40:995 Close pool
+04/09 11:52:41:096 Close queue connection pool.
+04/09 11:52:41:102 End of process session
+04/09 11:52:41:103 Order Routing stopped
+04/09 11:52:43:025 Order Routing started
+04/09 11:52:43:043 Close pool
+04/09 11:52:43:044 Close pool
+04/09 11:52:43:045 Testing connection ...
+04/09 11:52:43:055 Created provisioning instance for CCWS
+04/09 11:52:43:055 Testing connection are success
+04/09 11:52:43:056 Starting process session
+04/09 11:52:43:813 Total 0 instances are started
+04/09 11:52:43:814 Total 1 instances are added
+04/09 11:52:52:408 Create order(84922000514) cost time: 24ms
+04/09 11:52:52:564 Update order(84922000514) cost time: 16ms
+04/09 11:52:52:566 84922000514: LOYALTY - LOYALTY.VALIDATE
+04/09 11:52:52:567 orderId = 125408042 | requestId = 0 | orderDate = 2013/09/04 11:52:52 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = TRADIEM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+04/09 11:52:52:579 sendNotify: 84922000514 - Quy khach hien dang la khach hang Than Thiet cua Vietnamobile tu  , da tich luy duoc  diem va con  diem. Chi tiet, lien he 789.
+04/09 11:54:15:791 Order Routing started
+04/09 11:54:20:293 Testing connection ...
+04/09 11:54:21:282 Created provisioning instance for CCWS
+04/09 11:54:21:282 Testing connection are success
+04/09 11:54:21:283 Starting process session
+04/09 11:54:23:164 Total 0 instances are started
+04/09 11:54:23:166 Total 1 instances are added
+04/09 11:54:35:798 Create order(84922000514) cost time: 28ms
+04/09 11:54:35:955 Update order(84922000514) cost time: 10ms
+04/09 11:54:35:969 84922000514: LOYALTY - LOYALTY.VALIDATE
+04/09 11:54:35:970 orderId = 125408043 | requestId = 0 | orderDate = 2013/09/04 11:54:35 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = TRADIEM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+04/09 11:54:36:000 sendNotify: 84922000514 - Quy khach hien dang la khach hang Than Thiet cua Vietnamobile tu  , da tich luy duoc  diem va con  diem. Chi tiet, lien he 789.
+04/09 12:18:01:843 Order Routing started
+04/09 12:18:06:198 Testing connection ...
+04/09 12:18:07:341 Created provisioning instance for CCWS
+04/09 12:18:07:341 Testing connection are success
+04/09 12:18:07:342 Starting process session
+04/09 12:18:08:740 Total 0 instances are started
+04/09 12:18:08:741 Total 1 instances are added
+04/09 12:18:26:908 Create order(84922000514) cost time: 28ms
+04/09 12:18:27:070 Update order(84922000514) cost time: 21ms
+04/09 12:18:27:072 84922000514: LOYALTY - LOYALTY.VALIDATE
+04/09 12:18:27:072 orderId = 125408044 | requestId = 0 | orderDate = 2013/09/04 12:18:26 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = TRADIEM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+04/09 12:18:27:086 sendNotify: 84922000514 - Quy khach hien dang la khach hang Than Thiet cua Vietnamobile tu  , da tich luy duoc  diem va con  diem. Chi tiet, lien he 789.
+04/09 12:20:48:722 Order Routing started
+04/09 12:20:53:391 Testing connection ...
+04/09 12:20:54:486 Created provisioning instance for CCWS
+04/09 12:20:54:486 Testing connection are success
+04/09 12:20:54:487 Starting process session
+04/09 12:20:55:834 Total 0 instances are started
+04/09 12:20:55:835 Total 1 instances are added
+04/09 12:21:15:598 Create order(84922000514) cost time: 26ms
+04/09 12:21:15:767 Update order(84922000514) cost time: 21ms
+04/09 12:21:15:775 84922000514: LOYALTY - LOYALTY.VALIDATE
+04/09 12:21:15:778 orderId = 125408045 | requestId = 0 | orderDate = 2013/09/04 12:21:15 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = TRADIEM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+04/09 12:21:15:810 sendNotify: 84922000514 - Quy khach hien dang la khach hang Than Thiet cua Vietnamobile tu  , da tich luy duoc  diem va con  diem. Chi tiet, lien he 789.
+04/09 12:22:16:052 Order Routing started
+04/09 12:22:20:214 Testing connection ...
+04/09 12:22:20:983 Created provisioning instance for CCWS
+04/09 12:22:20:983 Testing connection are success
+04/09 12:22:20:983 Starting process session
+04/09 12:22:22:801 Total 0 instances are started
+04/09 12:22:22:802 Total 1 instances are added
+04/09 12:22:40:949 Create order(84922000514) cost time: 26ms
+04/09 12:22:41:076 Update order(84922000514) cost time: 9ms
+04/09 12:22:41:079 84922000514: LOYALTY - LOYALTY.VALIDATE
+04/09 12:22:41:080 orderId = 125408046 | requestId = 0 | orderDate = 2013/09/04 12:22:40 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = TRADIEM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+04/09 12:22:41:093 sendNotify: 84922000514 - Quy khach hien dang la khach hang Than Thiet cua Vietnamobile tu  , da tich luy duoc  diem va con  diem. Chi tiet, lien he 789.
+04/09 12:26:01:469 Order Routing started
+04/09 12:26:05:852 Testing connection ...
+04/09 12:26:06:828 Created provisioning instance for CCWS
+04/09 12:26:06:828 Testing connection are success
+04/09 12:26:06:829 Starting process session
+04/09 12:26:08:596 Total 0 instances are started
+04/09 12:26:08:597 Total 1 instances are added
+04/09 12:26:20:466 Create order(84922000514) cost time: 28ms
+04/09 12:26:20:601 Update order(84922000514) cost time: 19ms
+04/09 12:26:20:604 84922000514: LOYALTY - LOYALTY.VALIDATE
+04/09 12:26:20:606 orderId = 125408047 | requestId = 0 | orderDate = 2013/09/04 12:26:20 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = TRADIEM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+04/09 12:26:20:620 sendNotify: 84922000514 - Quy khach hien dang la khach hang Than Thiet cua Vietnamobile tu  , da tich luy duoc  diem va con  diem. Chi tiet, lien he 789.
+04/09 12:27:17:449 Create order(84922000514) cost time: 10ms
+04/09 12:27:17:490 Update order(84922000514) cost time: 7ms
+04/09 12:27:17:491 84922000514: LOYALTY - LOYALTY.VALIDATE
+04/09 12:27:17:491 orderId = 125408048 | requestId = 0 | orderDate = 2013/09/04 12:27:17 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = TRADIEM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+04/09 12:27:17:497 sendNotify: 84922000514 - Quy khach hien dang la khach hang Than Thiet cua Vietnamobile tu  , da tich luy duoc  diem va con  diem. Chi tiet, lien he 789.
+04/09 12:27:30:483 Create order(84922000514) cost time: 9ms
+04/09 12:27:30:508 Update order(84922000514) cost time: 8ms
+04/09 12:27:30:509 84922000514: LOYALTY - LOYALTY.VALIDATE
+04/09 12:27:30:509 orderId = 125408049 | requestId = 0 | orderDate = 2013/09/04 12:27:30 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = TRADIEM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+04/09 12:27:30:515 sendNotify: 84922000514 - Quy khach hien dang la khach hang Than Thiet cua Vietnamobile tu  , da tich luy duoc  diem va con  diem. Chi tiet, lien he 789.
+04/09 12:31:01:887 Order Routing started
+04/09 12:31:05:751 Testing connection ...
+04/09 12:31:07:087 Created provisioning instance for CCWS
+04/09 12:31:07:087 Testing connection are success
+04/09 12:31:07:087 Starting process session
+04/09 12:31:08:552 Total 0 instances are started
+04/09 12:31:08:553 Total 1 instances are added
+04/09 12:31:22:719 Create order(84922000514) cost time: 33ms
+04/09 12:31:22:896 Update order(84922000514) cost time: 24ms
+04/09 12:31:22:898 84922000514: LOYALTY - LOYALTY.VALIDATE
+04/09 12:31:22:899 orderId = 125408050 | requestId = 0 | orderDate = 2013/09/04 12:31:22 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = TRADIEM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+04/09 12:31:22:909 sendNotify: 84922000514 - Quy khach hien dang la khach hang Than Thiet cua Vietnamobile tu  , da tich luy duoc  diem va con  diem. Chi tiet, lien he 789.
+04/09 12:34:46:985 Order Routing started
+04/09 12:34:51:483 Testing connection ...
+04/09 12:34:52:493 Created provisioning instance for CCWS
+04/09 12:34:52:494 Testing connection are success
+04/09 12:34:52:494 Starting process session
+04/09 12:34:54:178 Total 0 instances are started
+04/09 12:34:54:179 Total 1 instances are added
+04/09 12:34:59:985 Create order(84922000514) cost time: 26ms
+04/09 12:35:00:260 Update order(84922000514) cost time: 21ms
+04/09 12:35:00:262 84922000514: LOYALTY - LOYALTY.VALIDATE
+04/09 12:35:00:263 orderId = 125408051 | requestId = 0 | orderDate = 2013/09/04 12:34:59 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = TRADIEM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+04/09 12:35:00:303 sendNotify: 84922000514 - Quy khach hien dang la khach hang Than Thiet cua Vietnamobile tu  , da tich luy duoc  diem va con  diem. Chi tiet, lien he 789.
+04/09 12:40:20:394 Order Routing started
+04/09 12:40:24:747 Testing connection ...
+04/09 12:40:25:687 Created provisioning instance for CCWS
+04/09 12:40:25:688 Testing connection are success
+04/09 12:40:25:689 Starting process session
+04/09 12:40:27:080 Total 0 instances are started
+04/09 12:40:27:081 Total 1 instances are added
+04/09 13:38:34:187 Close pool
+04/09 13:38:34:288 Close queue connection pool.
+04/09 13:38:34:353 End of process session
+04/09 13:38:34:356 Order Routing stopped
+04/09 13:38:36:216 Order Routing started
+04/09 13:38:36:239 Close pool
+04/09 13:38:36:240 Close pool
+04/09 13:38:36:240 Testing connection ...
+04/09 13:38:36:248 Created provisioning instance for CCWS
+04/09 13:38:36:249 Testing connection are success
+04/09 13:38:36:249 Starting process session
+04/09 13:38:37:136 Total 0 instances are started
+04/09 13:38:37:137 Total 1 instances are added
+04/09 13:40:26:228 Order Routing started
+04/09 13:40:30:366 Testing connection ...
+04/09 13:40:31:326 Created provisioning instance for CCWS
+04/09 13:40:31:327 Testing connection are success
+04/09 13:40:31:327 Starting process session
+04/09 13:40:32:938 Total 0 instances are started
+04/09 13:40:32:939 Total 1 instances are added
+04/09 13:41:22:041 Create order(84922000514) cost time: 35ms
+04/09 13:41:22:183 Update order(84922000514) cost time: 17ms
+04/09 13:41:22:185 84922000514: LOYALTY - LOYALTY.VALIDATE
+04/09 13:41:22:186 orderId = 125408052 | requestId = 0 | orderDate = 2013/09/04 13:41:22 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = TRADIEM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+04/09 13:41:22:211 sendNotify: 84922000514 - Quy khach hien dang la khach hang Than Thiet cua Vietnamobile tu  , da tich luy duoc  diem va con  diem. Chi tiet, lien he 789.
+04/09 13:55:39:391 Order Routing started
+04/09 13:55:43:568 Testing connection ...
+04/09 13:55:44:656 Created provisioning instance for CCWS
+04/09 13:55:44:657 Testing connection are success
+04/09 13:55:44:657 Starting process session
+04/09 13:55:46:042 Total 0 instances are started
+04/09 13:55:46:045 Total 1 instances are added
+04/09 13:56:06:408 Create order(84922000514) cost time: 25ms
+04/09 13:56:06:560 Update order(84922000514) cost time: 13ms
+04/09 13:56:06:562 84922000514: LOYALTY - LOYALTY.VALIDATE
+04/09 13:56:06:564 orderId = 125408053 | requestId = 0 | orderDate = 2013/09/04 13:56:06 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = TRADIEM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+04/09 13:56:06:579 sendNotify: 84922000514 - Quy khach hien dang la khach hang Than Thiet cua Vietnamobile tu  , da tich luy duoc  diem va con  diem. Chi tiet, lien he 789.
+04/09 13:57:06:878 Order Routing started
+04/09 13:57:11:076 Testing connection ...
+04/09 13:57:11:871 Created provisioning instance for CCWS
+04/09 13:57:11:872 Testing connection are success
+04/09 13:57:11:872 Starting process session
+04/09 13:57:13:578 Total 0 instances are started
+04/09 13:57:13:579 Total 1 instances are added
+04/09 13:57:26:387 Close pool
+04/09 13:57:26:488 Close queue connection pool.
+04/09 13:57:26:496 End of process session
+04/09 13:57:26:498 Order Routing stopped
+04/09 13:57:28:413 Order Routing started
+04/09 13:57:28:433 Close pool
+04/09 13:57:28:434 Close pool
+04/09 13:57:28:437 Testing connection ...
+04/09 13:57:28:441 Created provisioning instance for CCWS
+04/09 13:57:28:442 Testing connection are success
+04/09 13:57:28:442 Starting process session
+04/09 13:57:29:224 Total 0 instances are started
+04/09 13:57:29:225 Total 1 instances are added
+04/09 13:57:34:642 Create order(84922000514) cost time: 21ms
+04/09 13:57:34:803 Update order(84922000514) cost time: 17ms
+04/09 13:57:34:805 84922000514: LOYALTY - LOYALTY.VALIDATE
+04/09 13:57:34:806 orderId = 125408054 | requestId = 0 | orderDate = 2013/09/04 13:57:34 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = TRADIEM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+04/09 13:57:34:818 sendNotify: 84922000514 - Quy khach hien dang la khach hang Than Thiet cua Vietnamobile tu  , da tich luy duoc  diem va con  diem. Chi tiet, lien he 789.
+04/09 13:58:59:635 Create order(84922000514) cost time: 8ms
+04/09 13:58:59:742 Update order(84922000514) cost time: 5ms
+04/09 13:58:59:743 84922000514: LOYALTY - LOYALTY.VALIDATE
+04/09 13:58:59:744 orderId = 125408055 | requestId = 0 | orderDate = 2013/09/04 13:58:59 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = TRADIEM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+04/09 13:58:59:749 sendNotify: 84922000514 - Quy khach hien dang la khach hang Than Thiet cua Vietnamobile tu  , da tich luy duoc  diem va con  diem. Chi tiet, lien he 789.
+04/09 13:59:06:674 Create order(84922000514) cost time: 10ms
+04/09 13:59:06:698 Update order(84922000514) cost time: 6ms
+04/09 13:59:06:699 84922000514: LOYALTY - LOYALTY.VALIDATE
+04/09 13:59:06:699 orderId = 125408056 | requestId = 0 | orderDate = 2013/09/04 13:59:06 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = TRADIEM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+04/09 13:59:06:704 sendNotify: 84922000514 - Quy khach hien dang la khach hang Than Thiet cua Vietnamobile tu  , da tich luy duoc  diem va con  diem. Chi tiet, lien he 789.
+04/09 13:59:21:662 Order Routing started
+04/09 13:59:25:851 Testing connection ...
+04/09 13:59:26:702 Created provisioning instance for CCWS
+04/09 13:59:26:703 Testing connection are success
+04/09 13:59:26:703 Starting process session
+04/09 13:59:28:530 Total 0 instances are started
+04/09 13:59:28:531 Total 1 instances are added
+04/09 13:59:43:470 Create order(84922000514) cost time: 30ms
+04/09 13:59:43:639 Update order(84922000514) cost time: 12ms
+04/09 13:59:43:642 84922000514: LOYALTY - LOYALTY.VALIDATE
+04/09 13:59:43:643 orderId = 125408057 | requestId = 0 | orderDate = 2013/09/04 13:59:43 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = TRADIEM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+04/09 13:59:43:661 sendNotify: 84922000514 - Quy khach hien dang la khach hang Than Thiet cua Vietnamobile tu  , da tich luy duoc  diem va con  diem. Chi tiet, lien he 789.
+04/09 14:01:56:926 Order Routing started
+04/09 14:02:00:627 Testing connection ...
+04/09 14:02:01:887 Created provisioning instance for CCWS
+04/09 14:02:01:887 Testing connection are success
+04/09 14:02:01:888 Starting process session
+04/09 14:02:03:164 Total 0 instances are started
+04/09 14:02:03:164 Total 1 instances are added
+04/09 14:02:16:757 Close pool
+04/09 14:02:16:858 Close queue connection pool.
+04/09 14:02:16:866 End of process session
+04/09 14:02:16:868 Order Routing stopped
+04/09 14:02:18:780 Order Routing started
+04/09 14:02:18:801 Close pool
+04/09 14:02:18:802 Close pool
+04/09 14:02:18:802 Testing connection ...
+04/09 14:02:18:806 Created provisioning instance for CCWS
+04/09 14:02:18:806 Testing connection are success
+04/09 14:02:18:806 Starting process session
+04/09 14:02:19:696 Total 0 instances are started
+04/09 14:02:19:697 Total 1 instances are added
+04/09 14:02:21:016 Create order(84922000514) cost time: 22ms
+04/09 14:02:21:169 Update order(84922000514) cost time: 12ms
+04/09 14:02:21:173 84922000514: LOYALTY - LOYALTY.VALIDATE
+04/09 14:02:21:174 orderId = 125408058 | requestId = 0 | orderDate = 2013/09/04 14:02:20 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = TRADIEM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+04/09 14:02:21:185 sendNotify: 84922000514 - Quy khach hien dang la khach hang Than Thiet cua Vietnamobile tu  , da tich luy duoc  diem va con  diem. Chi tiet, lien he 789.
+04/09 14:04:26:284 Order Routing started
+04/09 14:04:30:766 Testing connection ...
+04/09 14:04:31:932 Created provisioning instance for CCWS
+04/09 14:04:31:933 Testing connection are success
+04/09 14:04:31:933 Starting process session
+04/09 14:04:33:594 Total 0 instances are started
+04/09 14:04:33:594 Total 1 instances are added
+04/09 14:04:53:226 Create order(84922000514) cost time: 24ms
+04/09 14:05:06:023 Close pool
+04/09 14:05:06:124 Close queue connection pool.
+04/09 14:05:06:130 End of process session
+04/09 14:05:06:131 Order Routing stopped
+04/09 14:05:08:053 Order Routing started
+04/09 14:05:08:080 Close pool
+04/09 14:05:08:081 Close pool
+04/09 14:05:08:081 Testing connection ...
+04/09 14:05:08:088 Created provisioning instance for CCWS
+04/09 14:05:08:089 Testing connection are success
+04/09 14:05:08:089 Starting process session
+04/09 14:05:08:860 Total 0 instances are started
+04/09 14:05:08:861 Total 1 instances are added
+04/09 14:05:13:270 Create order(84922000514) cost time: 16ms
+04/09 14:05:52:418 Order Routing started
+04/09 14:05:56:317 Testing connection ...
+04/09 14:05:57:590 Created provisioning instance for CCWS
+04/09 14:05:57:591 Testing connection are success
+04/09 14:05:57:591 Starting process session
+04/09 14:05:59:127 Total 0 instances are started
+04/09 14:05:59:128 Total 1 instances are added
+04/09 14:06:08:978 Close pool
+04/09 14:06:09:079 Close queue connection pool.
+04/09 14:06:09:088 End of process session
+04/09 14:06:09:090 Order Routing stopped
+04/09 14:06:11:014 Order Routing started
+04/09 14:06:11:037 Close pool
+04/09 14:06:11:037 Close pool
+04/09 14:06:11:038 Testing connection ...
+04/09 14:06:11:045 Created provisioning instance for CCWS
+04/09 14:06:11:046 Testing connection are success
+04/09 14:06:11:046 Starting process session
+04/09 14:06:11:825 Total 0 instances are started
+04/09 14:06:11:826 Total 1 instances are added
+04/09 14:06:19:260 Create order(84922000514) cost time: 22ms
+04/09 14:06:33:052 Close pool
+04/09 14:06:33:154 Close queue connection pool.
+04/09 14:06:33:164 End of process session
+04/09 14:06:33:167 Order Routing stopped
+04/09 14:06:35:084 Order Routing started
+04/09 14:06:35:110 Close pool
+04/09 14:06:35:110 Close pool
+04/09 14:06:35:111 Testing connection ...
+04/09 14:06:35:118 Created provisioning instance for CCWS
+04/09 14:06:35:119 Testing connection are success
+04/09 14:06:35:120 Starting process session
+04/09 14:06:35:840 Total 0 instances are started
+04/09 14:06:35:842 Total 1 instances are added
+04/09 14:07:29:468 Order Routing started
+04/09 14:07:33:775 Testing connection ...
+04/09 14:07:34:662 Created provisioning instance for CCWS
+04/09 14:07:34:662 Testing connection are success
+04/09 14:07:34:663 Starting process session
+04/09 14:07:36:242 Total 0 instances are started
+04/09 14:07:36:243 Total 1 instances are added
+04/09 14:07:50:073 Close pool
+04/09 14:07:50:174 Close queue connection pool.
+04/09 14:07:50:182 End of process session
+04/09 14:07:50:183 Order Routing stopped
+04/09 14:07:52:115 Order Routing started
+04/09 14:07:52:139 Close pool
+04/09 14:07:52:139 Close pool
+04/09 14:07:52:140 Testing connection ...
+04/09 14:07:52:147 Created provisioning instance for CCWS
+04/09 14:07:52:148 Testing connection are success
+04/09 14:07:52:148 Starting process session
+04/09 14:07:52:934 Total 0 instances are started
+04/09 14:07:52:935 Total 1 instances are added
+04/09 14:08:01:361 Create order(84922000514) cost time: 23ms
+04/09 14:10:33:926 Update order(84922000514) cost time: 10ms
+04/09 14:10:33:928 84922000514: LOYALTY - LOYALTY.VALIDATE
+04/09 14:10:33:929 orderId = 125408062 | requestId = 0 | orderDate = 2013/09/04 14:08:01 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = TRADIEM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+04/09 14:10:33:954 sendNotify: 84922000514 - Quy khach hien dang la khach hang Than Thiet cua Vietnamobile tu  , da tich luy duoc  diem va con  diem. Chi tiet, lien he 789.
+04/09 14:16:47:766 Order Routing started
+04/09 14:16:50:158 Testing connection ...
+04/09 14:16:53:005 Created provisioning instance for CCWS
+04/09 14:16:53:005 Testing connection are success
+04/09 14:16:53:005 Starting process session
+04/09 14:16:54:578 Total 0 instances are started
+04/09 14:16:54:579 Total 1 instances are added
+04/09 14:17:09:609 Close pool
+04/09 14:17:09:710 Close queue connection pool.
+04/09 14:17:09:717 End of process session
+04/09 14:17:09:718 Order Routing stopped
+04/09 14:17:11:644 Order Routing started
+04/09 14:17:11:668 Close pool
+04/09 14:17:11:669 Close pool
+04/09 14:17:11:669 Testing connection ...
+04/09 14:17:11:676 Created provisioning instance for CCWS
+04/09 14:17:11:676 Testing connection are success
+04/09 14:17:11:677 Starting process session
+04/09 14:17:12:482 Total 0 instances are started
+04/09 14:17:12:483 Total 1 instances are added
+04/09 14:17:17:907 Create order(84922000514) cost time: 37ms
+04/09 14:23:49:406 Update order(84922000514) cost time: 25ms
+04/09 14:23:49:409 84922000514: LOYALTY - LOYALTY.VALIDATE
+04/09 14:23:49:410 orderId = 125408063 | requestId = 0 | orderDate = 2013/09/04 14:17:17 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = TRADIEM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+04/09 14:23:49:423 sendNotify: 84922000514 - Quy khach hien dang la khach hang Than Thiet cua Vietnamobile tu  , da tich luy duoc  diem va con  diem. Chi tiet, lien he 789.
+04/09 14:31:02:588 Order Routing started
+04/09 14:31:08:711 Testing connection ...
+04/09 14:31:09:665 Created provisioning instance for CCWS
+04/09 14:31:09:666 Testing connection are success
+04/09 14:31:09:666 Starting process session
+04/09 14:31:11:496 Total 0 instances are started
+04/09 14:31:11:497 Total 1 instances are added
+04/09 14:31:45:348 Close pool
+04/09 14:31:45:449 Close queue connection pool.
+04/09 14:31:45:454 End of process session
+04/09 14:31:45:455 Order Routing stopped
+04/09 14:31:47:379 Order Routing started
+04/09 14:31:47:402 Close pool
+04/09 14:31:47:403 Close pool
+04/09 14:31:47:404 Testing connection ...
+04/09 14:31:47:408 Created provisioning instance for CCWS
+04/09 14:31:47:408 Testing connection are success
+04/09 14:31:47:409 Starting process session
+04/09 14:31:48:264 Total 0 instances are started
+04/09 14:31:48:265 Total 1 instances are added
+04/09 14:31:55:915 Create order(84922000514) cost time: 126ms
+04/09 14:31:56:125 Update order(84922000514) cost time: 21ms
+04/09 14:31:56:135 84922000514: LOYALTY - LOYALTY.VALIDATE
+04/09 14:31:56:136 orderId = 125408064 | requestId = 0 | orderDate = 2013/09/04 14:31:55 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = TRADIEM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+04/09 14:31:56:161 sendNotify: 84922000514 - Quy khach hien dang la khach hang Than Thiet cua Vietnamobile tu  , da tich luy duoc  diem va con  diem. Chi tiet, lien he 789.
+04/09 14:33:54:311 Order Routing started
+04/09 14:33:58:455 Testing connection ...
+04/09 14:33:59:184 Created provisioning instance for CCWS
+04/09 14:33:59:186 Testing connection are success
+04/09 14:33:59:186 Starting process session
+04/09 14:34:00:607 Total 0 instances are started
+04/09 14:34:00:609 Total 1 instances are added
+04/09 14:34:21:355 Create order(84922000514) cost time: 27ms
+04/09 14:34:21:519 Update order(84922000514) cost time: 14ms
+04/09 14:34:21:521 84922000514: LOYALTY - LOYALTY.VALIDATE
+04/09 14:34:21:522 orderId = 125408065 | requestId = 0 | orderDate = 2013/09/04 14:34:21 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = TRADIEM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+04/09 14:34:21:536 sendNotify: 84922000514 - Quy khach hien dang la khach hang Than Thiet cua Vietnamobile tu  , da tich luy duoc  diem va con  diem. Chi tiet, lien he 789.
+04/09 14:38:50:292 Close pool
+04/09 14:38:50:393 Close queue connection pool.
+04/09 14:38:50:399 End of process session
+04/09 14:38:50:400 Order Routing stopped
+04/09 14:38:52:375 Order Routing started
+04/09 14:38:52:405 Close pool
+04/09 14:38:52:405 Close pool
+04/09 14:38:52:406 Testing connection ...
+04/09 14:38:52:411 Created provisioning instance for CCWS
+04/09 14:38:52:411 Testing connection are success
+04/09 14:38:52:412 Starting process session
+04/09 14:38:53:145 Total 0 instances are started
+04/09 14:38:53:146 Total 1 instances are added
+04/09 14:38:56:573 Create order(84922000514) cost time: 9ms
+04/09 14:38:56:670 Update order(84922000514) cost time: 5ms
+04/09 14:38:56:672 84922000514: LOYALTY - LOYALTY.VALIDATE
+04/09 14:38:56:672 orderId = 125408066 | requestId = 0 | orderDate = 2013/09/04 14:38:56 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = TRADIEM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+04/09 14:53:07:527 Close pool
+04/09 14:53:07:628 Close queue connection pool.
+04/09 14:53:07:634 End of process session
+04/09 14:53:07:635 Order Routing stopped
+04/09 14:53:09:552 Order Routing started
+04/09 14:53:09:570 Close pool
+04/09 14:53:09:571 Close pool
+04/09 14:53:09:571 Testing connection ...
+04/09 14:53:09:575 Created provisioning instance for CCWS
+04/09 14:53:09:576 Testing connection are success
+04/09 14:53:09:578 Starting process session
+04/09 14:53:10:363 Total 0 instances are started
+04/09 14:53:10:364 Total 1 instances are added
+04/09 14:53:11:754 Create order(84922000514) cost time: 17ms
+04/09 14:53:11:841 Update order(84922000514) cost time: 7ms
+04/09 14:53:11:842 84922000514: LOYALTY - CRM.SUBSCRIPTION_REGIST
+04/09 14:53:11:843 orderId = 125408067 | requestId = 0 | orderDate = 2013/09/04 14:53:11 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = DK CAM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = register | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 13119 | cause =  | status = 1 | description =  | balance = 
+04/09 14:53:11:849 sendNotify: 84922000514 - Chuc mung quy khach da gia nhap Cau lac bo CAM cua Vietnamobile.Hay tiep tuc su dung Vietnamobile de tich luy nhieu diem va nhan duoc nhieu uu dai cua chuong trinh. Chi tiet 789
+04/09 14:53:40:796 Create order(84922000514) cost time: 9ms
+04/09 14:53:40:815 Update order(84922000514) cost time: 5ms
+04/09 14:53:40:816 84922000514: LOYALTY - LOYALTY.VALIDATE
+04/09 14:53:40:817 orderId = 125408068 | requestId = 0 | orderDate = 2013/09/04 14:53:40 | userName = system | subProductId = 52789386 | channel = SMS | serviceAddress = 268 | keyword = TRADIEM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+04/09 14:54:25:869 Create order(84922000514) cost time: 12ms
+04/09 14:54:25:886 Update order(84922000514) cost time: 5ms
+04/09 14:54:25:887 84922000514: LOYALTY - LOYALTY.VALIDATE
+04/09 14:54:25:888 orderId = 125408069 | requestId = 0 | orderDate = 2013/09/04 14:54:25 | userName = system | subProductId = 52789386 | channel = SMS | serviceAddress = 268 | keyword = TRADIEM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+04/09 14:57:52:775 Close pool
+04/09 14:57:52:876 Close queue connection pool.
+04/09 14:57:52:882 End of process session
+04/09 14:57:52:883 Order Routing stopped
+04/09 14:57:54:796 Order Routing started
+04/09 14:57:54:821 Close pool
+04/09 14:57:54:822 Close pool
+04/09 14:57:54:822 Testing connection ...
+04/09 14:57:54:826 Created provisioning instance for CCWS
+04/09 14:57:54:826 Testing connection are success
+04/09 14:57:54:826 Starting process session
+04/09 14:57:55:565 Total 0 instances are started
+04/09 14:57:55:566 Total 1 instances are added
+04/09 14:57:59:008 Create order(84922000514) cost time: 17ms
+04/09 14:57:59:135 Update order(84922000514) cost time: 19ms
+04/09 14:57:59:136 84922000514: LOYALTY - LOYALTY.VALIDATE
+04/09 14:57:59:137 orderId = 125408070 | requestId = 0 | orderDate = 2013/09/04 14:57:58 | userName = system | subProductId = 52789386 | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 2000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+04/09 14:57:59:145 sendNotify: 84922000514 - Quy khach da doi thanh cong  diem thanh tien su dung dich vu. So tien tuong ung  diem se duoc cong  vao tai khoan TKKM2, su dung goi va nhan tin lien mang, data.
+04/09 15:10:52:207 Order Routing started
+04/09 15:10:56:406 Testing connection ...
+04/09 15:10:57:329 Created provisioning instance for CCWS
+04/09 15:10:57:330 Testing connection are success
+04/09 15:10:57:330 Starting process session
+04/09 15:10:58:414 Total 0 instances are started
+04/09 15:10:58:416 Total 1 instances are added
+04/09 15:11:13:816 Close pool
+04/09 15:11:13:917 Close queue connection pool.
+04/09 15:11:13:926 End of process session
+04/09 15:11:13:927 Order Routing stopped
+04/09 15:11:15:849 Order Routing started
+04/09 15:11:15:872 Close pool
+04/09 15:11:15:873 Close pool
+04/09 15:11:15:873 Testing connection ...
+04/09 15:11:15:877 Created provisioning instance for CCWS
+04/09 15:11:15:878 Testing connection are success
+04/09 15:11:15:878 Starting process session
+04/09 15:11:16:747 Total 0 instances are started
+04/09 15:11:16:748 Total 1 instances are added
+04/09 15:11:40:261 Create order(84922000514) cost time: 56ms
+04/09 15:11:40:428 Update order(84922000514) cost time: 16ms
+04/09 15:11:40:445 84922000514: LOYALTY - LOYALTY.VALIDATE
+04/09 15:11:40:446 orderId = 125408071 | requestId = 0 | orderDate = 2013/09/04 15:11:40 | userName = system | subProductId = 52789386 | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 2000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+04/09 15:11:40:463 sendNotify: 84922000514 - Quy khach da doi thanh cong  diem thanh tien su dung dich vu. So tien tuong ung  diem se duoc cong  vao tai khoan TKKM2, su dung goi va nhan tin lien mang, data.
+04/09 15:14:48:173 Order Routing started
+04/09 15:14:52:479 Testing connection ...
+04/09 15:14:53:726 Created provisioning instance for CCWS
+04/09 15:14:53:726 Testing connection are success
+04/09 15:14:53:726 Starting process session
+04/09 15:14:55:357 Total 0 instances are started
+04/09 15:14:55:358 Total 1 instances are added
+04/09 15:15:12:745 Close pool
+04/09 15:15:12:846 Close queue connection pool.
+04/09 15:15:12:852 End of process session
+04/09 15:15:12:854 Order Routing stopped
+04/09 15:15:14:796 Order Routing started
+04/09 15:15:14:818 Close pool
+04/09 15:15:14:819 Close pool
+04/09 15:15:14:819 Testing connection ...
+04/09 15:15:14:826 Created provisioning instance for CCWS
+04/09 15:15:14:827 Testing connection are success
+04/09 15:15:14:828 Starting process session
+04/09 15:15:15:596 Total 0 instances are started
+04/09 15:15:15:597 Total 1 instances are added
+04/09 15:15:17:081 Create order(84922000514) cost time: 24ms
+04/09 15:15:17:202 Update order(84922000514) cost time: 15ms
+04/09 15:15:17:204 84922000514: LOYALTY - LOYALTY.VALIDATE
+04/09 15:15:17:204 orderId = 125408072 | requestId = 0 | orderDate = 2013/09/04 15:15:17 | userName = system | subProductId = 52789386 | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 2000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+04/09 15:15:17:216 sendNotify: 84922000514 - Quy khach da doi thanh cong  diem thanh tien su dung dich vu. So tien tuong ung  diem se duoc cong  vao tai khoan TKKM2, su dung goi va nhan tin lien mang, data.
+04/09 15:15:51:040 Create order(84922000514) cost time: 10ms
+04/09 15:15:51:175 Update order(84922000514) cost time: 9ms
+04/09 15:15:51:176 84922000514: LOYALTY - LOYALTY.VALIDATE
+04/09 15:15:51:177 orderId = 125408073 | requestId = 0 | orderDate = 2013/09/04 15:15:51 | userName = system | subProductId = 52789386 | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 2000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+04/09 15:15:51:186 sendNotify: 84922000514 - Quy khach da doi thanh cong  diem thanh tien su dung dich vu. So tien tuong ung  diem se duoc cong  vao tai khoan TKKM2, su dung goi va nhan tin lien mang, data.
+04/09 15:15:58:077 Create order(84922000514) cost time: 8ms
+04/09 15:15:58:098 Update order(84922000514) cost time: 6ms
+04/09 15:15:58:099 84922000514: LOYALTY - LOYALTY.VALIDATE
+04/09 15:15:58:100 orderId = 125408074 | requestId = 0 | orderDate = 2013/09/04 15:15:58 | userName = system | subProductId = 52789386 | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 2000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+04/09 15:15:58:106 sendNotify: 84922000514 - Quy khach da doi thanh cong  diem thanh tien su dung dich vu. So tien tuong ung  diem se duoc cong  vao tai khoan TKKM2, su dung goi va nhan tin lien mang, data.
+04/09 15:21:15:797 Order Routing started
+04/09 15:21:17:919 Testing connection ...
+04/09 15:21:20:424 Created provisioning instance for CCWS
+04/09 15:21:20:424 Testing connection are success
+04/09 15:21:20:425 Starting process session
+04/09 15:21:21:443 Total 0 instances are started
+04/09 15:21:21:444 Total 1 instances are added
+04/09 15:22:40:567 Close pool
+04/09 15:22:40:669 Close queue connection pool.
+04/09 15:22:40:676 End of process session
+04/09 15:22:40:678 Order Routing stopped
+04/09 15:22:42:601 Order Routing started
+04/09 15:22:42:625 Close pool
+04/09 15:22:42:625 Close pool
+04/09 15:22:42:626 Testing connection ...
+04/09 15:22:42:633 Created provisioning instance for CCWS
+04/09 15:22:42:633 Testing connection are success
+04/09 15:22:42:634 Starting process session
+04/09 15:22:43:405 Total 0 instances are started
+04/09 15:22:43:406 Total 1 instances are added
+04/09 15:22:45:854 Create order(84922000514) cost time: 24ms
+04/09 15:22:45:994 Update order(84922000514) cost time: 9ms
+04/09 15:22:45:997 84922000514: LOYALTY - LOYALTY.VALIDATE
+04/09 15:22:45:998 orderId = 125408075 | requestId = 0 | orderDate = 2013/09/04 15:22:45 | userName = system | subProductId = 52789386 | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 2000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+04/09 15:22:46:010 sendNotify: 84922000514 - Quy khach da doi thanh cong  diem thanh tien su dung dich vu. So tien tuong ung  diem se duoc cong  vao tai khoan TKKM2, su dung goi va nhan tin lien mang, data.
+04/09 15:27:57:813 Order Routing started
+04/09 15:28:02:252 Testing connection ...
+04/09 15:28:03:279 Created provisioning instance for CCWS
+04/09 15:28:03:279 Testing connection are success
+04/09 15:28:03:280 Starting process session
+04/09 15:28:05:079 Total 0 instances are started
+04/09 15:28:05:080 Total 1 instances are added
+04/09 15:28:19:647 Close pool
+04/09 15:28:19:748 Close queue connection pool.
+04/09 15:28:19:760 End of process session
+04/09 15:28:19:762 Order Routing stopped
+04/09 15:28:21:673 Order Routing started
+04/09 15:28:21:693 Close pool
+04/09 15:28:21:694 Close pool
+04/09 15:28:21:694 Testing connection ...
+04/09 15:28:21:706 Created provisioning instance for CCWS
+04/09 15:28:21:706 Testing connection are success
+04/09 15:28:21:707 Starting process session
+04/09 15:28:22:604 Total 0 instances are started
+04/09 15:28:22:605 Total 1 instances are added
+04/09 15:28:26:926 Create order(84922000514) cost time: 22ms
+04/09 15:28:27:059 Update order(84922000514) cost time: 28ms
+04/09 15:28:27:062 84922000514: LOYALTY - LOYALTY.VALIDATE
+04/09 15:28:27:062 orderId = 125408076 | requestId = 0 | orderDate = 2013/09/04 15:28:26 | userName = system | subProductId = 52789386 | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 2000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+04/09 15:28:27:073 sendNotify: 84922000514 - Quy khach da doi thanh cong  diem thanh tien su dung dich vu. So tien tuong ung  diem se duoc cong  vao tai khoan TKKM2, su dung goi va nhan tin lien mang, data.
+04/09 15:30:45:030 Order Routing started
+04/09 15:30:49:437 Testing connection ...
+04/09 15:30:50:314 Created provisioning instance for CCWS
+04/09 15:30:50:314 Testing connection are success
+04/09 15:30:50:315 Starting process session
+04/09 15:30:51:865 Total 0 instances are started
+04/09 15:30:51:865 Total 1 instances are added
+04/09 15:31:13:038 Create order(84922000514) cost time: 33ms
+04/09 15:31:13:285 Update order(84922000514) cost time: 29ms
+04/09 15:31:13:288 84922000514: LOYALTY - LOYALTY.VALIDATE
+04/09 15:31:13:289 orderId = 125408077 | requestId = 0 | orderDate = 2013/09/04 15:31:13 | userName = system | subProductId = 52789386 | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 2000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+04/09 15:31:13:305 sendNotify: 84922000514 - Quy khach da doi thanh cong  diem thanh tien su dung dich vu. So tien tuong ung  diem se duoc cong  vao tai khoan TKKM2, su dung goi va nhan tin lien mang, data.
+04/09 15:31:52:641 Order Routing started
+04/09 15:31:54:697 Testing connection ...
+04/09 15:31:57:532 Created provisioning instance for CCWS
+04/09 15:31:57:533 Testing connection are success
+04/09 15:31:57:533 Starting process session
+04/09 15:31:59:141 Total 0 instances are started
+04/09 15:31:59:142 Total 1 instances are added
+04/09 15:32:42:429 Create order(84922000514) cost time: 26ms
+04/09 15:32:42:554 Update order(84922000514) cost time: 11ms
+04/09 15:32:42:556 84922000514: LOYALTY - LOYALTY.VALIDATE
+04/09 15:32:42:557 orderId = 125408078 | requestId = 0 | orderDate = 2013/09/04 15:32:42 | userName = system | subProductId = 52789386 | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 2000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+04/09 15:32:42:573 sendNotify: 84922000514 - Quy khach da doi thanh cong  diem thanh tien su dung dich vu. So tien tuong ung  diem se duoc cong  vao tai khoan TKKM2, su dung goi va nhan tin lien mang, data.
+04/09 15:33:30:535 Order Routing started
+04/09 15:33:34:578 Testing connection ...
+04/09 15:33:35:288 Created provisioning instance for CCWS
+04/09 15:33:35:289 Testing connection are success
+04/09 15:33:35:290 Starting process session
+04/09 15:33:36:659 Total 0 instances are started
+04/09 15:33:36:659 Total 1 instances are added
+04/09 15:33:51:135 Close pool
+04/09 15:33:51:236 Close queue connection pool.
+04/09 15:33:51:246 End of process session
+04/09 15:33:51:247 Order Routing stopped
+04/09 15:33:53:171 Order Routing started
+04/09 15:33:53:191 Close pool
+04/09 15:33:53:192 Close pool
+04/09 15:33:53:193 Testing connection ...
+04/09 15:33:53:196 Created provisioning instance for CCWS
+04/09 15:33:53:197 Testing connection are success
+04/09 15:33:53:197 Starting process session
+04/09 15:33:54:059 Total 0 instances are started
+04/09 15:33:54:060 Total 1 instances are added
+04/09 15:34:19:406 Create order(84922000514) cost time: 25ms
+04/09 15:34:19:522 Update order(84922000514) cost time: 18ms
+04/09 15:34:19:525 84922000514: LOYALTY - LOYALTY.VALIDATE
+04/09 15:34:19:526 orderId = 125408079 | requestId = 0 | orderDate = 2013/09/04 15:34:19 | userName = system | subProductId = 52789386 | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 2000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+04/09 15:34:19:536 sendNotify: 84922000514 - Quy khach da doi thanh cong  diem thanh tien su dung dich vu. So tien tuong ung  diem se duoc cong  vao tai khoan TKKM2, su dung goi va nhan tin lien mang, data.
+04/09 15:36:02:853 Order Routing started
+04/09 15:36:06:963 Testing connection ...
+04/09 15:36:08:004 Created provisioning instance for CCWS
+04/09 15:36:08:004 Testing connection are success
+04/09 15:36:08:005 Starting process session
+04/09 15:36:09:429 Total 0 instances are started
+04/09 15:36:09:430 Total 1 instances are added
+04/09 15:36:32:785 Create order(84922000514) cost time: 32ms
+04/09 15:36:32:915 Update order(84922000514) cost time: 12ms
+04/09 15:36:32:917 84922000514: LOYALTY - LOYALTY.VALIDATE
+04/09 15:36:32:918 orderId = 125408080 | requestId = 0 | orderDate = 2013/09/04 15:36:32 | userName = system | subProductId = 52789386 | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 2000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+04/09 15:36:32:932 sendNotify: 84922000514 - Quy khach da doi thanh cong  diem thanh tien su dung dich vu. So tien tuong ung  diem se duoc cong  vao tai khoan TKKM2, su dung goi va nhan tin lien mang, data.
+04/09 15:36:39:780 Create order(84922000514) cost time: 14ms
+04/09 15:36:39:817 Update order(84922000514) cost time: 7ms
+04/09 15:36:39:819 84922000514: LOYALTY - LOYALTY.VALIDATE
+04/09 15:36:39:820 orderId = 125408081 | requestId = 0 | orderDate = 2013/09/04 15:36:39 | userName = system | subProductId = 52789386 | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 2000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+04/09 15:36:39:836 sendNotify: 84922000514 - Quy khach da doi thanh cong  diem thanh tien su dung dich vu. So tien tuong ung  diem se duoc cong  vao tai khoan TKKM2, su dung goi va nhan tin lien mang, data.
+04/09 15:41:43:776 Order Routing started
+04/09 15:41:48:006 Testing connection ...
+04/09 15:41:49:026 Created provisioning instance for CCWS
+04/09 15:41:49:026 Testing connection are success
+04/09 15:41:49:027 Starting process session
+04/09 15:41:50:889 Total 0 instances are started
+04/09 15:41:50:890 Total 1 instances are added
+04/09 15:42:02:316 Close pool
+04/09 15:42:02:417 Close queue connection pool.
+04/09 15:42:02:425 End of process session
+04/09 15:42:02:426 Order Routing stopped
+04/09 15:42:04:362 Order Routing started
+04/09 15:42:04:384 Close pool
+04/09 15:42:04:385 Close pool
+04/09 15:42:04:385 Testing connection ...
+04/09 15:42:04:392 Created provisioning instance for CCWS
+04/09 15:42:04:393 Testing connection are success
+04/09 15:42:04:393 Starting process session
+04/09 15:42:05:179 Total 0 instances are started
+04/09 15:42:05:181 Total 1 instances are added
+04/09 15:42:10:611 Create order(84922000514) cost time: 23ms
+04/09 15:42:10:727 Update order(84922000514) cost time: 18ms
+04/09 15:42:10:731 84922000514: LOYALTY - LOYALTY.VALIDATE
+04/09 15:42:10:733 orderId = 125408082 | requestId = 0 | orderDate = 2013/09/04 15:42:10 | userName = system | subProductId = 52789386 | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 2000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+04/09 15:42:10:750 sendNotify: 84922000514 - Quy khach da doi thanh cong  diem thanh tien su dung dich vu. So tien tuong ung  diem se duoc cong  vao tai khoan TKKM2, su dung goi va nhan tin lien mang, data.
+04/09 15:42:22:593 Create order(84922000514) cost time: 9ms
+04/09 15:42:22:614 Update order(84922000514) cost time: 6ms
+04/09 15:42:22:615 84922000514: LOYALTY - LOYALTY.VALIDATE
+04/09 15:42:22:615 orderId = 125408083 | requestId = 0 | orderDate = 2013/09/04 15:42:22 | userName = system | subProductId = 52789386 | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 2000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+04/09 15:42:22:621 sendNotify: 84922000514 - Quy khach da doi thanh cong  diem thanh tien su dung dich vu. So tien tuong ung  diem se duoc cong  vao tai khoan TKKM2, su dung goi va nhan tin lien mang, data.
+04/09 15:45:36:644 Order Routing started
+04/09 15:45:40:661 Testing connection ...
+04/09 15:45:41:454 Created provisioning instance for CCWS
+04/09 15:45:41:455 Testing connection are success
+04/09 15:45:41:456 Starting process session
+04/09 15:45:42:625 Total 0 instances are started
+04/09 15:45:42:625 Total 1 instances are added
+04/09 15:47:49:469 Order Routing started
+04/09 15:47:53:857 Testing connection ...
+04/09 15:47:54:872 Created provisioning instance for CCWS
+04/09 15:47:54:874 Testing connection are success
+04/09 15:47:54:874 Starting process session
+04/09 15:47:56:454 Total 0 instances are started
+04/09 15:47:56:455 Total 1 instances are added
+04/09 15:48:27:092 Close pool
+04/09 15:48:27:193 Close queue connection pool.
+04/09 15:48:27:211 End of process session
+04/09 15:48:27:213 Order Routing stopped
+04/09 15:48:29:133 Order Routing started
+04/09 15:48:29:157 Close pool
+04/09 15:48:29:158 Close pool
+04/09 15:48:29:159 Testing connection ...
+04/09 15:48:29:166 Created provisioning instance for CCWS
+04/09 15:48:29:167 Testing connection are success
+04/09 15:48:29:167 Starting process session
+04/09 15:48:29:951 Total 0 instances are started
+04/09 15:48:29:952 Total 1 instances are added
+04/09 15:48:52:359 Create order(84922000514) cost time: 25ms
+04/09 15:48:52:506 Update order(84922000514) cost time: 17ms
+04/09 15:48:52:514 84922000514: LOYALTY - LOYALTY.VALIDATE
+04/09 15:48:52:515 orderId = 125408084 | requestId = 0 | orderDate = 2013/09/04 15:48:52 | userName = system | subProductId = 52789386 | channel = SMS | serviceAddress = 268 | keyword = TRADIEM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+04/09 15:51:34:318 Close pool
+04/09 15:51:34:419 Close queue connection pool.
+04/09 15:51:34:425 End of process session
+04/09 15:51:34:426 Order Routing stopped
+04/09 15:51:36:349 Order Routing started
+04/09 15:51:36:367 Close pool
+04/09 15:51:36:368 Close pool
+04/09 15:51:36:368 Testing connection ...
+04/09 15:51:36:378 Created provisioning instance for CCWS
+04/09 15:51:36:378 Testing connection are success
+04/09 15:51:36:379 Starting process session
+04/09 15:51:37:062 Total 0 instances are started
+04/09 15:51:37:063 Total 1 instances are added
+04/09 15:51:41:559 Create order(84922000514) cost time: 12ms
+04/09 15:51:41:662 Update order(84922000514) cost time: 5ms
+04/09 15:51:41:664 84922000514: LOYALTY - LOYALTY.VALIDATE
+04/09 15:51:41:665 orderId = 125408085 | requestId = 0 | orderDate = 2013/09/04 15:51:41 | userName = system | subProductId = 52789386 | channel = SMS | serviceAddress = 268 | keyword = TRADIEM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+04/09 15:53:26:386 Close pool
+04/09 15:53:26:487 Close queue connection pool.
+04/09 15:53:26:491 End of process session
+04/09 15:53:26:493 Order Routing stopped
+04/09 15:53:28:421 Order Routing started
+04/09 15:53:28:441 Close pool
+04/09 15:53:28:442 Close pool
+04/09 15:53:28:442 Testing connection ...
+04/09 15:53:28:450 Created provisioning instance for CCWS
+04/09 15:53:28:451 Testing connection are success
+04/09 15:53:28:451 Starting process session
+04/09 15:53:29:182 Total 0 instances are started
+04/09 15:53:29:183 Total 1 instances are added
+04/09 15:53:32:606 Create order(84922000514) cost time: 11ms
+04/09 15:53:32:624 Update order(84922000514) cost time: 5ms
+04/09 15:53:32:625 84922000514: LOYALTY - LOYALTY.VALIDATE
+04/09 15:53:32:626 orderId = 125408086 | requestId = 0 | orderDate = 2013/09/04 15:53:32 | userName = system | subProductId = 52789386 | channel = SMS | serviceAddress = 268 | keyword = TRADIEM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+04/09 15:53:32:630 sendNotify: 84922000514 - yrdjhgdkudfkudtkc
+04/09 15:55:03:498 Close pool
+04/09 15:55:03:599 Close queue connection pool.
+04/09 15:55:03:608 End of process session
+04/09 15:55:03:609 Order Routing stopped
+04/09 15:55:05:549 Order Routing started
+04/09 15:55:05:574 Close pool
+04/09 15:55:05:574 Close pool
+04/09 15:55:05:575 Testing connection ...
+04/09 15:55:05:581 Created provisioning instance for CCWS
+04/09 15:55:05:582 Testing connection are success
+04/09 15:55:05:582 Starting process session
+04/09 15:55:06:375 Total 0 instances are started
+04/09 15:55:06:376 Total 1 instances are added
+04/09 15:55:22:856 Create order(84922000514) cost time: 18ms
+04/09 15:55:22:975 Update order(84922000514) cost time: 11ms
+04/09 15:55:22:976 84922000514: LOYALTY - LOYALTY.VALIDATE
+04/09 15:55:22:978 orderId = 125408087 | requestId = 0 | orderDate = 2013/09/04 15:55:22 | userName = system | subProductId = 52789386 | channel = SMS | serviceAddress = 268 | keyword = TRADIEM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+04/09 15:56:56:035 Order Routing started
+04/09 15:56:59:929 Testing connection ...
+04/09 15:57:00:761 Created provisioning instance for CCWS
+04/09 15:57:00:761 Testing connection are success
+04/09 15:57:00:762 Starting process session
+04/09 15:57:02:784 Total 0 instances are started
+04/09 15:57:02:785 Total 1 instances are added
+04/09 15:57:15:642 Close pool
+04/09 15:57:15:743 Close queue connection pool.
+04/09 15:57:15:752 End of process session
+04/09 15:57:15:753 Order Routing stopped
+04/09 15:57:17:678 Order Routing started
+04/09 15:57:17:699 Close pool
+04/09 15:57:17:700 Close pool
+04/09 15:57:17:700 Testing connection ...
+04/09 15:57:17:704 Created provisioning instance for CCWS
+04/09 15:57:17:704 Testing connection are success
+04/09 15:57:17:705 Starting process session
+04/09 15:57:18:609 Total 0 instances are started
+04/09 15:57:18:610 Total 1 instances are added
+04/09 15:57:24:908 Create order(84922000514) cost time: 19ms
+04/09 15:57:25:024 Update order(84922000514) cost time: 19ms
+04/09 15:57:25:026 84922000514: LOYALTY - LOYALTY.VALIDATE
+04/09 15:57:25:027 orderId = 125408088 | requestId = 0 | orderDate = 2013/09/04 15:57:24 | userName = system | subProductId = 52789386 | channel = SMS | serviceAddress = 268 | keyword = TRADIEM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+04/09 16:00:38:305 Order Routing started
+04/09 16:00:42:571 Testing connection ...
+04/09 16:00:43:496 Created provisioning instance for CCWS
+04/09 16:00:43:497 Testing connection are success
+04/09 16:00:43:498 Starting process session
+04/09 16:00:44:789 Total 0 instances are started
+04/09 16:00:44:789 Total 1 instances are added
+04/09 16:01:06:944 Close pool
+04/09 16:01:07:045 Close queue connection pool.
+04/09 16:01:07:051 End of process session
+04/09 16:01:07:053 Order Routing stopped
+04/09 16:01:08:974 Order Routing started
+04/09 16:01:08:993 Close pool
+04/09 16:01:08:994 Close pool
+04/09 16:01:08:995 Testing connection ...
+04/09 16:01:08:998 Created provisioning instance for CCWS
+04/09 16:01:08:999 Testing connection are success
+04/09 16:01:08:999 Starting process session
+04/09 16:01:09:823 Total 0 instances are started
+04/09 16:01:09:824 Total 1 instances are added
+04/09 16:03:09:361 Order Routing started
+04/09 16:03:13:707 Testing connection ...
+04/09 16:03:14:685 Created provisioning instance for CCWS
+04/09 16:03:14:690 Testing connection are success
+04/09 16:03:14:690 Starting process session
+04/09 16:03:15:900 Total 0 instances are started
+04/09 16:03:15:900 Total 1 instances are added
+04/09 16:04:14:356 Create order(84922000514) cost time: 28ms
+04/09 16:04:14:504 Update order(84922000514) cost time: 11ms
+04/09 16:04:14:507 84922000514: LOYALTY - LOYALTY.VALIDATE
+04/09 16:04:14:508 orderId = 125408089 | requestId = 0 | orderDate = 2013/09/04 16:04:14 | userName = system | subProductId = 52789386 | channel = SMS | serviceAddress = 268 | keyword = TRADIEM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+04/09 16:08:53:147 Order Routing started
+04/09 16:08:57:342 Testing connection ...
+04/09 16:08:58:148 Created provisioning instance for CCWS
+04/09 16:08:58:149 Testing connection are success
+04/09 16:08:58:149 Starting process session
+04/09 16:08:59:815 Total 0 instances are started
+04/09 16:08:59:815 Total 1 instances are added
+04/09 16:09:17:675 Close pool
+04/09 16:09:17:776 Close queue connection pool.
+04/09 16:09:17:783 End of process session
+04/09 16:09:17:784 Order Routing stopped
+04/09 16:09:19:724 Order Routing started
+04/09 16:09:19:744 Close pool
+04/09 16:09:19:745 Close pool
+04/09 16:09:19:745 Testing connection ...
+04/09 16:09:19:752 Created provisioning instance for CCWS
+04/09 16:09:19:753 Testing connection are success
+04/09 16:09:19:753 Starting process session
+04/09 16:09:20:518 Total 0 instances are started
+04/09 16:09:20:519 Total 1 instances are added
+04/09 16:10:16:155 Create order(84922000514) cost time: 20ms
+04/09 16:10:23:926 Close pool
+04/09 16:10:24:027 Close queue connection pool.
+04/09 16:10:24:033 End of process session
+04/09 16:10:24:035 Order Routing stopped
+04/09 16:10:25:952 Order Routing started
+04/09 16:10:25:975 Close pool
+04/09 16:10:25:976 Close pool
+04/09 16:10:25:976 Testing connection ...
+04/09 16:10:25:984 Created provisioning instance for CCWS
+04/09 16:10:25:984 Testing connection are success
+04/09 16:10:25:985 Starting process session
+04/09 16:10:26:678 Total 0 instances are started
+04/09 16:10:26:679 Total 1 instances are added
+04/09 16:10:29:955 Close pool
+04/09 16:10:30:056 Close queue connection pool.
+04/09 16:10:30:063 End of process session
+04/09 16:10:30:064 Order Routing stopped
+04/09 16:10:31:984 Order Routing started
+04/09 16:10:32:008 Close pool
+04/09 16:10:32:008 Close pool
+04/09 16:10:32:009 Testing connection ...
+04/09 16:10:32:016 Created provisioning instance for CCWS
+04/09 16:10:32:017 Testing connection are success
+04/09 16:10:32:017 Starting process session
+04/09 16:10:32:711 Total 0 instances are started
+04/09 16:10:32:712 Total 1 instances are added
+04/09 16:11:03:026 Order Routing started
+04/09 16:11:07:453 Testing connection ...
+04/09 16:11:08:410 Created provisioning instance for CCWS
+04/09 16:11:08:410 Testing connection are success
+04/09 16:11:08:410 Starting process session
+04/09 16:11:10:500 Total 0 instances are started
+04/09 16:11:10:502 Total 1 instances are added
+04/09 16:11:39:799 Create order(84922000514) cost time: 27ms
+04/09 16:14:54:720 Close pool
+04/09 16:14:54:821 Close queue connection pool.
+04/09 16:14:54:829 End of process session
+04/09 16:14:54:830 Order Routing stopped
+04/09 16:14:57:749 Order Routing started
+04/09 16:14:57:772 Close pool
+04/09 16:14:57:773 Close pool
+04/09 16:14:57:773 Testing connection ...
+04/09 16:14:57:780 Created provisioning instance for CCWS
+04/09 16:14:57:781 Testing connection are success
+04/09 16:14:57:781 Starting process session
+04/09 16:14:58:561 Total 0 instances are started
+04/09 16:14:58:562 Total 1 instances are added
+04/09 16:14:58:609 Create order(84922000514) cost time: 9ms
+04/09 16:14:58:712 Update order(84922000514) cost time: 11ms
+04/09 16:14:58:716 84922000514: LOYALTY - LOYALTY.VALIDATE
+04/09 16:14:58:717 orderId = 125408092 | requestId = 0 | orderDate = 2013/09/04 16:14:58 | userName = system | subProductId = 52789386 | channel = SMS | serviceAddress = 268 | keyword = TRADIEM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+04/09 16:15:54:782 Close pool
+04/09 16:15:54:883 Close queue connection pool.
+04/09 16:15:54:886 End of process session
+04/09 16:15:54:888 Order Routing stopped
+04/09 16:15:56:812 Order Routing started
+04/09 16:15:56:833 Close pool
+04/09 16:15:56:833 Close pool
+04/09 16:15:56:834 Testing connection ...
+04/09 16:15:56:840 Created provisioning instance for CCWS
+04/09 16:15:56:840 Testing connection are success
+04/09 16:15:56:841 Starting process session
+04/09 16:15:57:573 Total 0 instances are started
+04/09 16:15:57:574 Total 1 instances are added
+04/09 16:16:04:019 Create order(84922000514) cost time: 10ms
+04/09 16:16:04:046 Update order(84922000514) cost time: 4ms
+04/09 16:16:04:047 84922000514: LOYALTY - LOYALTY.VALIDATE
+04/09 16:16:04:048 orderId = 125408093 | requestId = 0 | orderDate = 2013/09/04 16:16:04 | userName = system | subProductId = 52789386 | channel = SMS | serviceAddress = 268 | keyword = TRADIEM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+04/09 16:17:12:383 Order Routing started
+04/09 16:17:16:611 Testing connection ...
+04/09 16:17:17:525 Created provisioning instance for CCWS
+04/09 16:17:17:525 Testing connection are success
+04/09 16:17:17:525 Starting process session
+04/09 16:17:18:925 Total 0 instances are started
+04/09 16:17:18:925 Total 1 instances are added
+04/09 16:17:39:051 Close pool
+04/09 16:17:39:152 Close queue connection pool.
+04/09 16:17:39:159 End of process session
+04/09 16:17:39:160 Order Routing stopped
+04/09 16:17:41:080 Order Routing started
+04/09 16:17:41:102 Close pool
+04/09 16:17:41:102 Close pool
+04/09 16:17:41:103 Testing connection ...
+04/09 16:17:41:110 Created provisioning instance for CCWS
+04/09 16:17:41:110 Testing connection are success
+04/09 16:17:41:111 Starting process session
+04/09 16:17:41:917 Total 0 instances are started
+04/09 16:17:41:918 Total 1 instances are added
+04/09 16:17:54:354 Create order(84922000514) cost time: 24ms
+04/09 16:17:54:501 Update order(84922000514) cost time: 19ms
+04/09 16:17:54:504 84922000514: LOYALTY - LOYALTY.VALIDATE
+04/09 16:17:54:505 orderId = 125408094 | requestId = 0 | orderDate = 2013/09/04 16:17:54 | userName = system | subProductId = 52789386 | channel = SMS | serviceAddress = 268 | keyword = TRADIEM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+04/09 16:24:06:236 Order Routing started
+04/09 16:24:35:785 java.sql.SQLException: Connections could not be acquired from the underlying database!
+04/09 16:24:35:785 End of process session
+04/09 16:24:55:579 java.sql.SQLException: An SQLException was provoked by the following failure: com.mchange.v2.resourcepool.ResourcePoolException: A ResourcePool cannot acquire a new resource -- the factory or source appears to be down.
+04/09 16:24:55:579 End of process session
+04/09 16:24:56:582 Order Routing stopped
+04/09 16:24:57:999 Order Routing started
+04/09 16:25:00:402 Testing connection ...
+04/09 16:25:00:980 Created provisioning instance for CCWS
+04/09 16:25:00:981 Testing connection are success
+04/09 16:25:00:981 Starting process session
+04/09 16:25:02:154 Total 0 instances are started
+04/09 16:25:02:155 Total 1 instances are added
+04/09 16:25:06:250 Create order(84922000514) cost time: 33ms
+04/09 16:25:06:422 Update order(84922000514) cost time: 21ms
+04/09 16:25:06:424 84922000514: LOYALTY - LOYALTY.VALIDATE
+04/09 16:25:06:424 orderId = 125408095 | requestId = 0 | orderDate = 2013/09/04 16:25:06 | userName = system | subProductId = 52789386 | channel = SMS | serviceAddress = 268 | keyword = TRADIEM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+04/09 16:25:34:118 Close pool
+04/09 16:25:34:219 Close queue connection pool.
+04/09 16:25:34:225 End of process session
+04/09 16:25:34:226 Order Routing stopped
+04/09 16:25:36:154 Order Routing started
+04/09 16:25:36:177 Close pool
+04/09 16:25:36:177 Close pool
+04/09 16:25:36:178 Testing connection ...
+04/09 16:25:36:182 Created provisioning instance for CCWS
+04/09 16:25:36:183 Testing connection are success
+04/09 16:25:36:183 Starting process session
+04/09 16:25:36:947 Total 0 instances are started
+04/09 16:25:36:948 Total 1 instances are added
+04/09 16:25:46:497 Create order(84922000514) cost time: 12ms
+04/09 16:25:46:617 Update order(84922000514) cost time: 16ms
+04/09 16:25:46:618 84922000514: LOYALTY - LOYALTY.VALIDATE
+04/09 16:25:46:618 orderId = 125408096 | requestId = 0 | orderDate = 2013/09/04 16:25:46 | userName = system | subProductId = 52789386 | channel = SMS | serviceAddress = 268 | keyword = TRADIEM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+04/09 16:27:47:295 Order Routing started
+04/09 16:27:52:423 Testing connection ...
+04/09 16:27:53:223 Created provisioning instance for CCWS
+04/09 16:27:53:224 Testing connection are success
+04/09 16:27:53:224 Starting process session
+04/09 16:27:54:705 Total 0 instances are started
+04/09 16:27:54:705 Total 1 instances are added
+04/09 16:28:08:759 Close pool
+04/09 16:28:08:860 Close queue connection pool.
+04/09 16:28:08:869 End of process session
+04/09 16:28:08:870 Order Routing stopped
+04/09 16:28:10:777 Order Routing started
+04/09 16:28:10:799 Close pool
+04/09 16:28:10:800 Close pool
+04/09 16:28:10:800 Testing connection ...
+04/09 16:28:10:808 Created provisioning instance for CCWS
+04/09 16:28:10:808 Testing connection are success
+04/09 16:28:10:809 Starting process session
+04/09 16:28:11:578 Total 0 instances are started
+04/09 16:28:11:579 Total 1 instances are added
+04/09 16:28:16:006 Create order(84922000514) cost time: 27ms
+04/09 16:28:16:134 Update order(84922000514) cost time: 23ms
+04/09 16:28:16:137 84922000514: LOYALTY - LOYALTY.VALIDATE
+04/09 16:28:16:138 orderId = 125408097 | requestId = 0 | orderDate = 2013/09/04 16:28:15 | userName = system | subProductId = 52789386 | channel = SMS | serviceAddress = 268 | keyword = TRADIEM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+04/09 16:28:55:309 Order Routing started
+04/09 16:28:59:700 Testing connection ...
+04/09 16:29:00:700 Created provisioning instance for CCWS
+04/09 16:29:00:700 Testing connection are success
+04/09 16:29:00:701 Starting process session
+04/09 16:29:02:401 Total 0 instances are started
+04/09 16:29:02:402 Total 1 instances are added
+04/09 16:29:22:165 Create order(84922000514) cost time: 35ms
+04/09 16:29:22:289 Update order(84922000514) cost time: 13ms
+04/09 16:29:22:291 84922000514: LOYALTY - LOYALTY.VALIDATE
+04/09 16:29:22:293 orderId = 125408098 | requestId = 0 | orderDate = 2013/09/04 16:29:22 | userName = system | subProductId = 52789386 | channel = SMS | serviceAddress = 268 | keyword = TRADIEM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+04/09 16:32:02:221 Create order(84922000514) cost time: 17ms
+04/09 16:32:02:308 Update order(84922000514) cost time: 8ms
+04/09 16:32:02:309 84922000514: LOYALTY - LOYALTY.VALIDATE
+04/09 16:32:02:310 orderId = 125408099 | requestId = 0 | orderDate = 2013/09/04 16:32:02 | userName = system | subProductId = 52789386 | channel = SMS | serviceAddress = 268 | keyword = TRADIEM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+04/09 16:40:08:083 Order Routing started
+04/09 16:40:12:127 Testing connection ...
+04/09 16:40:12:810 Created provisioning instance for CCWS
+04/09 16:40:12:811 Testing connection are success
+04/09 16:40:12:812 Starting process session
+04/09 16:40:14:471 Total 0 instances are started
+04/09 16:40:14:472 Total 1 instances are added
+04/09 16:40:38:018 Create order(84922000514) cost time: 30ms
+04/09 16:40:38:165 Update order(84922000514) cost time: 27ms
+04/09 16:40:38:167 84922000514: LOYALTY - LOYALTY.VALIDATE
+04/09 16:40:38:169 orderId = 125408100 | requestId = 0 | orderDate = 2013/09/04 16:40:37 | userName = system | subProductId = 52789386 | channel = SMS | serviceAddress = 268 | keyword = TRADIEM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+04/09 16:41:34:821 Close pool
+04/09 16:41:34:922 Close queue connection pool.
+04/09 16:41:34:927 End of process session
+04/09 16:41:34:928 Order Routing stopped
+04/09 16:41:36:851 Order Routing started
+04/09 16:41:36:874 Close pool
+04/09 16:41:36:875 Close pool
+04/09 16:41:36:876 Testing connection ...
+04/09 16:41:36:880 Created provisioning instance for CCWS
+04/09 16:41:36:881 Testing connection are success
+04/09 16:41:36:881 Starting process session
+04/09 16:41:37:649 Total 0 instances are started
+04/09 16:41:37:651 Total 1 instances are added
+04/09 16:41:39:051 Create order(84922000514) cost time: 10ms
+04/09 16:41:39:113 Update order(84922000514) cost time: 5ms
+04/09 16:41:39:115 84922000514: LOYALTY - LOYALTY.VALIDATE
+04/09 16:41:39:116 orderId = 125408101 | requestId = 0 | orderDate = 2013/09/04 16:41:39 | userName = system | subProductId = 52789386 | channel = SMS | serviceAddress = 268 | keyword = TRADIEM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+04/09 16:56:07:987 Close pool
+04/09 16:56:08:088 Close queue connection pool.
+04/09 16:56:08:094 End of process session
+04/09 16:56:08:095 Order Routing stopped
+04/09 16:56:10:013 Order Routing started
+04/09 16:56:10:035 Close pool
+04/09 16:56:10:035 Close pool
+04/09 16:56:10:036 Testing connection ...
+04/09 16:56:10:040 Created provisioning instance for CCWS
+04/09 16:56:10:040 Testing connection are success
+04/09 16:56:10:043 Starting process session
+04/09 16:56:10:807 Total 0 instances are started
+04/09 16:56:10:808 Total 1 instances are added
+04/09 16:56:35:223 Create order(84922000514) cost time: 26ms
+04/09 16:56:35:368 Update order(84922000514) cost time: 16ms
+04/09 16:56:35:369 84922000514: LOYALTY - LOYALTY.VALIDATE
+04/09 16:56:35:369 orderId = 125408102 | requestId = 0 | orderDate = 2013/09/04 16:56:35 | userName = system | subProductId = 52789386 | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 87000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+04/09 16:56:35:376 sendNotify: 84922000514 - Quy khach da doi thanh cong  diem thanh tien su dung dich vu. So tien tuong ung  diem se duoc cong  vao tai khoan TKKM2, su dung goi va nhan tin lien mang, data.
+04/09 16:58:12:082 Close pool
+04/09 16:58:12:183 Close queue connection pool.
+04/09 16:58:12:188 End of process session
+04/09 16:58:12:189 Order Routing stopped
+04/09 16:58:14:110 Order Routing started
+04/09 16:58:14:130 Close pool
+04/09 16:58:14:131 Close pool
+04/09 16:58:14:131 Testing connection ...
+04/09 16:58:14:135 Created provisioning instance for CCWS
+04/09 16:58:14:135 Testing connection are success
+04/09 16:58:14:136 Starting process session
+04/09 16:58:14:893 Total 0 instances are started
+04/09 16:58:14:894 Total 1 instances are added
+04/09 16:58:18:316 Create order(84922000514) cost time: 19ms
+04/09 16:58:18:429 Update order(84922000514) cost time: 11ms
+04/09 16:58:18:431 84922000514: LOYALTY - LOYALTY.VALIDATE
+04/09 16:58:18:432 orderId = 125408103 | requestId = 0 | orderDate = 2013/09/04 16:58:18 | userName = system | subProductId = 52789386 | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 87000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+04/09 17:03:22:387 Close pool
+04/09 17:03:22:488 Close queue connection pool.
+04/09 17:03:22:496 End of process session
+04/09 17:03:22:497 Order Routing stopped
+04/09 17:03:24:406 Order Routing started
+04/09 17:03:24:429 Close pool
+04/09 17:03:24:430 Close pool
+04/09 17:03:24:431 Testing connection ...
+04/09 17:03:24:434 Created provisioning instance for CCWS
+04/09 17:03:24:435 Testing connection are success
+04/09 17:03:24:435 Starting process session
+04/09 17:03:25:187 Total 0 instances are started
+04/09 17:03:25:194 Total 1 instances are added
+04/09 17:03:30:619 Create order(84922000514) cost time: 20ms
+04/09 17:03:30:733 Update order(84922000514) cost time: 11ms
+04/09 17:03:30:734 84922000514: LOYALTY - LOYALTY.VALIDATE
+04/09 17:03:30:735 orderId = 125408104 | requestId = 0 | orderDate = 2013/09/04 17:03:30 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 87000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+04/09 17:05:02:453 Close pool
+04/09 17:05:02:554 Close queue connection pool.
+04/09 17:05:02:560 End of process session
+04/09 17:05:02:561 Order Routing stopped
+04/09 17:05:04:603 Order Routing started
+04/09 17:05:04:622 Close pool
+04/09 17:05:04:623 Close pool
+04/09 17:05:04:623 Testing connection ...
+04/09 17:05:04:626 Created provisioning instance for CCWS
+04/09 17:05:04:627 Testing connection are success
+04/09 17:05:04:627 Starting process session
+04/09 17:05:05:404 Total 0 instances are started
+04/09 17:05:05:405 Total 1 instances are added
+04/09 17:05:14:819 Create order(84922000514) cost time: 27ms
+04/09 17:05:14:967 Update order(84922000514) cost time: 33ms
+04/09 17:05:14:969 84922000514: LOYALTY - CRM.SUBSCRIPTION_REGIST
+04/09 17:05:14:971 orderId = 125408105 | requestId = 0 | orderDate = 2013/09/04 17:05:14 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = DK CAM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = register | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 13119 | cause =  | status = 1 | description =  | balance = 
+04/09 17:09:59:656 Close pool
+04/09 17:09:59:757 Close queue connection pool.
+04/09 17:09:59:763 End of process session
+04/09 17:09:59:765 Order Routing stopped
+04/09 17:10:01:690 Order Routing started
+04/09 17:10:01:711 Close pool
+04/09 17:10:01:712 Close pool
+04/09 17:10:01:712 Testing connection ...
+04/09 17:10:01:716 Created provisioning instance for CCWS
+04/09 17:10:01:717 Testing connection are success
+04/09 17:10:01:717 Starting process session
+04/09 17:10:02:457 Total 0 instances are started
+04/09 17:10:02:458 Total 1 instances are added
+04/09 17:10:07:897 Create order(84922000514) cost time: 17ms
+04/09 17:10:08:010 Update order(84922000514) cost time: 11ms
+04/09 17:10:08:011 84922000514: LOYALTY - CRM.SUBSCRIPTION_REGIST
+04/09 17:10:08:012 orderId = 125408106 | requestId = 0 | orderDate = 2013/09/04 17:10:07 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = DK CAM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = register | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 13119 | cause =  | status = 1 | description =  | balance = 
+04/09 17:10:56:948 Create order(84922000511) cost time: 25ms
+04/09 17:10:57:078 Update order(84922000511) cost time: 15ms
+04/09 17:10:57:079 unknow-command
+04/09 17:10:57:079 orderId = 125408107 | requestId = 0 | orderDate = 2013/09/04 17:10:56 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = DK CAM | isdn = 84922000511 | subscriberType = 2 | shipTo =  | actionType = register | productId = 274 | amount = 0.0 | provisioningType = SMSC | commandId = 0 | cause = unknow-command | status = 4 | description = null | balance = 
+04/09 17:10:57:087 sendNotify: 84922000511 - Xin loi, he thong dang ban. Xin quy khach vui long nhan tin lai sau.
+04/09 17:11:27:098 84922000514: LOYALTY - CRM.SUBSCRIPTION_UNREGIST
+04/09 17:11:27:099 orderId = 0 | requestId = 0 | orderDate = 2013/09/04 17:11:26 | userName = system | subProductId = 52789388 | channel = SMS | serviceAddress = 268 | keyword = HUY CAM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = unregister | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 13121 | cause =  | status = 1 | description =  | balance = 
+04/09 17:14:25:851 Close pool
+04/09 17:14:25:952 Close queue connection pool.
+04/09 17:14:25:957 End of process session
+04/09 17:14:25:958 Order Routing stopped
+04/09 17:14:27:889 Order Routing started
+04/09 17:14:27:907 Close pool
+04/09 17:14:27:908 Close pool
+04/09 17:14:27:908 Testing connection ...
+04/09 17:14:27:911 Created provisioning instance for CCWS
+04/09 17:14:27:912 Testing connection are success
+04/09 17:14:27:912 Starting process session
+04/09 17:14:28:647 Total 0 instances are started
+04/09 17:14:28:648 Total 1 instances are added
+04/09 17:14:34:093 Create order(84922000514) cost time: 17ms
+04/09 17:14:34:213 Update order(84922000514) cost time: 10ms
+04/09 17:14:34:215 84922000514: LOYALTY - LOYALTY.VALIDATE
+04/09 17:14:34:217 orderId = 125408108 | requestId = 0 | orderDate = 2013/09/04 17:14:34 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 3000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+04/09 17:17:20:394 Order Routing started
+04/09 17:17:24:602 Testing connection ...
+04/09 17:17:25:528 Created provisioning instance for CCWS
+04/09 17:17:25:529 Testing connection are success
+04/09 17:17:25:529 Starting process session
+04/09 17:17:27:170 Total 0 instances are started
+04/09 17:17:27:171 Total 1 instances are added
+04/09 17:17:41:955 Close pool
+04/09 17:17:42:056 Close queue connection pool.
+04/09 17:17:42:064 End of process session
+04/09 17:17:42:066 Order Routing stopped
+04/09 17:17:43:994 Order Routing started
+04/09 17:17:44:016 Close pool
+04/09 17:17:44:017 Close pool
+04/09 17:17:44:017 Testing connection ...
+04/09 17:17:44:024 Created provisioning instance for CCWS
+04/09 17:17:44:025 Testing connection are success
+04/09 17:17:44:025 Starting process session
+04/09 17:17:44:808 Total 0 instances are started
+04/09 17:17:44:809 Total 1 instances are added
+04/09 17:17:59:258 Create order(84922000514) cost time: 23ms
+04/09 17:17:59:401 Update order(84922000514) cost time: 10ms
+04/09 17:17:59:403 84922000514: LOYALTY - LOYALTY.VALIDATE
+04/09 17:17:59:404 orderId = 125408109 | requestId = 0 | orderDate = 2013/09/04 17:17:59 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 3000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+04/09 17:19:56:570 Order Routing started
+04/09 17:20:00:835 Testing connection ...
+04/09 17:20:01:785 Created provisioning instance for CCWS
+04/09 17:20:01:786 Testing connection are success
+04/09 17:20:01:786 Starting process session
+04/09 17:20:03:470 Total 0 instances are started
+04/09 17:20:03:471 Total 1 instances are added
+04/09 17:20:22:431 Close pool
+04/09 17:20:22:532 Close queue connection pool.
+04/09 17:20:22:542 End of process session
+04/09 17:20:22:544 Order Routing stopped
+04/09 17:20:24:458 Order Routing started
+04/09 17:20:24:476 Close pool
+04/09 17:20:24:477 Close pool
+04/09 17:20:24:477 Testing connection ...
+04/09 17:20:24:481 Created provisioning instance for CCWS
+04/09 17:20:24:482 Testing connection are success
+04/09 17:20:24:482 Starting process session
+04/09 17:20:25:282 Total 0 instances are started
+04/09 17:20:25:284 Total 1 instances are added
+04/09 17:20:29:713 Create order(84922000514) cost time: 24ms
+04/09 17:20:29:857 Update order(84922000514) cost time: 19ms
+04/09 17:20:29:860 84922000514: LOYALTY - LOYALTY.VALIDATE
+04/09 17:20:29:861 orderId = 125408110 | requestId = 0 | orderDate = 2013/09/04 17:20:29 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 3000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+04/09 17:21:12:624 Order Routing started
+04/09 17:21:16:726 Testing connection ...
+04/09 17:21:17:434 Created provisioning instance for CCWS
+04/09 17:21:17:435 Testing connection are success
+04/09 17:21:17:436 Starting process session
+04/09 17:21:25:316 Total 0 instances are started
+04/09 17:21:25:317 Total 1 instances are added
+04/09 17:21:30:241 Close pool
+04/09 17:21:30:342 Close queue connection pool.
+04/09 17:21:30:350 End of process session
+04/09 17:21:30:351 Order Routing stopped
+04/09 17:21:32:273 Order Routing started
+04/09 17:21:32:298 Close pool
+04/09 17:21:32:299 Close pool
+04/09 17:21:32:300 Testing connection ...
+04/09 17:21:32:303 Created provisioning instance for CCWS
+04/09 17:21:32:303 Testing connection are success
+04/09 17:21:32:304 Starting process session
+04/09 17:21:35:347 Total 0 instances are started
+04/09 17:21:35:348 Total 1 instances are added
+04/09 17:21:48:512 Create order(84922000514) cost time: 29ms
+04/09 17:21:48:688 Update order(84922000514) cost time: 28ms
+04/09 17:21:48:690 84922000514: LOYALTY - LOYALTY.VALIDATE
+04/09 17:21:48:690 orderId = 125408111 | requestId = 0 | orderDate = 2013/09/04 17:21:48 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 3000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+04/09 17:23:36:392 Close pool
+04/09 17:23:36:493 Close queue connection pool.
+04/09 17:23:36:501 End of process session
+04/09 17:23:36:502 Order Routing stopped
+04/09 17:23:38:423 Order Routing started
+04/09 17:23:38:447 Close pool
+04/09 17:23:38:448 Close pool
+04/09 17:23:38:448 Testing connection ...
+04/09 17:23:38:451 Created provisioning instance for CCWS
+04/09 17:23:38:452 Testing connection are success
+04/09 17:23:38:452 Starting process session
+04/09 17:23:39:206 Total 0 instances are started
+04/09 17:23:39:207 Total 1 instances are added
+04/09 17:23:43:623 Create order(84922000514) cost time: 16ms
+04/09 17:23:43:661 Update order(84922000514) cost time: 6ms
+04/09 17:23:43:663 84922000514: LOYALTY - LOYALTY.VALIDATE
+04/09 17:23:43:663 orderId = 125408112 | requestId = 0 | orderDate = 2013/09/04 17:23:43 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = TRADIEM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = scanningPoint | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+04/09 17:24:26:462 Close pool
+04/09 17:24:26:571 Close queue connection pool.
+04/09 17:24:26:578 End of process session
+04/09 17:24:26:579 Order Routing stopped
+04/09 17:24:28:493 Order Routing started
+04/09 17:24:28:554 Close pool
+04/09 17:24:28:555 Close pool
+04/09 17:24:28:555 Testing connection ...
+04/09 17:24:28:559 Created provisioning instance for CCWS
+04/09 17:24:28:560 Testing connection are success
+04/09 17:24:28:560 Starting process session
+04/09 17:24:29:266 Total 0 instances are started
+04/09 17:24:29:267 Total 1 instances are added
+04/09 17:24:33:707 Create order(84922000514) cost time: 8ms
+04/09 17:24:33:803 Update order(84922000514) cost time: 7ms
+04/09 17:24:33:804 84922000514: LOYALTY - CRM.SUBSCRIPTION_REGIST
+04/09 17:24:33:805 orderId = 125408113 | requestId = 0 | orderDate = 2013/09/04 17:24:33 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = DK CAM | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = register | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 13119 | cause =  | status = 1 | description =  | balance = 
+04/09 17:25:05:730 invalid-syntax
+04/09 17:25:05:731 orderId = 0 | requestId = 0 | orderDate = 2013/09/04 17:25:05 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 268 | keyword = DK CAM1 | isdn = 84922000514 | subscriberType = -1 | shipTo =  | actionType =  | productId = 0 | amount = 0.0 | provisioningType = SMSC | commandId = 0 | cause = invalid-syntax | status = 4 | description = null | balance = 
+04/09 17:25:05:733 sendNotify: 84922000514 - Cu phap nhan tin khong hop le. Xin quy khach vui long kiem tra & thuc hien lai
+04/09 17:25:55:581 Close pool
+04/09 17:25:55:682 Close queue connection pool.
+04/09 17:25:55:685 End of process session
+04/09 17:25:55:686 Order Routing stopped
+04/09 17:25:57:607 Order Routing started
+04/09 17:25:57:627 Close pool
+04/09 17:25:57:628 Close pool
+04/09 17:25:57:628 Testing connection ...
+04/09 17:25:57:632 Created provisioning instance for CCWS
+04/09 17:25:57:632 Testing connection are success
+04/09 17:25:57:633 Starting process session
+04/09 17:25:58:448 Total 0 instances are started
+04/09 17:25:58:449 Total 1 instances are added
+04/09 17:26:02:794 Create order(84922000514) cost time: 9ms
+04/09 17:26:02:810 Update order(84922000514) cost time: 5ms
+04/09 17:26:02:811 84922000514: LOYALTY - LOYALTY.VALIDATE
+04/09 17:26:02:812 orderId = 125408114 | requestId = 0 | orderDate = 2013/09/04 17:26:02 | userName = system | subProductId = 52789389 | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 87000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+04/09 17:27:15:658 Close pool
+04/09 17:27:15:760 Close queue connection pool.
+04/09 17:27:15:765 End of process session
+04/09 17:27:15:766 Order Routing stopped
+04/09 17:27:17:678 Order Routing started
+04/09 17:27:17:698 Close pool
+04/09 17:27:17:699 Close pool
+04/09 17:27:17:699 Testing connection ...
+04/09 17:27:17:703 Created provisioning instance for CCWS
+04/09 17:27:17:703 Testing connection are success
+04/09 17:27:17:704 Starting process session
+04/09 17:27:18:450 Total 0 instances are started
+04/09 17:27:18:451 Total 1 instances are added
+04/09 17:27:21:868 Create order(84922000514) cost time: 8ms
+04/09 17:27:21:885 Update order(84922000514) cost time: 5ms
+04/09 17:27:21:886 84922000514: LOYALTY - LOYALTY.VALIDATE
+04/09 17:27:21:887 orderId = 125408115 | requestId = 0 | orderDate = 2013/09/04 17:27:21 | userName = system | subProductId = 52789389 | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 87000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+04/09 17:28:03:715 Close pool
+04/09 17:28:03:816 Close queue connection pool.
+04/09 17:28:03:823 End of process session
+04/09 17:28:03:825 Order Routing stopped
+04/09 17:28:05:744 Order Routing started
+04/09 17:28:05:761 Close pool
+04/09 17:28:05:761 Close pool
+04/09 17:28:05:762 Testing connection ...
+04/09 17:28:05:767 Created provisioning instance for CCWS
+04/09 17:28:05:768 Testing connection are success
+04/09 17:28:05:768 Starting process session
+04/09 17:28:06:525 Total 0 instances are started
+04/09 17:28:06:527 Total 1 instances are added
+04/09 17:28:10:947 Create order(84922000514) cost time: 18ms
+04/09 17:28:11:058 Update order(84922000514) cost time: 10ms
+04/09 17:28:11:060 84922000514: LOYALTY - LOYALTY.VALIDATE
+04/09 17:28:11:061 orderId = 125408116 | requestId = 0 | orderDate = 2013/09/04 17:28:10 | userName = system | subProductId = 52789389 | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+04/09 17:29:03:589 Order Routing started
+04/09 17:29:07:831 Testing connection ...
+04/09 17:29:08:800 Created provisioning instance for CCWS
+04/09 17:29:08:801 Testing connection are success
+04/09 17:29:08:801 Starting process session
+04/09 17:29:10:289 Total 0 instances are started
+04/09 17:29:10:290 Total 1 instances are added
+04/09 17:29:30:257 Close pool
+04/09 17:29:30:358 Close queue connection pool.
+04/09 17:29:30:368 End of process session
+04/09 17:29:30:370 Order Routing stopped
+04/09 17:29:32:290 Order Routing started
+04/09 17:29:32:307 Close pool
+04/09 17:29:32:308 Close pool
+04/09 17:29:32:309 Testing connection ...
+04/09 17:29:32:317 Created provisioning instance for CCWS
+04/09 17:29:32:318 Testing connection are success
+04/09 17:29:32:318 Starting process session
+04/09 17:29:33:107 Total 0 instances are started
+04/09 17:29:33:110 Total 1 instances are added
+04/09 17:29:33:223 Total 0 instances are started
+04/09 17:29:33:224 Total 1 instances are added
+04/09 17:29:36:524 Create order(84922000514) cost time: 29ms
+04/09 17:29:36:674 Update order(84922000514) cost time: 18ms
+04/09 17:29:36:676 84922000514: LOYALTY - LOYALTY.VALIDATE
+04/09 17:29:36:677 orderId = 125408117 | requestId = 0 | orderDate = 2013/09/04 17:29:36 | userName = system | subProductId = 52789389 | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+04/09 17:50:29:656 Order Routing started
+04/09 17:50:34:012 Testing connection ...
+04/09 17:50:34:931 Created provisioning instance for CCWS
+04/09 17:50:34:931 Testing connection are success
+04/09 17:50:34:932 Starting process session
+04/09 17:50:36:629 Total 0 instances are started
+04/09 17:50:36:634 Total 1 instances are added
+04/09 17:50:50:312 Close pool
+04/09 17:50:50:413 Close queue connection pool.
+04/09 17:50:50:419 End of process session
+04/09 17:50:50:420 Order Routing stopped
+04/09 17:50:52:358 Order Routing started
+04/09 17:50:52:384 Close pool
+04/09 17:50:52:385 Close pool
+04/09 17:50:52:385 Testing connection ...
+04/09 17:50:52:393 Created provisioning instance for CCWS
+04/09 17:50:52:393 Testing connection are success
+04/09 17:50:52:394 Starting process session
+04/09 17:50:53:145 Total 0 instances are started
+04/09 17:50:53:147 Total 1 instances are added
+04/09 17:51:14:643 Create order(84922000514) cost time: 24ms
+04/09 17:51:14:789 Update order(84922000514) cost time: 10ms
+04/09 17:51:14:792 84922000514: LOYALTY - LOYALTY.VALIDATE
+04/09 17:51:14:792 orderId = 125408118 | requestId = 0 | orderDate = 2013/09/04 17:51:14 | userName = system | subProductId = 52789389 | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+04/09 18:09:15:045 Order Routing started
+04/09 18:09:19:425 Testing connection ...
+04/09 18:09:20:260 Created provisioning instance for CCWS
+04/09 18:09:20:260 Testing connection are success
+04/09 18:09:20:261 Starting process session
+04/09 18:09:21:763 Total 0 instances are started
+04/09 18:09:21:763 Total 1 instances are added
+04/09 18:09:40:700 Close pool
+04/09 18:09:40:801 Close queue connection pool.
+04/09 18:09:40:812 End of process session
+04/09 18:09:40:814 Order Routing stopped
+04/09 18:09:42:730 Order Routing started
+04/09 18:09:42:748 Close pool
+04/09 18:09:42:749 Close pool
+04/09 18:09:42:750 Testing connection ...
+04/09 18:09:42:759 Created provisioning instance for CCWS
+04/09 18:09:42:760 Testing connection are success
+04/09 18:09:42:760 Starting process session
+04/09 18:09:43:500 Total 0 instances are started
+04/09 18:09:43:501 Total 1 instances are added
+04/09 18:09:46:973 Create order(84922000514) cost time: 25ms
+04/09 18:09:47:132 Update order(84922000514) cost time: 20ms
+04/09 18:09:47:135 84922000514: LOYALTY - LOYALTY.VALIDATE
+04/09 18:09:47:137 orderId = 125408119 | requestId = 0 | orderDate = 2013/09/04 18:09:46 | userName = system | subProductId = 52789389 | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+04/09 18:10:53:080 Order Routing started
+04/09 18:10:57:500 Testing connection ...
+04/09 18:10:58:281 Created provisioning instance for CCWS
+04/09 18:10:58:282 Testing connection are success
+04/09 18:10:58:282 Starting process session
+04/09 18:10:59:660 Total 0 instances are started
+04/09 18:10:59:661 Total 1 instances are added
+04/09 18:11:08:982 Close pool
+04/09 18:11:09:082 Close queue connection pool.
+04/09 18:11:09:090 End of process session
+04/09 18:11:09:091 Order Routing stopped
+04/09 18:11:11:011 Order Routing started
+04/09 18:11:11:034 Close pool
+04/09 18:11:11:035 Close pool
+04/09 18:11:11:036 Testing connection ...
+04/09 18:11:11:040 Created provisioning instance for CCWS
+04/09 18:11:11:041 Testing connection are success
+04/09 18:11:11:041 Starting process session
+04/09 18:11:11:906 Total 0 instances are started
+04/09 18:11:11:908 Total 1 instances are added
+04/09 18:11:16:284 Create order(84922000514) cost time: 18ms
+04/09 18:11:16:413 Update order(84922000514) cost time: 8ms
+04/09 18:11:16:418 84922000514: LOYALTY - LOYALTY.VALIDATE
+04/09 18:11:16:420 orderId = 125408120 | requestId = 0 | orderDate = 2013/09/04 18:11:16 | userName = system | subProductId = 52789389 | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+04/09 18:12:15:338 Order Routing started
+04/09 18:12:19:774 Testing connection ...
+04/09 18:12:20:609 Created provisioning instance for CCWS
+04/09 18:12:20:610 Testing connection are success
+04/09 18:12:20:610 Starting process session
+04/09 18:12:22:206 Total 0 instances are started
+04/09 18:12:22:207 Total 1 instances are added
+04/09 18:12:40:749 Close pool
+04/09 18:12:40:853 Close queue connection pool.
+04/09 18:12:40:866 End of process session
+04/09 18:12:40:867 Order Routing stopped
+04/09 18:12:42:778 Order Routing started
+04/09 18:12:42:801 Close pool
+04/09 18:12:42:802 Close pool
+04/09 18:12:42:803 Testing connection ...
+04/09 18:12:42:810 Created provisioning instance for CCWS
+04/09 18:12:42:810 Testing connection are success
+04/09 18:12:42:811 Starting process session
+04/09 18:12:43:584 Total 0 instances are started
+04/09 18:12:43:585 Total 1 instances are added
+04/09 18:12:45:041 Create order(84922000514) cost time: 22ms
+04/09 18:12:45:192 Update order(84922000514) cost time: 18ms
+04/09 18:12:45:194 84922000514: LOYALTY - LOYALTY.VALIDATE
+04/09 18:12:45:195 orderId = 125408121 | requestId = 0 | orderDate = 2013/09/04 18:12:45 | userName = system | subProductId = 52789389 | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+04/09 18:18:30:950 Close pool
+04/09 18:18:31:051 Close queue connection pool.
+04/09 18:18:31:073 End of process session
+04/09 18:18:31:074 Order Routing stopped
+04/09 18:18:32:981 Order Routing started
+04/09 18:18:32:998 Close pool
+04/09 18:18:32:999 Close pool
+04/09 18:18:32:999 Testing connection ...
+04/09 18:18:33:003 Created provisioning instance for CCWS
+04/09 18:18:33:004 Testing connection are success
+04/09 18:18:33:004 Starting process session
+04/09 18:18:35:037 Total 0 instances are started
+04/09 18:18:35:038 Total 1 instances are added
+04/09 18:18:41:185 Create order(84922000514) cost time: 28ms
+04/09 18:18:41:342 Update order(84922000514) cost time: 30ms
+04/09 18:18:41:342 84922000514: LOYALTY - LOYALTY.VALIDATE
+04/09 18:18:41:343 orderId = 125408122 | requestId = 0 | orderDate = 2013/09/04 18:18:41 | userName = system | subProductId = 52789389 | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 1000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+04/09 18:19:21:957 Order Routing started
+04/09 18:19:26:002 Testing connection ...
+04/09 18:19:26:661 Created provisioning instance for CCWS
+04/09 18:19:26:662 Testing connection are success
+04/09 18:19:26:662 Starting process session
+04/09 18:19:28:263 Total 0 instances are started
+04/09 18:19:28:264 Total 1 instances are added
+04/09 18:19:46:536 Close pool
+04/09 18:19:46:640 Close queue connection pool.
+04/09 18:19:46:650 End of process session
+04/09 18:19:46:651 Order Routing stopped
+04/09 18:19:48:562 Order Routing started
+04/09 18:19:48:582 Close pool
+04/09 18:19:48:583 Close pool
+04/09 18:19:48:584 Testing connection ...
+04/09 18:19:48:587 Created provisioning instance for CCWS
+04/09 18:19:48:588 Testing connection are success
+04/09 18:19:48:588 Starting process session
+04/09 18:19:49:353 Total 0 instances are started
+04/09 18:19:49:354 Total 1 instances are added
+04/09 18:20:33:804 Create order(84922000514) cost time: 22ms
+04/09 18:20:33:962 Update order(84922000514) cost time: 16ms
+04/09 18:20:33:964 84922000514: LOYALTY - LOYALTY.VALIDATE
+04/09 18:20:33:965 orderId = 125408123 | requestId = 0 | orderDate = 2013/09/04 18:20:33 | userName = system | subProductId = 52789389 | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 2000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+04/09 18:21:28:356 Order Routing started
+04/09 18:21:32:694 Testing connection ...
+04/09 18:21:33:573 Created provisioning instance for CCWS
+04/09 18:21:33:573 Testing connection are success
+04/09 18:21:33:574 Starting process session
+04/09 18:21:35:341 Total 0 instances are started
+04/09 18:21:35:341 Total 1 instances are added
+04/09 18:21:51:059 Close pool
+04/09 18:21:51:160 Close queue connection pool.
+04/09 18:21:51:166 End of process session
+04/09 18:21:51:167 Order Routing stopped
+04/09 18:21:53:105 Order Routing started
+04/09 18:21:53:126 Close pool
+04/09 18:21:53:127 Close pool
+04/09 18:21:53:128 Testing connection ...
+04/09 18:21:53:134 Created provisioning instance for CCWS
+04/09 18:21:53:135 Testing connection are success
+04/09 18:21:53:136 Starting process session
+04/09 18:21:53:933 Total 0 instances are started
+04/09 18:21:53:934 Total 1 instances are added
+04/09 18:22:05:324 Create order(84922000514) cost time: 23ms
+04/09 18:22:05:462 Update order(84922000514) cost time: 9ms
+04/09 18:22:05:463 84922000514: LOYALTY - LOYALTY.VALIDATE
+04/09 18:22:05:465 orderId = 125408124 | requestId = 0 | orderDate = 2013/09/04 18:22:05 | userName = system | subProductId = 52789389 | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 2000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+04/09 18:26:23:377 Create order(84922000514) cost time: 11ms
+04/09 18:26:23:469 Update order(84922000514) cost time: 5ms
+04/09 18:26:23:470 84922000514: LOYALTY - LOYALTY.VALIDATE
+04/09 18:26:23:471 orderId = 125408125 | requestId = 0 | orderDate = 2013/09/04 18:26:23 | userName = system | subProductId = 52789389 | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 2000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+04/09 18:26:30:405 Create order(84922000514) cost time: 8ms
+04/09 18:26:30:421 Update order(84922000514) cost time: 4ms
+04/09 18:26:30:422 84922000514: LOYALTY - LOYALTY.VALIDATE
+04/09 18:26:30:422 orderId = 125408126 | requestId = 0 | orderDate = 2013/09/04 18:26:30 | userName = system | subProductId = 52789389 | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 2000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+04/09 18:26:42:241 Close pool
+04/09 18:26:42:345 Close queue connection pool.
+04/09 18:26:42:356 End of process session
+04/09 18:26:42:356 Order Routing stopped
+04/09 18:26:44:277 Order Routing started
+04/09 18:26:44:297 Close pool
+04/09 18:26:44:301 Close pool
+04/09 18:26:44:301 Testing connection ...
+04/09 18:26:44:308 Created provisioning instance for CCWS
+04/09 18:26:44:309 Testing connection are success
+04/09 18:26:44:309 Starting process session
+04/09 18:26:44:978 Total 0 instances are started
+04/09 18:26:44:979 Total 1 instances are added
+04/09 18:26:48:471 Create order(84922000514) cost time: 8ms
+04/09 18:26:48:492 Update order(84922000514) cost time: 4ms
+04/09 18:26:48:493 84922000514: LOYALTY - LOYALTY.VALIDATE
+04/09 18:26:48:493 orderId = 125408127 | requestId = 0 | orderDate = 2013/09/04 18:26:48 | userName = system | subProductId = 52789389 | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 2000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+04/09 18:39:18:202 Order Routing started
+04/09 18:39:22:217 Testing connection ...
+04/09 18:39:22:919 Created provisioning instance for CCWS
+04/09 18:39:22:919 Testing connection are success
+04/09 18:39:22:919 Starting process session
+04/09 18:39:24:416 Total 0 instances are started
+04/09 18:39:24:417 Total 1 instances are added
+04/09 18:42:50:685 Order Routing started
+04/09 18:42:55:037 Testing connection ...
+04/09 18:42:55:846 Created provisioning instance for CCWS
+04/09 18:42:55:846 Testing connection are success
+04/09 18:42:55:847 Starting process session
+04/09 18:42:57:740 Total 0 instances are started
+04/09 18:42:57:741 Total 1 instances are added
+04/09 18:43:08:341 Close pool
+04/09 18:43:08:442 Close queue connection pool.
+04/09 18:43:08:447 End of process session
+04/09 18:43:08:449 Order Routing stopped
+04/09 18:43:10:378 Order Routing started
+04/09 18:43:10:401 Close pool
+04/09 18:43:10:402 Close pool
+04/09 18:43:10:403 Testing connection ...
+04/09 18:43:10:410 Created provisioning instance for CCWS
+04/09 18:43:10:413 Testing connection are success
+04/09 18:43:10:414 Starting process session
+04/09 18:43:11:220 Total 0 instances are started
+04/09 18:43:11:221 Total 1 instances are added
+04/09 18:43:29:647 Create order(84922000514) cost time: 21ms
+04/09 18:43:29:783 Update order(84922000514) cost time: 9ms
+04/09 18:43:29:785 84922000514: LOYALTY - LOYALTY.VALIDATE
+04/09 18:43:29:786 orderId = 125408128 | requestId = 0 | orderDate = 2013/09/04 18:43:29 | userName = system | subProductId = 52789389 | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 2000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+04/09 18:44:34:669 Create order(84922000514) cost time: 9ms
+04/09 18:44:34:686 Update order(84922000514) cost time: 5ms
+04/09 18:44:34:687 84922000514: LOYALTY - LOYALTY.VALIDATE
+04/09 18:44:34:688 orderId = 125408129 | requestId = 0 | orderDate = 2013/09/04 18:44:34 | userName = system | subProductId = 52789389 | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 2000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+04/09 18:44:41:683 Create order(84922000514) cost time: 7ms
+04/09 18:44:41:712 Update order(84922000514) cost time: 18ms
+04/09 18:44:41:713 84922000514: LOYALTY - LOYALTY.VALIDATE
+04/09 18:44:41:713 orderId = 125408130 | requestId = 0 | orderDate = 2013/09/04 18:44:41 | userName = system | subProductId = 52789389 | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 2000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+04/09 18:46:22:966 Order Routing started
+04/09 18:46:27:392 Testing connection ...
+04/09 18:46:28:284 Created provisioning instance for CCWS
+04/09 18:46:28:285 Testing connection are success
+04/09 18:46:28:285 Starting process session
+04/09 18:46:30:514 Total 0 instances are started
+04/09 18:46:30:515 Total 1 instances are added
+04/09 18:47:00:588 Order Routing started
+04/09 18:47:04:912 Testing connection ...
+04/09 18:47:05:832 Created provisioning instance for CCWS
+04/09 18:47:05:833 Testing connection are success
+04/09 18:47:05:833 Starting process session
+04/09 18:47:07:346 Total 0 instances are started
+04/09 18:47:07:346 Total 1 instances are added
+04/09 18:47:19:021 Order Routing started
+04/09 18:47:23:051 Testing connection ...
+04/09 18:47:24:250 Created provisioning instance for CCWS
+04/09 18:47:24:250 Testing connection are success
+04/09 18:47:24:251 Starting process session
+04/09 18:47:25:442 Total 0 instances are started
+04/09 18:47:25:442 Total 1 instances are added
+04/09 18:47:34:718 Close pool
+04/09 18:47:34:819 Close queue connection pool.
+04/09 18:47:34:826 End of process session
+04/09 18:47:34:826 Order Routing stopped
+04/09 18:47:36:745 Order Routing started
+04/09 18:47:36:769 Close pool
+04/09 18:47:36:770 Close pool
+04/09 18:47:36:771 Testing connection ...
+04/09 18:47:36:779 Created provisioning instance for CCWS
+04/09 18:47:36:780 Testing connection are success
+04/09 18:47:36:782 Starting process session
+04/09 18:47:37:638 Total 0 instances are started
+04/09 18:47:37:641 Total 1 instances are added
+04/09 18:47:38:973 Create order(84922000514) cost time: 22ms
+04/09 18:47:39:113 Update order(84922000514) cost time: 8ms
+04/09 18:47:39:115 84922000514: LOYALTY - LOYALTY.VALIDATE
+04/09 18:47:39:117 orderId = 125408131 | requestId = 0 | orderDate = 2013/09/04 18:47:38 | userName = system | subProductId = 52789389 | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 2000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
+04/09 18:59:23:849 Order Routing started
+04/09 18:59:27:791 Testing connection ...
+04/09 18:59:28:810 Created provisioning instance for CCWS
+04/09 18:59:28:811 Testing connection are success
+04/09 18:59:28:811 Starting process session
+04/09 18:59:30:782 Total 0 instances are started
+04/09 18:59:30:783 Total 1 instances are added
+04/09 18:59:55:464 Close pool
+04/09 18:59:55:565 Close queue connection pool.
+04/09 18:59:55:574 End of process session
+04/09 18:59:55:576 Order Routing stopped
+04/09 18:59:57:494 Order Routing started
+04/09 18:59:57:514 Close pool
+04/09 18:59:57:514 Close pool
+04/09 18:59:57:515 Testing connection ...
+04/09 18:59:57:522 Created provisioning instance for CCWS
+04/09 18:59:57:523 Testing connection are success
+04/09 18:59:57:523 Starting process session
+04/09 18:59:58:283 Total 0 instances are started
+04/09 18:59:58:284 Total 1 instances are added
+04/09 19:00:17:800 Create order(84922000514) cost time: 21ms
+04/09 19:00:17:918 Update order(84922000514) cost time: 10ms
+04/09 19:00:17:921 84922000514: LOYALTY - LOYALTY.VALIDATE
+04/09 19:00:17:921 orderId = 125408132 | requestId = 0 | orderDate = 2013/09/04 19:00:17 | userName = system | subProductId = 52789389 | channel = SMS | serviceAddress = 268 | keyword = DOIDIEM 2000 | isdn = 84922000514 | subscriberType = 1 | shipTo =  | actionType = redeem | productId = 274 | amount = 0.0 | provisioningType = CRM | commandId = 300 | cause =  | status = 1 | description =  | balance = 
